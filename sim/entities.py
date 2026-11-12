@@ -20,18 +20,17 @@ class Building:
     is_defense: bool = False
     is_wall: bool = False
     is_town_hall: bool = False
+    cx: float = 0.0
+    cy: float = 0.0
+
+    def __post_init__(self):
+        half = self.size / 2
+        self.cx = self.x + half
+        self.cy = self.y + half
 
     @property
     def alive(self):
         return self.hp > 0
-
-    @property
-    def cx(self):
-        return self.x + self.size / 2
-
-    @property
-    def cy(self):
-        return self.y + self.size / 2
 
 
 @dataclass
@@ -49,10 +48,15 @@ class Troop:
     damage_vs_walls: float = 0.0
     splash_radius: float = 0.0
     is_flying: bool = False
+    max_hp: float = 0.0
     target: "Building | None" = field(default=None, repr=False)
     path: list = field(default_factory=list, repr=False)
     path_wall_ver: int = -1
     path_target_id: int = -1
+
+    def __post_init__(self):
+        if self.max_hp <= 0.0:
+            self.max_hp = self.hp
 
     @property
     def alive(self):

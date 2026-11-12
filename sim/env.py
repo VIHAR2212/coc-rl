@@ -111,6 +111,8 @@ class CoCEnv(gym.Env):
     def reset(self, seed=None, options=None):
         super().reset(seed=seed)
         self._load_base()
+        for b in self._defenses:
+            b.cooldown = float(self.np_random.uniform(0.0, b.attack_speed))
         self.troops = []
         self.projectiles = []
         self.tick = 0
@@ -125,8 +127,10 @@ class CoCEnv(gym.Env):
 
     def _spawn(self, key, x, y):
         t = self.troop_defs[key]
+        jx = float(self.np_random.uniform(-0.3, 0.3))
+        jy = float(self.np_random.uniform(-0.3, 0.3))
         self.troops.append(Troop(
-            t["name"], x + .5, y + .5, t["hp"], t["dps"], t["attack_speed"],
+            t["name"], x + 0.5 + jx, y + 0.5 + jy, t["hp"], t["dps"], t["attack_speed"],
             t["range_tiles"], t["speed_tiles_per_s"], t["favorite"], t["housing"],
             damage_vs_walls=t.get("damage_vs_walls", 0.0),
             splash_radius=t.get("splash_radius", 0.0),
@@ -209,12 +213,14 @@ class CoCEnv(gym.Env):
                 if tr.path_target_id != id(tr.target) or tr.path_wall_ver != self._wall_version:
                     path = self._get_path(tr, tr.target)
                     if path is None and not tr.target.is_wall:
-                        walls = [b for b in self.buildings if b.alive and b.is_wall]
+                        walls = [b for b in self.buildings if b.hp > 0 and b.is_wall]
                         if walls:
+                            tx, ty = tr.x, tr.y
+                            tcx, tcy = tr.target.cx, tr.target.cy
+                            hypot = math.hypot
                             wall = min(
                                 walls,
-                                key=lambda w: math.hypot(w.cx - tr.x, w.cy - tr.y)
-                                + 0.5 * math.hypot(w.cx - tr.target.cx, w.cy - tr.target.cy),
+                                key=lambda w: hypot(w.cx - tx, w.cy - ty) + 0.5 * hypot(w.cx - tcx, w.cy - tcy),
                             )
                             tr.target = wall
                             path = self._get_path(tr, wall)
@@ -415,20 +421,48 @@ class CoCEnv(gym.Env):
 
         t_colors = {
             "Giant": (245, 140, 40), "Barbarian": (250, 225, 65), "Archer": (235, 85, 175),
-            "Wall Breaker": (235, 235, 240), "Goblin": (70, 235, 90),
+            "Wall Breaker": (240, 240, 245), "Goblin": (70, 235, 90),
+        }
+        t_radii = {
+            "Giant": 9, "Barbarian": 6, "Archer": 5, "Wall Breaker": 5, "Goblin": 5,
         }
         for tr in self.troops:
             if tr.alive:
                 pos = (int(tr.x * cell), int(tr.y * cell))
-                rad = 6 if tr.name == "Giant" else 4
+                rad = t_radii.get(tr.name, 5)
                 pg.draw.circle(surf, t_colors.get(tr.name, (255, 255, 255)), pos, rad)
                 pg.draw.circle(surf, (20, 20, 20), pos, rad, 1)
+                if tr.max_hp > 0 and tr.hp < tr.max_hp:
+                    bar_w = max(8, rad * 2)
+                    bar_h = 2
+                    bx = pos[0] - bar_w // 2
+                    by = pos[1] - rad - 4
+                    frac = max(0.0, min(1.0, tr.hp / tr.max_hp))
+                    pg.draw.rect(surf, (30, 30, 30), (bx, by, bar_w, bar_h))
+                    pg.draw.rect(surf, (80, 230, 80), (bx, by, int(bar_w * frac), bar_h))
 
         stars = int(self.destruction >= 0.5) + int(self.th_destroyed) + int(self.destruction >= 1.0)
         rem = max(0.0, BATTLE_SECONDS - self.tick / TICKS_PER_SEC)
-        hud = self._font.render(f"t={rem:5.1f}s  dest={self.destruction*100:5.1f}%  stars={stars}", True, (255, 255, 255))
+        hud = self._font.render(f"time left: {rem:5.1f}s  dest={self.destruction*100:5.1f}%  stars={stars}", True, (255, 255, 255))
         pg.draw.rect(surf, (20, 25, 20), (4, 4, hud.get_width() + 10, hud.get_height() + 6))
         surf.blit(hud, (9, 7))
+
+        # Small troop legend in bottom-left
+        leg_items = [
+            ("Giant", (245, 140, 40), 6),
+            ("Barb", (250, 225, 65), 5),
+            ("Arch", (235, 85, 175), 4),
+            ("WB", (240, 240, 245), 4),
+            ("Gobl", (70, 235, 90), 4),
+        ]
+        leg_x, leg_y = 6, size_px - 22
+        pg.draw.rect(surf, (20, 25, 20), (4, size_px - 26, 330, 22))
+        for name, col, rad in leg_items:
+            pg.draw.circle(surf, col, (leg_x + rad, leg_y + 8), rad)
+            pg.draw.circle(surf, (20, 20, 20), (leg_x + rad, leg_y + 8), rad, 1)
+            ltxt = self._font.render(name, True, (230, 230, 230))
+            surf.blit(ltxt, (leg_x + rad * 2 + 4, leg_y + 1))
+            leg_x += rad * 2 + ltxt.get_width() + 14
 
         if self.render_mode == "human":
             self._screen.blit(surf, (0, 0))
