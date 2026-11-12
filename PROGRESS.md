@@ -16,8 +16,16 @@
   - (d) Added Level 8 walls to `base02.json` (108), `base04.json` (176), `base06.json` (130); `validate_base.py` passed all 6 bases.
   - (e) `evaluate.py` ran end-to-end (`base01` 100% `giant_barch`, `base03` 70.4%, `base04` 55.6%, `base06` 29.6%, `base05` 11.1%, `base02` 0.0%); benchmarked `243.9 steps/s`.
 
-## Current Milestone: M5 (DEFENSE REALISM)
+## Milestone M5 (DEFENSE REALISM)
+- **Status:** PASSED (Attempt 1)
+- **Passed:**
+  - (a) Mortar (`min_range_tiles=4.0`, `splash_radius=1.5`), Wizard Tower (`splash_radius=1.0`), Air Defense (`targets="air"` air-only), `attack_speed` discrete shots (`dps * attack_speed`), and `PendingProjectile` delay queue in `sim/entities.py` and `sim/env.py`. Missing `projectile_delay` wiki stat flagged in `data/DISCREPANCIES.md` and `# TODO` in `sim/env.py` (defaults to `0.0`).
+  - (b) `tests/test_defenses_m5.py`: 5 unit tests (one per mechanic) pass; `pytest -q` -> `15 passed in 11.04s`; `check_env OK`.
+  - (c) Flying troops skipped (`data/raw/` and `data/troops.json` only have the 5 M1 ground troops; `Troop.is_flying` + Air Defense air-only targeting implemented and tested).
+  - (d) `python -u evaluate.py` completed with splash defenses noticeably punishing stacked `barch` vs tanked `giant_barch`/`goblin_giant`.
+
+## Current Milestone: M6 (BASELINES)
 - **Attempt:** 1
 - **Passed:** —
 - **Failed:** —
-- **Next action:** Implement Mortar min range & splash, Wizard Tower splash, Air Defense air-only targeting, and attack-speed based shots with projectile delay; check if TH8 flying troops are in wiki/data or skipped; add 1 unit test per mechanic; run `pytest -q`, `check_env`, `evaluate.py`.
+- **Next action:** Implement at least 3 distinct rule-based strategies in `agents/`; update `evaluate.py` to run 100 seeded episodes per base per army per strategy, save `results/baselines.csv`, print summary table (`mean destruction %`, `3-star rate`), and identify best baseline; verify results are not all 0% or 100%.
