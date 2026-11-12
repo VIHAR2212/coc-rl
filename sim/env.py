@@ -27,6 +27,9 @@ def _load(path):
     return {k: v for k, v in json.load(open(path)).items() if not k.startswith("_")}
 
 
+ARMY_LIMIT = int(json.loads((DATA / "armies.json").read_text(encoding="utf-8"))["_housing_capacity"])
+
+
 class CoCEnv(gym.Env):
     metadata = {"render_modes": ["human", "rgb_array"]}
 
@@ -34,10 +37,12 @@ class CoCEnv(gym.Env):
         super().__init__()
         self.troop_defs = _load(DATA / "troops.json")
         self.defense_defs = _load(DATA / "defenses.json")
+        self.army_defs = _load(DATA / "armies.json")
+        self.army_limit = ARMY_LIMIT
         self.base_cfg = json.load(open(DATA / "bases" / base_file))
         self.grid = self.base_cfg["grid"]
         self.troop_keys = list(self.troop_defs.keys())
-        self.army_template = army or {k: 2 if "giant" in k else 6 if "barb" in k else 4 for k in self.troop_keys}
+        self.army_template = self._resolve_army(army)
         self.render_mode = render_mode
         n = len(self.troop_keys)
         self.action_space = spaces.MultiDiscrete([n + 1, self.grid, self.grid])  # kind 0 = wait
@@ -46,15 +51,40 @@ class CoCEnv(gym.Env):
             "army": spaces.Box(0, 1, (n + 2,), np.float32),
         })
 
+    def _resolve_army(self, army):
+        if army is None:
+            raw = self.army_defs[next(iter(self.army_defs))]
+        elif isinstance(army, str):
+            if army not in self.army_defs:
+                raise ValueError(f"Unknown army {army!r}; available: {list(self.army_defs)}")
+            raw = self.army_defs[army]
+        else:
+            raw = army
+        total_housing = 0
+        for k, count in raw.items():
+            if k not in self.troop_defs:
+                raise ValueError(f"Unknown troop key {k!r} in army")
+            if int(count) < 0:
+                raise ValueError(f"Negative count for troop {k!r}: {count}")
+            total_housing += int(count) * self.troop_defs[k]["housing"]
+        if total_housing > self.army_limit:
+            raise ValueError(f"Army housing {total_housing} exceeds limit {self.army_limit}")
+        return {k: int(raw.get(k, 0)) for k in self.troop_keys}
+
     # ------------------------------------------------------------------ setup
     def _load_base(self):
         self.buildings = []
+        self._deploy_mask = np.ones((self.grid, self.grid), dtype=np.float32)
         for b in self.base_cfg["buildings"]:
             d = self.defense_defs[b["type"]]
-            self.buildings.append(Building(
+            bld = Building(
                 kind=b["type"], x=b["x"], y=b["y"], size=d["size"], hp=d["hp"], max_hp=d["hp"],
                 dps=d["dps"], range_tiles=d["range_tiles"], is_defense=d["dps"] > 0,
-                is_town_hall=b["type"] == "town_hall"))
+                is_town_hall=b["type"] == "town_hall")
+            self.buildings.append(bld)
+            x0, x1 = max(0, int(bld.x) - DEPLOY_MARGIN), min(self.grid, int(bld.x) + bld.size + DEPLOY_MARGIN)
+            y0, y1 = max(0, int(bld.y) - DEPLOY_MARGIN), min(self.grid, int(bld.y) + bld.size + DEPLOY_MARGIN)
+            self._deploy_mask[y0:y1, x0:x1] = 0.0
 
     def reset(self, seed=None, options=None):
         super().reset(seed=seed)
@@ -68,13 +98,7 @@ class CoCEnv(gym.Env):
 
     # -------------------------------------------------------------- mechanics
     def _deployable(self, x, y):
-        if not (0 <= x < self.grid and 0 <= y < self.grid):
-            return False
-        for b in self.buildings:
-            if b.x - DEPLOY_MARGIN <= x < b.x + b.size + DEPLOY_MARGIN and \
-               b.y - DEPLOY_MARGIN <= y < b.y + b.size + DEPLOY_MARGIN:
-                return False
-        return True
+        return 0 <= x < self.grid and 0 <= y < self.grid and bool(self._deploy_mask[y, x])
 
     def _spawn(self, key, x, y):
         t = self.troop_defs[key]
@@ -157,9 +181,7 @@ class CoCEnv(gym.Env):
                 xi = min(self.grid - 1, max(0, int(t.x)))
                 yi = min(self.grid - 1, max(0, int(t.y)))
                 g[3, yi, xi] = min(1.0, g[3, yi, xi] + 0.25)
-        for yy in range(self.grid):
-            for xx in range(self.grid):
-                g[4, yy, xx] = float(self._deployable(xx, yy))
+        g[4] = self._deploy_mask
         army = [self.army_left[k] / max(1, self.army_template[k]) for k in self.troop_keys]
         army += [max(0.0, 1 - self.tick / (BATTLE_SECONDS * TICKS_PER_SEC)), self.destruction]
         return {"grid": g, "army": np.array(army, np.float32)}
