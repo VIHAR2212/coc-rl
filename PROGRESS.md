@@ -24,8 +24,17 @@
   - (c) Flying troops skipped (`data/raw/` and `data/troops.json` only have the 5 M1 ground troops; `Troop.is_flying` + Air Defense air-only targeting implemented and tested).
   - (d) `python -u evaluate.py` completed with splash defenses noticeably punishing stacked `barch` vs tanked `giant_barch`/`goblin_giant`.
 
-## Current Milestone: M6 (BASELINES)
+## Milestone M6 (BASELINES)
+- **Status:** PASSED (Attempt 1)
+- **Passed:**
+  - (a) 3 rule-based strategies in `agents/`: `left_wave` (`agents/rule_based.py`), `surround` (`agents/surround.py`), `smart_funnel` (`agents/smart_funnel.py`) via `agents/helpers.py` and `agents/__init__.py`.
+  - (b) `python -u evaluate.py` ran 100 seeded episodes per base per army per strategy (7200 episodes in 1421.3s) and saved `results/baselines.csv`.
+  - (c) Non-degenerate results across bases/armies/strategies (`0.0%` to `100.0%`).
+  - (d) Summary table printed; best baseline overall is `left_wave` (`42.75%` mean destruction, `25.00%` 3-star rate), vs `smart_funnel` (`28.86%`, `16.62%`) and `surround` (`23.06%`, `12.50%`).
+  - `pytest -q` (`17 passed in 21.34s`) and `check_env OK`.
+
+## Current Milestone: M7 (RL)
 - **Attempt:** 1
 - **Passed:** —
 - **Failed:** —
-- **Next action:** Implement at least 3 distinct rule-based strategies in `agents/`; update `evaluate.py` to run 100 seeded episodes per base per army per strategy, save `results/baselines.csv`, print summary table (`mean destruction %`, `3-star rate`), and identify best baseline; verify results are not all 0% or 100%.
+- **Next action:** Install `sb3-contrib`, implement `MaskablePPO` wrapper/action-masked deploy space + reward logging in `REWARD_LOG.md`, train single-base then train-split (`base01..base04`), hold out `base05.json` & `base06.json`, evaluate vs random & best baseline (`left_wave`) across 100 seeded episodes each, save model + reward curves PNG + `results/rl_vs_baselines.csv`.
