@@ -40,7 +40,12 @@ class Troop:
     speed: float
     favorite: str
     housing: int
+    damage_vs_walls: float = 0.0
+    splash_radius: float = 0.0
     target: "Building | None" = field(default=None, repr=False)
+    path: list = field(default_factory=list, repr=False)
+    path_wall_ver: int = -1
+    path_target_id: int = -1
 
     @property
     def alive(self):

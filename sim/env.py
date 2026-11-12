@@ -15,6 +15,7 @@ import numpy as np
 from gymnasium import spaces
 
 from .entities import Building, Troop
+from .pathing import astar_path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
 TICKS_PER_SEC = 10
@@ -79,16 +80,24 @@ class CoCEnv(gym.Env):
     def _load_base(self):
         self.buildings = []
         self._deploy_mask = np.ones((self.grid, self.grid), dtype=np.float32)
+        self._wall_grid = np.zeros((self.grid, self.grid), dtype=bool)
+        self._wall_version = 0
+        self._path_cache = {}
         for b in self.base_cfg["buildings"]:
             d = self.defense_defs[b["type"]]
+            is_wall = b["type"] == "wall"
             bld = Building(
                 kind=b["type"], x=b["x"], y=b["y"], size=d["size"], hp=d["hp"], max_hp=d["hp"],
                 dps=d["dps"], range_tiles=d["range_tiles"], is_defense=d["dps"] > 0,
-                is_town_hall=b["type"] == "town_hall")
+                is_wall=is_wall, is_town_hall=b["type"] == "town_hall")
             self.buildings.append(bld)
+            if is_wall:
+                self._wall_grid[int(bld.y), int(bld.x)] = True
             x0, x1 = max(0, int(bld.x) - DEPLOY_MARGIN), min(self.grid, int(bld.x) + bld.size + DEPLOY_MARGIN)
             y0, y1 = max(0, int(bld.y) - DEPLOY_MARGIN), min(self.grid, int(bld.y) + bld.size + DEPLOY_MARGIN)
             self._deploy_mask[y0:y1, x0:x1] = 0.0
+        self._non_walls = [b for b in self.buildings if not b.is_wall]
+        self._defenses = [b for b in self.buildings if b.is_defense]
 
     def reset(self, seed=None, options=None):
         super().reset(seed=seed)
@@ -106,45 +115,126 @@ class CoCEnv(gym.Env):
 
     def _spawn(self, key, x, y):
         t = self.troop_defs[key]
-        self.troops.append(Troop(t["name"], x + .5, y + .5, t["hp"], t["dps"], t["attack_speed"],
-                                 t["range_tiles"], t["speed_tiles_per_s"], t["favorite"], t["housing"]))
+        self.troops.append(Troop(
+            t["name"], x + .5, y + .5, t["hp"], t["dps"], t["attack_speed"],
+            t["range_tiles"], t["speed_tiles_per_s"], t["favorite"], t["housing"],
+            damage_vs_walls=t.get("damage_vs_walls", 0.0),
+            splash_radius=t.get("splash_radius", 0.0),
+        ))
 
     def _pick_target(self, tr):
-        alive = [b for b in self.buildings if b.alive]
-        pool = [b for b in alive if b.is_defense] if tr.favorite == "defenses" else []
-        pool = pool or alive
+        non_walls = [b for b in self.buildings if b.alive and not b.is_wall]
+        if tr.favorite == "walls":
+            walls = [b for b in self.buildings if b.alive and b.is_wall]
+            pool = walls or non_walls
+        elif tr.favorite == "defenses":
+            pool = [b for b in non_walls if b.is_defense] or non_walls
+        elif tr.favorite == "resources":
+            pool = [b for b in non_walls if "storage" in b.kind] or non_walls
+        else:
+            pool = non_walls
         if not pool:
             return None
         return min(pool, key=lambda b: (b.cx - tr.x) ** 2 + (b.cy - tr.y) ** 2)
+
+    def _damage_building(self, bld, dmg):
+        if not bld.alive:
+            return
+        bld.hp -= dmg
+        if bld.hp <= 0 and bld.is_wall:
+            wx, wy = int(bld.x), int(bld.y)
+            if self._wall_grid[wy, wx]:
+                self._wall_grid[wy, wx] = False
+                self._wall_version += 1
+                self._path_cache.clear()
+
+    def _get_path(self, tr, target):
+        key = (int(tr.x), int(tr.y), id(target), round(tr.range_tiles, 2))
+        if key not in self._path_cache:
+            self._path_cache[key] = astar_path(
+                self._wall_grid, (int(tr.x), int(tr.y)),
+                target.cx, target.cy, target.size, tr.range_tiles,
+            )
+        cached = self._path_cache[key]
+        return None if cached is None else list(cached)
 
     def _sim_tick(self):
         dt = 1 / TICKS_PER_SEC
         for tr in self.troops:
             if not tr.alive:
                 continue
+            if tr.target is not None and tr.target.is_wall and tr.favorite != "walls" and tr.path_wall_ver != self._wall_version:
+                tr.target = None
             if tr.target is None or not tr.target.alive:
                 tr.target = self._pick_target(tr)
+                tr.path = []
+                tr.path_target_id = -1
             if tr.target is None:
                 continue
             dx, dy = tr.target.cx - tr.x, tr.target.cy - tr.y
             d = math.hypot(dx, dy) or 1e-6
             if d - tr.target.size / 2 > tr.range_tiles:
-                tr.x += dx / d * tr.speed * dt
-                tr.y += dy / d * tr.speed * dt
+                if tr.path_target_id != id(tr.target) or tr.path_wall_ver != self._wall_version:
+                    path = self._get_path(tr, tr.target)
+                    if path is None and not tr.target.is_wall:
+                        walls = [b for b in self.buildings if b.alive and b.is_wall]
+                        if walls:
+                            wall = min(
+                                walls,
+                                key=lambda w: math.hypot(w.cx - tr.x, w.cy - tr.y)
+                                + 0.5 * math.hypot(w.cx - tr.target.cx, w.cy - tr.target.cy),
+                            )
+                            tr.target = wall
+                            path = self._get_path(tr, wall)
+                            dx, dy = tr.target.cx - tr.x, tr.target.cy - tr.y
+                            d = math.hypot(dx, dy) or 1e-6
+                    tr.path = path or []
+                    tr.path_wall_ver = self._wall_version
+                    tr.path_target_id = id(tr.target)
+                step_dist = tr.speed * dt
+                if tr.path:
+                    wx, wy = tr.path[0]
+                    wdx, wdy = wx - tr.x, wy - tr.y
+                    wd = math.hypot(wdx, wdy)
+                    if wd <= max(0.15, step_dist):
+                        tr.x, tr.y = wx, wy
+                        tr.path.pop(0)
+                    else:
+                        tr.x += wdx / wd * step_dist
+                        tr.y += wdy / wd * step_dist
+                else:
+                    tr.x += dx / d * step_dist
+                    tr.y += dy / d * step_dist
             else:
-                tr.target.hp -= tr.dps * dt
-        for b in self.buildings:
-            if not (b.alive and b.is_defense):
+                if tr.favorite == "walls" and tr.damage_vs_walls > 0:
+                    tx, ty = tr.target.cx, tr.target.cy
+                    rad = tr.splash_radius or 2.0
+                    for b in list(self.buildings):
+                        if b.alive and math.hypot(b.cx - tx, b.cy - ty) <= rad:
+                            self._damage_building(b, tr.damage_vs_walls if b.is_wall else tr.dps)
+                    tr.hp = 0.0
+                else:
+                    self._damage_building(tr.target, tr.dps * dt)
+        for b in self._defenses:
+            if not b.alive:
                 continue
-            near = [t for t in self.troops if t.alive and math.hypot(t.x - b.cx, t.y - b.cy) <= b.range_tiles]
-            if near:
-                min(near, key=lambda t: math.hypot(t.x - b.cx, t.y - b.cy)).hp -= b.dps * dt
+            r2 = b.range_tiles * b.range_tiles
+            best_t, best_d2 = None, r2
+            bcx, bcy = b.cx, b.cy
+            for t in self.troops:
+                if not t.alive:
+                    continue
+                d2 = (t.x - bcx) ** 2 + (t.y - bcy) ** 2
+                if d2 <= best_d2:
+                    best_d2 = d2
+                    best_t = t
+            if best_t is not None:
+                best_t.hp -= b.dps * dt
+        self.troops = [t for t in self.troops if t.alive]
         self.tick += 1
 
     def _destruction_now(self):
-        # TODO: real CoC excludes walls and weights buildings differently
-        bs = [b for b in self.buildings if not b.is_wall]
-        return sum(1 for b in bs if not b.alive) / len(bs)
+        return sum(1 for b in self._non_walls if not b.alive) / len(self._non_walls)
 
     # ------------------------------------------------------------------- gym
     def step(self, action):
