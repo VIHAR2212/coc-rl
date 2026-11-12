@@ -1,0 +1,427 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "1",
+        "6": "2",
+        "7": "2",
+        "8": "3",
+        "9": "4"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "4",
+        "2": "5",
+        "3": "5",
+        "4": "5",
+        "5": "5",
+        "6": "5",
+        "7": "5",
+        "8": "5",
+        "9": "6/2*"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "11",
+        "Damage per Shot": "14.3",
+        "Hitpoints": "620",
+        "Cost": "100,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "13",
+        "Damage per Shot": "16.9",
+        "Hitpoints": "650",
+        "Cost": "150,000",
+        "Build Time": "1h 30m",
+        "Experience Gained": "73",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "16",
+        "Damage per Shot": "20.8",
+        "Hitpoints": "680",
+        "Cost": "250,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "20",
+        "Damage per Shot": "26",
+        "Hitpoints": "730",
+        "Cost": "400,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "24",
+        "Damage per Shot": "31.2",
+        "Hitpoints": "840",
+        "Cost": "550,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "32",
+        "Damage per Shot": "41.6",
+        "Hitpoints": "960",
+        "Cost": "660,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "40",
+        "Damage per Shot": "52",
+        "Hitpoints": "1,200",
+        "Cost": "1,000,000",
+        "Build Time": "18h",
+        "Experience Gained": "254",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "45",
+        "Damage per Shot": "58.5",
+        "Hitpoints": "1,440",
+        "Cost": "1,100,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "50",
+        "Damage per Shot": "65",
+        "Hitpoints": "1,600",
+        "Cost": "1,300,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "62",
+        "Damage per Shot": "80.6",
+        "Hitpoints": "1,900",
+        "Cost": "2,000,000",
+        "Build Time": "1d 6h",
+        "Experience Gained": "328",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "70",
+        "Damage per Shot": "91",
+        "Hitpoints": "2,120",
+        "Cost": "2,500,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "78",
+        "Damage per Shot": "101.4",
+        "Hitpoints": "2,240",
+        "Cost": "2,600,000",
+        "Build Time": "1d 18h",
+        "Experience Gained": "388",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "84",
+        "Damage per Shot": "109.2",
+        "Hitpoints": "2,500",
+        "Cost": "3,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "90",
+        "Damage per Shot": "117",
+        "Hitpoints": "2,800",
+        "Cost": "4,500,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "95",
+        "Damage per Shot": "123.5",
+        "Hitpoints": "3,000",
+        "Cost": "5,500,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "102",
+        "Damage per Shot": "132.6",
+        "Hitpoints": "3,150",
+        "Cost": "8,000,000",
+        "Build Time": "4d 12h",
+        "Experience Gained": "623",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "110",
+        "Damage per Shot": "143",
+        "Hitpoints": "3,300",
+        "Cost": "14,000,000",
+        "Build Time": "5d 12h",
+        "Experience Gained": "689",
+        "Town Hall Level Required": "17"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Attack Speed": "1.3s",
+        "Damage Type": "Splash - 1 tile",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Wizard Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Wizard Tower is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Wizard Tower to the next level, at the cost of one Hammer of Building if you have one. When the Wizard Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wizard Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "The Wizard Tower was present in the original release of the game, with six levels and two of them to unlock."
+      },
+      {
+        "Date": "August 30, 2012",
+        "Type": "Update",
+        "Description": "The Wizard Tower's attack gained a new visual effect."
+      },
+      {
+        "Date": "September 19, 2012",
+        "Type": "Update",
+        "Description": "Added the third Wizard Tower available at Town Hall 8. Improved visual effects."
+      },
+      {
+        "Date": "October 27, 2012",
+        "Type": "Update",
+        "Description": "Added the level 7 Wizard Tower. Gave the Wizard atop the tower upgrade differences at higher levels."
+      },
+      {
+        "Date": "April 17, 2013",
+        "Type": "Update",
+        "Description": "Added the fourth Wizard Tower available at Town Hall 9. Made it so that Wizard Towers do not restart their attack cycle if their would-be target is destroyed, instead they switch targets."
+      },
+      {
+        "Date": "August 27, 2013",
+        "Type": "Update",
+        "Description": "Added the level 8 Wizard Tower."
+      },
+      {
+        "Date": "November 6, 2013",
+        "Type": "Update",
+        "Description": "Reduced upgrade time for most Wizard Tower levels."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Type": "Update",
+        "Description": "Reduced hitpoints at levels 2 to 8 (except 7)."
+      },
+      {
+        "Date": "April 30, 2015",
+        "Type": "Update",
+        "Description": "Allowed its range to be visible even when under construction. Wizard Towers now initially point away from the Town Hall in combat."
+      },
+      {
+        "Date": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 4 to 8."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Type": "Update",
+        "Description": "Added the level 9 Wizard Tower. Added the fifth Wizard Tower available at Town Hall 11."
+      },
+      {
+        "Date": "March 21, 2016",
+        "Type": "Update",
+        "Description": "Increased hitpoints of levels 5 to 9."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 7 and 8: Level 7: 5,360,000 to 4,500,000. Level 8: 6,480,000 to 6,000,000."
+      },
+      {
+        "Date": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Added the level 10 Wizard Tower. Moved level 9 Wizard Tower to Town Hall 10. Reduced upgrade costs at level 4 to 9. Reduced upgrade times at level 7 to 9."
+      },
+      {
+        "Date": "March 5, 2018",
+        "Type": "Update",
+        "Description": "Reduced damage at level 9 from 56 to 54."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 11 Wizard Tower. The Wizard atop the level 7 Wizard Tower now has level 6 design instead of level 5. This was suggested by a user on Reddit on October 6, 2016 ."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 1 to 10."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 1 to 9. Reduced upgrade costs at levels 7 to 9."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 12 Wizard Tower."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Added the level 13 Wizard Tower."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade times and costs at levels 3 to 10 (except 9). The level 14 Wizard Tower appeared in the official Jungle Warden trailer for the May 2021 season, added as an easter egg by Supercell. This level was later added into the June 15 2021 update."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Type": "Update",
+        "Description": "Added the level 14 Wizard Tower."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at all levels except 7."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 15 Wizard Tower."
+      },
+      {
+        "Date": "May 15, 2023",
+        "Type": "Update",
+        "Description": "Changed the texture at levels 1 to 5."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 16 Wizard Tower. Reduced upgrade costs and times of levels 2 to 15."
+      },
+      {
+        "Date": "June 3, 2024",
+        "Type": "Balance Changes",
+        "Description": "Reduced hitpoints at levels 9 to 14: Level 9: 1,680 -> 1,600 Level 10: 2,000 -> 1,900 Level 11: 2,240 -> 2,120 Level 12: 2,480 -> 2,240 Level 13: 2,700 -> 2,500 Level 14: 2,900 -> 2,800"
+      },
+      {
+        "Date": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Added the level 17 Wizard Tower. Added 2 Supercharge levels for the Wizard Tower. Reduced upgrade times at levels 1, 3, and 8 to 16: Level 1: 3h -> 2h Level 3: 8h -> 6h Level 8: 2d -> 1d 18h Level 9: 2d 12h -> 2d Level 10: 3d -> 2d 12h Level 11: 4d -> 3d Level 12: 4d 12h -> 3d 12h Level 13: 5d -> 4d Level 14: 6d -> 4d 12h Level 15: 7d 6h -> 5d Level 16: 14d 12h -> 10d 12h Reduced upgrade costs at levels 7 to 16: Level 7: 2,000,000 -> 1,500,000 Level 8: 2,200,000 -> 1,600,000 Level 9: 2,800,000 -> 1,000,000 Level 10: 4,000,000 -> 3,000,000 Level 11: 5,000,000 -> 4,500,000 Level 12: 8,000,000 -> 5,000,000 Level 13: 9,000,000 -> 5,500,000 Level 14: 11,000,000 -> 6,500,000 Level 15: 15,500,000 -> 9,000,000 Level 16: 20,200,000 -> 15,100,000"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Type": "February Update",
+        "Description": "Reduced upgrade times at levels 2, 6, 9, and 13: Level 2: 3h -> 1h 30m Level 6: 1d -> 12h Level 9: 2d -> 1d Level 13: 4d -> 2d Reduced upgrade cost at level 13 from 5,500,000 to 4,000,000. The Wizard Tower's attack gains a new visual effect, with the fireballs changing their color depending on its level."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the sixth Wizard Tower available at Town Hall 18. Permanently removed Supercharge levels from the Wizard Tower. Reduced upgrade time at level 17 from 14d 18h to 8d 12h. Reduced upgrade cost at level 17 from 20,000,000 to 14,000,000."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

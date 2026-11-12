@@ -1,0 +1,1023 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "1",
+        "3": "1",
+        "4": "2",
+        "5": "3",
+        "6": "3",
+        "7": "4",
+        "8": "5",
+        "9": "6"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "7",
+        "2": "8",
+        "3": "8",
+        "4": "8",
+        "5": "8",
+        "6": "8",
+        "7": "8/4*",
+        "8": "9/2*",
+        "9": "9/2*"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "11",
+        "Damage per Shot": "5.5",
+        "Hitpoints": "380",
+        "Cost": "1,000",
+        "Build Time": "15s",
+        "Experience Gained": "3",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "15",
+        "Damage per Shot": "7.5",
+        "Hitpoints": "420",
+        "Cost": "2,000",
+        "Build Time": "2m",
+        "Experience Gained": "10",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "19",
+        "Damage per Shot": "9.5",
+        "Hitpoints": "460",
+        "Cost": "5,000",
+        "Build Time": "20m",
+        "Experience Gained": "34",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "25",
+        "Damage per Shot": "12.5",
+        "Hitpoints": "500",
+        "Cost": "20,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "30",
+        "Damage per Shot": "15",
+        "Hitpoints": "540",
+        "Cost": "70,000",
+        "Build Time": "1h 30m",
+        "Experience Gained": "73",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "35",
+        "Damage per Shot": "17.5",
+        "Hitpoints": "580",
+        "Cost": "80,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "42",
+        "Damage per Shot": "21",
+        "Hitpoints": "630",
+        "Cost": "150,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "48",
+        "Damage per Shot": "24",
+        "Hitpoints": "690",
+        "Cost": "200,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "56",
+        "Damage per Shot": "28",
+        "Hitpoints": "750",
+        "Cost": "400,000",
+        "Build Time": "5h",
+        "Experience Gained": "134",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "63",
+        "Damage per Shot": "31.5",
+        "Hitpoints": "810",
+        "Cost": "460,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "70",
+        "Damage per Shot": "35",
+        "Hitpoints": "890",
+        "Cost": "600,000",
+        "Build Time": "7h",
+        "Experience Gained": "158",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "74",
+        "Damage per Shot": "37",
+        "Hitpoints": "970",
+        "Cost": "700,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "78",
+        "Damage per Shot": "39",
+        "Hitpoints": "1,050",
+        "Cost": "1,000,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "82",
+        "Damage per Shot": "41",
+        "Hitpoints": "1,130",
+        "Cost": "1,100,000",
+        "Build Time": "11h",
+        "Experience Gained": "198",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "85",
+        "Damage per Shot": "42.5",
+        "Hitpoints": "1,230",
+        "Cost": "1,300,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "90",
+        "Damage per Shot": "45",
+        "Hitpoints": "1,310",
+        "Cost": "1,600,000",
+        "Build Time": "16h",
+        "Experience Gained": "240",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "100",
+        "Damage per Shot": "50",
+        "Hitpoints": "1,390",
+        "Cost": "1,800,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "110",
+        "Damage per Shot": "55",
+        "Hitpoints": "1,510",
+        "Cost": "2,000,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "120",
+        "Damage per Shot": "60",
+        "Hitpoints": "1,600",
+        "Cost": "2,200,000",
+        "Build Time": "1d 6h",
+        "Experience Gained": "328",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "135",
+        "Damage per Shot": "67.5",
+        "Hitpoints": "1,700",
+        "Cost": "3,000,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "145",
+        "Damage per Shot": "72.5",
+        "Hitpoints": "1,800",
+        "Cost": "4,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Range": "10",
+        "Attack Speed": "0.5s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "380",
+        "Cost": "1,000",
+        "Build Time": "15s",
+        "Experience Gained": "3",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "420",
+        "Cost": "2,000",
+        "Build Time": "2m",
+        "Experience Gained": "10",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "460",
+        "Cost": "5,000",
+        "Build Time": "20m",
+        "Experience Gained": "34",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "500",
+        "Cost": "20,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "540",
+        "Cost": "70,000",
+        "Build Time": "1h 30m",
+        "Experience Gained": "73",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "580",
+        "Cost": "80,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "630",
+        "Cost": "150,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "690",
+        "Cost": "200,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "750",
+        "Cost": "400,000",
+        "Build Time": "5h",
+        "Experience Gained": "134",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "126",
+        "Damage per Shot": "31.5",
+        "Hitpoints": "810",
+        "Cost": "460,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "140",
+        "Damage per Shot": "35",
+        "Hitpoints": "890",
+        "Cost": "600,000",
+        "Build Time": "7h",
+        "Experience Gained": "158",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "150",
+        "Damage per Shot": "37.5",
+        "Hitpoints": "970",
+        "Cost": "700,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "160",
+        "Damage per Shot": "40",
+        "Hitpoints": "1,050",
+        "Cost": "1,000,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "180",
+        "Damage per Shot": "45",
+        "Hitpoints": "1,130",
+        "Cost": "1,100,000",
+        "Build Time": "11h",
+        "Experience Gained": "198",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "200",
+        "Damage per Shot": "50",
+        "Hitpoints": "1,230",
+        "Cost": "1,300,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "210",
+        "Damage per Shot": "52.5",
+        "Hitpoints": "1,310",
+        "Cost": "1,600,000",
+        "Build Time": "16h",
+        "Experience Gained": "240",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "220",
+        "Damage per Shot": "55",
+        "Hitpoints": "1,390",
+        "Cost": "1,800,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "240",
+        "Damage per Shot": "60",
+        "Hitpoints": "1,510",
+        "Cost": "2,000,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "260",
+        "Damage per Shot": "65",
+        "Hitpoints": "1,600",
+        "Cost": "2,200,000",
+        "Build Time": "1d 6h",
+        "Experience Gained": "328",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "276",
+        "Damage per Shot": "69",
+        "Hitpoints": "1,700",
+        "Cost": "3,000,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "290",
+        "Damage per Shot": "72.5",
+        "Hitpoints": "1,800",
+        "Cost": "4,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Range": "8",
+        "Attack Speed": "0.25s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "Gear Up Cost": "3,000,000",
+        "Gear Up Time": "7d",
+        "Home Village Archer Tower Level Required": "10",
+        "Builder Base Archer Tower Level Required": "6"
+      }
+    ],
+    [
+      {
+        "High Gear": "Description"
+      },
+      {
+        "High Gear": "Gear up 1 building using the Master Builder"
+      },
+      {
+        "High Gear": "Gear up 2 buildings using the Master Builder"
+      },
+      {
+        "High Gear": "Gear up 3 buildings using the Master Builder"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Archer Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Archer Tower is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Archer Tower to the next level, at the cost of one Hammer of Building if you have one. When the Archer Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon gears up the Archer Tower, if you have upgraded it enough to do so, have enough resources and a free Master Builder . If any Archer Tower is already geared up, this icon will not appear."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon informs you that the Archer Tower cannot be geared up because it is insufficiently upgraded. Tapping this icon will tell you the required level to gear up this Archer Tower. If any Archer Tower is already geared up, this icon will not appear."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Archer Tower is set to Long Range mode, to attack units in a usual manner. Tapping this icon switches the Archer Tower to Fast Attack mode. This icon only appears when the Archer Tower is geared up, and is in Long Range mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Archer Tower is set to Fast Attack mode, to attack units quickly but with a reduced range. Tapping this icon switches the Archer Tower to Long Range mode. This icon only appears when the Archer Tower is geared up, and is in Fast Attack mode."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Description": "Introduction of the Archer Tower, with 10 levels and five of them to build."
+      },
+      {
+        "Date": "September 12, 2012",
+        "Description": "Improved the Archer Tower at level 5 onwards."
+      },
+      {
+        "Date": "October 27, 2012",
+        "Description": "Archers atop the Archer Tower now have upgrade differences."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "Added the level 11 Archer Tower."
+      },
+      {
+        "Date": "May 23, 2013",
+        "Description": "Added the seventh Archer Tower available at Town Hall 10."
+      },
+      {
+        "Date": "November 6, 2013",
+        "Description": "Added the level 12 Archer Tower. Reduced upgrade times at most levels."
+      },
+      {
+        "Date": "December 5, 2013",
+        "Description": "Changed the textures of level 4 to 8."
+      },
+      {
+        "Date": "September 16, 2014",
+        "Description": "Added the level 13 Archer Tower."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Description": "Adjusted hitpoints for the Archer Tower at all levels (except level 8), reducing them at levels 1 to 7 but increasing them at the other levels. It also made it so that the Archer Towers shoot twice as fast."
+      },
+      {
+        "Date": "April 30, 2015",
+        "Description": "It allowed its range to be visible even when under construction. The Archer Tower's Archers now initially point away from the Town Hall in combat."
+      },
+      {
+        "Date": "July 1, 2015",
+        "Description": "Increased the Archer Tower's HP on levels 7 onwards. Allowed Archer Towers' arrows to travel faster so they miss less of their shots at range."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Description": "Added the eighth Archer Tower available at Town Hall 11."
+      },
+      {
+        "Date": "May 24, 2016",
+        "Description": "Changed the textures at levels 12 and 13."
+      },
+      {
+        "Date": "July 20, 2016",
+        "Description": "Added the level 14 Archer Tower."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Reduced upgrade costs at levels 11 to 13."
+      },
+      {
+        "Date": "June 27, 2017",
+        "Description": "Added the level 15 Archer Tower. Reduced upgrade costs at levels 9 to 14."
+      },
+      {
+        "Date": "June 29, 2017",
+        "Description": "Allowed the Archer Tower to be geared up, starting at level 10."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the level 16 Archer Tower. Reduced damages at levels 12 to 14. Changed the textures at levels 11 to 15."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Description": "Reduced upgrade times at levels 4 to 15."
+      },
+      {
+        "Date": "October 23, 2018",
+        "Description": "Changed the textures of levels 11 to 16 Archer Towers."
+      },
+      {
+        "Date": "February 22, 2019",
+        "Description": "Reduced damages at level 10 onwards."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Added the level 17 Archer Tower. Reduced upgrade times at levels 6 to 16. Reduced upgrade costs at levels 10 to 16."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Added the level 18 Archer Tower. Made the gear up show properly in village preview."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Description": "Added the level 19 Archer Tower."
+      },
+      {
+        "Date": "January 20, 2021",
+        "Description": "Fixed Geared-Up Archer Tower initial projectile coordinate (now it correctly appears to fire from the tower, rather than the air above the tower)."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Reduced upgrade times at levels 2, 5, 7, and 9 to 16. Reduced upgrade costs at levels 8 to 13."
+      },
+      {
+        "Date": "May 1, 2021",
+        "Description": "The video showcasing the Jungle Warden skin shows the level 20 Archer Tower."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Description": "Added the level 20 Archer Tower."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Description": "Reduced upgrade costs at levels 8 to 19."
+      },
+      {
+        "Date": "June 27, 2022",
+        "Description": "Reduced damages at levels 16 and 17: Level 16: 116 -> 112 Level 17: 122 -> 120"
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added the level 21 Archer Tower."
+      },
+      {
+        "Date": "September 28, 2023",
+        "Description": "Reduced damages at levels 14 to 20: Level 14: 92 -> 90 Level 15: 104 -> 100 Level 16: 112 -> 105 Level 17: 120 -> 110 Level 18: 128 -> 120 Level 19: 134 -> 130 Level 20: 140 -> 138"
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Reduced upgrade costs and times from level 5 onwards. Visually, reduced the number of Archers atop the tower to have only one at all levels, to better distinguish it from the newly added Multi-Archer Tower ."
+      },
+      {
+        "Date": "April 9, 2024",
+        "Description": "Reduced hitpoints at levels 16 and 17: Level 16: 1,330 -> 1,310 Level 17: 1,410 -> 1,390"
+      },
+      {
+        "Date": "June 3, 2024",
+        "Description": "Reduced damages at levels 12 to 20 for the long-range mode. Level 12: 75 -> 74 Level 13: 80 -> 78 Level 14: 90 -> 82 Level 15: 100 -> 85 Level 16: 105 -> 90 Level 17: 110 -> 100 Level 18: 120 -> 110 Level 19: 130 -> 120 Level 20: 138 -> 135"
+      },
+      {
+        "Date": "June 18, 2024",
+        "Description": "Reduced upgrade costs at levels 16 to 21 (expect 19): Level 16: 4,700,000 -> 4,000,000. Level 17: 6,100,000 -> 5,000,000. Level 18: 6,800,000 -> 6,500,000. Level 20: 11,600,000 -> 10,000,000. Level 21: 16,000,000 -> 12,000,000. Reduced upgrade times at levels 14 to 21: Level 14: 1d 6h -> 1d. Level 15: 1d 6h -> 1d. Level 16: 3d -> 2d. Level 17: 3d -> 2d. Level 18: 7d -> 3d. Level 19: 7d -> 3d. Level 20: 9d 12h -> 4d. Level 21: 13d 6h -> 5d."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the ninth Archer Tower available at Town Hall 17. Reduced upgrade cost at levels 16 to 21: Level 16: 4,000,000 -> 3,000,000 Level 17: 5,000,000 -> 3,500,000 Level 18: 6,500,000 -> 4,000,000 Level 19: 8,000,000 -> 4,500,000 Level 20: 10,000,000 -> 6,000,000 Level 21: 12,000,000 -> 8,000,000 Reduced upgrade times at levels 7 to 9, 12, 14, 16, 18, 19 to 21: Level 7: 8h -> 6h Level 8: 10h -> 8h Level 9: 12h -> 10h Level 12: 18h -> 16h Level 14: 1d -> 20h Level 16: 2d -> 1d 12h Level 18: 3d -> 2d 12h Level 20: 4d -> 3d 12h Level 21: 5d -> 4d"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced upgrade cost at levels 13, 15, 17, and 19: Level 13: 2,000,000 -> 1,500,000 Level 15: 2,500,000 -> 2,000,000 Level 17: 3,500,000 -> 2,500,000 Level 19: 4,500,000 -> 3,000,000 Reduced build times at levels 1, 2, 6, 10, 13, 15, 17, and 19: Level 1: 1m -> 30s Level 2: 15m -> 5m Level 6: 5h -> 2h Level 10: 12h -> 6h Level 13: 18h -> 10h Level 15: 1d -> 12h Level 17: 2d -> 1d Level 19: 3d -> 1d 12h"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Reduced upgrade cost at levels 5 to 21 and Gear Up: Level 5: 80,000 -> 70,000 Level 6: 150,000 -> 80,000 Level 7: 300,000 -> 150,000 Level 8: 480,000 -> 200,000 Level 9: 580,000 -> 400,000 Level 10: 760,000 -> 460,000 Level 11: 1,000,000 -> 600,000 Level 12: 1,100,000 -> 700,000 Level 13: 1,500,000 -> 1,000,000 Level 14: 2,200,000 -> 1,100,000 Level 15: 2,000,000 -> 1,300,000 Level 16: 3,000,000 -> 1,600,000 Level 17: 2,500,000 -> 1,800,000 Level 18: 4,000,000 -> 2,000,000 Level 19: 3,000,000 -> 2,200,000 Level 20: 6,000,000 -> 3,000,000 Level 21: 8,000,000 -> 4,000,000 Gear Up: 4,000,000 -> 3,000,000 Reduced build times at all levels except 6, 10, 13, 15, 17, and 19: Level 1: 30s -> 15s Level 2: 5m -> 2m Level 3: 45m -> 20m Level 4: 3h -> 1h Level 5: 4h -> 1h 30m Level 7: 6h -> 3h Level 8: 8h -> 4h Level 9: 10h -> 5h Level 11: 14h -> 7h Level 12: 16h -> 8h Level 14: 20h -> 11h Level 16: 1d 12h -> 20h Level 18: 2d 12h -> 1d 6h Level 20: 3d 12h -> 2d Level 21: 4d -> 3d"
+      },
+      {
+        "Date": "October 6, 2025",
+        "Description": "Reduced build times at levels 16 to 21: Level 16: 20h -> 16h Level 17: 1d -> 20h Level 18: 1d 6h -> 1d Level 19: 1d 12h -> 1d 6h Level 20: 2d -> 1d 12h Level 21: 3d -> 2d"
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Increased range of the Geared-Up Archer Tower from 7 tiles to 8 tiles."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "Builder Hall Level": "2"
+      },
+      {
+        "Number Available": "Total",
+        "Builder Hall Level": "0"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "40",
+        "Damage per Shot": "40",
+        "Hitpoints": "500",
+        "Build Cost": "12,000",
+        "Build Time": "5m",
+        "Experience Gained": "17",
+        "Builder Hall Level Required": "2"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "44",
+        "Damage per Shot": "44",
+        "Hitpoints": "575",
+        "Build Cost": "30,000",
+        "Build Time": "15m",
+        "Experience Gained": "30",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "48",
+        "Damage per Shot": "48",
+        "Hitpoints": "660",
+        "Build Cost": "60,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "53",
+        "Damage per Shot": "53",
+        "Hitpoints": "760",
+        "Build Cost": "250,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Builder Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "59",
+        "Damage per Shot": "59",
+        "Hitpoints": "875",
+        "Build Cost": "800,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Builder Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "64",
+        "Damage per Shot": "64",
+        "Hitpoints": "1,050",
+        "Build Cost": "1,200,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Builder Hall Level Required": "6"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "71",
+        "Damage per Shot": "71",
+        "Hitpoints": "1,250",
+        "Build Cost": "2,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Builder Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "78",
+        "Damage per Shot": "78",
+        "Hitpoints": "1,450",
+        "Build Cost": "2,800,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Builder Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "86",
+        "Damage per Shot": "86",
+        "Hitpoints": "1,650",
+        "Build Cost": "3,600,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Builder Hall Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "94",
+        "Damage per Shot": "94",
+        "Hitpoints": "1,850",
+        "Build Cost": "4,600,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Builder Hall Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Range": "10",
+        "Attack Speed": "1s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "89",
+        "Damage per Shot": "40?",
+        "Hitpoints": "500",
+        "Build Cost": "12,000",
+        "Build Time": "5m",
+        "Experience Gained": "17",
+        "Builder Hall Level Required": "2"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "98",
+        "Damage per Shot": "44?",
+        "Hitpoints": "575",
+        "Build Cost": "30,000",
+        "Build Time": "15m",
+        "Experience Gained": "30",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "107",
+        "Damage per Shot": "48?",
+        "Hitpoints": "660",
+        "Build Cost": "60,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "118",
+        "Damage per Shot": "53?",
+        "Hitpoints": "760",
+        "Build Cost": "250,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Builder Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "131",
+        "Damage per Shot": "59?",
+        "Hitpoints": "875",
+        "Build Cost": "800,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Builder Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "142",
+        "Damage per Shot": "64?",
+        "Hitpoints": "1,050",
+        "Build Cost": "1,200,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Builder Hall Level Required": "6"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "158",
+        "Damage per Shot": "71?",
+        "Hitpoints": "1,250",
+        "Build Cost": "2,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Builder Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "173",
+        "Damage per Shot": "78?",
+        "Hitpoints": "1,450",
+        "Build Cost": "2,800,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Builder Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "191",
+        "Damage per Shot": "86?",
+        "Hitpoints": "1,650",
+        "Build Cost": "3,600,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Builder Hall Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "209",
+        "Damage per Shot": "94?",
+        "Hitpoints": "1,850",
+        "Build Cost": "4,600,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Builder Hall Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Attack Speed": "0.45s?",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Archer Tower to the next level, if you have enough resources and a free Master Builder or O.T.T.O . When the Archer Tower is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Archer Tower to the next level, at the cost of one Hammer of Building if you have one. When the Archer Tower is at maximum level, or the Builder Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Archer Tower is set to Long Range mode, to attack units at a long range but with a reduced fire rate. Tapping this icon switches the Archer Tower to Fast Attack mode. This icon only appears when the Archer Tower is in Long Range mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Archer Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Archer Tower is set to Fast Attack mode, to attack units quickly but with a reduced range. Tapping this icon switches the Archer Tower to Long Range mode. This icon only appears when the Archer Tower is in Fast Attack mode."
+      }
+    ],
+    [
+      {
+        "Builder Base Buildings": "Defensive Buildings"
+      },
+      {
+        "Builder Base Buildings": "Resource Buildings"
+      },
+      {
+        "Builder Base Buildings": "Army Buildings"
+      },
+      {
+        "Builder Base Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

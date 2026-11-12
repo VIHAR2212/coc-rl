@@ -1,0 +1,2400 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Articles on Town Hall": "Main • Unlocks • Upgrade Differences • Audio • History • Gallery • Trivia"
+      }
+    ],
+    [
+      {
+        "Boost": "Power Boost",
+        "Icon": "",
+        "Effect": "Starting from Town Hall 4, the player's troops and spells are temporarily boosted to the maximum level allowed by their Town Hall level (as if under the effect of a Power Potion )."
+      },
+      {
+        "Boost": "Resource Boost",
+        "Icon": "",
+        "Effect": "Starting from Town Hall 4, the player's resource collectors are temporarily boosted to work at double their normal rate (as if under the effect of a Resource Potion )."
+      },
+      {
+        "Boost": "Star Bonus Boost",
+        "Icon": "",
+        "Effect": "Starting from Town Hall 4, the player's Star Bonus is temporarily boosted to 4x the normal amount. This boost does not stack with any existing Star Bonus events; if active during a Star Bonus event, the best boost will override the other (so this boost would override a 2x or 3x Star Bonus event, and would be overridden by a 5x Star Bonus event)."
+      },
+      {
+        "Boost": "Hero Boost",
+        "Icon": "",
+        "Effect": "Starting from Town Hall 8, the player's Heroes and Pets are temporarily boosted to the maximum level allowed by the Town Hall (as if under the effect of a Hero Potion )."
+      }
+    ],
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "1",
+        "2": "1",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "1"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "1",
+        "2": "1",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "1"
+      }
+    ],
+    [
+      {
+        "Size": "4x4"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Hitpoints": "400",
+        "Build Cost": "N/A",
+        "Build Time": "N/A",
+        "Experience Gained": "N/A",
+        "Maximum Number of Buildings Available*": "13",
+        "Maximum Number of Traps Available": "N/A"
+      },
+      {
+        "TH Level": "2",
+        "Hitpoints": "800",
+        "Build Cost": "1,000",
+        "Build Time": "10s",
+        "Experience Gained": "3",
+        "Maximum Number of Buildings Available*": "17",
+        "Maximum Number of Traps Available": "N/A"
+      },
+      {
+        "TH Level": "3",
+        "Hitpoints": "1,600",
+        "Build Cost": "4,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Maximum Number of Buildings Available*": "25",
+        "Maximum Number of Traps Available": "2"
+      },
+      {
+        "TH Level": "4",
+        "Hitpoints": "2,000",
+        "Build Cost": "25,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Maximum Number of Buildings Available*": "29",
+        "Maximum Number of Traps Available": "4"
+      },
+      {
+        "TH Level": "5",
+        "Hitpoints": "2,400",
+        "Build Cost": "150,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Maximum Number of Buildings Available*": "36",
+        "Maximum Number of Traps Available": "8"
+      },
+      {
+        "TH Level": "6",
+        "Hitpoints": "2,800",
+        "Build Cost": "500,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Maximum Number of Buildings Available*": "42",
+        "Maximum Number of Traps Available": "11"
+      },
+      {
+        "TH Level": "7",
+        "Hitpoints": "3,300",
+        "Build Cost": "1,000,000",
+        "Build Time": "18h",
+        "Experience Gained": "254",
+        "Maximum Number of Buildings Available*": "54",
+        "Maximum Number of Traps Available": "15"
+      },
+      {
+        "TH Level": "8",
+        "Hitpoints": "3,900",
+        "Build Cost": "2,000,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Maximum Number of Buildings Available*": "64",
+        "Maximum Number of Traps Available": "23"
+      },
+      {
+        "TH Level": "9",
+        "Hitpoints": "4,600",
+        "Build Cost": "2,500,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Maximum Number of Buildings Available*": "77",
+        "Maximum Number of Traps Available": "26"
+      },
+      {
+        "TH Level": "10",
+        "Hitpoints": "5,500",
+        "Build Cost": "3,500,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Maximum Number of Buildings Available*": "84",
+        "Maximum Number of Traps Available": "30"
+      },
+      {
+        "TH Level": "11",
+        "Hitpoints": "6,800",
+        "Build Cost": "4,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Maximum Number of Buildings Available*": "89",
+        "Maximum Number of Traps Available": "31"
+      },
+      {
+        "TH Level": "12",
+        "Hitpoints": "7,500",
+        "Build Cost": "6,000,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Maximum Number of Buildings Available*": "92",
+        "Maximum Number of Traps Available": "36"
+      },
+      {
+        "TH Level": "13",
+        "Hitpoints": "8,200",
+        "Build Cost": "9,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Maximum Number of Buildings Available*": "94",
+        "Maximum Number of Traps Available": "39"
+      },
+      {
+        "TH Level": "14",
+        "Hitpoints": "8,900",
+        "Build Cost": "12,000,000",
+        "Build Time": "7d 12h",
+        "Experience Gained": "804",
+        "Maximum Number of Buildings Available*": "95",
+        "Maximum Number of Traps Available": "44"
+      },
+      {
+        "TH Level": "15",
+        "Hitpoints": "9,600",
+        "Build Cost": "13,000,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Maximum Number of Buildings Available*": "98",
+        "Maximum Number of Traps Available": "44"
+      },
+      {
+        "TH Level": "16",
+        "Hitpoints": "10,000",
+        "Build Cost": "15,000,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Maximum Number of Buildings Available*": "94",
+        "Maximum Number of Traps Available": "44"
+      },
+      {
+        "TH Level": "17",
+        "Hitpoints": "10,400",
+        "Build Cost": "16,000,000",
+        "Build Time": "10d",
+        "Experience Gained": "929",
+        "Maximum Number of Buildings Available*": "93",
+        "Maximum Number of Traps Available": "47"
+      },
+      {
+        "TH Level": "18",
+        "Hitpoints": "10,800",
+        "Build Cost": "25,000,000",
+        "Build Time": "12d",
+        "Experience Gained": "1,018",
+        "Maximum Number of Buildings Available*": "94",
+        "Maximum Number of Traps Available": "47"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Gold Available": "1,000",
+        "Elixir Available": "1,000",
+        "Dark Elixir Available": "-",
+        "Gold/Elixir Available Including Storages": "2,500",
+        "Dark Elixir Available Including Storages": "-"
+      },
+      {
+        "TH Level": "2",
+        "Gold Available": "2,500",
+        "Elixir Available": "2,500",
+        "Dark Elixir Available": "-",
+        "Gold/Elixir Available Including Storages": "8,500",
+        "Dark Elixir Available Including Storages": "-"
+      },
+      {
+        "TH Level": "3",
+        "Gold Available": "10,000",
+        "Elixir Available": "10,000",
+        "Dark Elixir Available": "-",
+        "Gold/Elixir Available Including Storages": "100,000",
+        "Dark Elixir Available Including Storages": "-"
+      },
+      {
+        "TH Level": "4",
+        "Gold Available": "50,000",
+        "Elixir Available": "50,000",
+        "Dark Elixir Available": "-",
+        "Gold/Elixir Available Including Storages": "500,000",
+        "Dark Elixir Available Including Storages": "-"
+      },
+      {
+        "TH Level": "5",
+        "Gold Available": "100,000",
+        "Elixir Available": "100,000",
+        "Dark Elixir Available": "-",
+        "Gold/Elixir Available Including Storages": "1,000,000",
+        "Dark Elixir Available Including Storages": "-"
+      },
+      {
+        "TH Level": "6",
+        "Gold Available": "300,000",
+        "Elixir Available": "300,000",
+        "Dark Elixir Available": "-",
+        "Gold/Elixir Available Including Storages": "2,000,000",
+        "Dark Elixir Available Including Storages": "-"
+      },
+      {
+        "TH Level": "7",
+        "Gold Available": "500,000",
+        "Elixir Available": "500,000",
+        "Dark Elixir Available": "2,500",
+        "Gold/Elixir Available Including Storages": "4,000,000",
+        "Dark Elixir Available Including Storages": "20,000"
+      },
+      {
+        "TH Level": "8",
+        "Gold Available": "750,000",
+        "Elixir Available": "750,000",
+        "Dark Elixir Available": "5,000",
+        "Gold/Elixir Available Including Storages": "6,000,000",
+        "Dark Elixir Available Including Storages": "80,000"
+      },
+      {
+        "TH Level": "9",
+        "Gold Available": "1,000,000",
+        "Elixir Available": "1,000,000",
+        "Dark Elixir Available": "10,000",
+        "Gold/Elixir Available Including Storages": "8,000,000",
+        "Dark Elixir Available Including Storages": "190,000"
+      },
+      {
+        "TH Level": "10",
+        "Gold Available": "1,500,000",
+        "Elixir Available": "1,500,000",
+        "Dark Elixir Available": "20,000",
+        "Gold/Elixir Available Including Storages": "8,500,000",
+        "Dark Elixir Available Including Storages": "200,000"
+      },
+      {
+        "TH Level": "11",
+        "Gold Available": "2,000,000",
+        "Elixir Available": "2,000,000",
+        "Dark Elixir Available": "20,000",
+        "Gold/Elixir Available Including Storages": "10,000,000",
+        "Dark Elixir Available Including Storages": "200,000"
+      },
+      {
+        "TH Level": "12",
+        "Gold Available": "2,000,000",
+        "Elixir Available": "2,000,000",
+        "Dark Elixir Available": "20,000",
+        "Gold/Elixir Available Including Storages": "14,000,000",
+        "Dark Elixir Available Including Storages": "240,000"
+      },
+      {
+        "TH Level": "13",
+        "Gold Available": "2,000,000",
+        "Elixir Available": "2,000,000",
+        "Dark Elixir Available": "20,000",
+        "Gold/Elixir Available Including Storages": "18,000,000",
+        "Dark Elixir Available Including Storages": "300,000"
+      },
+      {
+        "TH Level": "14",
+        "Gold Available": "3,000,000",
+        "Elixir Available": "3,000,000",
+        "Dark Elixir Available": "30,000",
+        "Gold/Elixir Available Including Storages": "21,000,000",
+        "Dark Elixir Available Including Storages": "360,000"
+      },
+      {
+        "TH Level": "15",
+        "Gold Available": "3,000,000",
+        "Elixir Available": "3,000,000",
+        "Dark Elixir Available": "30,000",
+        "Gold/Elixir Available Including Storages": "23,000,000",
+        "Dark Elixir Available Including Storages": "390,000"
+      },
+      {
+        "TH Level": "16",
+        "Gold Available": "4,000,000",
+        "Elixir Available": "4,000,000",
+        "Dark Elixir Available": "40,000",
+        "Gold/Elixir Available Including Storages": "26,000,000",
+        "Dark Elixir Available Including Storages": "430,000"
+      },
+      {
+        "TH Level": "17",
+        "Gold Available": "4,000,000",
+        "Elixir Available": "4,000,000",
+        "Dark Elixir Available": "40,000",
+        "Gold/Elixir Available Including Storages": "28,000,000",
+        "Dark Elixir Available Including Storages": "460,000"
+      },
+      {
+        "TH Level": "18",
+        "Gold Available": "5,000,000",
+        "Elixir Available": "5,000,000",
+        "Dark Elixir Available": "50,000",
+        "Gold/Elixir Available Including Storages": "31,000,000",
+        "Dark Elixir Available Including Storages": "500,000"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Gold Mine & Elixir Collector": "1",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "1",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "-",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "2",
+        "Gold Mine & Elixir Collector": "2",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "1",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1*",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "3",
+        "Gold Mine & Elixir Collector": "3",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "2",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "4",
+        "Gold Mine & Elixir Collector": "4",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "2",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "5",
+        "Gold Mine & Elixir Collector": "5",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "2",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "6",
+        "Gold Mine & Elixir Collector": "6",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "2",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "7",
+        "Gold Mine & Elixir Collector": "6",
+        "Dark Elixir Drill": "1",
+        "Gold & Elixir Storage": "2",
+        "Dark Elixir Storage": "1",
+        "Clan Castle": "1",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "8",
+        "Gold Mine & Elixir Collector": "6",
+        "Dark Elixir Drill": "2",
+        "Gold & Elixir Storage": "3",
+        "Dark Elixir Storage": "1",
+        "Clan Castle": "1",
+        "Helper Hut": "-"
+      },
+      {
+        "TH Level": "9-17",
+        "Gold Mine & Elixir Collector": "7",
+        "Dark Elixir Drill": "3",
+        "Gold & Elixir Storage": "4",
+        "Dark Elixir Storage": "1",
+        "Clan Castle": "1",
+        "Helper Hut": "1"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Gold Mine & Elixir Collector": "2",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "1",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "-"
+      },
+      {
+        "TH Level": "2",
+        "Gold Mine & Elixir Collector": "4",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "3",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1*"
+      },
+      {
+        "TH Level": "3",
+        "Gold Mine & Elixir Collector": "6",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "6",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "1"
+      },
+      {
+        "TH Level": "4",
+        "Gold Mine & Elixir Collector": "8",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "8",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "2"
+      },
+      {
+        "TH Level": "5",
+        "Gold Mine & Elixir Collector": "10",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "9",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "2"
+      },
+      {
+        "TH Level": "6",
+        "Gold Mine & Elixir Collector": "10",
+        "Dark Elixir Drill": "-",
+        "Gold & Elixir Storage": "10",
+        "Dark Elixir Storage": "-",
+        "Clan Castle": "3"
+      },
+      {
+        "TH Level": "7",
+        "Gold Mine & Elixir Collector": "11",
+        "Dark Elixir Drill": "3",
+        "Gold & Elixir Storage": "11",
+        "Dark Elixir Storage": "2",
+        "Clan Castle": "3"
+      },
+      {
+        "TH Level": "8",
+        "Gold Mine & Elixir Collector": "12",
+        "Dark Elixir Drill": "3",
+        "Gold & Elixir Storage": "11",
+        "Dark Elixir Storage": "4",
+        "Clan Castle": "4"
+      },
+      {
+        "TH Level": "9",
+        "Gold Mine & Elixir Collector": "12",
+        "Dark Elixir Drill": "6",
+        "Gold & Elixir Storage": "11",
+        "Dark Elixir Storage": "6",
+        "Clan Castle": "5"
+      },
+      {
+        "TH Level": "10",
+        "Gold Mine & Elixir Collector": "13",
+        "Dark Elixir Drill": "7",
+        "Gold & Elixir Storage": "11",
+        "Dark Elixir Storage": "6",
+        "Clan Castle": "6"
+      },
+      {
+        "TH Level": "11",
+        "Gold Mine & Elixir Collector": "14",
+        "Dark Elixir Drill": "8",
+        "Gold & Elixir Storage": "12",
+        "Dark Elixir Storage": "6",
+        "Clan Castle": "7"
+      },
+      {
+        "TH Level": "12",
+        "Gold Mine & Elixir Collector": "15",
+        "Dark Elixir Drill": "9",
+        "Gold & Elixir Storage": "13",
+        "Dark Elixir Storage": "7",
+        "Clan Castle": "8"
+      },
+      {
+        "TH Level": "13",
+        "Gold Mine & Elixir Collector": "15",
+        "Dark Elixir Drill": "9",
+        "Gold & Elixir Storage": "14",
+        "Dark Elixir Storage": "8",
+        "Clan Castle": "9"
+      },
+      {
+        "TH Level": "14",
+        "Gold Mine & Elixir Collector": "16",
+        "Dark Elixir Drill": "10",
+        "Gold & Elixir Storage": "15",
+        "Dark Elixir Storage": "9",
+        "Clan Castle": "10"
+      },
+      {
+        "TH Level": "15",
+        "Gold Mine & Elixir Collector": "16",
+        "Dark Elixir Drill": "10",
+        "Gold & Elixir Storage": "16",
+        "Dark Elixir Storage": "10",
+        "Clan Castle": "11"
+      },
+      {
+        "TH Level": "16",
+        "Gold Mine & Elixir Collector": "17",
+        "Dark Elixir Drill": "11",
+        "Gold & Elixir Storage": "17",
+        "Dark Elixir Storage": "11",
+        "Clan Castle": "12"
+      },
+      {
+        "TH Level": "17",
+        "Gold Mine & Elixir Collector": "17",
+        "Dark Elixir Drill": "11",
+        "Gold & Elixir Storage": "18",
+        "Dark Elixir Storage": "12",
+        "Clan Castle": "13"
+      },
+      {
+        "TH Level": "18",
+        "Gold Mine & Elixir Collector": "17 + 3",
+        "Dark Elixir Drill": "11 + 3",
+        "Gold & Elixir Storage": "19",
+        "Dark Elixir Storage": "13",
+        "Clan Castle": "14"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Army Camp": "1",
+        "Barracks": "1",
+        "Laboratory": "-",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "2",
+        "Army Camp": "1",
+        "Barracks": "1",
+        "Laboratory": "-",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "3",
+        "Army Camp": "2",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "4",
+        "Army Camp": "2",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "5",
+        "Army Camp": "3",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "6",
+        "Army Camp": "3",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "7",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "8",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "9",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "10",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "11",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "12",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "1",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "13",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "1",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "14-18",
+        "Army Camp": "4",
+        "Barracks": "1",
+        "Laboratory": "1",
+        "Spell Factory": "1",
+        "Dark Barracks": "1",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "1",
+        "Blacksmith": "1",
+        "Workshop": "1",
+        "Pet House": "1"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Army Camp": "1",
+        "Barracks": "3",
+        "Laboratory": "-",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "2",
+        "Army Camp": "2",
+        "Barracks": "4",
+        "Laboratory": "-",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "3",
+        "Army Camp": "3",
+        "Barracks": "5",
+        "Laboratory": "1",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "4",
+        "Army Camp": "4",
+        "Barracks": "6",
+        "Laboratory": "2",
+        "Spell Factory": "-",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "5",
+        "Army Camp": "5",
+        "Barracks": "7",
+        "Laboratory": "3",
+        "Spell Factory": "1",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "6",
+        "Army Camp": "6",
+        "Barracks": "8",
+        "Laboratory": "4",
+        "Spell Factory": "2",
+        "Dark Barracks": "-",
+        "Hero Hall": "-",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "7",
+        "Army Camp": "6",
+        "Barracks": "9",
+        "Laboratory": "5",
+        "Spell Factory": "3",
+        "Dark Barracks": "2",
+        "Hero Hall": "1",
+        "Dark Spell Factory": "-",
+        "Blacksmith": "-",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "8",
+        "Army Camp": "6",
+        "Barracks": "10",
+        "Laboratory": "6",
+        "Spell Factory": "3",
+        "Dark Barracks": "4",
+        "Hero Hall": "2",
+        "Dark Spell Factory": "2",
+        "Blacksmith": "1",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "9",
+        "Army Camp": "7",
+        "Barracks": "11",
+        "Laboratory": "7",
+        "Spell Factory": "4",
+        "Dark Barracks": "6",
+        "Hero Hall": "3",
+        "Dark Spell Factory": "4",
+        "Blacksmith": "2",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "10",
+        "Army Camp": "8",
+        "Barracks": "12",
+        "Laboratory": "8",
+        "Spell Factory": "5",
+        "Dark Barracks": "7",
+        "Hero Hall": "4",
+        "Dark Spell Factory": "5",
+        "Blacksmith": "3",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "11",
+        "Army Camp": "9",
+        "Barracks": "13",
+        "Laboratory": "9",
+        "Spell Factory": "6",
+        "Dark Barracks": "8",
+        "Hero Hall": "5",
+        "Dark Spell Factory": "5",
+        "Blacksmith": "4",
+        "Workshop": "-",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "12",
+        "Army Camp": "10",
+        "Barracks": "14",
+        "Laboratory": "10",
+        "Spell Factory": "6",
+        "Dark Barracks": "9",
+        "Hero Hall": "6",
+        "Dark Spell Factory": "6",
+        "Blacksmith": "5",
+        "Workshop": "3",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "13",
+        "Army Camp": "11",
+        "Barracks": "15",
+        "Laboratory": "11",
+        "Spell Factory": "7",
+        "Dark Barracks": "10",
+        "Hero Hall": "7",
+        "Dark Spell Factory": "6",
+        "Blacksmith": "6",
+        "Workshop": "5",
+        "Pet House": "-"
+      },
+      {
+        "TH Level": "14",
+        "Army Camp": "11",
+        "Barracks": "16",
+        "Laboratory": "12",
+        "Spell Factory": "7",
+        "Dark Barracks": "11",
+        "Hero Hall": "8",
+        "Dark Spell Factory": "7",
+        "Blacksmith": "7",
+        "Workshop": "6",
+        "Pet House": "4"
+      },
+      {
+        "TH Level": "15",
+        "Army Camp": "12",
+        "Barracks": "17",
+        "Laboratory": "13",
+        "Spell Factory": "8",
+        "Dark Barracks": "12",
+        "Hero Hall": "9",
+        "Dark Spell Factory": "8",
+        "Blacksmith": "8",
+        "Workshop": "7",
+        "Pet House": "8"
+      },
+      {
+        "TH Level": "16",
+        "Army Camp": "12",
+        "Barracks": "18",
+        "Laboratory": "14",
+        "Spell Factory": "8",
+        "Dark Barracks": "13",
+        "Hero Hall": "10",
+        "Dark Spell Factory": "8",
+        "Blacksmith": "9",
+        "Workshop": "8",
+        "Pet House": "10"
+      },
+      {
+        "TH Level": "17",
+        "Army Camp": "13",
+        "Barracks": "18",
+        "Laboratory": "15",
+        "Spell Factory": "8",
+        "Dark Barracks": "13",
+        "Hero Hall": "11",
+        "Dark Spell Factory": "8",
+        "Blacksmith": "9",
+        "Workshop": "9",
+        "Pet House": "11"
+      },
+      {
+        "TH Level": "18",
+        "Army Camp": "14",
+        "Barracks": "19",
+        "Laboratory": "16",
+        "Spell Factory": "9",
+        "Dark Barracks": "13",
+        "Hero Hall": "12",
+        "Dark Spell Factory": "8",
+        "Blacksmith": "9",
+        "Workshop": "9",
+        "Pet House": "12"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Cannon": "1",
+        "Archer Tower": "-",
+        "Wall": "-",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "2",
+        "Cannon": "2",
+        "Archer Tower": "1",
+        "Wall": "25",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "3",
+        "Cannon": "2",
+        "Archer Tower": "1",
+        "Wall": "50",
+        "Mortar": "1",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "4",
+        "Cannon": "2",
+        "Archer Tower": "2",
+        "Wall": "75",
+        "Mortar": "1",
+        "Air Defense": "1",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "5",
+        "Cannon": "3",
+        "Archer Tower": "3",
+        "Wall": "100",
+        "Mortar": "1",
+        "Air Defense": "1",
+        "Wizard Tower": "1",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "6",
+        "Cannon": "3",
+        "Archer Tower": "3",
+        "Wall": "125",
+        "Mortar": "2",
+        "Air Defense": "2",
+        "Wizard Tower": "2",
+        "Air Sweeper": "1",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "7",
+        "Cannon": "5",
+        "Archer Tower": "4",
+        "Wall": "175",
+        "Mortar": "3",
+        "Air Defense": "3",
+        "Wizard Tower": "2",
+        "Air Sweeper": "1",
+        "Hidden Tesla": "2",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "8",
+        "Cannon": "5",
+        "Archer Tower": "5",
+        "Wall": "225",
+        "Mortar": "4",
+        "Air Defense": "3",
+        "Wizard Tower": "3",
+        "Air Sweeper": "1",
+        "Hidden Tesla": "3",
+        "Bomb Tower": "1",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "9",
+        "Cannon": "5",
+        "Archer Tower": "6",
+        "Wall": "250",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "4",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "4",
+        "Bomb Tower": "1",
+        "X-Bow": "2",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "10",
+        "Cannon": "6",
+        "Archer Tower": "7",
+        "Wall": "275",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "4",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "4",
+        "Bomb Tower": "2",
+        "X-Bow": "3",
+        "Inferno Tower": "2",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "11",
+        "Cannon": "7",
+        "Archer Tower": "8",
+        "Wall": "300",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "5",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "4",
+        "Bomb Tower": "2",
+        "X-Bow": "4",
+        "Inferno Tower": "2",
+        "Eagle Artillery": "1",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "12",
+        "Cannon": "7",
+        "Archer Tower": "8",
+        "Wall": "300",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "5",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "5",
+        "Bomb Tower": "2",
+        "X-Bow": "4",
+        "Inferno Tower": "3",
+        "Eagle Artillery": "1",
+        "Giga Tesla": "1"
+      },
+      {
+        "TH Level": "13-15",
+        "Cannon": "7",
+        "Archer Tower": "8",
+        "Wall": "325",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "5",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "5",
+        "Bomb Tower": "2",
+        "X-Bow": "4",
+        "Inferno Tower": "3",
+        "Eagle Artillery": "1",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "16",
+        "Cannon": "3*",
+        "Archer Tower": "4*",
+        "Wall": "325",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "5",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "5",
+        "Bomb Tower": "2",
+        "X-Bow": "4",
+        "Inferno Tower": "3",
+        "Eagle Artillery": "1",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "17",
+        "Cannon": "0*",
+        "Archer Tower": "2*",
+        "Wall": "325",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "5",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "5",
+        "Bomb Tower": "2",
+        "X-Bow": "4",
+        "Inferno Tower": "3",
+        "Eagle Artillery": "0*",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "18",
+        "Cannon": "-",
+        "Archer Tower": "2",
+        "Wall": "325",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "2*",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "5",
+        "Bomb Tower": "2",
+        "X-Bow": "4",
+        "Inferno Tower": "3",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "TH Level",
+        "Cannon": "Giga Inferno †",
+        "Archer Tower": "Scattershot",
+        "Wall": "Builder's Hut #",
+        "Mortar": "Spell Tower",
+        "Air Defense": "Monolith",
+        "Wizard Tower": "Multi-Archer Tower",
+        "Air Sweeper": "Ricochet Cannon",
+        "Hidden Tesla": "Inferno Artillery",
+        "Bomb Tower": "Multi-Gear Tower",
+        "X-Bow": "Firespitter",
+        "Inferno Tower": "Revenge Tower",
+        "Eagle Artillery": "Crafting Station",
+        "Giga Tesla": "Super Wizard Tower"
+      },
+      {
+        "TH Level": "1-12",
+        "Cannon": "-",
+        "Archer Tower": "-",
+        "Wall": "5",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "13",
+        "Cannon": "1",
+        "Archer Tower": "2",
+        "Wall": "5",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "14",
+        "Cannon": "1",
+        "Archer Tower": "2",
+        "Wall": "5",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "15",
+        "Cannon": "1",
+        "Archer Tower": "2",
+        "Wall": "5",
+        "Mortar": "2",
+        "Air Defense": "1",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "16",
+        "Cannon": "1",
+        "Archer Tower": "2",
+        "Wall": "5",
+        "Mortar": "2",
+        "Air Defense": "1",
+        "Wizard Tower": "2",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "17",
+        "Cannon": "-",
+        "Archer Tower": "2",
+        "Wall": "5",
+        "Mortar": "2",
+        "Air Defense": "1",
+        "Wizard Tower": "3",
+        "Air Sweeper": "3",
+        "Hidden Tesla": "1",
+        "Bomb Tower": "1",
+        "X-Bow": "2",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "18",
+        "Cannon": "-",
+        "Archer Tower": "2",
+        "Wall": "5",
+        "Mortar": "2",
+        "Air Defense": "1",
+        "Wizard Tower": "3",
+        "Air Sweeper": "3",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "1",
+        "X-Bow": "2",
+        "Inferno Tower": "1",
+        "Eagle Artillery": "1",
+        "Giga Tesla": "2"
+      }
+    ],
+    [
+      {
+        "TH Level": "1",
+        "Cannon": "2*",
+        "Archer Tower": "-",
+        "Wall **": "-",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "2",
+        "Cannon": "3",
+        "Archer Tower": "2",
+        "Wall **": "2",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "3",
+        "Cannon": "4",
+        "Archer Tower": "3",
+        "Wall **": "3",
+        "Mortar": "1",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "4",
+        "Cannon": "5",
+        "Archer Tower": "4",
+        "Wall **": "4",
+        "Mortar": "2",
+        "Air Defense": "2",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "5",
+        "Cannon": "6",
+        "Archer Tower": "6",
+        "Wall **": "5",
+        "Mortar": "3",
+        "Air Defense": "3",
+        "Wizard Tower": "2",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "6",
+        "Cannon": "7",
+        "Archer Tower": "7",
+        "Wall **": "6",
+        "Mortar": "4",
+        "Air Defense": "4",
+        "Wizard Tower": "3",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "7",
+        "Cannon": "8",
+        "Archer Tower": "8",
+        "Wall **": "7",
+        "Mortar": "5",
+        "Air Defense": "5",
+        "Wizard Tower": "4",
+        "Air Sweeper": "3",
+        "Hidden Tesla": "3",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "8",
+        "Cannon": "10",
+        "Archer Tower": "10",
+        "Wall **": "8",
+        "Mortar": "6",
+        "Air Defense": "6",
+        "Wizard Tower": "6",
+        "Air Sweeper": "4",
+        "Hidden Tesla": "6",
+        "Bomb Tower": "2",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "9",
+        "Cannon": "11",
+        "Archer Tower": "11",
+        "Wall **": "10",
+        "Mortar": "7",
+        "Air Defense": "7",
+        "Wizard Tower": "7",
+        "Air Sweeper": "5",
+        "Hidden Tesla": "7",
+        "Bomb Tower": "3",
+        "X-Bow": "3",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "10",
+        "Cannon": "13",
+        "Archer Tower": "13",
+        "Wall **": "11",
+        "Mortar": "8",
+        "Air Defense": "8",
+        "Wizard Tower": "9",
+        "Air Sweeper": "6",
+        "Hidden Tesla": "8",
+        "Bomb Tower": "4",
+        "X-Bow": "4",
+        "Inferno Tower": "3",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "11",
+        "Cannon": "15",
+        "Archer Tower": "15",
+        "Wall **": "12",
+        "Mortar": "10",
+        "Air Defense": "9",
+        "Wizard Tower": "10",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "9",
+        "Bomb Tower": "6",
+        "X-Bow": "5",
+        "Inferno Tower": "5",
+        "Eagle Artillery": "2",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "12",
+        "Cannon": "17",
+        "Archer Tower": "17",
+        "Wall **": "13",
+        "Mortar": "12",
+        "Air Defense": "10",
+        "Wizard Tower": "11",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "10",
+        "Bomb Tower": "7",
+        "X-Bow": "6",
+        "Inferno Tower": "6",
+        "Eagle Artillery": "3",
+        "Giga Tesla": "1"
+      },
+      {
+        "TH Level": "13",
+        "Cannon": "19",
+        "Archer Tower": "19",
+        "Wall **": "14",
+        "Mortar": "13",
+        "Air Defense": "11",
+        "Wizard Tower": "13",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "12",
+        "Bomb Tower": "8",
+        "X-Bow": "8",
+        "Inferno Tower": "7",
+        "Eagle Artillery": "4",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "14",
+        "Cannon": "20",
+        "Archer Tower": "20",
+        "Wall **": "15",
+        "Mortar": "14",
+        "Air Defense": "12",
+        "Wizard Tower": "14",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "13",
+        "Bomb Tower": "9",
+        "X-Bow": "9",
+        "Inferno Tower": "8",
+        "Eagle Artillery": "5",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "15",
+        "Cannon": "21",
+        "Archer Tower": "21",
+        "Wall **": "16",
+        "Mortar": "15",
+        "Air Defense": "13",
+        "Wizard Tower": "15",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "14",
+        "Bomb Tower": "10",
+        "X-Bow": "10",
+        "Inferno Tower": "9",
+        "Eagle Artillery": "6",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "16",
+        "Cannon": "21",
+        "Archer Tower": "21",
+        "Wall **": "17",
+        "Mortar": "16",
+        "Air Defense": "14",
+        "Wizard Tower": "16",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "15",
+        "Bomb Tower": "11",
+        "X-Bow": "11",
+        "Inferno Tower": "10",
+        "Eagle Artillery": "7",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "17",
+        "Cannon": "21",
+        "Archer Tower": "21",
+        "Wall **": "18",
+        "Mortar": "17",
+        "Air Defense": "15",
+        "Wizard Tower": "17",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "16",
+        "Bomb Tower": "12",
+        "X-Bow": "12 + 2",
+        "Inferno Tower": "11",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "18",
+        "Cannon": "-",
+        "Archer Tower": "21",
+        "Wall **": "19",
+        "Mortar": "18",
+        "Air Defense": "16 + 2",
+        "Wizard Tower": "17",
+        "Air Sweeper": "7",
+        "Hidden Tesla": "17",
+        "Bomb Tower": "13 + 2",
+        "X-Bow": "12 + 2",
+        "Inferno Tower": "12",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "TH Level",
+        "Cannon": "Giga Inferno",
+        "Archer Tower": "Scattershot",
+        "Wall **": "Builder's Hut #",
+        "Mortar": "Spell Tower",
+        "Air Defense": "Monolith",
+        "Wizard Tower": "Ricochet Cannon",
+        "Air Sweeper": "Multi-Archer Tower",
+        "Hidden Tesla": "Inferno Artillery",
+        "Bomb Tower": "Multi-Gear Tower",
+        "X-Bow": "Firespitter",
+        "Inferno Tower": "Revenge Tower",
+        "Eagle Artillery": "Crafting Station",
+        "Giga Tesla": "Super Wizard Tower"
+      },
+      {
+        "TH Level": "1-12",
+        "Cannon": "-",
+        "Archer Tower": "-",
+        "Wall **": "1",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "13",
+        "Cannon": "1",
+        "Archer Tower": "2",
+        "Wall **": "1",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "14",
+        "Cannon": "1",
+        "Archer Tower": "3",
+        "Wall **": "4",
+        "Mortar": "-",
+        "Air Defense": "-",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "15",
+        "Cannon": "1",
+        "Archer Tower": "4",
+        "Wall **": "5",
+        "Mortar": "3",
+        "Air Defense": "2",
+        "Wizard Tower": "-",
+        "Air Sweeper": "-",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "16",
+        "Cannon": "1",
+        "Archer Tower": "5",
+        "Wall **": "6",
+        "Mortar": "3",
+        "Air Defense": "3",
+        "Wizard Tower": "2",
+        "Air Sweeper": "2",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "-",
+        "X-Bow": "-",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "17",
+        "Cannon": "-",
+        "Archer Tower": "6 + 2",
+        "Wall **": "7 + 2",
+        "Mortar": "4",
+        "Air Defense": "4 + 2",
+        "Wizard Tower": "3",
+        "Air Sweeper": "3",
+        "Hidden Tesla": "5",
+        "Bomb Tower": "2",
+        "X-Bow": "2",
+        "Inferno Tower": "-",
+        "Eagle Artillery": "-",
+        "Giga Tesla": "-"
+      },
+      {
+        "TH Level": "18",
+        "Cannon": "-",
+        "Archer Tower": "6 + 2",
+        "Wall **": "7 + 2",
+        "Mortar": "4",
+        "Air Defense": "4 + 2",
+        "Wizard Tower": "4 + 2",
+        "Air Sweeper": "4 + 2",
+        "Hidden Tesla": "-",
+        "Bomb Tower": "3 + 2",
+        "X-Bow": "3",
+        "Inferno Tower": "2",
+        "Eagle Artillery": "1",
+        "Giga Tesla": "2 + 2"
+      }
+    ],
+    [
+      {
+        "TH Level": "1-2",
+        "Bomb": "-",
+        "Spring Trap": "-",
+        "Air Bomb": "-",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "3",
+        "Bomb": "2",
+        "Spring Trap": "-",
+        "Air Bomb": "-",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "4",
+        "Bomb": "2",
+        "Spring Trap": "2",
+        "Air Bomb": "-",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "5",
+        "Bomb": "4",
+        "Spring Trap": "2",
+        "Air Bomb": "2",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "6",
+        "Bomb": "4",
+        "Spring Trap": "4",
+        "Air Bomb": "2",
+        "Giant Bomb": "1",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "7",
+        "Bomb": "6",
+        "Spring Trap": "4",
+        "Air Bomb": "2",
+        "Giant Bomb": "2",
+        "Seeking Air Mine": "1",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "8",
+        "Bomb": "6",
+        "Spring Trap": "6",
+        "Air Bomb": "4",
+        "Giant Bomb": "3",
+        "Seeking Air Mine": "2",
+        "Skeleton Trap": "2",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "9",
+        "Bomb": "6",
+        "Spring Trap": "6",
+        "Air Bomb": "4",
+        "Giant Bomb": "4",
+        "Seeking Air Mine": "4",
+        "Skeleton Trap": "2",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "10",
+        "Bomb": "6",
+        "Spring Trap": "6",
+        "Air Bomb": "5",
+        "Giant Bomb": "5",
+        "Seeking Air Mine": "5",
+        "Skeleton Trap": "3",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "11",
+        "Bomb": "6",
+        "Spring Trap": "6",
+        "Air Bomb": "5",
+        "Giant Bomb": "5",
+        "Seeking Air Mine": "5",
+        "Skeleton Trap": "3",
+        "Tornado Trap": "1",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "12",
+        "Bomb": "6",
+        "Spring Trap": "8",
+        "Air Bomb": "6",
+        "Giant Bomb": "6",
+        "Seeking Air Mine": "6",
+        "Skeleton Trap": "3",
+        "Tornado Trap": "1",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "13",
+        "Bomb": "7",
+        "Spring Trap": "9",
+        "Air Bomb": "6",
+        "Giant Bomb": "6",
+        "Seeking Air Mine": "7",
+        "Skeleton Trap": "3",
+        "Tornado Trap": "1",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "14-16",
+        "Bomb": "8",
+        "Spring Trap": "9",
+        "Air Bomb": "7",
+        "Giant Bomb": "7",
+        "Seeking Air Mine": "8",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "1",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "17",
+        "Bomb": "8",
+        "Spring Trap": "9",
+        "Air Bomb": "7",
+        "Giant Bomb": "8",
+        "Seeking Air Mine": "9",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "1",
+        "Giga Bomb": "1"
+      },
+      {
+        "TH Level": "18",
+        "Bomb": "8",
+        "Spring Trap": "9",
+        "Air Bomb": "8",
+        "Giant Bomb": "8",
+        "Seeking Air Mine": "9",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "1",
+        "Giga Bomb": "1"
+      }
+    ],
+    [
+      {
+        "TH Level": "1-2",
+        "Bomb": "-",
+        "Spring Trap": "-",
+        "Air Bomb": "-",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "3",
+        "Bomb": "2",
+        "Spring Trap": "-",
+        "Air Bomb": "-",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "4",
+        "Bomb": "2",
+        "Spring Trap": "1",
+        "Air Bomb": "-",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "5",
+        "Bomb": "3",
+        "Spring Trap": "1",
+        "Air Bomb": "2",
+        "Giant Bomb": "-",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "6",
+        "Bomb": "3",
+        "Spring Trap": "1",
+        "Air Bomb": "2",
+        "Giant Bomb": "2",
+        "Seeking Air Mine": "-",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "7",
+        "Bomb": "4",
+        "Spring Trap": "2",
+        "Air Bomb": "3",
+        "Giant Bomb": "2",
+        "Seeking Air Mine": "1",
+        "Skeleton Trap": "-",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "8",
+        "Bomb": "5",
+        "Spring Trap": "3",
+        "Air Bomb": "3",
+        "Giant Bomb": "3",
+        "Seeking Air Mine": "1",
+        "Skeleton Trap": "2",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "9",
+        "Bomb": "6",
+        "Spring Trap": "4",
+        "Air Bomb": "4",
+        "Giant Bomb": "3",
+        "Seeking Air Mine": "2",
+        "Skeleton Trap": "3",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "10",
+        "Bomb": "7",
+        "Spring Trap": "5",
+        "Air Bomb": "4",
+        "Giant Bomb": "4",
+        "Seeking Air Mine": "3",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "-",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "11",
+        "Bomb": "8",
+        "Spring Trap": "6",
+        "Air Bomb": "5",
+        "Giant Bomb": "5",
+        "Seeking Air Mine": "3",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "2",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "12",
+        "Bomb": "8",
+        "Spring Trap": "7",
+        "Air Bomb": "6",
+        "Giant Bomb": "5",
+        "Seeking Air Mine": "3",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "3",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "13",
+        "Bomb": "9",
+        "Spring Trap": "8",
+        "Air Bomb": "8",
+        "Giant Bomb": "7",
+        "Seeking Air Mine": "4",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "3",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "14",
+        "Bomb": "10",
+        "Spring Trap": "9",
+        "Air Bomb": "9",
+        "Giant Bomb": "8",
+        "Seeking Air Mine": "4",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "3",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "15",
+        "Bomb": "11",
+        "Spring Trap": "10",
+        "Air Bomb": "10",
+        "Giant Bomb": "9",
+        "Seeking Air Mine": "5",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "3",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "16",
+        "Bomb": "12",
+        "Spring Trap": "11",
+        "Air Bomb": "11",
+        "Giant Bomb": "10",
+        "Seeking Air Mine": "6",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "3",
+        "Giga Bomb": "-"
+      },
+      {
+        "TH Level": "17",
+        "Bomb": "13",
+        "Spring Trap": "12",
+        "Air Bomb": "12",
+        "Giant Bomb": "11",
+        "Seeking Air Mine": "7",
+        "Skeleton Trap": "4",
+        "Tornado Trap": "3",
+        "Giga Bomb": "3"
+      },
+      {
+        "TH Level": "18",
+        "Bomb": "14",
+        "Spring Trap": "13",
+        "Air Bomb": "13",
+        "Giant Bomb": "11",
+        "Seeking Air Mine": "7",
+        "Skeleton Trap": "5",
+        "Tornado Trap": "3",
+        "Giga Bomb": "3"
+      }
+    ],
+    [
+      {
+        "Town Hall Level Difference": "4 or more levels higher",
+        "Percentage of Loot Available": "200%"
+      },
+      {
+        "Town Hall Level Difference": "3 levels higher",
+        "Percentage of Loot Available": "175%"
+      },
+      {
+        "Town Hall Level Difference": "2 levels higher",
+        "Percentage of Loot Available": "150%"
+      },
+      {
+        "Town Hall Level Difference": "1 level higher",
+        "Percentage of Loot Available": "120%"
+      },
+      {
+        "Town Hall Level Difference": "Same level",
+        "Percentage of Loot Available": "100%"
+      },
+      {
+        "Town Hall Level Difference": "1 level lower",
+        "Percentage of Loot Available": "80%"
+      },
+      {
+        "Town Hall Level Difference": "2 levels lower",
+        "Percentage of Loot Available": "50%"
+      },
+      {
+        "Town Hall Level Difference": "3 levels lower",
+        "Percentage of Loot Available": "25%"
+      },
+      {
+        "Town Hall Level Difference": "4 or more levels lower",
+        "Percentage of Loot Available": "5%"
+      }
+    ],
+    [
+      {
+        "Town Hall Level": "1",
+        "Percentage of Event Loot Available": "1%"
+      },
+      {
+        "Town Hall Level": "2",
+        "Percentage of Event Loot Available": "2%"
+      },
+      {
+        "Town Hall Level": "3",
+        "Percentage of Event Loot Available": "3%"
+      },
+      {
+        "Town Hall Level": "4",
+        "Percentage of Event Loot Available": "5%"
+      },
+      {
+        "Town Hall Level": "5",
+        "Percentage of Event Loot Available": "8%"
+      },
+      {
+        "Town Hall Level": "6",
+        "Percentage of Event Loot Available": "16%"
+      },
+      {
+        "Town Hall Level": "7",
+        "Percentage of Event Loot Available": "30%"
+      },
+      {
+        "Town Hall Level": "8",
+        "Percentage of Event Loot Available": "50%"
+      },
+      {
+        "Town Hall Level": "9",
+        "Percentage of Event Loot Available": "65%"
+      },
+      {
+        "Town Hall Level": "10",
+        "Percentage of Event Loot Available": "80%"
+      },
+      {
+        "Town Hall Level": "11",
+        "Percentage of Event Loot Available": "90%"
+      },
+      {
+        "Town Hall Level": "12",
+        "Percentage of Event Loot Available": "95%"
+      },
+      {
+        "Town Hall Level": "13 or higher",
+        "Percentage of Event Loot Available": "100%"
+      }
+    ],
+    [
+      {
+        "Bigger & Better": "Description"
+      },
+      {
+        "Bigger & Better": "Upgrade Town Hall to level 3"
+      },
+      {
+        "Bigger & Better": "Upgrade Town Hall to level 5"
+      },
+      {
+        "Bigger & Better": "Upgrade Town Hall to level 8"
+      },
+      {
+        "Bigger & Better": "Not So Easy This Time"
+      },
+      {
+        "Bigger & Better": "Destroy 10 weaponized Town Halls in Multiplayer battles"
+      },
+      {
+        "Bigger & Better": "Destroy 100 weaponized Town Halls in Multiplayer battles"
+      },
+      {
+        "Bigger & Better": "Destroy 2,000 weaponized Town Halls in Multiplayer battles"
+      },
+      {
+        "Bigger & Better": "Anti-Artillery"
+      },
+      {
+        "Bigger & Better": "Destroy 20 Eagle and Inferno Artilleries in Multiplayer battles"
+      },
+      {
+        "Bigger & Better": "Destroy 200 Eagle and Inferno Artilleries in Multiplayer battles"
+      },
+      {
+        "Bigger & Better": "Destroy 2,000 Eagle and Inferno Artilleries in Multiplayer battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon begins upgrading the Town Hall to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Town Hall is at maximum level, or if the weapon for this Town Hall is not maxed, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon instantly upgrades the Town Hall to the next level, at the cost of one Hammer of Building if you have one. When the Town Hall is at maximum level, or if the weapon for this Town Hall is not maxed, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is shown only when the Town Hall at level 17, begins upgrading the Inferno Artillery to the next level, if you have enough resources and a free Builder (or B.O.B). When the Town Hall's weapon is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is shown only when the Town Hall is level 17, instantly upgrades the Inferno Artillery to the next level, at the cost of one Hammer of Building if you have one. When the Town Hall's weapon is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon displays information about your inventory of Magic Items ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon allows you to change between any Sceneries that you have unlocked."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon opens the Chief's Journey interface."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "This icon informs you about the countdown timer of a Star Bonus boost due to a recent Town Hall upgrade."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Town Hall, such as Level, Elixir Storage Capacity, Gold Storage Capacity, and Hitpoints.": "Tapping this icon, which is shown only when the Town Hall at level 18, allows you to see the information of the Guardians , including their statistics."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

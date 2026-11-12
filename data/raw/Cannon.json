@@ -1,0 +1,1104 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "2",
+        "2": "2",
+        "3": "2",
+        "4": "2",
+        "5": "3",
+        "6": "3",
+        "7": "5",
+        "8": "5",
+        "9": "5"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "6",
+        "2": "7",
+        "3": "7",
+        "4": "7",
+        "5": "7",
+        "6": "7",
+        "7": "7/3*",
+        "8": "7/0*",
+        "9": "7/0*"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "7",
+        "Damage per Shot": "5.6",
+        "Hitpoints": "300",
+        "Build Cost": "250",
+        "Build Time": "5s",
+        "Experience Gained": "2",
+        "Town Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "10",
+        "Damage per Shot": "8",
+        "Hitpoints": "360",
+        "Build Cost": "1,000",
+        "Build Time": "30s",
+        "Experience Gained": "5",
+        "Town Hall Level Required": "1"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "13",
+        "Damage per Shot": "10.4",
+        "Hitpoints": "420",
+        "Build Cost": "4,000",
+        "Build Time": "2m",
+        "Experience Gained": "10",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "17",
+        "Damage per Shot": "13.6",
+        "Hitpoints": "500",
+        "Build Cost": "16,000",
+        "Build Time": "20m",
+        "Experience Gained": "34",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "23",
+        "Damage per Shot": "18.4",
+        "Hitpoints": "600",
+        "Build Cost": "50,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "30",
+        "Damage per Shot": "24",
+        "Hitpoints": "660",
+        "Build Cost": "60,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "40",
+        "Damage per Shot": "32",
+        "Hitpoints": "730",
+        "Build Cost": "100,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "48",
+        "Damage per Shot": "38.4",
+        "Hitpoints": "800",
+        "Build Cost": "160,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "56",
+        "Damage per Shot": "44.8",
+        "Hitpoints": "880",
+        "Build Cost": "250,000",
+        "Build Time": "3h 30m",
+        "Experience Gained": "112",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "64",
+        "Damage per Shot": "51.2",
+        "Hitpoints": "960",
+        "Build Cost": "330,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "74",
+        "Damage per Shot": "59.2",
+        "Hitpoints": "1,060",
+        "Build Cost": "500,000",
+        "Build Time": "4h 30m",
+        "Experience Gained": "127",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "85",
+        "Damage per Shot": "68",
+        "Hitpoints": "1,160",
+        "Build Cost": "600,000",
+        "Build Time": "5h",
+        "Experience Gained": "134",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "95",
+        "Damage per Shot": "76",
+        "Hitpoints": "1,260",
+        "Build Cost": "660,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "100",
+        "Damage per Shot": "80",
+        "Hitpoints": "1,380",
+        "Build Cost": "1,000,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "105",
+        "Damage per Shot": "84",
+        "Hitpoints": "1,500",
+        "Build Cost": "1,200,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "110",
+        "Damage per Shot": "88",
+        "Hitpoints": "1,620",
+        "Build Cost": "1,300,000",
+        "Build Time": "11h",
+        "Experience Gained": "198",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "115",
+        "Damage per Shot": "92",
+        "Hitpoints": "1,740",
+        "Build Cost": "1,500,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "125",
+        "Damage per Shot": "100",
+        "Hitpoints": "1,870",
+        "Build Cost": "1,800,000",
+        "Build Time": "16h",
+        "Experience Gained": "240",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "135",
+        "Damage per Shot": "108",
+        "Hitpoints": "2,000",
+        "Build Cost": "2,000,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "150",
+        "Damage per Shot": "120",
+        "Hitpoints": "2,150",
+        "Build Cost": "2,600,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "160",
+        "Damage per Shot": "128",
+        "Hitpoints": "2,250",
+        "Build Cost": "3,000,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Range": "9",
+        "Attack Speed": "0.8s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second*": "N/A",
+        "Damage per Hit**": "N/A",
+        "Hitpoints": "420",
+        "Build Cost": "250",
+        "Build Time": "5s",
+        "Experience Gained": "2",
+        "Town Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second*": "N/A",
+        "Damage per Hit**": "N/A",
+        "Hitpoints": "470",
+        "Build Cost": "1,000",
+        "Build Time": "30s",
+        "Experience Gained": "5",
+        "Town Hall Level Required": "1"
+      },
+      {
+        "Level": "3",
+        "Damage per Second*": "N/A",
+        "Damage per Hit**": "N/A",
+        "Hitpoints": "520",
+        "Build Cost": "4,000",
+        "Build Time": "2m",
+        "Experience Gained": "10",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "4",
+        "Damage per Second*": "N/A",
+        "Damage per Hit**": "N/A",
+        "Hitpoints": "570",
+        "Build Cost": "16,000",
+        "Build Time": "20m",
+        "Experience Gained": "34",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "5",
+        "Damage per Second*": "N/A",
+        "Damage per Hit**": "N/A",
+        "Hitpoints": "620",
+        "Build Cost": "50,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "6",
+        "Damage per Second*": "N/A",
+        "Damage per Hit**": "N/A",
+        "Hitpoints": "670",
+        "Build Cost": "100,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "7",
+        "Damage per Second*": "80",
+        "Damage per Hit**": "43.52",
+        "Hitpoints": "730",
+        "Build Cost": "100,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "8",
+        "Damage per Second*": "95",
+        "Damage per Hit**": "52.22",
+        "Hitpoints": "800",
+        "Build Cost": "160,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "9",
+        "Damage per Second*": "111",
+        "Damage per Hit**": "60.92",
+        "Hitpoints": "880",
+        "Build Cost": "250,000",
+        "Build Time": "3h 30m",
+        "Experience Gained": "112",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "10",
+        "Damage per Second*": "127",
+        "Damage per Hit**": "69.63",
+        "Hitpoints": "960",
+        "Build Cost": "330,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "11",
+        "Damage per Second*": "147",
+        "Damage per Hit**": "80.51",
+        "Hitpoints": "1,060",
+        "Build Cost": "500,000",
+        "Build Time": "4h 30m",
+        "Experience Gained": "127",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Damage per Second*": "170",
+        "Damage per Hit**": "92.48",
+        "Hitpoints": "1,160",
+        "Build Cost": "600,000",
+        "Build Time": "5h",
+        "Experience Gained": "134",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "13",
+        "Damage per Second*": "190",
+        "Damage per Hit**": "103.36",
+        "Hitpoints": "1,260",
+        "Build Cost": "660,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "14",
+        "Damage per Second*": "200",
+        "Damage per Hit**": "108.8",
+        "Hitpoints": "1,380",
+        "Build Cost": "1,000,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "15",
+        "Damage per Second*": "210",
+        "Damage per Hit**": "114.24",
+        "Hitpoints": "1,500",
+        "Build Cost": "1,200,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "16",
+        "Damage per Second*": "220",
+        "Damage per Hit**": "119.68",
+        "Hitpoints": "1,620",
+        "Build Cost": "1,300,000",
+        "Build Time": "11h",
+        "Experience Gained": "198",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "17",
+        "Damage per Second*": "230",
+        "Damage per Hit**": "125.12",
+        "Hitpoints": "1,740",
+        "Build Cost": "1,500,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "18",
+        "Damage per Second*": "250",
+        "Damage per Hit**": "136",
+        "Hitpoints": "1,870",
+        "Build Cost": "1,800,000",
+        "Build Time": "16h",
+        "Experience Gained": "240",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "19",
+        "Damage per Second*": "270",
+        "Damage per Hit**": "146.88",
+        "Hitpoints": "2,000",
+        "Build Cost": "2,000,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "20",
+        "Damage per Second*": "300",
+        "Damage per Hit**": "163.2",
+        "Hitpoints": "2,150",
+        "Build Cost": "2,600,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "21",
+        "Damage per Second*": "320",
+        "Damage per Hit**": "174.08",
+        "Hitpoints": "2,250",
+        "Build Cost": "3,000,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Attack Speed": "0.192s",
+        "Time Between Bursts": "1.6s",
+        "Shots Per Burst": "4 shots",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "Gear Up Cost": "1,000,000",
+        "Gear Up Time": "2d",
+        "Home Village Cannon Level Required": "7",
+        "Double Cannon Level Required": "4"
+      }
+    ],
+    [
+      {
+        "High Gear": "Description"
+      },
+      {
+        "High Gear": "Gear up 1 building using the Master Builder"
+      },
+      {
+        "High Gear": "Gear up 2 buildings using the Master Builder"
+      },
+      {
+        "High Gear": "Gear up 3 buildings using the Master Builder"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Cannon to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Cannon is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Cannon to the next level, at the cost of one Hammer of Building if you have one. When the Cannon is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon gears up the Cannon, if you have upgraded it enough to do so, have enough resources and a free Master Builder . If any Cannon is already geared up, this icon will not appear."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon informs you that the Cannon cannot be geared up because it is insufficiently upgraded. Tapping this icon will tell you the required level to gear up this Cannon. If any Cannon is already geared up, this icon will not appear."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Cannon is currently set to Normal mode, to attack units in the usual manner. Tapping this icon switches the Cannon to Burst mode. This icon only appears when the Cannon is geared up, and is in Normal mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Cannon is currently set to Burst mode, to attack units with burst shots. Tapping this icon switches the Cannon to Normal mode. This icon only appears when the Cannon is geared up, and is in Burst mode."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "The Cannon was present in the original release of the game, with 10 levels and four of them to build. At level 2, the whole Cannon is bigger and the base receives a wooden stabilizer tied to the legs with ropes. At level 3, the wood of rotational mount is now one whole piece instead of multiple wooden planks. The base itself rotates 45 degrees and the leg stabilizer becomes stouter. At level 4, the barrel is bigger and receives two decorative latitudinal ridges, one midway along the barrel and one at the rear. The platform's leg stabilizer is removed in favor of a larger and stouter main support platform with the rotational mount is fitted inside and has shorter legs. At level 5, the circular metal plate becomes bigger and the wooden legs are replaced with metal ones with a rivet. At level 6, the wood of rotational mount is replaced with metal. The base receives riveted metal plates on the sides of the platform to anchor the barrel more firmly to the rotational mount. At level 7, the barrel's decorative center ridges are thicker and trimmed to be more pointed, one more is added around the muzzle, and the middle is made of gold. The wooden base is discarded for a bigger white stone platform with four short gold-trimmed wooden legs. At level 8, the rear decorative ridge also becomes gold and the rotational mount is raised. A pair of gold plate is added to the right edge of the platform and its opposing side. At level 9, the muzzle decorative ridge also becomes gold and the bottom rotational mount has a straight edge. There are two additional gold plates perpendicular to the first pair and they are all wider, the side of them also receive a steel bolt with a gold top."
+      },
+      {
+        "Date": "September 12, 2012",
+        "Type": "Balance Changes",
+        "Description": "Improved the Cannon at level 5 onwards."
+      },
+      {
+        "Date": "October 27, 2012",
+        "Type": "Update",
+        "Description": "Added the level 11 Cannon."
+      },
+      {
+        "Date": "November 19, 2012",
+        "Type": "Update",
+        "Description": "Added the fifth Cannon available at Town Hall 9."
+      },
+      {
+        "Date": "January 20, 2013",
+        "Type": "Update",
+        "Description": "Made the fifth Cannon available at Town Hall 7."
+      },
+      {
+        "Date": "May 23, 2013",
+        "Type": "Update",
+        "Description": "Added the sixth Cannon available at Town Hall 10."
+      },
+      {
+        "Date": "June 17, 2013",
+        "Type": "Update",
+        "Description": "Added the level 12 Cannon."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Type": "Update",
+        "Description": "Increased hitpoints at almost all levels."
+      },
+      {
+        "Date": "February 24, 2015",
+        "Type": "Update",
+        "Description": "Added the level 13 Cannon."
+      },
+      {
+        "Date": "April 30, 2015",
+        "Type": "Update",
+        "Description": "Reduced the level 1 Cannon's building time from 1 minute to 10 seconds. Allowed its range to be visible even when under construction. Cannons now initially point away from the Town Hall in combat."
+      },
+      {
+        "Date": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Increased hitpoints at level 7 onwards."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Type": "Update",
+        "Description": "Added the seventh Cannon available at Town Hall level 11."
+      },
+      {
+        "Date": "May 24, 2016",
+        "Type": "Update",
+        "Description": "Added the level 14 Cannon."
+      },
+      {
+        "Date": "August 25, 2016",
+        "Type": "Balance Changes",
+        "Description": "Increased damage at level 11 onwards."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 12 and 13."
+      },
+      {
+        "Date": "May 22, 2017",
+        "Type": "Update",
+        "Description": "Allowed the Cannon to be geared up, starting at level 7."
+      },
+      {
+        "Date": "June 27, 2017",
+        "Type": "Update",
+        "Description": "Added the level 15 Cannon. Reduced upgrade costs at levels 10 to 14."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 16 Cannon."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 4 to 15."
+      },
+      {
+        "Date": "February 22, 2019",
+        "Type": "Update",
+        "Description": "Reduced damages at level 10 onwards."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Added the level 17 Cannon. Reduced upgrade times at levels 7 to 16. Reduced upgrade costs at levels 10 to 16."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 18 Cannon."
+      },
+      {
+        "Date": "January 16, 2020",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoint at level 18 from 1,860 to 1,870."
+      },
+      {
+        "Date": "February 28, 2020",
+        "Type": "Balance Changes",
+        "Description": "Reduced damages at levels 16 and 17. Level 16: 125 -> 124 Level 17: 132 -> 130"
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Made the gear up show properly in village preview."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Added the level 19 Cannon."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Type": "Town Hall 14 Update",
+        "Description": "Added the level 20 Cannon. Reduced upgrade times at levels 2 to 14 (except for levels 7 and 9). Reduced upgrade costs at levels 9 to 16."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at level 8 to 19."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Town Hall 15 Update",
+        "Description": "Added the level 21 Cannon."
+      },
+      {
+        "Date": "May 15, 2023",
+        "Type": "Update",
+        "Description": "Replaced the level 2 Cannon texture with the level 3 Cannon texture. Replaced the level 3 Cannon texture with the level 6 Cannon texture. Added new textures for levels 4 to 9."
+      },
+      {
+        "Date": "September 28, 2023",
+        "Type": "Balance Changes",
+        "Description": "Reduced damages at level 12 to 20: Level 12: 87 -> 85 (118 -> 116 in Burst mode) Level 13: 100 -> 95 (135 -> 129 in Burst mode) Level 14: 110 -> 105 (148 -> 143 in Burst mode) Level 15: 118 -> 115 (159 -> 156 in Burst mode) Level 16: 124 -> 120 (167 -> 162 in Burst mode) Level 17: 130 -> 125 (175 -> 170 in Burst mode) Level 18: 139 -> 130 (186 -> 175 in Burst mode) Level 19: 146 -> 140 (197 -> 189 in Burst mode) Level 20: 154 -> 150 (208 -> 202 in Burst mode)"
+      },
+      {
+        "Date": "June 3, 2024",
+        "Type": "Balance Changes",
+        "Description": "Reduced damages of level 14 to 19 (normal mode only): Level 14: 105 -> 100 Level 15: 115 -> 105 Level 16: 120 -> 110 Level 17: 125 -> 115 Level 18: 130 -> 125 Level 19: 140 -> 135"
+      },
+      {
+        "Date": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Reduced upgrade cost at levels 15 to 21: Level 15: 2,500,000 -> 2,200,000 Level 16: 4,000,000 -> 2,500,000 Level 17: 5,000,000 -> 3,000,000 Level 18: 6,000,000 -> 3,500,000 Level 19: 6,500,000 -> 4,000,000 Level 20: 10,000,000 -> 5,000,000 Level 21: 12,000,000 -> 6,000,000 Reduced upgrade times at levels 8 to 21 (except 10 and 11): Level 8: 8h -> 6h Level 9: 10h -> 8h Level 12: 18h -> 14h Level 13: 18h -> 16h Level 14: 1d -> 18h Level 15: 1d -> 20h Level 16: 2d -> 1d Level 17: 2d -> 1d 12h Level 18: 3d -> 2d Level 19: 3d -> 2d 12h Level 20: 4d -> 3d Level 21: 5d -> 3d 12h"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced upgrade cost at levels 13, 15, 17, and 19: Level 13: 1,700,000 -> 1,000,000 Level 15: 2,200,000 -> 1,500,000 Level 17: 3,000,000 -> 1,500,000 Level 19: 4,000,000 -> 2,000,000 Reduced upgrade times at levels 2, 3, 10, 13, 15, 17, and 19: Level 2: 2m -> 1m Level 3: 10m -> 5m Level 10: 10h -> 4h Level 13: 16h -> 6h Level 15: 20h -> 12h Level 17: 1d 12h -> 12h Level 19: 2d 12h -> 1d"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 6 to 21 (except 17 and 19), and Gear Up: Level 6: 100,000 -> 60,000 Level 7: 150,000 -> 100,000 Level 8: 240,000 -> 160,000 Level 9: 360,000 -> 250,000 Level 10: 500,000 -> 330,000 Level 11: 800,000 -> 500,000 Level 12: 900,000 -> 600,000 Level 13: 1,000,000 -> 660,000 Level 14: 2,000,000 -> 1,000,000 Level 15: 1,500,000 -> 1,200,000 Level 16: 2,500,000 -> 1,300,000 Level 18: 3,500,000 -> 1,800,000 Level 20: 5,000,000 -> 2,600,000 Level 21: 6,000,000 -> 3,000,000 Gear Up: 1,500,000 -> 1,000,000 Reduced upgrade times at all levels except 10, 13, 17, and 19: Level 1: 10s -> 5s Level 2: 1m -> 30s Level 3: 5m -> 2m Level 4: 45m -> 20m Level 5: 1h -> 30m Level 6: 2h -> 1h Level 7: 4h -> 2h Level 8: 6h -> 3h Level 9: 8h -> 3h 30m Level 11: 12h -> 4h 30m Level 12: 14h -> 5h Level 14: 18h -> 8h Level 15: 12h -> 10h Level 16: 1d -> 11h Level 18: 2d -> 20h Level 20: 3d -> 1d 12h Level 21: 3d 12h -> 2d"
+      },
+      {
+        "Date": "February 23, 2026",
+        "Type": "Update",
+        "Description": "Increased and updated display damage per second of the Geared-Up Cannon: Level 7: 54 -> 80 Level 8: 64 -> 95 Level 9: 75 -> 111 Level 10: 86 -> 127 Level 11: 100 -> 147 Level 12: 116 -> 170 Level 13: 129 -> 190 Level 14: 143 -> 200 Level 15: 156 -> 210 Level 16: 162 -> 220 Level 17: 170 -> 230 Level 18: 175 -> 250 Level 19: 189 -> 270 Level 20: 202 -> 300 Level 21: 216 -> 320 Increased the damage per hit of the Geared-Up Cannon by 36%: Level 7: 32 -> 43.52 Level 8: 38.4 -> 52.22 Level 9: 44.8 -> 60.92 Level 10: 51.2 -> 69.63 Level 11: 59.2 -> 80.51 Level 12: 68 -> 92.48 Level 13: 76 -> 103.36 Level 14: 80 -> 108.8 Level 15: 84 -> 114.24 Level 16: 88 -> 119.68 Level 17: 92 -> 125.12 Level 18: 100 -> 136 Level 19: 108 -> 146.88 Level 20: 120 -> 163.2 Level 21: 128 -> 174.08"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_Shoot.ogg",
+        "Captions": "Cannon fires",
+        "Description": "When the Cannon attacks ground units within its range"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Generic_Hit.ogg",
+        "Captions": "Cannonball hits target",
+        "Description": "When the Cannon's cannonball hits a ground unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_Picked_Up.ogg",
+        "Captions": "Cannon selected",
+        "Description": "When the Cannon is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_place.ogg",
+        "Captions": "Cannon placed",
+        "Description": "When the Cannon is placed"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "Builder Hall Level": "2"
+      },
+      {
+        "Number Available": "Total",
+        "Builder Hall Level": "1"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "70",
+        "Damage per Shot": "56",
+        "Hitpoints": "500",
+        "Build Cost": "10,000",
+        "Build Time": "1m",
+        "Experience Gained": "7",
+        "Builder Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "77",
+        "Damage per Shot": "62",
+        "Hitpoints": "575",
+        "Build Cost": "20,000",
+        "Build Time": "5m",
+        "Experience Gained": "17",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "85",
+        "Damage per Shot": "68",
+        "Hitpoints": "660",
+        "Build Cost": "50,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "93",
+        "Damage per Shot": "74",
+        "Hitpoints": "760",
+        "Build Cost": "200,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Builder Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "102",
+        "Damage per Shot": "82",
+        "Hitpoints": "875",
+        "Build Cost": "600,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Builder Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "112",
+        "Damage per Shot": "90",
+        "Hitpoints": "1,050",
+        "Build Cost": "1,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Builder Hall Level Required": "6"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "123",
+        "Damage per Shot": "98",
+        "Hitpoints": "1,250",
+        "Build Cost": "1,800,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Builder Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "136",
+        "Damage per Shot": "109",
+        "Hitpoints": "1,450",
+        "Build Cost": "2,500,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Builder Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "150",
+        "Damage per Shot": "120",
+        "Hitpoints": "1,650",
+        "Build Cost": "3,300,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Builder Hall Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "165",
+        "Damage per Shot": "132",
+        "Hitpoints": "1,850",
+        "Build Cost": "4,500,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Builder Hall Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Range": "8.5",
+        "Attack Speed": "0.8s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Cannon to the next level, if you have enough resources and a free Master Builder or O.T.T.O . When the Cannon is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Cannon to the next level, at the cost of one Hammer of Building if you have one. When the Cannon is at maximum level, or the Builder Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Builder Base Buildings": "Defensive Buildings"
+      },
+      {
+        "Builder Base Buildings": "Resource Buildings"
+      },
+      {
+        "Builder Base Buildings": "Army Buildings"
+      },
+      {
+        "Builder Base Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "Capital Hall Level": "Number Available",
+        "1": "4",
+        "2": "4",
+        "3": "4",
+        "4": "4",
+        "5": "4",
+        "6": "5",
+        "7": "6",
+        "8": "6",
+        "9": "6",
+        "10": "6"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Barbarian Camp",
+        "District Hall Level": "4"
+      },
+      {
+        "Number Available": "Wizard Valley",
+        "District Hall Level": "4"
+      },
+      {
+        "Number Available": "Balloon Lagoon",
+        "District Hall Level": "8"
+      },
+      {
+        "Number Available": "Builder's Workshop",
+        "District Hall Level": "5"
+      },
+      {
+        "Number Available": "Dragon Cliffs",
+        "District Hall Level": "5"
+      },
+      {
+        "Number Available": "Golem Quarry",
+        "District Hall Level": "8"
+      },
+      {
+        "Number Available": "Skeleton Park",
+        "District Hall Level": "5"
+      },
+      {
+        "Number Available": "Goblin Mines",
+        "District Hall Level": "1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "130",
+        "Damage per Shot": "195",
+        "Hitpoints": "1,250",
+        "Build Cost": "2,500",
+        "Capital Hall Level Required": "1",
+        "District Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "150",
+        "Damage per Shot": "225",
+        "Hitpoints": "1,450",
+        "Build Cost": "5,000",
+        "Capital Hall Level Required": "2",
+        "District Hall Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "170",
+        "Damage per Shot": "255",
+        "Hitpoints": "1,650",
+        "Build Cost": "10,000",
+        "Capital Hall Level Required": "4",
+        "District Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "190",
+        "Damage per Shot": "285",
+        "Hitpoints": "1,850",
+        "Build Cost": "18,000",
+        "Capital Hall Level Required": "6",
+        "District Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "210",
+        "Damage per Shot": "315",
+        "Hitpoints": "2,050",
+        "Build Cost": "30,000",
+        "Capital Hall Level Required": "9",
+        "District Hall Level Required": "5"
+      }
+    ],
+    [
+      {
+        "Range": "8",
+        "Attack Speed": "1.5s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon contributes the Capital Gold you have into upgrading the Cannon to the next level. When the Cannon is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon marks the building's upgrade to the next level as a priority for the Clan, pinning it as a recommended upgrade for Clan members. This icon is only shown if the upgrade is possible, is not already prioritized and if the player is Leader or a Co-leader of their Clan."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon stops marking the building's upgrade to the next level as a priority for the Clan. This icon is only shown if the upgrade is possible, is being prioritized and if the player is Leader or a Co-leader of their Clan."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_Shoot.ogg",
+        "Captions": "Cannon fires",
+        "Description": "When the Cannon attacks ground units within its range"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Generic_Hit.ogg",
+        "Captions": "Cannonball hits target",
+        "Description": "When the Cannon's cannonball hits a ground unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_Picked_Up.ogg",
+        "Captions": "Cannon selected",
+        "Description": "When the Cannon is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_place.ogg",
+        "Captions": "Cannon placed",
+        "Description": "When the Cannon is placed"
+      }
+    ],
+    [
+      {
+        "Clan Capital Buildings": "Defensive Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Army Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

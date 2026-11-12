@@ -1,0 +1,232 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Resources (Damage x2)",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "1",
+        "Movement Speed": "32",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "4",
+        "Range": "0.4 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "11",
+        "Damage per Attack": "11",
+        "DPS on Resource Buildings": "22",
+        "Hitpoints": "25",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "14",
+        "Damage per Attack": "14",
+        "DPS on Resource Buildings": "28",
+        "Hitpoints": "30",
+        "Research Cost": "45,000",
+        "Research Time": "2h",
+        "Laboratory Level Required": "1"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "19",
+        "Damage per Attack": "19",
+        "DPS on Resource Buildings": "38",
+        "Hitpoints": "36",
+        "Research Cost": "100,000",
+        "Research Time": "3h",
+        "Laboratory Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "24",
+        "Damage per Attack": "24",
+        "DPS on Resource Buildings": "48",
+        "Hitpoints": "50",
+        "Research Cost": "500,000",
+        "Research Time": "6h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "32",
+        "Damage per Attack": "32",
+        "DPS on Resource Buildings": "64",
+        "Hitpoints": "65",
+        "Research Cost": "700,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "42",
+        "Damage per Attack": "42",
+        "DPS on Resource Buildings": "84",
+        "Hitpoints": "80",
+        "Research Cost": "1,600,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "52",
+        "Damage per Attack": "52",
+        "DPS on Resource Buildings": "104",
+        "Hitpoints": "105",
+        "Research Cost": "2,200,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "62",
+        "Damage per Attack": "62",
+        "DPS on Resource Buildings": "124",
+        "Hitpoints": "126",
+        "Research Cost": "3,700,000",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "72",
+        "Damage per Attack": "72",
+        "DPS on Resource Buildings": "144",
+        "Hitpoints": "146",
+        "Research Cost": "8,000,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "82",
+        "Damage per Attack": "82",
+        "DPS on Resource Buildings": "164",
+        "Hitpoints": "166",
+        "Research Cost": "26,000,000",
+        "Research Time": "14d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Sneaky Goblin",
+        "Boost Cost": "25,000",
+        "Goblin Level Required": "7"
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "The Goblin was in the original release of the game, with five levels."
+      },
+      {
+        "Date": "September 18, 2012",
+        "Type": "Update",
+        "Description": "The upgraded Goblin shows pink asterisks that represents the level."
+      },
+      {
+        "Date": "November 6, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Goblin."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Type": "Update",
+        "Description": "Rearranged the Goblin to be the fourth troop unlocked in the Barracks , swapping with the Giant . Prior to this update, the Goblin was the third troop unlocked and the Giant was the fourth."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Type": "Update",
+        "Description": "Goblins now target the Town Hall and Clan Castle with double damage as they are considered as Resource Buildings."
+      },
+      {
+        "Date": "March 21, 2016",
+        "Type": "\"The Bowler \" Update",
+        "Description": "Added the level 7 Goblin for Town Hall 10. Moved the level 6 Goblin to Town Hall 9."
+      },
+      {
+        "Date": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Gave the Goblin a significant change in his icon and info."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 2 to 5."
+      },
+      {
+        "Date": "February 22, 2019",
+        "Type": "Update",
+        "Description": "Increased hitpoint at level 4 and above."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 5 to 7."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Added the level 8 Goblin. Reduced upgrade costs at level 5 to 7."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times for the Goblin at all levels. Increased hitpoints at levels 4 to 7: Level 4: 46 -> 50 Level 5: 56 -> 65 Level 6: 76 -> 80 Level 7: 101 -> 105"
+      },
+      {
+        "Date": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 9 Goblin. Reduced upgrade time for level 8 from 8d to 7d. Reduced upgrade cost for level 8 from 6,300,000 to 5,600,000."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 8 and 9: Level 8: 3d -> 2d 6h Level 9: 5d 12h -> 5d"
+      },
+      {
+        "Date": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Added the level 10 Goblin."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}

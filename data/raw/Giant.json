@@ -1,0 +1,308 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Melee (Ground only)",
+        "Housing Space": "5",
+        "Movement Speed": "12",
+        "Attack Speed": "2s",
+        "Barracks Level Required": "3",
+        "Range": "1 tile"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "12",
+        "Damage per Attack": "24",
+        "Hitpoints": "400",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "15",
+        "Damage per Attack": "30",
+        "Hitpoints": "500",
+        "Research Cost": "40,000",
+        "Research Time": "2h",
+        "Laboratory Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "20",
+        "Damage per Attack": "40",
+        "Hitpoints": "600",
+        "Research Cost": "150,000",
+        "Research Time": "4h",
+        "Laboratory Level Required": "4"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "24",
+        "Damage per Attack": "48",
+        "Hitpoints": "700",
+        "Research Cost": "400,000",
+        "Research Time": "6h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "31",
+        "Damage per Attack": "62",
+        "Hitpoints": "900",
+        "Research Cost": "800,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "43",
+        "Damage per Attack": "86",
+        "Hitpoints": "1,100",
+        "Research Cost": "1,500,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "55",
+        "Damage per Attack": "110",
+        "Hitpoints": "1,300",
+        "Research Cost": "2,300,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "62",
+        "Damage per Attack": "124",
+        "Hitpoints": "1,500",
+        "Research Cost": "2,600,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "70",
+        "Damage per Attack": "140",
+        "Hitpoints": "1,850",
+        "Research Cost": "3,400,000",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "78",
+        "Damage per Attack": "156",
+        "Hitpoints": "2,000",
+        "Research Cost": "5,000,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "86",
+        "Damage per Attack": "172",
+        "Hitpoints": "2,200",
+        "Research Cost": "7,500,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "94",
+        "Damage per Attack": "188",
+        "Hitpoints": "2,400",
+        "Research Cost": "10,000,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "104",
+        "Damage per Attack": "208",
+        "Hitpoints": "2,700",
+        "Research Cost": "15,000,000",
+        "Research Time": "9d 12h",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "114",
+        "Damage per Attack": "228",
+        "Hitpoints": "3,000",
+        "Research Cost": "25,000,000",
+        "Research Time": "13d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Giant",
+        "Boost Cost": "25,000",
+        "Giant Level Required": "9"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Type": "The Giant was in the original release of the game with 5 levels."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Type": "Update",
+        "Description": "The Giant at level 3-4 and 5 now have upgrade differences. The Giant visualized with pink asterisks that represent his level."
+      },
+      {
+        "Patch": "February 5, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Giant."
+      },
+      {
+        "Patch": "September 30, 2013",
+        "Type": "Update",
+        "Description": "Increased the hitpoints and damage of level 6 Giant."
+      },
+      {
+        "Patch": "November 6, 2013",
+        "Type": "Update",
+        "Description": "Slightly increased hitpoints and damage of level 6 Giant."
+      },
+      {
+        "Patch": "December 5, 2013",
+        "Type": "Update",
+        "Description": "Slightly increased hitpoints and damage of level 6 Giant."
+      },
+      {
+        "Patch": "December 11, 2014",
+        "Type": "Update",
+        "Description": "Added the level 7 Giant. Swapped Giant's unlock order in the Barracks with the Goblin , He is now the third troop unlocked in the Barracks, with the Goblin being moved back to be the fourth. Reduced training cost of levels 1 to 5 Giant by 250."
+      },
+      {
+        "Patch": "July 20, 2016",
+        "Type": "Update",
+        "Description": "Added the level 8 Giant."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Gave the Giant a significant change in his info, icon, and 2D sprites."
+      },
+      {
+        "Patch": "December 18, 2017",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 5, 7, and 8: Level 5: 670 -> 720 Level 7: 1,100 -> 1,220 Level 8: 1,260 -> 1,440"
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 9 Giant. Increased hitpoints at levels 7 and 8: Level 7: 1,220 -> 1,280 Level 8: 1,440 -> 1,480"
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 1 to 7."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Increased cost of gem donation for Giant."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 5 to 8."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Increased hitpoints of Giants Level 8: 1,480 -> 1,500 Level 9: 1,660 -> 1,850"
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 5 to 9."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Added the Level 10 Giant."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Decreased training costs at levels 1 to 4: Level 1: 250 -> 150 Level 2: 750 -> 300 Level 3: 1,250 -> 750 Level 4: 1,750 -> 1,500"
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times of Giants at all levels. Increased hitpoints at levels 3 to 7: Level 3: 430 -> 450 Level 4: 520 -> 600 Level 5: 720 -> 800 Level 6: 940 -> 1,100 Level 7: 1,280 -> 1,300"
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Type": "Update",
+        "Description": "Increased damages at levels 7 to 10: Level 7: 50 -> 55 Level 8: 57 -> 62 Level 9: 64 -> 70 Level 10: 72 -> 78"
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Giant."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 12 Giant."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Update",
+        "Description": "Added the level 13 Giant."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at level 9 to 12: Level 9: 2d 18h -> 2d 6h Level 10: 4d -> 3d Level 11: 5d -> 4d Level 12: 6d -> 5d 12h"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the level 14 Giant. Increase damage at level 13 from 102 to 104. Increase hitpoint at level 13 from 2,600 to 2,700. Reduced upgrade time at level 13 from 13d 12h to 9d 5h. Reduced upgrade cost at level 13 from 18,500,000 to 15,000,000."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "2",
+        "7": "3",
+        "8": "4",
+        "9": "4"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "4",
+        "2": "4",
+        "3": "4",
+        "4": "4",
+        "5": "4",
+        "6": "4",
+        "7": "4",
+        "8": "4",
+        "9": "4"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "4",
+        "Damage per Hit": "20",
+        "Hitpoints": "400",
+        "Cost": "5,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "5",
+        "Damage per Hit": "25",
+        "Hitpoints": "450",
+        "Cost": "25,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "6",
+        "Damage per Hit": "30",
+        "Hitpoints": "500",
+        "Cost": "90,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "7",
+        "Damage per Hit": "35",
+        "Hitpoints": "550",
+        "Cost": "180,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "9",
+        "Damage per Hit": "45",
+        "Hitpoints": "600",
+        "Cost": "300,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "11",
+        "Damage per Hit": "55",
+        "Hitpoints": "650",
+        "Cost": "500,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "15",
+        "Damage per Hit": "75",
+        "Hitpoints": "700",
+        "Cost": "900,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "20",
+        "Damage per Hit": "100",
+        "Hitpoints": "800",
+        "Cost": "1,200,000",
+        "Build Time": "18h",
+        "Experience Gained": "254",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "25",
+        "Damage per Hit": "125",
+        "Hitpoints": "950",
+        "Cost": "1,600,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "30",
+        "Damage per Hit": "150",
+        "Hitpoints": "1,100",
+        "Cost": "1,800,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "35",
+        "Damage per Hit": "175",
+        "Hitpoints": "1,300",
+        "Cost": "2,300,000",
+        "Build Time": "1d 6h",
+        "Experience Gained": "328",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "38",
+        "Damage per Hit": "190",
+        "Hitpoints": "1,500",
+        "Cost": "2,400,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "42",
+        "Damage per Hit": "210",
+        "Hitpoints": "1,700",
+        "Cost": "2,800,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "48",
+        "Damage per Hit": "240",
+        "Hitpoints": "1,950",
+        "Cost": "4,300,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "54",
+        "Damage per Hit": "270",
+        "Hitpoints": "2,150",
+        "Cost": "5,000,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "60",
+        "Damage per Hit": "300",
+        "Hitpoints": "2,300",
+        "Cost": "7,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "66",
+        "Damage per Hit": "330",
+        "Hitpoints": "2,450",
+        "Cost": "13,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "72",
+        "Damage per Hit": "360",
+        "Hitpoints": "2,550",
+        "Cost": "21,000,000",
+        "Build Time": "12d 12h",
+        "Experience Gained": "1,039",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "4-11",
+        "Attack Speed": "5s",
+        "Damage Type": "Splash (1.5 tiles)",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "400",
+        "Cost": "5,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "450",
+        "Cost": "25,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "500",
+        "Cost": "90,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "550",
+        "Cost": "180,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "600",
+        "Cost": "300,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "650",
+        "Cost": "500,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Hitpoints": "700",
+        "Cost": "900,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "25",
+        "Damage per Shot": "41.6",
+        "Hitpoints": "800",
+        "Cost": "1,200,000",
+        "Build Time": "18h",
+        "Experience Gained": "254",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "30",
+        "Damage per Shot": "51.58",
+        "Hitpoints": "950",
+        "Cost": "1,600,000",
+        "Build Time": "20h",
+        "Experience Gained": "268",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "37",
+        "Damage per Shot": "63.23",
+        "Hitpoints": "1,100",
+        "Cost": "1,800,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "42",
+        "Damage per Shot": "71.55",
+        "Hitpoints": "1,300",
+        "Cost": "2,300,000",
+        "Build Time": "1d 6h",
+        "Experience Gained": "328",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "46",
+        "Damage per Shot": "78.20",
+        "Hitpoints": "1,500",
+        "Cost": "2,400,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "51",
+        "Damage per Shot": "86.52",
+        "Hitpoints": "1,700",
+        "Cost": "2,800,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "58",
+        "Damage per Shot": "98.17",
+        "Hitpoints": "1,950",
+        "Cost": "4,300,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "65",
+        "Damage per Shot": "109.82",
+        "Hitpoints": "2,150",
+        "Cost": "5,000,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "73",
+        "Damage per Shot": "123.13",
+        "Hitpoints": "2,300",
+        "Cost": "7,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "80",
+        "Damage per Shot": "134.78",
+        "Hitpoints": "2,450",
+        "Cost": "13,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "88",
+        "Damage per Shot": "148.09",
+        "Hitpoints": "2,550",
+        "Cost": "21,000,000",
+        "Build Time": "12d 12h",
+        "Experience Gained": "1,039",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "4-11",
+        "Attack Speed": "0.5s",
+        "Time Between Bursts": "4.0s",
+        "Shots Per Burst": "3 shots",
+        "Damage Type": "Splash (1.5 tiles)",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "75",
+        "Damage per Shot": "375",
+        "Hitpoints": "2,550",
+        "Cost": "9,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "75",
+        "Damage per Shot": "375",
+        "Hitpoints": "2,625",
+        "Cost": "7,000,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "91",
+        "Damage per Shot": "153.08",
+        "Hitpoints": "2,550",
+        "Cost": "9,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "91",
+        "Damage per Shot": "153.08",
+        "Hitpoints": "2,625",
+        "Cost": "7,000,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Town Hall Level Required": "17"
+      }
+    ],
+    [
+      {
+        "Gear Up Cost": "6,000,000",
+        "Gear Up Time": "14d",
+        "Home Village Mortar Level Required": "8",
+        "Multi Mortar Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Mortar Mauler": "Description"
+      },
+      {
+        "Mortar Mauler": "Destroy 25 Mortars in Multiplayer battles"
+      },
+      {
+        "Mortar Mauler": "Destroy 500 Mortars in Multiplayer battles"
+      },
+      {
+        "Mortar Mauler": "Destroy 5,000 Mortars in Multiplayer battles"
+      },
+      {
+        "Mortar Mauler": "High Gear"
+      },
+      {
+        "Mortar Mauler": "Gear up 1 building using the Master Builder"
+      },
+      {
+        "Mortar Mauler": "Gear up 2 buildings using the Master Builder"
+      },
+      {
+        "Mortar Mauler": "Gear up 3 buildings using the Master Builder"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Mortar to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Mortar is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed Mortar to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Mortar is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Mortar to the next level, at the cost of one Hammer of Building if you have one. When the Mortar is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon gears up the Mortar, if you have upgraded it enough to do so, have enough resources and a free Master Builder . If any Mortar is already geared up, this icon will not appear."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon informs you that the Mortar cannot be geared up because it is insufficiently upgraded. Tapping this icon will tell you the required level to gear up this Mortar. If any Mortar is already geared up, this icon will not appear."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Mortar is currently set to Normal mode, to attack units in the usual manner. Tapping this icon switches the Mortar to Burst mode. This icon only appears when the Mortar is geared up, and is in Normal mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Mortar, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the Mortar is currently set to Burst mode, to attack units with burst shots. Tapping this icon switches the Mortar to Normal mode. This icon only appears when the Mortar is geared up, and is in Burst mode."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "The Mortar was in the original release of the game with 6 levels and three of them to unlock."
+      },
+      {
+        "Date": "October 27, 2012",
+        "Type": "Halloween Update",
+        "Description": "Added the level 7 Mortar."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Type": "Update",
+        "Description": "The Mortar achievement, \"Mortar Mauler\" was added."
+      },
+      {
+        "Date": "April 17, 2013",
+        "Type": "Update",
+        "Description": "The Mortar now does not restart their attack cycle if their would-be target is destroyed, instead they switch targets."
+      },
+      {
+        "Date": "September 30, 2013",
+        "Type": "Update",
+        "Description": "Added the level 8 Mortar."
+      },
+      {
+        "Date": "October 22, 2014",
+        "Type": "Update",
+        "Description": "Added the fourth Mortar available at Town Hall 8."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 5 to 8."
+      },
+      {
+        "Date": "April 30, 2015",
+        "Type": "Update",
+        "Description": "Allowed Mortar's range to be visible even when under construction. Mortars now initially point away from the Town Hall in combat."
+      },
+      {
+        "Date": "March 21, 2016",
+        "Type": "The Bowler Update",
+        "Description": "Added the level 9 Mortar."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Type": "Friendly Wars Update",
+        "Description": "Added the level 10 Mortar. Increased damage at levels 8 to 9. Reduced upgrade costs at levels 8 to 9."
+      },
+      {
+        "Date": "March 5, 2018",
+        "Type": "Builder Hall 8 Update",
+        "Description": "Allowed the Mortar to be geared up, starting at level 8."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Town Hall 12 Update",
+        "Description": "Added the level 11 Mortar."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times of levels 1 to 10."
+      },
+      {
+        "Date": "February 22, 2019",
+        "Type": "Balance Changes",
+        "Description": "Increased damage at level 5 onwards."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced build time from 5h to 3h."
+      },
+      {
+        "Date": "June 18, 2019",
+        "Type": "Update",
+        "Description": "Added the level 12 Mortar. Reduced the upgrade time at level 11 from 14 days to 12 days."
+      },
+      {
+        "Date": "September 11, 2019",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoints at level 12 from 950 to 980."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Type": "Town Hall 13 Update",
+        "Description": "Increased the burst-mode Mortar's damage by 10% at all levels."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Added the level 13 Mortar. The gear up show properly in village preview."
+      },
+      {
+        "Date": "April 12 2021",
+        "Type": "Town Hall 14 Update",
+        "Description": "Reduced upgrade times of levels 2 to 8, and 10. Reduced build costs of levels 1 to 11."
+      },
+      {
+        "Date": "September 27 2021",
+        "Type": "Update",
+        "Description": "Added the level 14 Mortar."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs of levels 4 to 13."
+      },
+      {
+        "Date": "January 20, 2022",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoints at levels 8 to 14: Level 8: 750 -> 800 Level 9: 800 -> 900 Level 10: 850 -> 1,000 Level 11: 900 -> 1,100 Level 12: 980 -> 1,200 Level 13: 1,100 -> 1,400 Level 14: 1,250 -> 1,600"
+      },
+      {
+        "Date": "June 27, 2022",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 9 to 14: Level 9: 900 -> 950 Level 10: 1,000 -> 1,100 Level 11: 1,100 -> 1,300 Level 12: 1,200 -> 1,500 Level 13: 1,400 -> 1,700 Level 14: 1,600 -> 1,950"
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 15 Mortar."
+      },
+      {
+        "Date": "May 15, 2023",
+        "Type": "Update",
+        "Description": "Added new textures for Mortar levels 1 to 3."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Type": "Town Hall 16 Update",
+        "Description": "Added the level 16 Mortar. Reduced upgrade times at levels 4 to 15: Level 4: 1d -> 18h Level 5: 2d -> 1d Level 6: 2d 12h -> 2d Level 7: 3d -> 2d 12h Level 8: 3d 6h -> 2d 12h Level 9: 4d 6h -> 3d Level 10: 5d 12h -> 3d Level 11: 7d 12h -> 7d Level 12: 8d 18h -> 7d Level 13: 9d -> 7d 12h Level 14: 17d -> 12d Level 15: 18d -> 13d 12h Reduced upgrade costs at levels 5 to 10, and 14: Level 5: 400,000 -> 300,000 Level 6: 750,000 -> 560,000 Level 7: 1,500,000 -> 1,300,000 Level 8: 3,000,000 -> 1,900,000 Level 9: 3,500,000 -> 2,500,000 Level 10: 4,800,000 -> 3,500,000 Level 14: 16,500,000 -> 15,000,000"
+      },
+      {
+        "Date": "September 9, 2024",
+        "Type": "Update",
+        "Description": "Added 2 Supercharge levels for the Mortar."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Added the level 17 Mortar. Reduced upgrade times at levels 10 and 12: Level 10: 2d -> 1d Level 12: 3d -> 1d 12h Reduced upgrade costs at levels 10 and 12: Level 10: 3,500,000 -> 3,000,000 Level 12: 4,800,000 -> 4,500,000 Removed the Supercharges at level 16 and replaced them at level 17: Charge 1: Normal Damage: 63 -> 69 Burst Damage: 68 -> 75 Cost: 4,100,000 -> 7,500,000 Time: 2d 12h -> 3d 12h Charge 2: Hitpoints: 2,375 -> 2,525 Cost: 2,500,000 -> 5,000,000 Time: 3d 12h -> 5d 12h"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Reduced upgrade times at level 17 and all charges: Level 17: 14d 12h -> 8d Charge 1: 3d 12 -> 2d Charge 2: 5d 12h > 3d 12h Reduced upgrade costs at levels 17 and all charges: Level 17: 19,500,000 -> 13,000,000 Charge 1: 7,500,000 -> 4,500,000 Charge 2: 5,000,000 -> 3,000,000"
+      },
+      {
+        "Date": "February 23, 2026",
+        "Type": "Update",
+        "Description": "Added the level 18 Mortar. Removed the Supercharges at level 17. Updated the displayed damage per second of the Geared-Up Mortar: Level 8: 22 -> 24 Level 9: 28 -> 30 Level 10: 33 -> 37 Level 11: 38 -> 42 Level 12: 41 -> 46 Level 13: 51 -> 51 Level 14: 52 -> 58 Level 15: 59 -> 66 Level 16: 65 -> 73 Level 17: 72 -> 81 Updated the displayed damage per hit of the Geared-Up Mortar: Level 9: 47 -> 46 Level 15: 99 -> 98 Level 17: 121 -> 120"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Mortar_Fire.ogg",
+        "Caption": "Mortar fires",
+        "Description": "When the Mortar attacks ground units within its range"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Mortar_Hit.ogg",
+        "Caption": "Mortar shell impacts ground",
+        "Description": "When the Mortar shells land to the ground"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Mortar_Picked.ogg",
+        "Caption": "Mortar selected",
+        "Description": "When the Mortar is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Mortar_Placed.ogg",
+        "Caption": "Mortar placed",
+        "Description": "When the Mortar is placed"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

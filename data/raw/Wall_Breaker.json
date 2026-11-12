@@ -1,0 +1,479 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Walls (Damage x40)",
+        "Attack Type": "Area Splash (Ground Only)",
+        "Housing Space": "2",
+        "Movement Speed": "24",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "5",
+        "Range": "1 tile",
+        "Damage Radius": "2 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage": "10",
+        "Damage when destroyed": "6",
+        "Damage vs. Walls": "400",
+        "Damage when destroyed vs. Walls": "240",
+        "Hitpoints": "20",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage": "20",
+        "Damage when destroyed": "9",
+        "Damage vs. Walls": "800",
+        "Damage when destroyed vs. Walls": "360",
+        "Hitpoints": "24",
+        "Research Cost": "80,000",
+        "Research Time": "3h",
+        "Laboratory Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage": "25",
+        "Damage when destroyed": "13",
+        "Damage vs. Walls": "1,000",
+        "Damage when destroyed vs. Walls": "520",
+        "Hitpoints": "29",
+        "Research Cost": "200,000",
+        "Research Time": "4h",
+        "Laboratory Level Required": "4"
+      },
+      {
+        "Level": "4",
+        "Damage": "30",
+        "Damage when destroyed": "16",
+        "Damage vs. Walls": "1,200",
+        "Damage when destroyed vs. Walls": "640",
+        "Hitpoints": "35",
+        "Research Cost": "450,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage": "43",
+        "Damage when destroyed": "23",
+        "Damage vs. Walls": "1,720",
+        "Damage when destroyed vs. Walls": "920",
+        "Hitpoints": "53",
+        "Research Cost": "1,000,000",
+        "Research Time": "16h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage": "55",
+        "Damage when destroyed": "30",
+        "Damage vs. Walls": "2,200",
+        "Damage when destroyed vs. Walls": "1,200",
+        "Hitpoints": "72",
+        "Research Cost": "2,400,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage": "66",
+        "Damage when destroyed": "36",
+        "Damage vs. Walls": "2,640",
+        "Damage when destroyed vs. Walls": "1,440",
+        "Hitpoints": "82",
+        "Research Cost": "2,800,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage": "75",
+        "Damage when destroyed": "42",
+        "Damage vs. Walls": "3,000",
+        "Damage when destroyed vs. Walls": "1,680",
+        "Hitpoints": "92",
+        "Research Cost": "3,800,000",
+        "Research Time": "2d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage": "86",
+        "Damage when destroyed": "48",
+        "Damage vs. Walls": "3,440",
+        "Damage when destroyed vs. Walls": "1,920",
+        "Hitpoints": "112",
+        "Research Cost": "5,200,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage": "94",
+        "Damage when destroyed": "54",
+        "Damage vs. Walls": "3,760",
+        "Damage when destroyed vs. Walls": "2,160",
+        "Hitpoints": "130",
+        "Research Cost": "6,500,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Damage": "102",
+        "Damage when destroyed": "60",
+        "Damage vs. Walls": "4,080",
+        "Damage when destroyed vs. Walls": "2,400",
+        "Hitpoints": "140",
+        "Research Cost": "9,500,000",
+        "Research Time": "5d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage": "110",
+        "Damage when destroyed": "66",
+        "Damage vs. Walls": "4,400",
+        "Damage when destroyed vs. Walls": "2,640",
+        "Hitpoints": "150",
+        "Research Cost": "11,000,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Damage": "118",
+        "Damage when destroyed": "72",
+        "Damage vs. Walls": "4,720",
+        "Damage when destroyed vs. Walls": "2,880",
+        "Hitpoints": "160",
+        "Research Cost": "15,500,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "14",
+        "Damage": "126",
+        "Damage when destroyed": "78",
+        "Damage vs. Walls": "5,040",
+        "Damage when destroyed vs. Walls": "3,120",
+        "Hitpoints": "170",
+        "Research Cost": "26,000,000",
+        "Research Time": "14d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Wall Breaker",
+        "Boost Cost": "25,000",
+        "Wall Breaker Level Required": "7"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2 ,2012",
+        "Type": "The Wall Breaker was present in the original release of the game, with 5 levels."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Type": "Update",
+        "Description": "The upgraded Wall Breaker shows pink asterisks that represents the level. Wall Breaker levels 3-4 and 5 now have visual differences."
+      },
+      {
+        "Patch": "March 12, 2013",
+        "Type": "Update",
+        "Description": "Reworked the Wall Breaker AI to avoid \"decoys and distractions\", but also increased its housing space to 2 (from 1). The AI change annulled the \"spiking\" tactic, a strategy where individual protruding walls were placed ahead of the main line of walls to attract Wall Breakers."
+      },
+      {
+        "Patch": "July 29, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Wall Breaker."
+      },
+      {
+        "Patch": "August 27, 2013",
+        "Type": "Update",
+        "Description": "Added visually changes to the level 6 Wall Breaker."
+      },
+      {
+        "Patch": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Slightly tweaked the AI to avoid \"retargeting towards unnecessary walls when deployed in groups\"."
+      },
+      {
+        "Patch": "July 2, 2015",
+        "Type": "Maintenance Break",
+        "Description": "Reverted the AI to the one that it had before July 1, 2015 as it did not work as intended."
+      },
+      {
+        "Patch": "May 24, 2016",
+        "Type": "Balance Update",
+        "Description": "Reduced training time from 2m to 1m."
+      },
+      {
+        "Patch": "June 27, 2017",
+        "Type": "Update",
+        "Description": "Added the level 7 Wall Breaker. Reduced upgrade costs at levels 5 and 6."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Town Hall 12 Update",
+        "Description": "Added the level 8 Wall Breaker."
+      },
+      {
+        "Patch": "June ?, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times of levels 2 to 7."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Clan War League Update",
+        "Description": "Reduced training costs of levels 2 to 8."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Season Challenges Update",
+        "Description": "Reduced training costs of Wall Breakers. Reduced upgrade times at levels 5 and 6. Increased hitpoints at levels 5 to 8."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Town Hall 13 Update",
+        "Description": "Added the level 9 Wall Breaker."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Super Troop Update",
+        "Description": "Reduced upgrade costs at levels 5 and 6. Added the Super Wall Breaker , its Super version that could be boosted when upgraded to level 7."
+      },
+      {
+        "Patch": "October 26, 2020",
+        "Type": "Update",
+        "Description": "Wall Breakers (and Super Wall Breakers ) can now utilize the Jump Spell . The AI has been improved for greater target consistency and reduces the chance of them attacking different Wall segments when deployed. Normal Wall Breakers have reduced attack damage, but deal some death damage (overall damage increased), to make them more predictable and viable."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Town Hall 14 Update",
+        "Description": "Added the level 10 Wall Breaker. Reduced upgrade costs and times at levels 3 to 8."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times at levels 2 to 9."
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Town Hall 15 Update",
+        "Description": "Added the level 11 Wall Breaker."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Town Hall 16 Update",
+        "Description": "Added the level 12 Wall Breaker."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Added the level 13 Wall Breaker."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 7 to 12: Level 7: 2d -> 1d 12h Level 8: 3d -> 2d 12h Level 9: 4d -> 3d Level 10: 6d -> 5d Level 11: 6d 12h -> 5d 12h Level 12: 7d -> 6d"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the level 14 Wall Breaker. Reduced upgrade time at level 13 from 14d to 10d. Reduced upgrade cost at level 13 from 20,000,000 to 15,500,000."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wall_Breaker_deploy1.ogg https://clashofclans.fandom.com/wiki/File:Wall_Breaker_deploy2.ogg https://clashofclans.fandom.com/wiki/File:Wall_Breaker_deploy3.ogg",
+        "Captions": "Wall Breaker deploys",
+        "Description": "When the Wall Breaker is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wall_Breaker_attack.ogg",
+        "Captions": "Explosion",
+        "Description": "Both plays at the same time when the Wall Breaker is successfully explodes a wall, building, or units"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:CannonCart_impact.ogg"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wall_Breaker_die.ogg",
+        "Captions": "Wall Breaker dies",
+        "Description": "When the Wall Breaker dies and fail to explode the target"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}

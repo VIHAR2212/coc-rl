@@ -1,0 +1,372 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "1",
+        "Movement Speed": "18",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "1",
+        "Range": "0.4 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "9",
+        "Damage per Attack": "9",
+        "Hitpoints": "45",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "12",
+        "Damage per Attack": "12",
+        "Hitpoints": "54",
+        "Research Cost": "10,000",
+        "Research Time": "30m",
+        "Laboratory Level Required": "1"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "15",
+        "Damage per Attack": "15",
+        "Hitpoints": "65",
+        "Research Cost": "50,000",
+        "Research Time": "1h",
+        "Laboratory Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "18",
+        "Damage per Attack": "18",
+        "Hitpoints": "85",
+        "Research Cost": "130,000",
+        "Research Time": "2h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "23",
+        "Damage per Attack": "23",
+        "Hitpoints": "105",
+        "Research Cost": "300,000",
+        "Research Time": "4h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "26",
+        "Damage per Attack": "26",
+        "Hitpoints": "125",
+        "Research Cost": "800,000",
+        "Research Time": "8h",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "30",
+        "Damage per Attack": "30",
+        "Hitpoints": "160",
+        "Research Cost": "1,000,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "34",
+        "Damage per Attack": "34",
+        "Hitpoints": "205",
+        "Research Cost": "1,500,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "38",
+        "Damage per Attack": "38",
+        "Hitpoints": "230",
+        "Research Cost": "2,500,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "42",
+        "Damage per Attack": "42",
+        "Hitpoints": "250",
+        "Research Cost": "4,300,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "45",
+        "Damage per Attack": "45",
+        "Hitpoints": "270",
+        "Research Cost": "6,000,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "48",
+        "Damage per Attack": "48",
+        "Hitpoints": "290",
+        "Research Cost": "8,000,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "51",
+        "Damage per Attack": "51",
+        "Hitpoints": "310",
+        "Research Cost": "24,000,000",
+        "Research Time": "12d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Barbarian",
+        "Boost Cost": "25,000",
+        "Barbarian Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "The Barbarian was in the original release of the game, with five levels."
+      },
+      {
+        "Date": "September 19, 2012",
+        "Type": "Update",
+        "Description": "The Barbarian at levels 3-4 and 5 now have upgrade differences. The upgraded Barbarian now has pink asterisks on his icon that represents his level."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Barbarian."
+      },
+      {
+        "Date": "January 29, 2014",
+        "Type": "Update",
+        "Description": "Added Hero abilities, which allowed the Barbarian King to summon Barbarians with his Iron Fist ability."
+      },
+      {
+        "Date": "September 16, 2014",
+        "Type": "Update",
+        "Description": "Added level 7 Barbarian."
+      },
+      {
+        "Date": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Increased training costs at levels 4 to 7: Level 4: 80 -> 100 Level 5: 100 -> 150 Level 6: 150 -> 200 Level 7: 200 -> 250"
+      },
+      {
+        "Date": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Gave the Barbarian a significant change in his icon and info."
+      },
+      {
+        "Date": "March 5, 2018",
+        "Type": "Update",
+        "Description": "Barbarian troops that are not spawned by the Barbarian King no longer get affected from the King's rage effect."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added level 8 Barbarian. Reduced upgrade times at levels 6 and 7: Level 6: 10d -> 7d Level 7: 14d -> 9d"
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 4 to 7: Level 4: 3d -> 2d Level 5: 5d -> 3d 12h Level 6: 7d -> 4d 12h Level 7: 8d -> 7d 12h"
+      },
+      {
+        "Date": "February 22, 2019",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoints at levels 7 and 8: Level 7: 125 -> 145 Level 8: 140 -> 205"
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade time at levels 5 to 8."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Added level 9 Barbarian. Added the Super Barbarian Super troop, which can be boosted when Barbarians are upgraded to level 8. Reduced upgrade cost at levels 5 to 8."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Added the ability for certain Hero Skins to spawn skinned versions of troops."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 10 Barbarian. Reduced upgrade costs and times at level 2 to 9. Reduced training costs at levels 1 and 2: Level 1: 25 -> 15 Level 2: 40 -> 30"
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times at levels 2 to 9. Increased hitpoints at levels 4 to 7: Level 4: 78 -> 85 Level 5: 95 -> 105 Level 6: 110 -> 125 Level 7: 145 -> 160"
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Barbarian."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 12 Barbarian. Reduced upgrade times at levels 7 to 11: Level 7: 2d 12h -> 2d Level 8: 3d -> 2d 12h Level 9: 6d -> 3d 12h Level 10: 13d -> 6d Level 11: 14d -> 12d The Iron Fist is split into two Hero Equipment, the Rage Vial (enrages the King) and the Barbarian Puppet that summons Barbarians upon activation."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced upgrade time at level 2 from 2h to 1h."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "June 16, 2025",
+        "Type": "Update",
+        "Description": "Increased movement speed from 16 to 18."
+      },
+      {
+        "Date": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 9 to 12: Level 9: 2d -> 1d 12h Level 10: 3d 4h -> 2d Level 11: 4d -> 3d Level 12: 5d -> 4d 12h"
+      },
+      {
+        "Date": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Added the level 13 Barbarian. Reduced upgrade time at level 12 from 4d 12h to 4d."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_Deploy_01.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Deploy_02.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Deploy_03.ogg",
+        "Captions": "Barbarian deploys",
+        "Description": "When the Barbarian is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_attack1.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_attack2.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_attack3.ogg",
+        "Captions": "Sword swings",
+        "Description": "When the Barbarian attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_Hit.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Hit2.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Hit3.ogg",
+        "Captions": "Sword hits",
+        "Description": "When the Barbarian’s succesfully hit a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_Death.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Death2.mp3",
+        "Captions": "Barbarian dies",
+        "Description": "When the Barbarian dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Melee (Ground Only)",
+        "Movement Speed": "12",
+        "Attack Speed": "1s",
+        "Range": "0.3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "25",
+        "Damage per Hit": "25",
+        "Hitpoints": "150"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "30",
+        "Damage per Hit": "30",
+        "Hitpoints": "175"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "35",
+        "Damage per Hit": "35",
+        "Hitpoints": "200"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "40",
+        "Damage per Hit": "40",
+        "Hitpoints": "225"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "45",
+        "Damage per Hit": "45",
+        "Hitpoints": "250"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_attack1.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_attack2.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_attack3.ogg",
+        "Captions": "Sword swings",
+        "Description": "When the Barbarian attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_Hit.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Hit2.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Hit3.ogg",
+        "Captions": "Sword hits",
+        "Description": "When the Barbarian’s succesfully hit a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barbarian_Death.ogg https://clashofclans.fandom.com/wiki/File:Barbarian_Death2.mp3",
+        "Captions": "Barbarian dies",
+        "Description": "When the Barbarian dies"
+      }
+    ],
+    [
+      {
+        "Clan Capital Army": "Troops"
+      },
+      {
+        "Clan Capital Army": "Spells"
+      }
+    ]
+  ]
+}

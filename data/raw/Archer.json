@@ -1,0 +1,288 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground & Air)",
+        "Housing Space": "1",
+        "Movement Speed": "24",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "2",
+        "Range": "3.5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "8",
+        "Damage per Attack": "8",
+        "Hitpoints": "22",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "10",
+        "Damage per Attack": "10",
+        "Hitpoints": "26",
+        "Research Cost": "20,000",
+        "Research Time": "1h",
+        "Laboratory Level Required": "1"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "13",
+        "Damage per Attack": "13",
+        "Hitpoints": "29",
+        "Research Cost": "80,000",
+        "Research Time": "2h",
+        "Laboratory Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "16",
+        "Damage per Attack": "16",
+        "Hitpoints": "33",
+        "Research Cost": "200,000",
+        "Research Time": "3h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "20",
+        "Damage per Attack": "20",
+        "Hitpoints": "40",
+        "Research Cost": "500,000",
+        "Research Time": "8h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "22",
+        "Damage per Attack": "22",
+        "Hitpoints": "44",
+        "Research Cost": "1,000,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "25",
+        "Damage per Attack": "25",
+        "Hitpoints": "48",
+        "Research Cost": "1,500,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "28",
+        "Damage per Attack": "28",
+        "Hitpoints": "52",
+        "Research Cost": "2,300,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "31",
+        "Damage per Attack": "31",
+        "Hitpoints": "56",
+        "Research Cost": "3,000,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "34",
+        "Damage per Attack": "34",
+        "Hitpoints": "60",
+        "Research Cost": "4,500,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "37",
+        "Damage per Attack": "37",
+        "Hitpoints": "64",
+        "Research Cost": "6,500,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "40",
+        "Damage per Attack": "40",
+        "Hitpoints": "68",
+        "Research Cost": "9,000,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "43",
+        "Damage per Attack": "43",
+        "Hitpoints": "72",
+        "Research Cost": "14,000,000",
+        "Research Time": "9d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "46",
+        "Damage per Attack": "46",
+        "Hitpoints": "76",
+        "Research Cost": "25,000,000",
+        "Research Time": "13d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Archer",
+        "Boost Cost": "25,000",
+        "Archer Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Type": "The Archer was in the original release of the game on August 2, 2012, with 5 levels."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Type": "Update",
+        "Description": "The upgraded Archer shows pink asterisks that represents the level. Archer at levels 3-4 and 5 now have upgrade differences."
+      },
+      {
+        "Patch": "February 5, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Archer."
+      },
+      {
+        "Patch": "January 29, 2014",
+        "Type": "Update",
+        "Description": "Added Hero abilities, which allowed the Archer Queen to summon Archers with her Royal Cloak ability."
+      },
+      {
+        "Patch": "September 16, 2014",
+        "Type": "Update",
+        "Description": "Added the level 7 Archer."
+      },
+      {
+        "Patch": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Increased training cost at levels 4 to 7. Increased arrows speed."
+      },
+      {
+        "Patch": "October 2016",
+        "Type": "Update",
+        "Description": "Reduced training time from 25 seconds to 24."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 8 Archer."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Change",
+        "Description": "Reduced upgrade times at levels 2 to 6."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 5 to 8."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 5 to 8."
+      },
+      {
+        "Patch": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Added the level 9 Archer."
+      },
+      {
+        "Patch": "June 2020",
+        "Type": "Optional Update",
+        "Description": "Fixed level 9 Archer's wrong headband jewel color in some animations."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 10 Archer. Reduced upgrade costs and times of levels 2 to 9. Reduced training cost of levels 1 to 2: Level 1: 50 -> 30 Level 2: 80 -> 60"
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times at levels 2 to 9."
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Archer."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 12 Archer. Reduced upgrade times at levels 7 to 11: Level 7: 2d 12h -> 2d Level 8: 3d 12h -> 2d 12h Level 9: 6d -> 3d 12h Level 10: 13d -> 6d Level 11: 14d -> 12d Reduced upgrade cost at level 10 from 14,500,000 to 10,200,000."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Added the level 13 Archer. Reduced upgrade time at level 2 from 3h to 2h."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 9, 11, and 12: Level 9: 2d 12h -> 2d Level 11: 4d 12h-> 4d Level 12: 5d 12h -> 5d"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Reduced upgrade time for level 13 from 13d to 9d. Reduced upgrade cost for level 13 from 17,500,000 to 14,000,000."
+      },
+      {
+        "Patch": "February 23, 2026",
+        "Type": "Update",
+        "Description": "Added the level 14 Archer."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}
