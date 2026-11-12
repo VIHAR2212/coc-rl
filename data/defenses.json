@@ -1,7 +1,106 @@
 {
-  "_note": "ALL PLACEHOLDERS (stats_verified=false). Replace from the coc.guide defense pages.",
-  "cannon":       {"hp": 600, "dps": 20, "range_tiles": 9.0, "size": 3, "targets": "ground", "stats_verified": false, "source": "https://coc.guide/defense"},
-  "archer_tower": {"hp": 600, "dps": 25, "range_tiles": 10.0, "size": 3, "targets": "air_ground", "stats_verified": false, "source": "https://coc.guide/defense"},
-  "town_hall":    {"hp": 2000, "dps": 0, "range_tiles": 0, "size": 4, "targets": "none", "stats_verified": false, "source": "https://coc.guide/other"},
-  "storage":      {"hp": 800, "dps": 0, "range_tiles": 0, "size": 3, "targets": "none", "stats_verified": false, "source": "https://coc.guide/resource"}
+  "_note": "TH8 building/defense stats normalized from Clash of Clans Fandom wiki (data/raw/) and cross-checked against coc.guide.",
+  "cannon": {
+    "level": 10,
+    "hp": 960,
+    "dps": 64,
+    "attack_speed": 0.8,
+    "range_tiles": 9.0,
+    "size": 3,
+    "targets": "ground",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Cannon"
+  },
+  "archer_tower": {
+    "level": 10,
+    "hp": 810,
+    "dps": 63,
+    "attack_speed": 0.5,
+    "range_tiles": 10.0,
+    "size": 3,
+    "targets": "air_ground",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Archer_Tower"
+  },
+  "mortar": {
+    "level": 6,
+    "hp": 650,
+    "dps": 11,
+    "attack_speed": 5.0,
+    "range_tiles": 11.0,
+    "size": 3,
+    "targets": "ground",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Mortar",
+    "min_range_tiles": 4.0,
+    "splash_radius": 1.5
+  },
+  "air_defense": {
+    "level": 6,
+    "hp": 1050,
+    "dps": 230,
+    "attack_speed": 1.0,
+    "range_tiles": 10.0,
+    "size": 3,
+    "targets": "air",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Air_Defense"
+  },
+  "wizard_tower": {
+    "level": 6,
+    "hp": 960,
+    "dps": 32,
+    "attack_speed": 1.3,
+    "range_tiles": 7.0,
+    "size": 3,
+    "targets": "air_ground",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Wizard_Tower",
+    "splash_radius": 1.0
+  },
+  "town_hall": {
+    "level": 8,
+    "hp": 3900,
+    "dps": 0,
+    "attack_speed": 0.0,
+    "range_tiles": 0.0,
+    "size": 4,
+    "targets": "none",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Town_Hall"
+  },
+  "gold_storage": {
+    "level": 11,
+    "hp": 2100,
+    "dps": 0,
+    "attack_speed": 0.0,
+    "range_tiles": 0.0,
+    "size": 3,
+    "targets": "none",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Gold_Storage"
+  },
+  "elixir_storage": {
+    "level": 11,
+    "hp": 2100,
+    "dps": 0,
+    "attack_speed": 0.0,
+    "range_tiles": 0.0,
+    "size": 3,
+    "targets": "none",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Elixir_Storage"
+  },
+  "storage": {
+    "level": 11,
+    "hp": 2100,
+    "dps": 0,
+    "attack_speed": 0.0,
+    "range_tiles": 0.0,
+    "size": 3,
+    "targets": "none",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Gold_Storage",
+    "_note": "Alias for gold_storage/elixir_storage used by starter base01.json."
+  }
 }
