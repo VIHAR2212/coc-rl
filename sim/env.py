@@ -44,6 +44,10 @@ class CoCEnv(gym.Env):
         self.troop_keys = list(self.troop_defs.keys())
         self.army_template = self._resolve_army(army)
         self.render_mode = render_mode
+        self._screen = None
+        self._surface = None
+        self._font = None
+        self._pygame = None
         n = len(self.troop_keys)
         self.action_space = spaces.MultiDiscrete([n + 1, self.grid, self.grid])  # kind 0 = wait
         self.observation_space = spaces.Dict({
@@ -185,3 +189,92 @@ class CoCEnv(gym.Env):
         army = [self.army_left[k] / max(1, self.army_template[k]) for k in self.troop_keys]
         army += [max(0.0, 1 - self.tick / (BATTLE_SECONDS * TICKS_PER_SEC)), self.destruction]
         return {"grid": g, "army": np.array(army, np.float32)}
+
+    # ---------------------------------------------------------------- render
+    def render(self):
+        if self.render_mode is None:
+            return None
+        if self._pygame is None:
+            import pygame
+            pygame.init()
+            self._pygame = pygame
+            self._font = pygame.font.SysFont("consolas", 13, bold=True)
+        pg = self._pygame
+        cell = 14
+        size_px = self.grid * cell
+        if self._surface is None:
+            self._surface = pg.Surface((size_px, size_px))
+        if self.render_mode == "human" and self._screen is None:
+            self._screen = pg.display.set_mode((size_px, size_px))
+            pg.display.set_caption("coc-rl")
+
+        surf = self._surface
+        surf.fill((96, 158, 64))
+        for yy in range(self.grid):
+            for xx in range(self.grid):
+                if self._deploy_mask[yy, xx] == 0:
+                    pg.draw.rect(surf, (80, 132, 54), (xx * cell, yy * cell, cell, cell))
+        for i in range(0, self.grid + 1):
+            p = i * cell
+            pg.draw.line(surf, (84, 140, 56), (p, 0), (p, size_px), 1)
+            pg.draw.line(surf, (84, 140, 56), (0, p), (size_px, p), 1)
+
+        colors = {
+            "town_hall": (218, 170, 52), "cannon": (182, 62, 62), "archer_tower": (210, 102, 58),
+            "mortar": (118, 122, 138), "air_defense": (86, 134, 200), "wizard_tower": (152, 82, 188),
+            "gold_storage": (205, 185, 78), "elixir_storage": (196, 86, 168), "storage": (196, 140, 96),
+            "wall": (150, 150, 150),
+        }
+        labels = {
+            "town_hall": "TH", "cannon": "CN", "archer_tower": "AT", "mortar": "MT",
+            "air_defense": "AD", "wizard_tower": "WT", "gold_storage": "GS",
+            "elixir_storage": "ES", "storage": "ST", "wall": "",
+        }
+        for b in self.buildings:
+            rect = pg.Rect(int(b.x * cell), int(b.y * cell), int(b.size * cell), int(b.size * cell))
+            if not b.alive:
+                pg.draw.rect(surf, (66, 94, 52), rect, 1)
+                continue
+            pg.draw.rect(surf, colors.get(b.kind, (160, 160, 160)), rect)
+            pg.draw.rect(surf, (35, 35, 35), rect, 2)
+            lbl = labels.get(b.kind, b.kind[:2].upper())
+            if lbl and b.size >= 2:
+                txt = self._font.render(lbl, True, (255, 255, 255))
+                surf.blit(txt, txt.get_rect(center=rect.center))
+            if b.hp < b.max_hp:
+                frac = max(0.0, min(1.0, b.hp / b.max_hp))
+                pg.draw.rect(surf, (40, 40, 40), (rect.x + 2, rect.y + 2, rect.w - 4, 4))
+                pg.draw.rect(surf, (80, 230, 80), (rect.x + 2, rect.y + 2, int((rect.w - 4) * frac), 4))
+
+        t_colors = {
+            "Giant": (245, 140, 40), "Barbarian": (250, 225, 65), "Archer": (235, 85, 175),
+            "Wall Breaker": (235, 235, 240), "Goblin": (70, 235, 90),
+        }
+        for tr in self.troops:
+            if tr.alive:
+                pos = (int(tr.x * cell), int(tr.y * cell))
+                rad = 6 if tr.name == "Giant" else 4
+                pg.draw.circle(surf, t_colors.get(tr.name, (255, 255, 255)), pos, rad)
+                pg.draw.circle(surf, (20, 20, 20), pos, rad, 1)
+
+        stars = int(self.destruction >= 0.5) + int(self.th_destroyed) + int(self.destruction >= 1.0)
+        rem = max(0.0, BATTLE_SECONDS - self.tick / TICKS_PER_SEC)
+        hud = self._font.render(f"t={rem:5.1f}s  dest={self.destruction*100:5.1f}%  stars={stars}", True, (255, 255, 255))
+        pg.draw.rect(surf, (20, 25, 20), (4, 4, hud.get_width() + 10, hud.get_height() + 6))
+        surf.blit(hud, (9, 7))
+
+        if self.render_mode == "human":
+            self._screen.blit(surf, (0, 0))
+            pg.event.pump()
+            pg.display.flip()
+            return None
+        return np.transpose(pg.surfarray.array3d(surf), (1, 0, 2)).copy()
+
+    def close(self):
+        if self._pygame is not None:
+            if self._screen is not None:
+                self._pygame.display.quit()
+                self._screen = None
+            self._surface = None
+            self._pygame.quit()
+            self._pygame = None
