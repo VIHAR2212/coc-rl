@@ -1,34 +1,1021 @@
 {
-  "_note": "Hand-made TH8 approximation (defenses on the outside, storages + TH inside). No walls yet (pending M4).",
+  "_note": "Hand-made TH8 approximation (defenses outside, core + outer wall rings: 176 walls).",
   "grid": 44,
   "buildings": [
-    {"type": "town_hall",      "x": 20, "y": 20},
-    {"type": "gold_storage",   "x": 16, "y": 17},
-    {"type": "gold_storage",   "x": 25, "y": 17},
-    {"type": "gold_storage",   "x": 20, "y": 25},
-    {"type": "elixir_storage", "x": 16, "y": 21},
-    {"type": "elixir_storage", "x": 25, "y": 21},
-    {"type": "elixir_storage", "x": 20, "y": 16},
-    {"type": "cannon",         "x": 9,  "y": 7},
-    {"type": "archer_tower",   "x": 15, "y": 7},
-    {"type": "mortar",         "x": 21, "y": 7},
-    {"type": "archer_tower",   "x": 27, "y": 7},
-    {"type": "cannon",         "x": 33, "y": 7},
-    {"type": "cannon",         "x": 9,  "y": 34},
-    {"type": "archer_tower",   "x": 15, "y": 34},
-    {"type": "mortar",         "x": 21, "y": 34},
-    {"type": "archer_tower",   "x": 27, "y": 34},
-    {"type": "cannon",         "x": 33, "y": 34},
-    {"type": "wizard_tower",   "x": 7,  "y": 13},
-    {"type": "air_defense",    "x": 7,  "y": 19},
-    {"type": "mortar",         "x": 7,  "y": 25},
-    {"type": "mortar",         "x": 34, "y": 13},
-    {"type": "air_defense",    "x": 34, "y": 19},
-    {"type": "wizard_tower",   "x": 34, "y": 25},
-    {"type": "archer_tower",   "x": 11, "y": 12},
-    {"type": "cannon",         "x": 29, "y": 12},
-    {"type": "wizard_tower",   "x": 11, "y": 28},
-    {"type": "air_defense",    "x": 29, "y": 28}
+    {
+      "type": "town_hall",
+      "x": 20,
+      "y": 20
+    },
+    {
+      "type": "gold_storage",
+      "x": 16,
+      "y": 17
+    },
+    {
+      "type": "gold_storage",
+      "x": 25,
+      "y": 17
+    },
+    {
+      "type": "gold_storage",
+      "x": 20,
+      "y": 25
+    },
+    {
+      "type": "elixir_storage",
+      "x": 16,
+      "y": 21
+    },
+    {
+      "type": "elixir_storage",
+      "x": 25,
+      "y": 21
+    },
+    {
+      "type": "elixir_storage",
+      "x": 20,
+      "y": 16
+    },
+    {
+      "type": "cannon",
+      "x": 9,
+      "y": 7
+    },
+    {
+      "type": "archer_tower",
+      "x": 15,
+      "y": 7
+    },
+    {
+      "type": "mortar",
+      "x": 21,
+      "y": 7
+    },
+    {
+      "type": "archer_tower",
+      "x": 27,
+      "y": 7
+    },
+    {
+      "type": "cannon",
+      "x": 33,
+      "y": 7
+    },
+    {
+      "type": "cannon",
+      "x": 9,
+      "y": 34
+    },
+    {
+      "type": "archer_tower",
+      "x": 15,
+      "y": 34
+    },
+    {
+      "type": "mortar",
+      "x": 21,
+      "y": 34
+    },
+    {
+      "type": "archer_tower",
+      "x": 27,
+      "y": 34
+    },
+    {
+      "type": "cannon",
+      "x": 33,
+      "y": 34
+    },
+    {
+      "type": "wizard_tower",
+      "x": 7,
+      "y": 13
+    },
+    {
+      "type": "air_defense",
+      "x": 7,
+      "y": 19
+    },
+    {
+      "type": "mortar",
+      "x": 7,
+      "y": 25
+    },
+    {
+      "type": "mortar",
+      "x": 34,
+      "y": 13
+    },
+    {
+      "type": "air_defense",
+      "x": 34,
+      "y": 19
+    },
+    {
+      "type": "wizard_tower",
+      "x": 34,
+      "y": 25
+    },
+    {
+      "type": "archer_tower",
+      "x": 11,
+      "y": 12
+    },
+    {
+      "type": "cannon",
+      "x": 29,
+      "y": 12
+    },
+    {
+      "type": "wizard_tower",
+      "x": 11,
+      "y": 28
+    },
+    {
+      "type": "air_defense",
+      "x": 29,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 16
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 17
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 18
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 19
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 20
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 21
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 22
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 23
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 24
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 26
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 27
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 16,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 16,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 17,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 17,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 18,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 18,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 19,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 19,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 20,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 20,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 21,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 21,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 22,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 22,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 23,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 23,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 24,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 24,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 25,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 25,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 26,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 26,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 27,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 27,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 16
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 17
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 18
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 19
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 20
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 21
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 22
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 23
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 24
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 26
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 27
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 7
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 8
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 9
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 10
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 11
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 12
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 13
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 14
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 16
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 17
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 18
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 19
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 20
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 21
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 22
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 23
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 24
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 26
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 27
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 29
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 30
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 31
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 32
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 33
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 34
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 35
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 36
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 7,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 7,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 8,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 8,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 9,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 9,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 10,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 10,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 11,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 11,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 12,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 12,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 13,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 13,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 14,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 14,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 16,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 16,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 17,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 17,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 18,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 18,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 19,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 19,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 20,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 20,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 21,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 21,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 22,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 22,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 23,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 23,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 24,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 24,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 25,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 25,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 26,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 26,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 27,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 27,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 29,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 29,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 30,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 30,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 31,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 31,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 32,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 32,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 33,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 33,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 34,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 34,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 35,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 35,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 7
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 8
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 9
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 10
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 11
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 12
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 13
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 14
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 16
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 17
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 18
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 19
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 20
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 21
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 22
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 23
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 24
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 26
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 27
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 29
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 30
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 31
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 32
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 33
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 34
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 35
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 36
+    },
+    {
+      "type": "wall",
+      "x": 37,
+      "y": 37
+    }
   ]
 }
-

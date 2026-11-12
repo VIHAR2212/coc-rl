@@ -1,34 +1,791 @@
 {
-  "_note": "Hand-made TH8 approximation (mixed asymmetric layout). No walls yet (pending M4).",
+  "_note": "Hand-made TH8 approximation (mixed asymmetric layout with 130-wall perimeter).",
   "grid": 44,
   "buildings": [
-    {"type": "town_hall",      "x": 15, "y": 19},
-    {"type": "mortar",         "x": 15, "y": 14},
-    {"type": "mortar",         "x": 20, "y": 19},
-    {"type": "mortar",         "x": 15, "y": 24},
-    {"type": "mortar",         "x": 10, "y": 19},
-    {"type": "air_defense",    "x": 19, "y": 14},
-    {"type": "air_defense",    "x": 12, "y": 24},
-    {"type": "air_defense",    "x": 24, "y": 24},
-    {"type": "wizard_tower",   "x": 12, "y": 14},
-    {"type": "wizard_tower",   "x": 24, "y": 18},
-    {"type": "wizard_tower",   "x": 19, "y": 25},
-    {"type": "gold_storage",   "x": 8,  "y": 12},
-    {"type": "gold_storage",   "x": 27, "y": 13},
-    {"type": "gold_storage",   "x": 21, "y": 29},
-    {"type": "elixir_storage", "x": 8,  "y": 28},
-    {"type": "elixir_storage", "x": 28, "y": 22},
-    {"type": "elixir_storage", "x": 14, "y": 9},
-    {"type": "cannon",         "x": 5,  "y": 19},
-    {"type": "cannon",         "x": 15, "y": 5},
-    {"type": "cannon",         "x": 32, "y": 16},
-    {"type": "cannon",         "x": 26, "y": 30},
-    {"type": "cannon",         "x": 13, "y": 33},
-    {"type": "archer_tower",   "x": 6,  "y": 8},
-    {"type": "archer_tower",   "x": 23, "y": 8},
-    {"type": "archer_tower",   "x": 33, "y": 26},
-    {"type": "archer_tower",   "x": 19, "y": 34},
-    {"type": "archer_tower",   "x": 5,  "y": 25}
+    {
+      "type": "town_hall",
+      "x": 15,
+      "y": 19
+    },
+    {
+      "type": "mortar",
+      "x": 15,
+      "y": 14
+    },
+    {
+      "type": "mortar",
+      "x": 20,
+      "y": 19
+    },
+    {
+      "type": "mortar",
+      "x": 15,
+      "y": 24
+    },
+    {
+      "type": "mortar",
+      "x": 10,
+      "y": 19
+    },
+    {
+      "type": "air_defense",
+      "x": 19,
+      "y": 14
+    },
+    {
+      "type": "air_defense",
+      "x": 12,
+      "y": 24
+    },
+    {
+      "type": "air_defense",
+      "x": 24,
+      "y": 24
+    },
+    {
+      "type": "wizard_tower",
+      "x": 12,
+      "y": 14
+    },
+    {
+      "type": "wizard_tower",
+      "x": 24,
+      "y": 18
+    },
+    {
+      "type": "wizard_tower",
+      "x": 19,
+      "y": 25
+    },
+    {
+      "type": "gold_storage",
+      "x": 8,
+      "y": 12
+    },
+    {
+      "type": "gold_storage",
+      "x": 27,
+      "y": 13
+    },
+    {
+      "type": "gold_storage",
+      "x": 21,
+      "y": 29
+    },
+    {
+      "type": "elixir_storage",
+      "x": 8,
+      "y": 28
+    },
+    {
+      "type": "elixir_storage",
+      "x": 28,
+      "y": 22
+    },
+    {
+      "type": "elixir_storage",
+      "x": 14,
+      "y": 9
+    },
+    {
+      "type": "cannon",
+      "x": 5,
+      "y": 19
+    },
+    {
+      "type": "cannon",
+      "x": 15,
+      "y": 5
+    },
+    {
+      "type": "cannon",
+      "x": 32,
+      "y": 16
+    },
+    {
+      "type": "cannon",
+      "x": 26,
+      "y": 30
+    },
+    {
+      "type": "cannon",
+      "x": 13,
+      "y": 33
+    },
+    {
+      "type": "archer_tower",
+      "x": 6,
+      "y": 8
+    },
+    {
+      "type": "archer_tower",
+      "x": 23,
+      "y": 8
+    },
+    {
+      "type": "archer_tower",
+      "x": 33,
+      "y": 26
+    },
+    {
+      "type": "archer_tower",
+      "x": 19,
+      "y": 34
+    },
+    {
+      "type": "archer_tower",
+      "x": 5,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 5
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 7
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 8
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 9
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 10
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 11
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 12
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 13
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 14
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 16
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 17
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 18
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 19
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 20
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 21
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 22
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 23
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 24
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 26
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 27
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 29
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 30
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 31
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 32
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 33
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 34
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 35
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 36
+    },
+    {
+      "type": "wall",
+      "x": 4,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 5,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 5,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 6,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 7,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 7,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 8,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 8,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 9,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 9,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 10,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 10,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 11,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 11,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 12,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 12,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 13,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 13,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 14,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 14,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 15,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 16,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 16,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 17,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 17,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 18,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 18,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 19,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 19,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 20,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 20,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 21,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 21,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 22,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 22,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 23,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 23,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 24,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 24,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 25,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 25,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 26,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 26,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 27,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 27,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 28,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 29,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 29,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 30,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 30,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 31,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 31,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 32,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 32,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 33,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 33,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 34,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 34,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 35,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 35,
+      "y": 37
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 4
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 5
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 6
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 7
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 8
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 9
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 10
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 11
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 12
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 13
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 14
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 15
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 16
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 17
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 18
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 19
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 20
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 21
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 22
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 23
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 24
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 25
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 26
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 27
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 28
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 29
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 30
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 31
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 32
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 33
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 34
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 35
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 36
+    },
+    {
+      "type": "wall",
+      "x": 36,
+      "y": 37
+    }
   ]
 }
-
