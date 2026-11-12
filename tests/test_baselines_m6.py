@@ -2,7 +2,7 @@
 import csv
 
 from agents import STRATEGIES
-from evaluate import run_baselines
+from evaluate import BASES_DIR, run_baselines
 from sim import CoCEnv
 
 
@@ -25,10 +25,10 @@ def test_evaluate_writes_baselines_csv(tmp_path, monkeypatch):
     rows, best = run_baselines(episodes=2, output_csv=out_csv, workers=1)
     assert out_csv.exists()
     assert best in STRATEGIES
-    # 6 bases * 1 army * 3 strategies * 2 episodes = 36 rows
-    assert len(rows) == 36
+    expected = len(list(BASES_DIR.glob("*.json"))) * 1 * len(STRATEGIES) * 2
+    assert len(rows) == expected
     with out_csv.open("r", encoding="utf-8") as f:
         reader = list(csv.DictReader(f))
-    assert len(reader) == 36
+    assert len(reader) == expected
     assert {"strategy", "base", "army", "episode", "seed", "destruction", "stars", "three_star"} <= set(reader[0].keys())
 
