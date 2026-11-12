@@ -24,3 +24,6 @@ sim/ (environment), agents/ (baselines), data/ (stats + bases), scripts/ (scrape
 
 ## Data source
 Primary: Clash of Clans Fandom wiki via `scripts/scrape_fandom.py` (raw cache in data/raw/). Cross-check with a second site. Fandom text is CC BY-SA, so keep attribution in data/SOURCES.md. coc.guide was found to lag behind the current game (e.g. Giant stops at level 13 there, level 14 exists on Fandom).
+
+## Status
+The simulator currently uses placeholder stats (`stats_verified: false` for everything except Giant L8). Milestone M1 (populating real data from the Clash of Clans Fandom wiki) is next.
