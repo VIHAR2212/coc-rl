@@ -41,5 +41,22 @@
   - (c) Evaluated 100 seeded episodes per held-out `(base, army)` pair (`800` episodes per agent).
   - (d) Held-out mean destruction %: `maskable_ppo = 31.94%` vs `left_wave (best baseline) = 24.07%` vs `random_masked = 12.34%`. Beats random (+19.60 pp) and best baseline (+7.87 pp); logged in `REWARD_LOG.md`.
 
+## Milestone M7b (CREDIBILITY UPGRADE & RENDER POLISH)
+- **Status:** COMPLETE
+- **Passed:**
+  - (1) **Legitimate seed variance:** Verified that policies on previous deterministic sim had zero variance across seeds within a pair. Added seeded sub-tile spawn jitter (`uniform(-0.3, 0.3)`) and initial defense cooldown phase offsets (`uniform(0, attack_speed)`) in `sim/env.py`. 22/24 pairs now show genuine across-seed variance.
+  - (2) **Expanded held-out layout pool:** Added 4 new diverse TH8 layouts (`base07.json` Southern Teaser, `base08.json` Moated Ring, `base09.json` Four-Quadrant Islands, `base10.json` Wide Bastion). All 10 bases pass `validate_base.py`. Training split cleanly excludes trivial `base01.json` (`TRAIN_BASES = ["base02.json", "base03.json", "base04.json"]`), holding out 6 bases x 4 armies = 24 independent pairs.
+  - (3) **Observation & reward tuning:** Added 6th grid channel (`is_town_hall`) to observation space so RL can localize the TH. Added stars-aware reward shaping: `+25.0` cliff bonus at 50% destruction, `+25.0` additional TH bonus (`+75.0` total), `+50.0` at 100% destruction, `-0.05` wait penalty. Logged in `REWARD_LOG.md`.
+  - (4) **Extended multi-seed training:** Trained MaskablePPO across 3 random seeds (`42, 43, 44`) with 25k Stage 1 steps and 500k Stage 2 steps each (`SubprocVecEnv(4)`, total 1.575M steps) with TensorBoard logging, saving models and multi-seed curves to `results/reward_curves.png`.
+  - (5) **Render polish:** Updated `CoCEnv.render()` with distinct sizes per troop type (Giant largest, radius 9; Barbarian 6; Archer/WB/Goblin 5), HP bars on wounded troops, bottom-left troop legend, and "time left:" HUD label. Re-recorded `docs/baseline_attack.gif` at 250ms duration and added `docs/ppo_attack.gif` on held-out `base06.json`.
+  - (6) **Full 24-pair evaluation & bootstrap CIs:** Evaluated 100 seeded episodes per pair for all 5 agents (12,000 total episodes, saved to `results/rl_vs_baselines.csv` and `results/rl_vs_baselines_pairs.csv`):
+    * `maskable_ppo`:  **31.15%** dest [95% CI 21.61, 41.40], **0.46** stars [0.18, 0.80], **3.58%** 3-star [0.00, 10.00]
+    * `left_wave`:     **26.12%** dest [95% CI 16.00, 37.42], **0.53** stars [0.21, 0.92], **4.17%** 3-star [0.00, 12.50]
+    * `smart_funnel`: **20.33%** dest [95% CI 12.21, 30.24], **0.28** stars [0.07, 0.56], **2.79%** 3-star [0.00, 8.38]
+    * `surround`:     **10.73%** dest [95% CI  5.75, 16.76], **0.07** stars [0.00, 0.21], **0.00%** 3-star
+    * `random_masked`:  **9.94%** dest [95% CI  5.72, 14.81], **0.02** stars [0.00, 0.06], **0.00%** 3-star
+    * **Honest comparison:** PPO beats best baseline on destruction (+5.02 pp [95% CI +1.96, +8.29]) and beats random (+21.21 pp). PPO does **not** beat `left_wave` on stars (0.46 vs 0.53, delta -0.070 [-0.204, +0.042]).
+  - `pytest -q`: `20 passed in 68.74s`; `check_env BOTH OK`.
+
 ## Current Step: FINAL_REPORT.txt
-- **Next action:** Gather exact git hashes and final test/eval results, write `FINAL_REPORT.txt`, commit and push to `origin/main`.
+- **Next action:** Update `FINAL_REPORT.txt` with M7b evidence, commit in small steps, and push to `origin/main`.

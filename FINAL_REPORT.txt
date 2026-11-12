@@ -1,4 +1,4 @@
-FINAL_REPORT.txt — coc-rl Automated Milestones M3–M7
+FINAL_REPORT.txt — coc-rl Automated Milestones M3–M7b
 Generated: 2026-11-12
 Repo: c:\Users\admin\Downloads\coc-rl (branch main)
 
@@ -48,23 +48,46 @@ M6 (BASELINES) — PASSED (Attempt 1)
       - surround:     23.06% mean destruction, 12.50% 3-star rate, 0.43 mean stars
   - tests/test_baselines_m6.py included in pytest -q -> 17 passed in 21.34s; check_env OK.
 
-M7 (RL) — PASSED (Attempt 1)
+M7 (RL) — INITIAL PASSED (Attempt 1)
 - Commits: 9bc9513, a1d11d2
 - Evidence:
-  (a) sb3-contrib MaskablePPO trained via train_ppo.py on sim/rl_wrapper.py (ActionMaskCoCEnv with Discrete(81) edge-sector deploy space, exact validity action_masks(), CoCFeatureExtractor, TensorBoard logs under runs/m7_stage1_single_1 and runs/m7_stage2_split_0). Stage 1 trained 25,000 steps on base03.json; Stage 2 trained 75,000 steps on train split [base01.json, base02.json, base03.json, base04.json]. Held out base05.json (unwalled) and base06.json (walled).
-  (b) Saved models/ppo_stage1_single.zip, models/ppo_coc_v1.zip, results/reward_curves.png, and results/rl_vs_baselines.csv. Design rationale and results logged in REWARD_LOG.md.
-  (c) evaluate_rl.py evaluated 100 seeded episodes per (held-out base, army) pair (800 episodes per agent, 710.6s).
-  (d) Held-out evaluation results (results/rl_vs_baselines.csv):
-      - maskable_ppo:  31.94% mean destruction, 0.00% 3-star rate, 0.00 mean stars
-      - left_wave:     24.07% mean destruction, 0.00% 3-star rate, 0.25 mean stars
-      - random_masked: 12.34% mean destruction, 0.00% 3-star rate, 0.00 mean stars
-      Passed both conditions: beats random_masked (+19.60 pp) and beats best baseline left_wave (+7.87 pp), nearly doubling destruction on unseen walled base06.json (36.11% vs 18.52%).
-  - tests/test_rl_m7.py included in final pytest -q -> 20 passed in 43.77s; check_env OK on both CoCEnv and ActionMaskCoCEnv.
+  (a) sb3-contrib MaskablePPO trained on sim/rl_wrapper.py (ActionMaskCoCEnv with Discrete(81) edge-sector deploy space, exact validity action_masks(), CoCFeatureExtractor, TensorBoard logs under runs/). Stage 1 trained 25k steps on base03.json; Stage 2 trained 75k steps on train split [base01..base04]. Held out base05.json and base06.json.
+  (b) Saved models/ppo_stage1_single.zip, models/ppo_coc_v1.zip, results/reward_curves.png, and results/rl_vs_baselines.csv.
+  (c) 800-episode initial evaluation on 2 held-out bases: maskable_ppo 31.94% vs left_wave 24.07% vs random_masked 12.34%.
+
+M7b (RENDER POLISH) — PASSED
+- Render polish commits:
+  (a) Larger troop shapes with distinct sizes & colors (Giant radius 9, Barbarian 6, Archer/WB/Goblin 5).
+  (b) Dynamic overhead HP bars rendered on wounded troops.
+  (c) Permanent troop legend displayed in bottom-left corner.
+  (d) Header HUD label updated to "time left: <seconds>s".
+  (e) re-recorded docs/baseline_attack.gif at 250ms frame rate (69 frames); added docs/ppo_attack.gif showing trained PPO attacking held-out base06.json (70 frames).
 
 ========================================================================
 2. PARTIALLY COMPLETE
 ========================================================================
-None.
+
+M7b (RL RIGOR & GENERALIZATION BENCHMARK):
+- Status: PARTIAL (pipeline validated, beats baseline on destruction, but does not beat best baseline on stars).
+- Audit findings from M7 Attempt 1:
+  1. The initial 800 episodes across 2 held-out bases lacked intra-pair variance because the simulator was strictly deterministic without spawn jitter (std = 0.0 across all seeds within each pair).
+  2. The initial RL agent scored 0.00 stars on held-out bases despite higher destruction because it lacked a Town Hall visual indicator in the observation space and suffered from the 50% destruction cliff.
+- Upgrades implemented in M7b:
+  (a) Legitimate seeded randomness: added uniform(-0.3, 0.3) sub-tile spawn jitter and defense firing phase offsets in sim/env.py. Verified that 22 of 24 pairs now exhibit genuine seed-to-seed variance.
+  (b) Observation & reward upgrades: added 6th grid channel (is_town_hall) to ActionMaskCoCEnv; added stars-aware reward terms (+25 at 50% destruction, +25 additional on TH, +50 at 100%, -0.05 wait penalty).
+  (c) Extended multi-seed training: trained 3 independent seeds (42, 43, 44) across 25k Stage 1 steps and 500k Stage 2 steps each (total 1.575M steps) on train split [base02.json, base03.json, base04.json] (trivial base01 excluded). Models saved to models/ppo_m7b_seed*.zip and multi-seed curves to results/reward_curves.png.
+  (d) Held-out evaluation scale: expanded held-out evaluation pool to 6 unseen bases (base05.json to base10.json) across 4 armies = 24 independent (base, army) pairs, 100 seeded episodes each (12,000 total episodes, saved to results/rl_vs_baselines.csv and results/rl_vs_baselines_pairs.csv).
+- 24-Pair Held-Out Benchmark Results (95% Pair Bootstrap CI):
+  * maskable_ppo:  31.15% dest [95% CI 21.61, 41.40] | 0.46 stars [0.18, 0.80] | 3.58% 3-star [0.00, 10.00]
+  * left_wave:     26.12% dest [95% CI 16.00, 37.42] | 0.53 stars [0.21, 0.92] | 4.17% 3-star [0.00, 12.50]
+  * smart_funnel: 20.33% dest [95% CI 12.21, 30.24] | 0.28 stars [0.07, 0.56] | 2.79% 3-star [0.00,  8.38]
+  * surround:     10.73% dest [95% CI  5.75, 16.76] | 0.07 stars [0.00, 0.21] | 0.00% 3-star
+  * random_masked:  9.94% dest [95% CI  5.72, 14.81] | 0.02 stars [0.00, 0.06] | 0.00% 3-star
+- Honest Outcome on Target Conditions:
+  * Beats random agent clearly: YES (+21.21 pp destruction, +0.44 stars).
+  * Beats best baseline on destruction: YES (+5.02 pp paired delta [95% CI +1.96, +8.29]; PPO achieves higher destruction on 18 of 24 pairs, e.g. base05, base06, base07, base08).
+  * Beats best baseline on stars: NO (-0.070 paired star delta [95% CI -0.204, +0.042]).
+  * Why: left_wave achieves full 100% wipes (3.00 stars) on wide spread layout base10.json with giant_barch and 2.00 stars with other armies, pulling its average star score up, whereas PPO's deployments distribute damage more reliably across heavily compartmentalized walled bases (base06, base07, base08) but convert fewer full-base wipeouts.
 
 ========================================================================
 3. FAILED COMPLETELY
@@ -74,7 +97,7 @@ None.
 ========================================================================
 4. NEEDS HUMAN CHECK
 ========================================================================
-- Visual inspection (M3): Verify docs/baseline_attack.gif, PNG frames in docs/, results/reward_curves.png, and interactive play_human.py look accurate and responsive.
+- Visual inspection: Verify docs/baseline_attack.gif (baseline on base03), docs/ppo_attack.gif (PPO on base06), results/reward_curves.png, and interactive play_human.py look smooth and believable.
 - Movement speed calibration: SPEED_TO_TILES_PER_S = 0.125 in scripts/normalize.py remains unverified (speed_verified: false in data/troops.json) and needs calibration against real CoC gameplay footage.
 - Missing wiki / unverified stats flagged rather than invented (data/DISCREPANCIES.md):
   * Defense projectile flight delay / projectile speed (projectile_delay in data/defenses.json defaults to 0.0 with a TODO in sim/env.py).
@@ -85,11 +108,14 @@ None.
 ========================================================================
 5. FINAL VERIFICATION SNAPSHOT
 ========================================================================
-- Final pytest -q (after final code/test edit): 20 passed in 43.77s
+- Final pytest -q: 20 passed in 68.74s
 - Final env checker: check_env(CoCEnv()) and check_env(ActionMaskCoCEnv()) -> check_env BOTH OK
+- Base layouts: 10 valid TH8 layouts in data/bases/ (python scripts/validate_base.py -> all 10 OK)
 - Saved artifacts:
-  * results/baselines.csv (7200 rows)
-  * results/rl_vs_baselines.csv (2400 rows)
-  * results/reward_curves.png
-  * models/ppo_stage1_single.zip, models/ppo_coc_v1.zip (gitignored per .gitignore)
-  * runs/m7_stage1_single_1, runs/m7_stage2_split_0 (gitignored per .gitignore)
+  * results/baselines.csv (7200 episodes across 6 bases)
+  * results/rl_vs_baselines.csv (12000 episodes across 6 held-out bases, 24 pairs, 5 agents)
+  * results/rl_vs_baselines_pairs.csv (summary per pair and agent)
+  * results/reward_curves.png (multi-seed training curves across seeds 42, 43, 44)
+  * docs/baseline_attack.gif (slower 250ms frame rate with polished render)
+  * docs/ppo_attack.gif (trained PPO attack on held-out base06.json)
+  * models/ppo_m7b_seed42.zip, models/ppo_m7b_seed43.zip, models/ppo_m7b_seed44.zip (gitignored)
