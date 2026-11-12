@@ -11,6 +11,12 @@ class Building:
     max_hp: float
     dps: float = 0.0
     range_tiles: float = 0.0
+    attack_speed: float = 1.0
+    min_range_tiles: float = 0.0
+    splash_radius: float = 0.0
+    targets: str = "ground"
+    projectile_delay: float = 0.0
+    cooldown: float = 0.0
     is_defense: bool = False
     is_wall: bool = False
     is_town_hall: bool = False
@@ -42,6 +48,7 @@ class Troop:
     housing: int
     damage_vs_walls: float = 0.0
     splash_radius: float = 0.0
+    is_flying: bool = False
     target: "Building | None" = field(default=None, repr=False)
     path: list = field(default_factory=list, repr=False)
     path_wall_ver: int = -1
@@ -50,3 +57,14 @@ class Troop:
     @property
     def alive(self):
         return self.hp > 0
+
+
+@dataclass
+class PendingProjectile:
+    x: float
+    y: float
+    damage: float
+    splash_radius: float
+    targets: str
+    delay_left: float
+    target: "Troop | None" = field(default=None, repr=False)

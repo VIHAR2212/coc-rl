@@ -14,7 +14,7 @@ import gymnasium as gym
 import numpy as np
 from gymnasium import spaces
 
-from .entities import Building, Troop
+from .entities import Building, PendingProjectile, Troop
 from .pathing import astar_path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
@@ -83,13 +83,20 @@ class CoCEnv(gym.Env):
         self._wall_grid = np.zeros((self.grid, self.grid), dtype=bool)
         self._wall_version = 0
         self._path_cache = {}
+        self.projectiles = []
         for b in self.base_cfg["buildings"]:
             d = self.defense_defs[b["type"]]
             is_wall = b["type"] == "wall"
             bld = Building(
                 kind=b["type"], x=b["x"], y=b["y"], size=d["size"], hp=d["hp"], max_hp=d["hp"],
-                dps=d["dps"], range_tiles=d["range_tiles"], is_defense=d["dps"] > 0,
-                is_wall=is_wall, is_town_hall=b["type"] == "town_hall")
+                dps=d["dps"], range_tiles=d["range_tiles"],
+                attack_speed=d.get("attack_speed", 1.0) or 1.0,
+                min_range_tiles=d.get("min_range_tiles", 0.0),
+                splash_radius=d.get("splash_radius", 0.0),
+                targets=d.get("targets", "ground"),
+                # TODO: projectile_delay is missing from Fandom wiki / coc.guide tables (see data/DISCREPANCIES.md)
+                projectile_delay=d.get("projectile_delay", 0.0),
+                is_defense=d["dps"] > 0, is_wall=is_wall, is_town_hall=b["type"] == "town_hall")
             self.buildings.append(bld)
             if is_wall:
                 self._wall_grid[int(bld.y), int(bld.x)] = True
@@ -103,6 +110,7 @@ class CoCEnv(gym.Env):
         super().reset(seed=seed)
         self._load_base()
         self.troops = []
+        self.projectiles = []
         self.tick = 0
         self.army_left = dict(self.army_template)
         self.destruction = 0.0
@@ -120,6 +128,7 @@ class CoCEnv(gym.Env):
             t["range_tiles"], t["speed_tiles_per_s"], t["favorite"], t["housing"],
             damage_vs_walls=t.get("damage_vs_walls", 0.0),
             splash_radius=t.get("splash_radius", 0.0),
+            is_flying=bool(t.get("is_flying", False)),
         ))
 
     def _pick_target(self, tr):
@@ -157,6 +166,26 @@ class CoCEnv(gym.Env):
             )
         cached = self._path_cache[key]
         return None if cached is None else list(cached)
+
+    @staticmethod
+    def _targets_match(targets: str, tr: Troop) -> bool:
+        if targets == "air_ground":
+            return True
+        if targets == "air":
+            return tr.is_flying
+        if targets == "ground":
+            return not tr.is_flying
+        return False
+
+    def _resolve_projectile(self, p: PendingProjectile) -> None:
+        if p.splash_radius > 0:
+            r2 = p.splash_radius * p.splash_radius
+            for t in self.troops:
+                if t.alive and self._targets_match(p.targets, t):
+                    if (t.x - p.x) ** 2 + (t.y - p.y) ** 2 <= r2:
+                        t.hp -= p.damage
+        elif p.target is not None and p.target.alive:
+            p.target.hp -= p.damage
 
     def _sim_tick(self):
         dt = 1 / TICKS_PER_SEC
@@ -215,21 +244,50 @@ class CoCEnv(gym.Env):
                     tr.hp = 0.0
                 else:
                     self._damage_building(tr.target, tr.dps * dt)
+        still_flying = []
+        for p in self.projectiles:
+            p.delay_left -= dt
+            if p.delay_left <= 1e-9:
+                self._resolve_projectile(p)
+            else:
+                still_flying.append(p)
+        self.projectiles = still_flying
+
         for b in self._defenses:
             if not b.alive:
                 continue
+            if b.cooldown > 0.0:
+                b.cooldown -= dt
+            if b.cooldown > 1e-9:
+                continue
+            min_r2 = b.min_range_tiles * b.min_range_tiles
             r2 = b.range_tiles * b.range_tiles
             best_t, best_d2 = None, r2
             bcx, bcy = b.cx, b.cy
             for t in self.troops:
-                if not t.alive:
+                if not t.alive or not self._targets_match(b.targets, t):
                     continue
                 d2 = (t.x - bcx) ** 2 + (t.y - bcy) ** 2
-                if d2 <= best_d2:
+                if min_r2 <= d2 <= best_d2:
                     best_d2 = d2
                     best_t = t
             if best_t is not None:
-                best_t.hp -= b.dps * dt
+                shot = PendingProjectile(
+                    x=best_t.x,
+                    y=best_t.y,
+                    damage=b.dps * b.attack_speed,
+                    splash_radius=b.splash_radius,
+                    targets=b.targets,
+                    delay_left=b.projectile_delay,
+                    target=None if b.splash_radius > 0 else best_t,
+                )
+                if shot.delay_left <= 1e-9:
+                    self._resolve_projectile(shot)
+                else:
+                    self.projectiles.append(shot)
+                b.cooldown += b.attack_speed
+            else:
+                b.cooldown = 0.0
         self.troops = [t for t in self.troops if t.alive]
         self.tick += 1
 
