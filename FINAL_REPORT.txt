@@ -1,0 +1,95 @@
+FINAL_REPORT.txt — coc-rl Automated Milestones M3–M7
+Generated: 2026-11-12
+Repo: c:\Users\admin\Downloads\coc-rl (branch main)
+
+========================================================================
+1. COMPLETED FULLY
+========================================================================
+
+STEP 0 (Precondition) — PASSED
+- Verified data/armies.json existed and baseline evaluate.py scored > 0% on all 6 bases (base01 100.0%, base03 70.4%, base04 74.1%, base06 33.3%, base05 14.8%, base02 3.7% with giant_barch).
+
+M3 (RENDER) — PASSED (Attempt 2)
+- Commit: 7a42d2c
+- Evidence:
+  (a) CoCEnv.render() in rgb_array/human modes in sim/env.py; scripts/record_demo.py saved 13 PNG frames and docs/baseline_attack.gif (91 gif frames; dest=70.4%, stars=1).
+  (b) play_human.py exists and python play_human.py --smoke-test exited 0.
+  (c) scripts/speed_sanity.py printed TH8 unit speeds (uncalibrated constant 0.125):
+      Giant 1.50 tiles/s (13.33s / 20 tiles), Barbarian 2.25 tiles/s (8.89s),
+      Archer 3.00 tiles/s (6.67s), Wall Breaker 3.00 tiles/s (6.67s), Goblin 4.00 tiles/s (5.00s).
+  (d) tests/test_render.py included in pytest -q -> 7 passed in 7.66s; check_env OK.
+
+M4 (WALLS AND PATHING) — PASSED (Attempt 3)
+- Commits: c526ea0, 20c19c6, 9c201f7
+- Evidence:
+  (a) Level 8 Wall (3000 HP, 1x1, max 225 at TH8 from Fandom Wall.json + Town_Hall.json, cross-checked on coc.guide) added to data/defenses.json and excluded from destruction %.
+  (b) 8-way A* pathing around walls in sim/pathing.py (no corner cutting, versioned path cache), blocked-path wall-attack fallback, and Wall Breaker wall targeting + 1720 wall splash (2.0-tile radius) in sim/env.py.
+  (c) tests/test_walls_pathing.py (3 unit tests: path exists, blocked path, Wall Breaker targeting) passed in pytest -q -> 10 passed in 5.87s; check_env OK.
+  (d) Walls added to base02.json (108 walls), base04.json (176 walls), base06.json (130 walls); python scripts/validate_base.py passed all 6 bases.
+  (e) evaluate.py ran cleanly; 24-episode benchmark ran 3358 steps in 13.77s (243.9 steps/s).
+
+M5 (DEFENSE REALISM) — PASSED (Attempt 1)
+- Commits: f88e533, de111a2
+- Evidence:
+  (a) Mortar min_range_tiles (4.0) and splash_radius (1.5), Wizard Tower splash_radius (1.0), Air Defense targets="air", attack_speed-based discrete shots (dps * attack_speed), and PendingProjectile delay queue implemented in sim/entities.py and sim/env.py. Missing projectile_delay wiki stat was flagged in data/DISCREPANCIES.md and a TODO in sim/env.py rather than invented (defaults to 0.0).
+  (b) tests/test_defenses_m5.py (5 unit tests, one per mechanic) passed in pytest -q -> 15 passed in 11.04s; check_env OK.
+  (c) TH8 flying troops skipped cleanly because data/raw/ and data/troops.json only include the 5 M1 ground troops; Troop.is_flying and Air Defense air-only filtering are implemented and unit-tested.
+  (d) python -u evaluate.py ran end-to-end across all bases and armies, showing realistic splash punishment on stacked barch vs giant_barch.
+
+M6 (BASELINES) — PASSED (Attempt 1)
+- Commits: dce29f8, 6bf4290, 285a07f
+- Evidence:
+  (a) 3 distinct rule-based strategies in agents/: left_wave (agents/rule_based.py), surround (agents/surround.py), smart_funnel (agents/smart_funnel.py), exported via agents/__init__.py and shared agents/helpers.py.
+  (b) python -u evaluate.py ran 100 seeded episodes per base per army per strategy (7200 episodes in 1421.3s) and saved results/baselines.csv.
+  (c) Non-degenerate results spanning 0.0% to 100.0% across bases/armies/strategies.
+  (d) Strategy summary printed and best baseline identified:
+      - left_wave:    42.75% mean destruction, 25.00% 3-star rate, 0.92 mean stars (BEST)
+      - smart_funnel: 28.86% mean destruction, 16.62% 3-star rate, 0.64 mean stars
+      - surround:     23.06% mean destruction, 12.50% 3-star rate, 0.43 mean stars
+  - tests/test_baselines_m6.py included in pytest -q -> 17 passed in 21.34s; check_env OK.
+
+M7 (RL) — PASSED (Attempt 1)
+- Commits: 9bc9513, a1d11d2
+- Evidence:
+  (a) sb3-contrib MaskablePPO trained via train_ppo.py on sim/rl_wrapper.py (ActionMaskCoCEnv with Discrete(81) edge-sector deploy space, exact validity action_masks(), CoCFeatureExtractor, TensorBoard logs under runs/m7_stage1_single_1 and runs/m7_stage2_split_0). Stage 1 trained 25,000 steps on base03.json; Stage 2 trained 75,000 steps on train split [base01.json, base02.json, base03.json, base04.json]. Held out base05.json (unwalled) and base06.json (walled).
+  (b) Saved models/ppo_stage1_single.zip, models/ppo_coc_v1.zip, results/reward_curves.png, and results/rl_vs_baselines.csv. Design rationale and results logged in REWARD_LOG.md.
+  (c) evaluate_rl.py evaluated 100 seeded episodes per (held-out base, army) pair (800 episodes per agent, 710.6s).
+  (d) Held-out evaluation results (results/rl_vs_baselines.csv):
+      - maskable_ppo:  31.94% mean destruction, 0.00% 3-star rate, 0.00 mean stars
+      - left_wave:     24.07% mean destruction, 0.00% 3-star rate, 0.25 mean stars
+      - random_masked: 12.34% mean destruction, 0.00% 3-star rate, 0.00 mean stars
+      Passed both conditions: beats random_masked (+19.60 pp) and beats best baseline left_wave (+7.87 pp), nearly doubling destruction on unseen walled base06.json (36.11% vs 18.52%).
+  - tests/test_rl_m7.py included in final pytest -q -> 20 passed in 43.77s; check_env OK on both CoCEnv and ActionMaskCoCEnv.
+
+========================================================================
+2. PARTIALLY COMPLETE
+========================================================================
+None.
+
+========================================================================
+3. FAILED COMPLETELY
+========================================================================
+None.
+
+========================================================================
+4. NEEDS HUMAN CHECK
+========================================================================
+- Visual inspection (M3): Verify docs/baseline_attack.gif, PNG frames in docs/, results/reward_curves.png, and interactive play_human.py look accurate and responsive.
+- Movement speed calibration: SPEED_TO_TILES_PER_S = 0.125 in scripts/normalize.py remains unverified (speed_verified: false in data/troops.json) and needs calibration against real CoC gameplay footage.
+- Missing wiki / unverified stats flagged rather than invented (data/DISCREPANCIES.md):
+  * Defense projectile flight delay / projectile speed (projectile_delay in data/defenses.json defaults to 0.0 with a TODO in sim/env.py).
+  * Giant L5 HP discrepancy between Fandom (900) and coc.guide (800) -> stats_verified: false.
+  * Goblin 2x resource damage (dps_vs_resources: 64) is stored in data/troops.json but not yet differentiated from base dps (32).
+  * TH8 flying troops (Balloon, Dragon, Minion): not scraped in M1 and skipped in M5; only ground troops are in data/troops.json and data/armies.json.
+
+========================================================================
+5. FINAL VERIFICATION SNAPSHOT
+========================================================================
+- Final pytest -q (after final code/test edit): 20 passed in 43.77s
+- Final env checker: check_env(CoCEnv()) and check_env(ActionMaskCoCEnv()) -> check_env BOTH OK
+- Saved artifacts:
+  * results/baselines.csv (7200 rows)
+  * results/rl_vs_baselines.csv (2400 rows)
+  * results/reward_curves.png
+  * models/ppo_stage1_single.zip, models/ppo_coc_v1.zip (gitignored per .gitignore)
+  * runs/m7_stage1_single_1, runs/m7_stage2_split_0 (gitignored per .gitignore)
