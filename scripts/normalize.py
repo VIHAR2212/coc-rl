@@ -32,6 +32,7 @@ BUILDING_STATS_VERIFIED = {
     "Town_Hall": True,
     "Gold_Storage": True,
     "Elixir_Storage": True,
+    "Wall": True,
 }
 
 
@@ -103,6 +104,7 @@ def _th8_max_building_levels(th_raw: dict) -> dict[str, int]:
         "Mortar": _to_int(def_row["Mortar"]),
         "Air_Defense": _to_int(def_row["Air Defense"]),
         "Wizard_Tower": _to_int(def_row["Wizard Tower"]),
+        "Wall": _to_int(def_row["Wall **"]),
         "Gold_Storage": _to_int(res_row["Gold & Elixir Storage"]),
         "Elixir_Storage": _to_int(res_row["Gold & Elixir Storage"]),
         "Town_Hall": TH_LEVEL,
@@ -137,6 +139,8 @@ def _normalize_troop(stem: str, lab_level: int) -> tuple[str, dict]:
     }
     if "Damage vs. Walls" in row:
         entry["damage_vs_walls"] = _to_int(row["Damage vs. Walls"])
+        if "Damage Radius" in summary:
+            entry["splash_radius"] = _to_float(summary["Damage Radius"])
         entry["_note"] = "Wall Breaker deals one-shot splash damage (x40 vs Walls); dps stores base hit damage."
     if "DPS on Resource Buildings" in row:
         entry["dps_vs_resources"] = _to_int(row["DPS on Resource Buildings"])
@@ -227,7 +231,7 @@ def main() -> None:
             "and cross-checked against coc.guide."
         )
     }
-    for stem in ("Cannon", "Archer_Tower", "Mortar", "Air_Defense", "Wizard_Tower", "Town_Hall", "Gold_Storage", "Elixir_Storage"):
+    for stem in ("Cannon", "Archer_Tower", "Mortar", "Air_Defense", "Wizard_Tower", "Wall", "Town_Hall", "Gold_Storage", "Elixir_Storage"):
         key, val = _normalize_building(stem, building_levels[stem])
         defenses[key] = val
 

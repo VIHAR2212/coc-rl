@@ -65,6 +65,7 @@
     "stats_verified": true,
     "source": "https://clashofclans.fandom.com/wiki/Wall_Breaker",
     "damage_vs_walls": 1720,
+    "splash_radius": 2.0,
     "_note": "Wall Breaker deals one-shot splash damage (x40 vs Walls); dps stores base hit damage."
   },
   "goblin_l5": {

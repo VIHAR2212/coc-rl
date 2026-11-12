@@ -58,6 +58,17 @@
     "source": "https://clashofclans.fandom.com/wiki/Wizard_Tower",
     "splash_radius": 1.0
   },
+  "wall": {
+    "level": 8,
+    "hp": 3000,
+    "dps": 0,
+    "attack_speed": 0.0,
+    "range_tiles": 0.0,
+    "size": 1,
+    "targets": "none",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Wall"
+  },
   "town_hall": {
     "level": 8,
     "hp": 3900,

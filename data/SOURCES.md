@@ -17,6 +17,7 @@ Content from the Clash of Clans Wiki on Fandom is licensed under **Creative Comm
 - Mortar: https://clashofclans.fandom.com/wiki/Mortar
 - Air Defense: https://clashofclans.fandom.com/wiki/Air_Defense
 - Wizard Tower: https://clashofclans.fandom.com/wiki/Wizard_Tower
+- Wall: https://clashofclans.fandom.com/wiki/Wall
 - Town Hall: https://clashofclans.fandom.com/wiki/Town_Hall
 - Army Camp: https://clashofclans.fandom.com/wiki/Army_Camp
 - Gold Storage: https://clashofclans.fandom.com/wiki/Gold_Storage
@@ -26,6 +27,6 @@ Content from the Clash of Clans Wiki on Fandom is licensed under **Creative Comm
 
 Used via `scripts/scrape_cocguide.py` to cross-check TH8 HP and DPS values (see `data/DISCREPANCIES.md` for mismatches and lag notes):
 - Troops: https://coc.guide/troop/barbarian, https://coc.guide/troop/archer, https://coc.guide/troop/giant, https://coc.guide/troop/wall-breaker, https://coc.guide/troop/goblin
-- Defenses: https://coc.guide/defense/cannon, https://coc.guide/defense/archer-tower, https://coc.guide/defense/mortar, https://coc.guide/defense/air-defense, https://coc.guide/defense/wizard-tower
+- Defenses: https://coc.guide/defense/cannon, https://coc.guide/defense/archer-tower, https://coc.guide/defense/mortar, https://coc.guide/defense/air-defense, https://coc.guide/defense/wizard-tower, https://coc.guide/defense/wall
 - Other / Resources: https://coc.guide/other/town-hall, https://coc.guide/resource/gold-storage, https://coc.guide/resource/elixir-storage
 

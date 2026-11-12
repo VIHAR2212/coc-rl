@@ -1,0 +1,1047 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "25",
+        "3": "50",
+        "4": "75",
+        "5": "100",
+        "6": "125",
+        "7": "175",
+        "8": "225",
+        "9": "250"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "275",
+        "2": "300",
+        "3": "300",
+        "4": "300",
+        "5": "325",
+        "6": "325",
+        "7": "325",
+        "8": "325",
+        "9": "325"
+      }
+    ],
+    [
+      {
+        "Size": "1x1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Hitpoints": "100",
+        "Cost": "N/A",
+        "Cumulative Cost": "N/A",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "2",
+        "Hitpoints": "200",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Hitpoints": "400",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Hitpoints": "800",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Hitpoints": "1,200",
+        "Cost": "1",
+        "Cumulative Cost": "20,000",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Hitpoints": "1,800",
+        "Cost": "1",
+        "Cumulative Cost": "50,000",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "7",
+        "Hitpoints": "2,400",
+        "Cost": "1",
+        "Cumulative Cost": "100,000",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Hitpoints": "3,000",
+        "Cost": "1",
+        "Cumulative Cost": "175,000",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Hitpoints": "3,500",
+        "Cost": "1",
+        "Cumulative Cost": "275,000",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Hitpoints": "4,000",
+        "Cost": "1",
+        "Cumulative Cost": "475,000",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "11",
+        "Hitpoints": "5,000",
+        "Cost": "1",
+        "Cumulative Cost": "975,000",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "12",
+        "Hitpoints": "7,000",
+        "Cost": "1",
+        "Cumulative Cost": "1,975,000",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "13",
+        "Hitpoints": "8,000",
+        "Cost": "2",
+        "Cumulative Cost": "3,475,000",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "14",
+        "Hitpoints": "9,000",
+        "Cost": "2",
+        "Cumulative Cost": "5,475,000",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "15",
+        "Hitpoints": "10,000",
+        "Cost": "3",
+        "Cumulative Cost": "8,475,000",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "16",
+        "Hitpoints": "11,000",
+        "Cost": "4",
+        "Cumulative Cost": "12,475,000",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "17",
+        "Hitpoints": "12,000",
+        "Cost": "5",
+        "Cumulative Cost": "17,475,000",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "18",
+        "Hitpoints": "13,000",
+        "Cost": "7",
+        "Cumulative Cost": "24,475,000",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "19",
+        "Hitpoints": "14,000",
+        "Cost": "10",
+        "Cumulative Cost": "34,475,000",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "Wall Buster": "Description"
+      },
+      {
+        "Wall Buster": "Destroy 10 Walls in Multiplayer battles"
+      },
+      {
+        "Wall Buster": "Destroy 100 Walls in Multiplayer battles"
+      },
+      {
+        "Wall Buster": "Destroy 2,000 Walls in Multiplayer battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon upgrades the selected Wall to the next level, if you have enough resources and a free Builder . When the selected Wall is at at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon upgrades the selected Wall(s) to the next level, if you have enough Wall Rings and a free Builder (or B.O.B). When the Wall is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon selects a row of Walls to move or rotate instead of a single Wall. The longest contiguous row of Walls will be selected."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon rotates the selected row of Walls. This icon is only displayed while you have multiple Walls selected."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon upgrades all the upgradable Walls in the selected row to the next level, if you have enough resources and a free Builder (or B.O.B). This icon is only displayed while you have multiple Walls selected."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon upgrades any more Walls in specific level."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon will add 1 more Wall to upgrades. This icon only appears when the Walls has been choose during upgrade more."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "this icon will add 10 more Walls to upgrades. This icon only appears when the Walls has been choose during upgrade more."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "this icon will removed 1 Wall to upgrades. This icon only appears when the Walls has been choose during upgrade more."
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Type": "Game Release",
+        "Description": "The Wall was added in the original release of the game, with 8 levels."
+      },
+      {
+        "Patch": "September 18, 2012",
+        "Type": "Update",
+        "Description": "Walls are now built and upgraded instantly."
+      },
+      {
+        "Patch": "November 19, 2012",
+        "Type": "Update",
+        "Description": "Made it so that defending Clan Castle troops can now jump over Walls."
+      },
+      {
+        "Patch": "January 10, 2013",
+        "Type": "Town Hall 9 Update",
+        "Description": "Added levels 9 and 10 Wall."
+      },
+      {
+        "Patch": "February 5, 2013",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 9 and 10."
+      },
+      {
+        "Patch": "March 12, 2013",
+        "Type": "Update",
+        "Description": "Added an option to move multiple Wall pieces in a line at one time."
+      },
+      {
+        "Patch": "March 25, 2013",
+        "Type": "Maintenance Break",
+        "Description": "Added 25 Walls at Town Hall 7."
+      },
+      {
+        "Patch": "April 17, 2013",
+        "Type": "Update",
+        "Description": "Added an option where you can rotate Wall sections."
+      },
+      {
+        "Patch": "June 17, 2013",
+        "Type": "Town Hall 10 Update",
+        "Description": "Added the level 11 Wall."
+      },
+      {
+        "Patch": "September 30, 2013",
+        "Type": "Major Update",
+        "Description": "Added Village Edit Mode, where you can design your base with Walls and other buildings. You can also place many Walls at once by selecting a Wall piece, then dragging along the wall guide markers."
+      },
+      {
+        "Patch": "September 16, 2014",
+        "Type": "Update",
+        "Description": "Allowed Walls to used Elixir to upgrade to level 7 or higher at the same cost as it would with Gold. Added a button to select a row of Walls to upgrade all at once."
+      },
+      {
+        "Patch": "11 December, 2014",
+        "Type": "Update",
+        "Description": "Restricted the capability for Walls to be upgraded with Elixir to level 9 and above."
+      },
+      {
+        "Patch": "April 30, 2015",
+        "Type": "Update",
+        "Description": "Reduced the build cost of 200 to 50."
+      },
+      {
+        "Patch": "September 9, 2015",
+        "Type": "Update",
+        "Description": "Added 25 Wall at Town Hall 10. Changed the level 11 Wall design. Prior to this update, the level 11 Wall appeared light blue with an electric theme, which later developed into modern electric Walls at Town Hall 12. Minor texture changes were also given to levels 2 to 8 except 4."
+      },
+      {
+        "Patch": "May 24, 2016",
+        "Type": "Update",
+        "Description": "The destroyed Walls appearances are different for every level."
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Added 25 Walls at Town Hall 11."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Added the level 12 Wall (only 50 pieces could be upgraded to level 12). Reduced upgrade costs at levels 10 and 11."
+      },
+      {
+        "Patch": "March 8, 2017",
+        "Type": "Balance Changes",
+        "Description": "Allowed 25 more Wall pieces to be upgraded to level 12 (for a total of 75)."
+      },
+      {
+        "Patch": "October 11, 2017",
+        "Type": "Update",
+        "Description": "Allowed 25 more Wall pieces to be upgraded to level 12 (for a total of 100)."
+      },
+      {
+        "Patch": "December 18, 2017",
+        "Type": "Update",
+        "Description": "Allowed 25 more Wall pieces to be upgraded to level 12 (for a total of 125)."
+      },
+      {
+        "Patch": "March 5, 2018",
+        "Type": "Update",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 12."
+      },
+      {
+        "Patch": "April 9, 2018",
+        "Type": "Update",
+        "Description": "Wall segments now display how many Ring of Walls items are needed to upgrade to the next level."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 13 Wall (only 100 pieces could be upgraded to level 13). Walls in the Home Village reduced (such that 1 Wall Ring corresponds to 1 million or part thereof of resources). Reduced upgrade cost from level 5 to 11 Wall."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Allowed 100 more Wall pieces to be upgraded to level 13 (for a total of 200)."
+      },
+      {
+        "Patch": "December 12, 2018",
+        "Type": "Update",
+        "Description": "Reworked the damage multipliers of Stone Slammer against Walls - increased maximum damage multiplier, but decreases damage for targets outside the immediate vicinity of the Slammer."
+      },
+      {
+        "Patch": "January 28, 2019",
+        "Type": "Maintenance Break",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 13."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Town Hall 13 Update",
+        "Description": "Added the level 14 Wall (only 100 pieces could be upgraded to level 14)."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Allowed 50 more Wall pieces to be upgraded to level 14 (for a total of 150). Reduced upgrade cost at levels 5 to 12. Number of Wall Rings require to upgrade Walls reduced for certain levels. Level 11: 2 -> 1 Level 12: 4 -> 3"
+      },
+      {
+        "Patch": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Allowed 50 more Wall pieces to be upgraded to level 14 (for a total of 200)."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 14."
+      },
+      {
+        "Patch": "December 7, 2020",
+        "Type": "Update",
+        "Description": "Wall segments can now be swapped with other Wall segments."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Town Hall 14 Update",
+        "Description": "Added the level 15 Wall (only 100 pieces can be upgraded to level 15). Added 25 Walls at Town Hall 14. Reduced upgrade costs at levels 12 and 13: Level 12: 3,000,000 to 2,000,000 Level 13: 5,000,000 to 4,000,000 Stopped the Grand Warden from attacking a Wall if nobody else in his group is attacking a Wall. Fixed visual Wall connection problems when visiting villages which have destroyed Walls and the Village owner has not logged in after they were destroyed. Refreshed Wall connections properly when swapping Walls in layout editor."
+      },
+      {
+        "Patch": "June 2021",
+        "Type": "Update",
+        "Description": "Allowed 50 more Wall pieces to be upgraded to level 15 (for a total of 150)."
+      },
+      {
+        "Patch": "September 2021",
+        "Type": "Update",
+        "Description": "Allowed 50 more Wall pieces to be upgraded to level 15 (for a total of 200)."
+      },
+      {
+        "Patch": "December 2021",
+        "Type": "Update",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 15."
+      },
+      {
+        "Patch": "June 2022",
+        "Type": "Update",
+        "Description": "Reduced hitpoints at levels 9 to 14. Relaxed the capability for Walls to be upgraded with Elixir to level 5 and above."
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Town Hall 15 Update",
+        "Description": "Added the level 16 Wall (only 200 pieces can be upgraded to level 16)."
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 16."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Town Hall 16 Update",
+        "Description": "Added the level 17 Wall (only 150 pieces can be upgraded to level 17). Reduced upgrade cost for level 14 and 15: Level 14: 4,000,000 -> 3,000,000 Level 15: 7,000,000 -> 5,000,000"
+      },
+      {
+        "Patch": "June 18, 2024",
+        "Type": "Update",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 17. Reduced upgrade cost at level 17 from 9,000,000 to 7,000,000."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Added the level 18 Wall (only 100 pieces can be upgraded to level 18)."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Gave updates to Walls: Allowed 50 more Wall pieces to be upgraded to level 18 (for a total of 175). Reduced the build cost from 50 to 0. Added the ability to drag the Walls to place new one, similar to Edit Layout mode. When upgrading Walls, one can add Walls of the same level up to the amount of resource you have to upgrade them all at once."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Update",
+        "Description": "Allowed 75 more Wall pieces to be upgraded to level 18 (for a total of 250)."
+      },
+      {
+        "Patch": "June 16, 2025",
+        "Type": "Update",
+        "Description": "Allowed the rest of the Walls to be upgraded to level 18."
+      },
+      {
+        "Patch": "June 30, 2025",
+        "Type": "Balance Changes",
+        "Description": "Reduced hitpoints at level 13 to 18: Level 13: 9,000 -> 8,000 Level 14: 11,000 -> 9,000 Level 15: 12,500 -> 10,000 Level 16: 13,500 -> 11,000 Level 17: 14,500 -> 12,000 Level 18: 15,500 -> 13,000"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the level 19 Wall (only 125 pieces can be upgraded to level 19). Reduced upgrade cost at level 18 from 8,000,000 to 7,000,000."
+      },
+      {
+        "Patch": "February 23, 2026",
+        "Type": "Update",
+        "Description": "Allowed 75 more Wall pieces to be upgraded to level 19 (for a total of 200). Changed the level 19 Wall design which appeared slightly darker."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Allowed 75 more Wall pieces to be upgraded to level 19 (for a total of 275)."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "Builder Hall Level": "2"
+      },
+      {
+        "Number Available": "Total",
+        "Builder Hall Level": "10"
+      }
+    ],
+    [
+      {
+        "Size": "1x1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Hitpoints": "900",
+        "Cost": "N/A",
+        "Cumulative Cost": "N/A",
+        "Builder Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Hitpoints": "1,100",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Hitpoints": "1,300",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Hitpoints": "1,600",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Builder Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Hitpoints": "1,900",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Builder Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Hitpoints": "2,200",
+        "Cost": "1",
+        "Cumulative Cost": "N/A",
+        "Builder Hall Level Required": "6"
+      },
+      {
+        "Level": "7",
+        "Hitpoints": "2,500",
+        "Cost": "1",
+        "Cumulative Cost": "400,000",
+        "Builder Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Hitpoints": "2,750",
+        "Cost": "2",
+        "Cumulative Cost": "1,000,000",
+        "Builder Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Hitpoints": "3,050",
+        "Cost": "2",
+        "Cumulative Cost": "1,800,000",
+        "Builder Hall Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Hitpoints": "3,350",
+        "Cost": "2",
+        "Cumulative Cost": "2,800,000",
+        "Builder Hall Level Required": "10"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Wall Level": ""
+      },
+      {
+        "": "",
+        "Wall Level": "1"
+      },
+      {
+        "": "5-6",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Wall Level": ""
+      },
+      {
+        "": "",
+        "Wall Level": "1"
+      },
+      {
+        "": "5",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon rotates the selected row of Walls."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon upgrades the selected Walls to the next level, if you have enough resources and a free Master Builder or O.T.T.O . When the selected Walls are at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon upgrades the selected Walls to the next level, if you have enough Wall Rings and a free Master Builder, O.T.T.O, or B.O.B. When the selected Walls are at maximum level, this icon is not shown."
+      }
+    ],
+    [
+      {
+        "Builder Base Buildings": "Defensive Buildings"
+      },
+      {
+        "Builder Base Buildings": "Resource Buildings"
+      },
+      {
+        "Builder Base Buildings": "Army Buildings"
+      },
+      {
+        "Builder Base Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "": "Level 5"
+      }
+    ],
+    [
+      {
+        "": "Level 5"
+      }
+    ],
+    [
+      {
+        "Capital Hall Level": "Number Available",
+        "1": "80",
+        "2": "120",
+        "3": "160",
+        "4": "180",
+        "5": "200",
+        "6": "220",
+        "7": "240",
+        "8": "260",
+        "9": "280",
+        "10": "280"
+      }
+    ],
+    [
+      {
+        "Size": "1x1"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Barbarian Camp",
+        "District Hall Level": "50"
+      },
+      {
+        "Number Available": "Wizard Valley",
+        "District Hall Level": "80"
+      },
+      {
+        "Number Available": "Balloon Lagoon",
+        "District Hall Level": "60"
+      },
+      {
+        "Number Available": "Builder's Workshop",
+        "District Hall Level": "100"
+      },
+      {
+        "Number Available": "Dragon Cliffs",
+        "District Hall Level": "80"
+      },
+      {
+        "Number Available": "Golem Quarry",
+        "District Hall Level": "60"
+      },
+      {
+        "Number Available": "Skeleton Park",
+        "District Hall Level": "80"
+      },
+      {
+        "Number Available": "Goblin Mines",
+        "District Hall Level": "30"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Hitpoints": "5,000",
+        "Build Cost*": "0",
+        "Cumulative Build Cost*": "0",
+        "Capital Hall Level Required": "1",
+        "District Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Hitpoints": "6,500",
+        "Build Cost*": "500",
+        "Cumulative Build Cost*": "500",
+        "Capital Hall Level Required": "3",
+        "District Hall Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Hitpoints": "8,000",
+        "Build Cost*": "1,500",
+        "Cumulative Build Cost*": "2,000",
+        "Capital Hall Level Required": "5",
+        "District Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Hitpoints": "9,500",
+        "Build Cost*": "3,500",
+        "Cumulative Build Cost*": "5,500",
+        "Capital Hall Level Required": "7",
+        "District Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Hitpoints": "11,000",
+        "Build Cost*": "6,000",
+        "Cumulative Build Cost*": "11,500",
+        "Capital Hall Level Required": "9",
+        "District Hall Level Required": "5"
+      }
+    ],
+    [
+      {
+        "Level": "Capital Peak",
+        "Build Cost": "Barbarian Camp"
+      },
+      {
+        "Level": "2",
+        "Build Cost": "140,000"
+      },
+      {
+        "Level": "3",
+        "Build Cost": "420,000"
+      },
+      {
+        "Level": "4",
+        "Build Cost": "980,000"
+      },
+      {
+        "Level": "5",
+        "Build Cost": "1,680,000"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon contributes the Capital Gold you have into upgrading all Walls in the district to the next level. When the Walls in the district are at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "This icon indicates that the selected Wall piece is a Wall. Tapping it changes the Wall into a Gate, allowing defensive ground troops passage. This icon only appears in Village Edit Mode and if the conditions of changing the Wall into a Gate are met."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "This icon indicates that the selected Wall piece is a Gate. Tapping it changes the Gate into a Wall, preventing defensive ground troops passage. This icon only appears in Village Edit Mode and if the conditions of changing the Wall into a Gate are met."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "This icon indicates that the selected Wall piece is a Wall that cannot be changed into a Gate, because the conditions of changing it into a Gate are not met. This icon only appears in Village Edit Mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon marks the wall upgrade to the next level as a priority for the Clan, pinning it as a recommended upgrade for Clan members. This icon is only shown if the upgrade is possible, is not already prioritized and if the player is Leader or a Co-leader of their Clan."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Wall, such as Hitpoints.": "Tapping this icon stops marking the wall upgrade to the next level as a priority for the Clan. This icon is only shown if the upgrade is possible, is being prioritized and if the player is Leader or a Co-leader of their Clan."
+      }
+    ],
+    [
+      {
+        "Clan Capital Buildings": "Defensive Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Army Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}
