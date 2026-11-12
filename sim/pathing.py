@@ -33,53 +33,65 @@ def astar_path(
     sx, sy = start
     sx = max(0, min(w - 1, sx))
     sy = max(0, min(h - 1, sy))
-    if wall_grid[sy, sx]:
+    grid = wall_grid.tolist()
+    if grid[sy][sx]:
         return None
 
     # Goal distance allows reaching adjacent tile centers for melee/1x1 walls.
     goal_reach = target_size / 2.0 + max(0.6, attack_range)
+    goal_reach2 = goal_reach * goal_reach
+    hypot = math.hypot
+    heappop = heapq.heappop
+    heappush = heapq.heappush
 
-    def is_goal(x: int, y: int) -> bool:
-        return math.hypot(x + 0.5 - target_cx, y + 0.5 - target_cy) <= goal_reach
-
-    if is_goal(sx, sy):
+    dx0 = sx + 0.5 - target_cx
+    dy0 = sy + 0.5 - target_cy
+    if dx0 * dx0 + dy0 * dy0 <= goal_reach2:
         return []
 
-    def heuristic(x: int, y: int) -> float:
-        return max(0.0, math.hypot(x + 0.5 - target_cx, y + 0.5 - target_cy) - goal_reach)
-
-    open_heap: list[tuple[float, int, int]] = [(heuristic(sx, sy), sx, sy)]
-    g_score: dict[tuple[int, int], float] = {(sx, sy): 0.0}
-    came_from: dict[tuple[int, int], tuple[int, int]] = {}
-    closed: set[tuple[int, int]] = set()
+    start_idx = sy * w + sx
+    n = w * h
+    closed = [False] * n
+    g_score = [float("inf")] * n
+    came_from = [-1] * n
+    g_score[start_idx] = 0.0
+    h0 = max(0.0, hypot(dx0, dy0) - goal_reach)
+    open_heap: list[tuple[float, int, int, int]] = [(h0, start_idx, sx, sy)]
 
     while open_heap:
-        _, cx, cy = heapq.heappop(open_heap)
-        if (cx, cy) in closed:
+        _, ci, cx, cy = heappop(open_heap)
+        if closed[ci]:
             continue
-        if is_goal(cx, cy):
+        gx = cx + 0.5 - target_cx
+        gy = cy + 0.5 - target_cy
+        if gx * gx + gy * gy <= goal_reach2:
             path: list[tuple[float, float]] = []
-            cur = (cx, cy)
-            while cur != (sx, sy):
-                path.append((cur[0] + 0.5, cur[1] + 0.5))
+            cur = ci
+            while cur != start_idx:
+                path.append(((cur % w) + 0.5, (cur // w) + 0.5))
                 cur = came_from[cur]
             path.reverse()
             return path
-        closed.add((cx, cy))
-        base_g = g_score[(cx, cy)]
+        closed[ci] = True
+        base_g = g_score[ci]
+        row_c = grid[cy]
 
         for dx, dy, step_cost in _DIRS:
             nx, ny = cx + dx, cy + dy
-            if not (0 <= nx < w and 0 <= ny < h) or (nx, ny) in closed:
+            if not (0 <= nx < w and 0 <= ny < h):
                 continue
-            if wall_grid[ny, nx]:
+            ni = ny * w + nx
+            if closed[ni]:
                 continue
-            if dx != 0 and dy != 0 and (wall_grid[cy, nx] or wall_grid[ny, cx]):
+            if grid[ny][nx]:
+                continue
+            if dx != 0 and dy != 0 and (row_c[nx] or grid[ny][cx]):
                 continue
             ng = base_g + step_cost
-            if ng < g_score.get((nx, ny), float("inf")):
-                g_score[(nx, ny)] = ng
-                came_from[(nx, ny)] = (cx, cy)
-                heapq.heappush(open_heap, (ng + heuristic(nx, ny), nx, ny))
+            if ng < g_score[ni]:
+                g_score[ni] = ng
+                came_from[ni] = ci
+                hd = hypot(nx + 0.5 - target_cx, ny + 0.5 - target_cy) - goal_reach
+                heappush(open_heap, (ng + (hd if hd > 0.0 else 0.0), ni, nx, ny))
 
     return None

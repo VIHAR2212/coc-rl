@@ -81,6 +81,7 @@ class CoCEnv(gym.Env):
         self.buildings = []
         self._deploy_mask = np.ones((self.grid, self.grid), dtype=np.float32)
         self._wall_grid = np.zeros((self.grid, self.grid), dtype=bool)
+        self._wall_hp_grid = np.zeros((self.grid, self.grid), dtype=np.float32)
         self._wall_version = 0
         self._path_cache = {}
         self.projectiles = []
@@ -100,6 +101,7 @@ class CoCEnv(gym.Env):
             self.buildings.append(bld)
             if is_wall:
                 self._wall_grid[int(bld.y), int(bld.x)] = True
+                self._wall_hp_grid[int(bld.y), int(bld.x)] = 1.0
             x0, x1 = max(0, int(bld.x) - DEPLOY_MARGIN), min(self.grid, int(bld.x) + bld.size + DEPLOY_MARGIN)
             y0, y1 = max(0, int(bld.y) - DEPLOY_MARGIN), min(self.grid, int(bld.y) + bld.size + DEPLOY_MARGIN)
             self._deploy_mask[y0:y1, x0:x1] = 0.0
@@ -132,9 +134,9 @@ class CoCEnv(gym.Env):
         ))
 
     def _pick_target(self, tr):
-        non_walls = [b for b in self.buildings if b.alive and not b.is_wall]
+        non_walls = [b for b in self._non_walls if b.hp > 0]
         if tr.favorite == "walls":
-            walls = [b for b in self.buildings if b.alive and b.is_wall]
+            walls = [b for b in self.buildings if b.hp > 0 and b.is_wall]
             pool = walls or non_walls
         elif tr.favorite == "defenses":
             pool = [b for b in non_walls if b.is_defense] or non_walls
@@ -147,12 +149,13 @@ class CoCEnv(gym.Env):
         return min(pool, key=lambda b: (b.cx - tr.x) ** 2 + (b.cy - tr.y) ** 2)
 
     def _damage_building(self, bld, dmg):
-        if not bld.alive:
+        if bld.hp <= 0:
             return
         bld.hp -= dmg
-        if bld.hp <= 0 and bld.is_wall:
+        if bld.is_wall:
             wx, wy = int(bld.x), int(bld.y)
-            if self._wall_grid[wy, wx]:
+            self._wall_hp_grid[wy, wx] = bld.hp / bld.max_hp if bld.hp > 0 else 0.0
+            if bld.hp <= 0 and self._wall_grid[wy, wx]:
                 self._wall_grid[wy, wx] = False
                 self._wall_version += 1
                 self._path_cache.clear()
@@ -253,31 +256,46 @@ class CoCEnv(gym.Env):
                 still_flying.append(p)
         self.projectiles = still_flying
 
+        troops = self.troops
+        any_flying = any(t.is_flying for t in troops)
         for b in self._defenses:
-            if not b.alive:
+            if b.hp <= 0:
                 continue
             if b.cooldown > 0.0:
                 b.cooldown -= dt
             if b.cooldown > 1e-9:
                 continue
+            bt = b.targets
+            if bt == "air" and not any_flying:
+                b.cooldown = 0.0
+                continue
             min_r2 = b.min_range_tiles * b.min_range_tiles
             r2 = b.range_tiles * b.range_tiles
             best_t, best_d2 = None, r2
             bcx, bcy = b.cx, b.cy
-            for t in self.troops:
-                if not t.alive or not self._targets_match(b.targets, t):
-                    continue
-                d2 = (t.x - bcx) ** 2 + (t.y - bcy) ** 2
-                if min_r2 <= d2 <= best_d2:
-                    best_d2 = d2
-                    best_t = t
+            if not any_flying:
+                for t in troops:
+                    if t.hp <= 0:
+                        continue
+                    d2 = (t.x - bcx) ** 2 + (t.y - bcy) ** 2
+                    if min_r2 <= d2 <= best_d2:
+                        best_d2 = d2
+                        best_t = t
+            else:
+                for t in troops:
+                    if t.hp <= 0 or not self._targets_match(bt, t):
+                        continue
+                    d2 = (t.x - bcx) ** 2 + (t.y - bcy) ** 2
+                    if min_r2 <= d2 <= best_d2:
+                        best_d2 = d2
+                        best_t = t
             if best_t is not None:
                 shot = PendingProjectile(
                     x=best_t.x,
                     y=best_t.y,
                     damage=b.dps * b.attack_speed,
                     splash_radius=b.splash_radius,
-                    targets=b.targets,
+                    targets=bt,
                     delay_left=b.projectile_delay,
                     target=None if b.splash_radius > 0 else best_t,
                 )
@@ -288,7 +306,7 @@ class CoCEnv(gym.Env):
                 b.cooldown += b.attack_speed
             else:
                 b.cooldown = 0.0
-        self.troops = [t for t in self.troops if t.alive]
+        self.troops = [t for t in troops if t.hp > 0]
         self.tick += 1
 
     def _destruction_now(self):
@@ -322,14 +340,15 @@ class CoCEnv(gym.Env):
 
     def _obs(self):
         g = np.zeros((5, self.grid, self.grid), np.float32)
-        for b in self.buildings:
-            if b.alive:
+        g[0] = self._wall_hp_grid
+        g[2] = self._wall_grid
+        for b in self._non_walls:
+            if b.hp > 0:
                 xs, ys = int(b.x), int(b.y)
                 g[0, ys:ys + b.size, xs:xs + b.size] = b.hp / b.max_hp
                 g[1, ys:ys + b.size, xs:xs + b.size] = float(b.is_defense)
-                g[2, ys:ys + b.size, xs:xs + b.size] = float(b.is_wall)
         for t in self.troops:
-            if t.alive:
+            if t.hp > 0:
                 xi = min(self.grid - 1, max(0, int(t.x)))
                 yi = min(self.grid - 1, max(0, int(t.y)))
                 g[3, yi, xi] = min(1.0, g[3, yi, xi] + 0.25)
