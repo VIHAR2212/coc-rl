@@ -1,4 +1,4 @@
-"""Gymnasium wrapper adding valid-edge sector actions and action masks for MaskablePPO."""
+"""Gymnasium wrapper adding valid-edge sector actions, TH grid channel, and action masks."""
 import math
 from typing import Any
 
@@ -13,12 +13,20 @@ from agents.helpers import edge_ring_tiles
 from sim.env import CoCEnv
 
 NUM_SECTORS = 16
-TRAIN_BASES = ["base01.json", "base02.json", "base03.json", "base04.json"]
-HELD_OUT_BASES = ["base05.json", "base06.json"]
+# Exclude trivial base01.json from RL training split (M7b).
+TRAIN_BASES = ["base02.json", "base03.json", "base04.json"]
+HELD_OUT_BASES = [
+    "base05.json",
+    "base06.json",
+    "base07.json",
+    "base08.json",
+    "base09.json",
+    "base10.json",
+]
 
 
 class ActionMaskCoCEnv(gym.Env):
-    """Wraps CoCEnv with discrete (troop, edge-sector) actions and exact validity masks."""
+    """Wraps CoCEnv with discrete (troop, edge-sector) actions, TH channel, and validity masks."""
 
     metadata = {"render_modes": ["human", "rgb_array"]}
 
@@ -27,7 +35,7 @@ class ActionMaskCoCEnv(gym.Env):
         bases: list[str] | str = "base03.json",
         armies: list[str] | str | None = None,
         num_sectors: int = NUM_SECTORS,
-        shaping_mode: str = "baseline",
+        shaping_mode: str = "stars_aware",
         render_mode: str | None = None,
     ):
         super().__init__()
@@ -47,10 +55,16 @@ class ActionMaskCoCEnv(gym.Env):
         self.n_troops = len(self.troop_keys)
         # 0 = wait; 1..n_troops*num_sectors = deploy troop k in sector s
         self.action_space = spaces.Discrete(1 + self.n_troops * self.num_sectors)
-        self.observation_space = self.env.observation_space
+        grid_shape = self.env.observation_space["grid"].shape
+        self.observation_space = spaces.Dict({
+            # Add 6th channel highlighting the Town Hall footprint so RL can aim for the TH star.
+            "grid": spaces.Box(0, 1, (grid_shape[0] + 1, grid_shape[1], grid_shape[2]), np.float32),
+            "army": self.env.observation_space["army"],
+        })
 
         self._sector_tiles: list[list[tuple[int, int]]] = [[] for _ in range(self.num_sectors)]
         self._sector_cursor: list[int] = [0] * self.num_sectors
+        self._th_grid = np.zeros((1, self.env.grid, self.env.grid), dtype=np.float32)
         self._ep_idx = 0
 
     def _rebuild_sectors(self) -> None:
@@ -58,12 +72,26 @@ class ActionMaskCoCEnv(gym.Env):
         buckets: list[list[tuple[int, int]]] = [[] for _ in range(self.num_sectors)]
         mid = self.env.grid / 2.0
         for x, y in ring:
-            ang = math.atan2(y - mid, x - mid)  # [-pi, pi]
+            ang = math.atan2(y - mid, x - mid)
             frac = (ang + math.pi) / (2.0 * math.pi)
             sec = min(self.num_sectors - 1, max(0, int(frac * self.num_sectors)))
             buckets[sec].append((x, y))
         self._sector_tiles = buckets
         self._sector_cursor = [0] * self.num_sectors
+
+    def _build_th_grid(self) -> None:
+        self._th_grid.fill(0.0)
+        for b in self.env._non_walls:
+            if b.is_town_hall and b.hp > 0:
+                xs, ys = int(b.x), int(b.y)
+                self._th_grid[0, ys:ys + b.size, xs:xs + b.size] = b.hp / b.max_hp
+
+    def _wrap_obs(self, obs: dict[str, np.ndarray]) -> dict[str, np.ndarray]:
+        self._build_th_grid()
+        return {
+            "grid": np.concatenate([obs["grid"], self._th_grid], axis=0),
+            "army": obs["army"],
+        }
 
     def reset(self, *, seed: int | None = None, options: dict[str, Any] | None = None):
         super().reset(seed=seed)
@@ -82,12 +110,11 @@ class ActionMaskCoCEnv(gym.Env):
         self._rebuild_sectors()
         info = dict(info)
         info.update({"base": chosen_base, "army": chosen_army})
-        return obs, info
+        return self._wrap_obs(obs), info
 
     def action_masks(self) -> np.ndarray:
         mask = np.zeros(1 + self.n_troops * self.num_sectors, dtype=bool)
         has_army = any(self.env.army_left[k] > 0 for k in self.troop_keys)
-        # Allow Wait after at least one troop is placed, or once all troops are deployed.
         mask[0] = (not has_army) or (len(self.env.troops) > 0)
         if has_army:
             for k_idx, k in enumerate(self.troop_keys):
@@ -103,7 +130,6 @@ class ActionMaskCoCEnv(gym.Env):
         act = int(action)
         if act == 0:
             raw_act = [0, 0, 0]
-            deployed_kind = None
         else:
             idx = act - 1
             k_idx = idx // self.num_sectors
@@ -114,27 +140,27 @@ class ActionMaskCoCEnv(gym.Env):
                 x, y = tiles[cur % len(tiles)]
                 self._sector_cursor[sec] = cur + 1
                 raw_act = [k_idx + 1, x, y]
-                deployed_kind = self.troop_keys[k_idx]
             else:
                 raw_act = [0, 0, 0]
-                deployed_kind = None
 
+        prev_dest = self.env.destruction
         prev_th = self.env.th_destroyed
         obs, reward, term, trunc, info = self.env.step(raw_act)
 
-        if self.shaping_mode == "tactical" and deployed_kind is not None:
-            # Small shaping signal for ordering tanks before squishy DPS while troops remain.
-            has_giants = self.env.army_left.get("giant_l5", 0) > 0
-            if deployed_kind == "giant_l5":
-                reward += 0.08
-            elif has_giants and deployed_kind in ("archer_l5", "goblin_l5"):
-                reward -= 0.03
-        if self.shaping_mode == "tactical" and act == 0 and any(self.env.army_left.values()):
-            reward -= 0.05
+        if self.shaping_mode == "stars_aware":
+            # Bonus for crossing 50% (1 star), Town Hall (+25 on top of +50 = +75), and 100% (3 stars).
+            if prev_dest < 0.5 <= self.env.destruction:
+                reward += 25.0
+            if not prev_th and self.env.th_destroyed:
+                reward += 25.0
+            if prev_dest < 1.0 <= self.env.destruction:
+                reward += 50.0
+            if act == 0 and any(self.env.army_left.values()):
+                reward -= 0.05
 
         info = dict(info)
-        info["th_destroyed"] = int(self.env.th_destroyed or prev_th)
-        return obs, float(reward), term, trunc, info
+        info["th_destroyed"] = int(self.env.th_destroyed)
+        return self._wrap_obs(obs), float(reward), term, trunc, info
 
     def render(self):
         return self.env.render()
@@ -144,33 +170,25 @@ class ActionMaskCoCEnv(gym.Env):
 
 
 class CoCFeatureExtractor(BaseFeaturesExtractor):
-    """Lightweight CNN + army MLP extractor tuned for 44x44 CoC grids on CPU."""
+    """Lightweight stride-4 CNN + army MLP extractor tuned for 44x44 CoC grids on CPU."""
 
-    def __init__(self, observation_space: spaces.Dict, features_dim: int = 160):
+    def __init__(self, observation_space: spaces.Dict, features_dim: int = 128):
         super().__init__(observation_space, features_dim)
         grid_shape = observation_space["grid"].shape
         army_dim = int(observation_space["army"].shape[0])
         self.cnn = nn.Sequential(
-            nn.Conv2d(grid_shape[0], 16, kernel_size=3, stride=2, padding=1),
+            nn.Conv2d(grid_shape[0], 16, kernel_size=4, stride=4),
             nn.ReLU(),
-            nn.Conv2d(16, 32, kernel_size=3, stride=2, padding=1),
+            nn.Conv2d(16, 24, kernel_size=3, stride=2),
             nn.ReLU(),
-            nn.Conv2d(32, 32, kernel_size=3, stride=2, padding=1),
-            nn.ReLU(),
-            nn.AdaptiveAvgPool2d((4, 4)),
             nn.Flatten(),
         )
-        self.cnn_head = nn.Sequential(
-            nn.Linear(32 * 4 * 4, 128),
-            nn.ReLU(),
-        )
-        self.army_net = nn.Sequential(
-            nn.Linear(army_dim, 32),
+        with th.no_grad():
+            n_flat = self.cnn(th.zeros(1, *grid_shape)).shape[1]
+        self.head = nn.Sequential(
+            nn.Linear(n_flat + army_dim, features_dim),
             nn.ReLU(),
         )
 
     def forward(self, observations: dict[str, th.Tensor]) -> th.Tensor:
-        g = self.cnn_head(self.cnn(observations["grid"]))
-        a = self.army_net(observations["army"])
-        return th.cat([g, a], dim=1)
-
+        return self.head(th.cat([self.cnn(observations["grid"]), observations["army"]], dim=1))
