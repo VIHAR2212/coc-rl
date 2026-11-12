@@ -1,0 +1,15 @@
+{
+  "_note": "SAMPLE layout, not a real base. x,y = top-left tile of the footprint. Grid is 44x44.",
+  "grid": 44,
+  "buildings": [
+    {"type": "town_hall",    "x": 20, "y": 20},
+    {"type": "cannon",       "x": 14, "y": 20},
+    {"type": "cannon",       "x": 27, "y": 20},
+    {"type": "archer_tower", "x": 20, "y": 14},
+    {"type": "archer_tower", "x": 20, "y": 27},
+    {"type": "storage",      "x": 14, "y": 14},
+    {"type": "storage",      "x": 27, "y": 14},
+    {"type": "storage",      "x": 14, "y": 27},
+    {"type": "storage",      "x": 27, "y": 27}
+  ]
+}

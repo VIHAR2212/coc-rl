@@ -1,0 +1,22 @@
+{
+  "_note": "Only entries with stats_verified=true were read from https://coc.guide/troop/<slug>. Everything else is a PLACEHOLDER so the sim runs. Replace via scripts/scrape_cocguide.py or by hand from the wiki. Movement speed is NOT on coc.guide troop pages: take it from another wiki / in-game info.",
+  "giant_l8": {
+    "name": "Giant", "level": 8, "hp": 1500, "dps": 62, "attack_speed": 2.0,
+    "range_tiles": 1.0, "housing": 5, "targets": "ground", "favorite": "defenses",
+    "speed_tiles_per_s": 2.0, "stats_verified": true,
+    "source": "https://coc.guide/troop/giant",
+    "_note": "hp/dps/attack_speed/range/housing/favorite verified; speed is a placeholder"
+  },
+  "barbarian_l8": {
+    "name": "Barbarian", "level": 8, "hp": 100, "dps": 20, "attack_speed": 1.0,
+    "range_tiles": 0.4, "housing": 1, "targets": "ground", "favorite": "any",
+    "speed_tiles_per_s": 4.0, "stats_verified": false,
+    "source": "https://coc.guide/troop/barbarian"
+  },
+  "archer_l8": {
+    "name": "Archer", "level": 8, "hp": 50, "dps": 20, "attack_speed": 1.0,
+    "range_tiles": 3.5, "housing": 1, "targets": "air_ground", "favorite": "any",
+    "speed_tiles_per_s": 4.0, "stats_verified": false,
+    "source": "https://coc.guide/troop/archer"
+  }
+}

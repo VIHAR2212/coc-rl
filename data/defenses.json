@@ -1,0 +1,7 @@
+{
+  "_note": "ALL PLACEHOLDERS (stats_verified=false). Replace from the coc.guide defense pages.",
+  "cannon":       {"hp": 600, "dps": 20, "range_tiles": 9.0, "size": 3, "targets": "ground", "stats_verified": false, "source": "https://coc.guide/defense"},
+  "archer_tower": {"hp": 600, "dps": 25, "range_tiles": 10.0, "size": 3, "targets": "air_ground", "stats_verified": false, "source": "https://coc.guide/defense"},
+  "town_hall":    {"hp": 2000, "dps": 0, "range_tiles": 0, "size": 4, "targets": "none", "stats_verified": false, "source": "https://coc.guide/other"},
+  "storage":      {"hp": 800, "dps": 0, "range_tiles": 0, "size": 3, "targets": "none", "stats_verified": false, "source": "https://coc.guide/resource"}
+}

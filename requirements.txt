@@ -1,0 +1,11 @@
+gymnasium>=0.29
+numpy
+stable-baselines3>=2.3
+torch
+matplotlib
+pygame
+pytest
+requests
+beautifulsoup4
+# live-demo module (last milestone, optional)
+opencv-python

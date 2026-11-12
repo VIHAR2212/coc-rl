@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+models/*.zip
+.env
+.env.*
+*.env
+.DS_Store
