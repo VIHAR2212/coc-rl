@@ -33,8 +33,13 @@
   - (d) Summary table printed; best baseline overall is `left_wave` (`42.75%` mean destruction, `25.00%` 3-star rate), vs `smart_funnel` (`28.86%`, `16.62%`) and `surround` (`23.06%`, `12.50%`).
   - `pytest -q` (`17 passed in 21.34s`) and `check_env OK`.
 
-## Current Milestone: M7 (RL)
-- **Attempt:** 1
-- **Passed:** —
-- **Failed:** —
-- **Next action:** Install `sb3-contrib`, implement `MaskablePPO` wrapper/action-masked deploy space + reward logging in `REWARD_LOG.md`, train single-base then train-split (`base01..base04`), hold out `base05.json` & `base06.json`, evaluate vs random & best baseline (`left_wave`) across 100 seeded episodes each, save model + reward curves PNG + `results/rl_vs_baselines.csv`.
+## Milestone M7 (RL)
+- **Status:** PASSED (Attempt 1)
+- **Passed:**
+  - (a) `sb3_contrib` `MaskablePPO` (`sim/rl_wrapper.py: ActionMaskCoCEnv` + `CoCFeatureExtractor`) with exact deploy/wait action masks and TensorBoard logging (`runs/m7_stage1_single_1`, `runs/m7_stage2_split_0`). Trained Stage 1 on single base (`base03.json`, `25,000` steps) then Stage 2 on train split (`base01..base04`, `75,000` steps). Held out `base05.json` and `base06.json`.
+  - (b) `train_ppo.py` and `evaluate_rl.py` ran end-to-end, saving `models/ppo_stage1_single.zip`, `models/ppo_coc_v1.zip`, `results/reward_curves.png`, and `results/rl_vs_baselines.csv`.
+  - (c) Evaluated 100 seeded episodes per held-out `(base, army)` pair (`800` episodes per agent).
+  - (d) Held-out mean destruction %: `maskable_ppo = 31.94%` vs `left_wave (best baseline) = 24.07%` vs `random_masked = 12.34%`. Beats random (+19.60 pp) and best baseline (+7.87 pp); logged in `REWARD_LOG.md`.
+
+## Current Step: FINAL_REPORT.txt
+- **Next action:** Gather exact git hashes and final test/eval results, write `FINAL_REPORT.txt`, commit and push to `origin/main`.
