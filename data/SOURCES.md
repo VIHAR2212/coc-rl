@@ -18,6 +18,7 @@ Content from the Clash of Clans Wiki on Fandom is licensed under **Creative Comm
 - Air Defense: https://clashofclans.fandom.com/wiki/Air_Defense
 - Wizard Tower: https://clashofclans.fandom.com/wiki/Wizard_Tower
 - Town Hall: https://clashofclans.fandom.com/wiki/Town_Hall
+- Army Camp: https://clashofclans.fandom.com/wiki/Army_Camp
 - Gold Storage: https://clashofclans.fandom.com/wiki/Gold_Storage
 - Elixir Storage: https://clashofclans.fandom.com/wiki/Elixir_Storage
 

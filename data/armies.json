@@ -1,0 +1,27 @@
+{
+  "_note": "TH8 army compositions filling the exact 200-space capacity (4x Army Camp L6 @ 50 each).",
+  "_housing_capacity": 200,
+  "_source": "data/raw/Town_Hall.json + data/raw/Army_Camp.json",
+  "giant_barch": {
+    "giant_l5": 20,
+    "barbarian_l5": 50,
+    "archer_l5": 50
+  },
+  "barch": {
+    "barbarian_l5": 100,
+    "archer_l5": 100
+  },
+  "goblin_giant": {
+    "giant_l5": 16,
+    "wall_breaker_l5": 6,
+    "goblin_l5": 68,
+    "archer_l5": 40
+  },
+  "mixed_wb": {
+    "giant_l5": 12,
+    "wall_breaker_l5": 8,
+    "barbarian_l5": 64,
+    "archer_l5": 60
+  }
+}
+
