@@ -1,0 +1,34 @@
+{
+  "_note": "Hand-made TH8 approximation (defenses on the outside, storages + TH inside). No walls yet (pending M4).",
+  "grid": 44,
+  "buildings": [
+    {"type": "town_hall",      "x": 20, "y": 20},
+    {"type": "gold_storage",   "x": 16, "y": 17},
+    {"type": "gold_storage",   "x": 25, "y": 17},
+    {"type": "gold_storage",   "x": 20, "y": 25},
+    {"type": "elixir_storage", "x": 16, "y": 21},
+    {"type": "elixir_storage", "x": 25, "y": 21},
+    {"type": "elixir_storage", "x": 20, "y": 16},
+    {"type": "cannon",         "x": 9,  "y": 7},
+    {"type": "archer_tower",   "x": 15, "y": 7},
+    {"type": "mortar",         "x": 21, "y": 7},
+    {"type": "archer_tower",   "x": 27, "y": 7},
+    {"type": "cannon",         "x": 33, "y": 7},
+    {"type": "cannon",         "x": 9,  "y": 34},
+    {"type": "archer_tower",   "x": 15, "y": 34},
+    {"type": "mortar",         "x": 21, "y": 34},
+    {"type": "archer_tower",   "x": 27, "y": 34},
+    {"type": "cannon",         "x": 33, "y": 34},
+    {"type": "wizard_tower",   "x": 7,  "y": 13},
+    {"type": "air_defense",    "x": 7,  "y": 19},
+    {"type": "mortar",         "x": 7,  "y": 25},
+    {"type": "mortar",         "x": 34, "y": 13},
+    {"type": "air_defense",    "x": 34, "y": 19},
+    {"type": "wizard_tower",   "x": 34, "y": 25},
+    {"type": "archer_tower",   "x": 11, "y": 12},
+    {"type": "cannon",         "x": 29, "y": 12},
+    {"type": "wizard_tower",   "x": 11, "y": 28},
+    {"type": "air_defense",    "x": 29, "y": 28}
+  ]
+}
+
