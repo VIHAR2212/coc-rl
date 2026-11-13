@@ -1,0 +1,614 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "2",
+        "8": "3",
+        "9": "4"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "4",
+        "2": "4",
+        "3": "5",
+        "4": "5",
+        "5": "5",
+        "6": "5",
+        "7": "5",
+        "8": "5",
+        "9": "5"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "34",
+        "Damage per Shot": "20.4",
+        "Hitpoints": "600",
+        "Cost": "250,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "40",
+        "Damage per Shot": "24",
+        "Hitpoints": "630",
+        "Cost": "350,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "48",
+        "Damage per Shot": "28.8",
+        "Hitpoints": "660",
+        "Cost": "500,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "55",
+        "Damage per Shot": "33",
+        "Hitpoints": "690",
+        "Cost": "600,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "64",
+        "Damage per Shot": "38.4",
+        "Hitpoints": "730",
+        "Cost": "800,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "75",
+        "Damage per Shot": "45",
+        "Hitpoints": "770",
+        "Cost": "1,200,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "87",
+        "Damage per Shot": "52.2",
+        "Hitpoints": "810",
+        "Cost": "1,400,000",
+        "Build Time": "1d 6h",
+        "Experience Gained": "328",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "99",
+        "Damage per Shot": "59.4",
+        "Hitpoints": "850",
+        "Cost": "1,600,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "110",
+        "Damage per Shot": "66",
+        "Hitpoints": "900",
+        "Cost": "2,100,000",
+        "Build Time": "1d 18h",
+        "Experience Gained": "388",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "120",
+        "Damage per Shot": "72",
+        "Hitpoints": "980",
+        "Cost": "3,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "130",
+        "Damage per Shot": "78",
+        "Hitpoints": "1,100",
+        "Cost": "3,100,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "140",
+        "Damage per Shot": "84",
+        "Hitpoints": "1,200",
+        "Cost": "3,700,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "150",
+        "Damage per Shot": "90",
+        "Hitpoints": "1,350",
+        "Cost": "5,100,000",
+        "Build Time": "3d 12h",
+        "Experience Gained": "549",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "160",
+        "Damage per Shot": "96",
+        "Hitpoints": "1,450",
+        "Cost": "6,500,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "170",
+        "Damage per Shot": "102",
+        "Hitpoints": "1,550",
+        "Cost": "8,200,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "180",
+        "Damage per Shot": "108",
+        "Hitpoints": "1,650",
+        "Cost": "15,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "190",
+        "Damage per Shot": "114",
+        "Hitpoints": "1,750",
+        "Cost": "25,000,000",
+        "Build Time": "13d",
+        "Experience Gained": "1,059",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "195",
+        "Damage per Shot": "117",
+        "Hitpoints": "1,750",
+        "Cost": "4,750,000",
+        "Build Time": "1d 19h",
+        "Experience Gained": "393",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "195",
+        "Damage per Shot": "117",
+        "Hitpoints": "1,800",
+        "Cost": "3,250,000",
+        "Build Time": "2d 14h",
+        "Experience Gained": "472",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Trigger Range": "6",
+        "Attack Speed": "0.6s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Hidden Tesla to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Hidden Tesla is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed Hidden Tesla to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Hidden Tesla is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Hidden Tesla to the next level, at the cost of one Hammer of Building if you have one. When the Hidden Tesla is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "August 30, 2012",
+        "Description": "Added Hidden Tesla with 6 levels."
+      },
+      {
+        "Date": "September 12, 2012 balance changes",
+        "Description": "Improved the Hidden Tesla from level 4 onwards."
+      },
+      {
+        "Date": "September 18, 2012",
+        "Description": "Added an additional Hidden Tesla available at Town Hall level 8."
+      },
+      {
+        "Date": "January 11, 2013 maintenance break",
+        "Description": "Restored the count of Hidden Teslas on Town Hall level 8 that broke."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "Doubled the damage dealt to P.E.K.K.As and prioritized them over other enemy troops."
+      },
+      {
+        "Date": "April 17, 2013",
+        "Description": "Added the level 7 Hidden Tesla. Increase its trigger radius at all levels."
+      },
+      {
+        "Date": "June 17, 2013",
+        "Description": "Changed the Tesla's attack sound. Previously, the Tesla's attack sounded like this ."
+      },
+      {
+        "Date": "July 3, 2014",
+        "Description": "Added the level 8 Hidden Tesla. Reduced upgrade build times."
+      },
+      {
+        "Date": "February 27,2015 maintenance break",
+        "Description": "Hid Teslas from village thumbnail in players' profiles."
+      },
+      {
+        "Date": "April 30, 2015",
+        "Description": "Allowed Hidden Tesla range to be visible during construction."
+      },
+      {
+        "Date": "May 25, 2016 maintenance break",
+        "Description": "Made upgrading Hidden Teslas visible to attackers in matchmaking. (War was unaffected by this problem even previously; the Tesla invisibility was just visual, troops still knew where the upgrading Tesla was and they were destroying it for correct % damage)."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Added the level 9 Hidden Tesla. Removed the double damage and priority given to P.E.K.K.As ."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the level 10 Hidden Tesla."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Description": "Reduced build times at levels 1 to 9: Level 1: 1d -> 12h Level 2: 3d -> 2d Level 3: 5d -> 3d 12h Level 4: 6d -> 4d Level 5: 7d -> 4d 12h Level 6: 8d -> 5d 12h Level 7: 10d -> 6d 12h Level 8: 12d -> 8d Level 9: 14c -> 10d"
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Reduced build times at levels 1 to 8: Level 1: 12h -> 3h Level 2: 2d -> 8h Level 3: 3d 12h -> 16h Level 4: 4d -> 1d Level 5: 4d 12h -> 2d Level 6: 5d 12h -> 3d Level 7: 6d 12h -> 4d Level 8: 8d -> 6d Reduced build costs at levels 1 to 9: Level 1: 1,000,000 -> 500,000 Level 2: 1,250,000 -> 750,000 Level 3: 1,500,000 -> 1,000,000 Level 4: 2,000,000 -> 1,250,000 Level 5: 2,500,000 -> 1,500,000 Level 6: 3,000,000 -> 2,000,000 Level 7: 3,500,000 -> 3,000,000 Level 8: 5,000,000 -> 4,500,000 Level 9: 8,000,000  -> 7,500,000"
+      },
+      {
+        "Date": "September 11, 2019",
+        "Description": "Increased hitpoint of level 10."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the level 11 Hidden Tesla."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Made it so that Hidden Teslas are now visible in the village thumbnail of players' profiles when viewed by a member of the same clan ."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Description": "Added the level 12 Hidden Tesla."
+      },
+      {
+        "Date": "April 12 2021",
+        "Description": "Added the level 13 Hidden Tesla."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Description": "Reduced upgrade costs of Hidden Tesla levels 2 to 12."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Fixed Hidden Teslas sometimes not being triggered by Heroes which were using the Phoenix pet."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the level 14 Hidden Tesla. Reduced upgrade time and cost of levels 10 to 12."
+      },
+      {
+        "Date": "February 27, 2024",
+        "Description": "Added the level 15 Hidden Tesla."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Added 2 Supercharge levels for the Hidden Tesla."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Added the level 16 Hidden Tesla. Reduced upgrade times at levels 4, 5, and 12: Level 4: 12h -> 6h Level 5: 18h -> 12h Level 12: 4d 6h -> 3d Reduced upgrade cost at level 12 from 6,000,000 to 4,000,000. Removed the Supercharges at level 15 and replaced them at level 16: Charge 1: Damage: 175 -> 185 Cost: 6,000,000 -> 10,000,000 Time: 1: 2d 6h -> 4d Charge 2: Hitpoints: 1,600 -> 1,700 Cost: 3,000,000 -> 6,000,000 Time: 3d 18h -> 6d"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade times at level 16 and all charges: Level 16: 15d-> 9d Charge 1: 4d -> 2d 6h Charge 2: 6d -> 3d 18h Reduced upgrade costs at level 16 and all charges: Level 16: 20,500,000 -> 15,00,000 Charge 1: 10,000,000 -> 6,000,000 Charge 2: 6,000,000 -> 4,000,000"
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 17 Hidden Tesla. Removed the Supercharges at level 16."
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Reduced charge times at all charges: Charge 1: 4d 12h -> 1d 19h Charge 2: 6d 12h -> 2d 14h Reduced charge costs at all charges: Charge 1: 12,000,000 -> 4,750,000 Charge 2: 8,000,000 -> 3,250,000"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Tesla_appear.ogg",
+        "Caption": "Hidden Tesla appears",
+        "Description": "When an enemy unit enters the trigger radius"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Tesla_Zap1.ogg https://clashofclans.fandom.com/wiki/File:Tesla_Zap2.ogg",
+        "Caption": "Hidden Tesla zaps a target",
+        "Description": "When the Hidden Tesla hits a unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Tesla_Zap(unused).ogg",
+        "Caption": "Hidden Tesla zap (unused)",
+        "Description": "When the Hidden Tesla hits a unit (became unused since the June 17, 2013 update)"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Tesla_Pickup.ogg",
+        "Caption": "Hidden Tesla selected",
+        "Description": "When the Hidden Tesla is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Tesla_Placed.ogg",
+        "Caption": "Hidden Tesla placed",
+        "Description": "When the Hidden Tesla is placed"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "Builder Hall Level": "2"
+      },
+      {
+        "Number Available": "Total",
+        "Builder Hall Level": "0"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "60",
+        "Damage per Shot": "36",
+        "Hitpoints": "300",
+        "Build Cost": "50,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "66",
+        "Damage per Shot": "40",
+        "Hitpoints": "350",
+        "Build Cost": "100,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "73",
+        "Damage per Shot": "44",
+        "Hitpoints": "400",
+        "Build Cost": "150,000",
+        "Build Time": "5h",
+        "Experience Gained": "134",
+        "Builder Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "80",
+        "Damage per Shot": "48",
+        "Hitpoints": "460",
+        "Build Cost": "280,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Builder Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "88",
+        "Damage per Shot": "53",
+        "Hitpoints": "550",
+        "Build Cost": "700,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Builder Hall Level Required": "5"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "96",
+        "Damage per Shot": "58",
+        "Hitpoints": "650",
+        "Build Cost": "1,300,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Builder Hall Level Required": "6"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "106",
+        "Damage per Shot": "64",
+        "Hitpoints": "750",
+        "Build Cost": "2,100,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Builder Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "116",
+        "Damage per Shot": "70",
+        "Hitpoints": "850",
+        "Build Cost": "3,100,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Builder Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "128",
+        "Damage per Shot": "77",
+        "Hitpoints": "1,000",
+        "Build Cost": "4,100,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Builder Hall Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "141",
+        "Damage per Shot": "85",
+        "Hitpoints": "1,150",
+        "Build Cost": "5,100,000",
+        "Build Time": "10d",
+        "Experience Gained": "929",
+        "Builder Hall Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Trigger Range": "6",
+        "Attack Speed": "0.6s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Hidden Tesla to the next level, if you have enough resources and a free Master Builder or O.T.T.O . When the Hidden Tesla is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Hidden Tesla to the next level, at the cost of one Hammer of Building if you have one. When the Hidden Tesla is at maximum level, or the Builder Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Hidden Tesla, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Builder Base Buildings": "Defensive Buildings"
+      },
+      {
+        "Builder Base Buildings": "Resource Buildings"
+      },
+      {
+        "Builder Base Buildings": "Army Buildings"
+      },
+      {
+        "Builder Base Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

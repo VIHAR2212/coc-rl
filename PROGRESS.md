@@ -58,5 +58,23 @@
     * **Honest comparison:** PPO beats best baseline on destruction (+5.02 pp [95% CI +1.96, +8.29]) and beats random (+21.21 pp). PPO does **not** beat `left_wave` on stars (0.46 vs 0.53, delta -0.070 [-0.204, +0.042]).
   - `pytest -q`: `20 passed in 68.74s`; `check_env BOTH OK`.
 
+## Milestone M1d (DATA RESEARCHER & CSV EXPLORER IMPORT)
+- **Status:** PASSED (Attempt 1)
+- **Passed:**
+  - (1) **Data Audit (`data/reference/DATA_AUDIT.md`):** Audited `C:\Users\admin\Downloads\clash-of-clans-data-researcher-&-csv-explorer` (read-only). Confirmed data is 100% hardcoded in static TypeScript arrays in `src/data/*.ts` (zero runtime AI calls, no existing CSV exports). Cataloged 1,161 rows across 12 files (997 Home Village, 164 Builder Base, 0 Clan Capital, 0 Spells) spanning TH1-TH18 with 100% source citations (255 distinct URLs).
+  - (2) **Normalized Reference Exports:** Wrote `scripts/export_all_reference.mjs` and generated:
+    * `data/reference/clash_explorer_all.csv` (1,161 rows, 19 standard columns with `origin`).
+    * `data/reference/clash_explorer_all.json` (1,161 structured records).
+    * `data/reference/troop_behaviors.json` (41 unit behavior profiles).
+    * `data/reference/conflicts.json` (10 balance patch / conflict records).
+  - (3) **Cross-Check (`data/reference/DISCREPANCIES.md`):** Cross-checked current TH8 simulator entities against explorer data:
+    * Defenses & Buildings: 7/7 present buildings (Cannon L10, Archer Tower L10, Mortar L6, Air Defense L6, Wizard Tower L6, Wall L8, Gold Storage L11) match **100.0% on HP, DPS, and Range** (Mortar min-max range 4-11 matches). Town Hall and Elixir Storage omitted from explorer source.
+    * Troops: Housing space 5/5 (100%), Speed 4/5 (80%), DPS 3/5 (60%), HP 2/5 (40%). Discrepancies traced to balance patch revisions (e.g. Giant HP 900 vs 670, Archer 40 vs 44 HP).
+  - (4) **Missing TH8 Items Evaluation:**
+    * Fandom wiki MediaWiki API scrapes completed via `scripts/scrape_fandom.py`: `Hidden_Tesla.json`, `Bomb_Tower.json`, `Air_Sweeper.json`.
+    * Confirmed Hidden Tesla (L6: HP 770, DPS 75, Range 7.0) and Bomb Tower (L2: HP 700, DPS 28, Range 6.0, Splash 1.5); added to `data/defenses.json` with `stats_verified: true` without altering existing stats.
+    * Unapplied items (Air Sweeper push mechanics, Traps, Heroes, other troops) cataloged in `data/reference/unconfirmed_th8_items.json` with `stats_verified: false` and NOT loaded into the simulator.
+  - (5) **Verification:** `pytest -q` -> `20 passed in 30.76s`, `check_env` passed with zero errors, `python evaluate.py` completed across all 120 combos (600 episodes) with zero regressions.
+
 ## Current Step: FINAL_REPORT.txt
 - **Next action:** Update `FINAL_REPORT.txt` with M7b evidence, commit in small steps, and push to `origin/main`.

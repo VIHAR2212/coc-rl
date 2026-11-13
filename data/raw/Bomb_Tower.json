@@ -1,0 +1,493 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "0",
+        "8": "1",
+        "9": "1"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "2",
+        "2": "2",
+        "3": "2",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "2",
+        "9": "2"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "24",
+        "Damage per Shot": "26.4",
+        "Damage when destroyed": "150",
+        "Hitpoints": "650",
+        "Cost": "700,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "28",
+        "Damage per Shot": "30.8",
+        "Damage when destroyed": "180",
+        "Hitpoints": "700",
+        "Cost": "1,000,000",
+        "Build Time": "18h",
+        "Experience Gained": "254",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "32",
+        "Damage per Shot": "35.2",
+        "Damage when destroyed": "220",
+        "Hitpoints": "750",
+        "Cost": "1,300,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "40",
+        "Damage per Shot": "44",
+        "Damage when destroyed": "260",
+        "Hitpoints": "850",
+        "Cost": "1,800,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "48",
+        "Damage per Shot": "52.8",
+        "Damage when destroyed": "300",
+        "Hitpoints": "1,050",
+        "Cost": "1,900,000",
+        "Build Time": "1d 18h",
+        "Experience Gained": "388",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "56",
+        "Damage per Shot": "61.6",
+        "Damage when destroyed": "350",
+        "Hitpoints": "1,300",
+        "Cost": "2,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "64",
+        "Damage per Shot": "70.4",
+        "Damage when destroyed": "400",
+        "Hitpoints": "1,600",
+        "Cost": "4,000,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "72",
+        "Damage per Shot": "79.2",
+        "Damage when destroyed": "450",
+        "Hitpoints": "1,900",
+        "Cost": "5,000,000",
+        "Build Time": "3d 12h",
+        "Experience Gained": "549",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "84",
+        "Damage per Shot": "92.4",
+        "Damage when destroyed": "500",
+        "Hitpoints": "2,300",
+        "Cost": "6,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "94",
+        "Damage per Shot": "103.4",
+        "Damage when destroyed": "550",
+        "Hitpoints": "2,500",
+        "Cost": "7,000,000",
+        "Build Time": "4d 12h",
+        "Experience Gained": "623",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "104",
+        "Damage per Shot": "114.4",
+        "Damage when destroyed": "600",
+        "Hitpoints": "2,700",
+        "Cost": "8,500,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "114",
+        "Damage per Shot": "125.4",
+        "Damage when destroyed": "650",
+        "Hitpoints": "2,900",
+        "Cost": "14,500,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "122",
+        "Damage per Shot": "134.2",
+        "Damage when destroyed": "700",
+        "Hitpoints": "3,050",
+        "Cost": "25,000,000",
+        "Build Time": "13d",
+        "Experience Gained": "1,059",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "127",
+        "Damage per Shot": "139.7",
+        "Hitpoints": "3,050",
+        "Cost": "6,000,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "127",
+        "Damage per Shot": "139.7",
+        "Hitpoints": "3,150",
+        "Cost": "3,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "6 tiles",
+        "Attack Speed": "1.1s",
+        "Damage Type": "Splash - 1.5 tiles",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Bomb Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Bomb Tower is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed Bomb Tower to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Bomb Tower is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Bomb Tower to the next level, at the cost of one Hammer of Building if you have one. When the Bomb Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "February 21, 2013": "January 4, 2016",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "The Bomb Tower first appeared in Clash Royale."
+      },
+      {
+        "February 21, 2013": "Date",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Description"
+      },
+      {
+        "February 21, 2013": "October 6, 2016",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Announced the Bomb Tower, with 5 levels."
+      },
+      {
+        "February 21, 2013": "October 12, 2016",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the Bomb Tower."
+      },
+      {
+        "February 21, 2013": "October 13, 2016",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Fixed an issue with Bomb Tower pack."
+      },
+      {
+        "February 21, 2013": "June 27, 2017",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Changed the design of the Bomb Tower by changing the Bomber on top into a Bomber from the Builder Base. Prior to this update, the Bomber on top of the tower resembled a Wall Breaker with red goggles ."
+      },
+      {
+        "February 21, 2013": "October 11, 2017",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 6 Bomb Tower."
+      },
+      {
+        "February 21, 2013": "June 11, 2018",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 7 Bomb Tower. Increased damage per second at levels 5 and 6. Level 5: 44 -> 46 Level 6: 48 -> 52"
+      },
+      {
+        "February 21, 2013": "June 26, 2018",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Reduced build times at levels 1 to 6: Level 1: 4d -> 2d 12h Level 2: 6d -> 4d Level 3: 8d -> 6d Level 4: 10d -> 7d Level 5: 14d -> 9d Level 6: 14d -> 10d"
+      },
+      {
+        "February 21, 2013": "April 2, 2019",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Reduced build times at levels 1 to 5: Level 1: 2d 12h -> 1d Level 2: 4d -> 2d Level 3: 6d -> 3d Level 4: 7d -> 6d Level 5: 9d -> 8d Reduced build costs at levels 1 to 6: Level 1: 2,000,000 -> 1,500,000 Level 2: 3,500,000 -> 2,000,000 Level 3: 5,000,000 -> 3,500,000 Level 4: 7,000,000 -> 5,000,000 Level 5: 9,000,000 -> 7,000,000 Level 6: 10,000,000 -> 9,000,000"
+      },
+      {
+        "February 21, 2013": "February 28, 2020",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Increased hitpoints at levels 5 to 7: Level 5: 1,000 -> 1,050 Level 6: 1,200 -> 1,300 Level 7: 1,400 -> 1,600 Increased damage per second at levels 5 to 7: Level 5: 46 -> 48 Level 6: 52 -> 56 Leve; 7: 60 -> 64 Increased death damage at levels 6 and 7: Level 6: 340 -> 350 Level 7: 380 -> 400"
+      },
+      {
+        "February 21, 2013": "March 30, 2020",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 8 Bomb Tower."
+      },
+      {
+        "February 21, 2013": "April 12, 2021",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 9 Bomb Tower. Reduced upgrade times at levels 2 to 6: Level 2: 2d -> 1d 12h Level 3: 3d -> 2d Level 4: 6d -> 4d Level 5: 8d -> 6d Level 6: 10d -> 9d Reduced build cost to levels 1 to 6: Level 1: 1,500,000 -> 1,000,000 Level 2: 2,000,000 -> 1,500,000 Level 3: 3,500,000 -> 2,500,000 Level 4: 5,000,000 -> 4,000,000 Level 5: 7,000,000 -> 6,000,000 Level 6: 9,000,000 -> 8,000,000"
+      },
+      {
+        "February 21, 2013": "December 9, 2021",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Reduced build costs at levels 1 to 8: Level 1: 1,000,000 -> 800,000 Level 2: 1,500,000 -> 1,200,000 Level 3: 2,500,000 -> 1,800,000 Level 4: 4,000,000 -> 3,000,000 Level 5: 6,000,000 -> 5,000,000 Level 6: 8,000,000 -> 7,000,000 Level 7: 11,000,000 -> 10,000,000 Level 8: 15,500,000 -> 14,000,000"
+      },
+      {
+        "February 21, 2013": "May 2, 2022",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Fixed graphics of Bomb Tower that caused troops to be hidden under its crater."
+      },
+      {
+        "February 21, 2013": "October 10, 2022",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 10 Bomb Tower. Reduced upgrade costs to levels 4 to 9: Level 4: 3,000,000 -> 2,600,000 Level 5: 5,000,000 -> 3,500,000 Level 6: 7,000,000 -> 5,000,000 Level 7: 10,000,000 -> 7,000,000 Level 8: 14,000,000 -> 11,000,000 Level 9: 18,500,000 -> 17,500,000 Reduced upgrade times at levels 4 to 9: Level 4: 4d -> 3d 12h Level 5: 6d -> 4d 6h Level 6: 9d -> 6d 6h Level 7: 14d -> 9d 18h Level 8: 16d -> 12d Level 9: 18d -> 17d"
+      },
+      {
+        "February 21, 2013": "December 12, 2023",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 11 Bomb Tower."
+      },
+      {
+        "February 21, 2013": "November 25, 2024",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 12 Bomb Tower."
+      },
+      {
+        "February 21, 2013": "February 10, 2025",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Reduced upgrade time at level 6 from 3d to 2d."
+      },
+      {
+        "February 21, 2013": "November 17, 2025",
+        "DarkMetronaJ suggested adding the Bomb Tower.": "Added the level 13 Bomb Tower. Reduced upgrade time at level 12 from 15d to 9d. Reduced upgrade cost at level 12 from 20,000,000 to 14,500,000. Removed the Supercharges at level 15 and replaced them at level 16: Charge 1: Damage: 119 -> 127 Cost: 7,000,000 -> 12,000,000 Time: 2d 6h -> 2d 12h Charge 2: Hitpoints: 3,000 -> 3,150 Cost: 7,000,000 -> 12,000,000 Time: 3d 18h -> 4d"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "": "Level 5"
+      }
+    ],
+    [
+      {
+        "Capital Hall Level": "Number Available",
+        "1": "0",
+        "2": "1",
+        "3": "2",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "2",
+        "9": "2",
+        "10": "2"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Barbarian Camp",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Balloon Lagoon",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Dragon Cliffs",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Skeleton Park",
+        "District Hall Level": "3"
+      },
+      {
+        "Number Available": "Goblin Mines",
+        "District Hall Level": "1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "65",
+        "Damage per Shot": "71.5",
+        "Damage when Destroyed": "300",
+        "Hitpoints": "2,000",
+        "Build Cost": "4,500",
+        "Capital Hall Level Required": "2",
+        "District Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "75",
+        "Damage per Shot": "82.5",
+        "Damage when Destroyed": "350",
+        "Hitpoints": "2,250",
+        "Build Cost": "9,000",
+        "Capital Hall Level Required": "3",
+        "District Hall Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "85",
+        "Damage per Shot": "93.5",
+        "Damage when Destroyed": "400",
+        "Hitpoints": "2,500",
+        "Build Cost": "18,000",
+        "Capital Hall Level Required": "5",
+        "District Hall Level Required": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "95",
+        "Damage per Shot": "104.5",
+        "Damage when Destroyed": "450",
+        "Hitpoints": "2,750",
+        "Build Cost": "30,000",
+        "Capital Hall Level Required": "7",
+        "District Hall Level Required": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "105",
+        "Damage per Shot": "115.5",
+        "Damage when Destroyed": "500",
+        "Hitpoints": "3,000",
+        "Build Cost": "50,000",
+        "Capital Hall Level Required": "9",
+        "District Hall Level Required": "5"
+      }
+    ],
+    [
+      {
+        "Range": "5",
+        "Attack Speed": "1.1s",
+        "Damage Type": "Area Splash",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon contributes the Capital Gold you have into upgrading the Bomb Tower to the next level. When the Bomb Tower is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon marks the building's upgrade to the next level as a priority for the Clan, pinning it as a recommended upgrade for Clan members. This icon is only shown if the upgrade is possible, is not already prioritized and if the player is Leader or a Co-leader of their Clan."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon stops marking the building's upgrade to the next level as a priority for the Clan. This icon is only shown if the upgrade is possible, is being prioritized and if the player is Leader or a Co-leader of their Clan."
+      }
+    ],
+    [
+      {
+        "Clan Capital Buildings": "Defensive Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Army Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "2"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "2",
+        "2": "2",
+        "3": "2",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "2",
+        "9": "2"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Push Strength": "1.6 tiles",
+        "Hitpoints": "750",
+        "Cost": "200,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "2",
+        "Push Strength": "2.0 tiles",
+        "Hitpoints": "800",
+        "Cost": "300,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "3",
+        "Push Strength": "2.4 tiles",
+        "Hitpoints": "850",
+        "Cost": "450,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "4",
+        "Push Strength": "2.8 tiles",
+        "Hitpoints": "900",
+        "Cost": "800,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "5",
+        "Push Strength": "3.2 tiles",
+        "Hitpoints": "950",
+        "Cost": "1,200,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "6",
+        "Push Strength": "3.6 tiles",
+        "Hitpoints": "1,000",
+        "Cost": "1,900,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "7",
+        "Push Strength": "4.0 tiles",
+        "Hitpoints": "1,050",
+        "Cost": "3,400,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "11"
+      }
+    ],
+    [
+      {
+        "Range": "1-15",
+        "Attack Speed": "5s",
+        "Damage Type": "None (Knockback Only)",
+        "Unit Type Targeted": "Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon begins upgrading the Air Sweeper to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Air Sweeper is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon instantly upgrades the Air Sweeper to the next level, at the cost of one Hammer of Building if you have one. When the Air Sweeper is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Air Sweeper, such as Level, Push Strength, Hitpoints, Range, and Targets.": "Tapping this icon rotates the Air Sweeper 45 degrees clockwise."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Air_Sweeper_Blasts.ogg",
+        "Captions": "Air blasts",
+        "Description": "When the Air Sweeper fires blasts of air"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Air_Sweeper_Picked.ogg",
+        "Captions": "Air Sweeper selected",
+        "Description": "When the Air Sweeper is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Air_Sweeper_Placed.ogg",
+        "Captions": "Air Sweeper placed",
+        "Description": "When the Air Sweeper is placed"
+      }
+    ],
+    [
+      {
+        "Patch": "April 30, 2015",
+        "Type": "Update",
+        "Description": "Added the Air Sweeper, with six levels and one of its kind to build."
+      },
+      {
+        "Patch": "June 26, 2015",
+        "Type": "Sneak Peek",
+        "Description": "Supercell announced that there will be a second Air Sweeper."
+      },
+      {
+        "Patch": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Added the second Air Sweeper available at Town Hall level 9."
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Added the level 7 Air Sweeper to the game files, but was not made available in the game."
+      },
+      {
+        "Patch": "October 7, 2017",
+        "Type": "Sneak Peek",
+        "Description": "Announced the level 7 Air Sweeper."
+      },
+      {
+        "Patch": "October 11, 2017",
+        "Type": "Update",
+        "Description": "Added the level 7 Air Sweeper."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at all levels. Level 1: 1d -> 12h Level 2: 3d -> 2d Level 3: 5d -> 3d 12h Level 4: 7d -> 4d 12h Level 5: 8d -> 5d 12h Level 6: 9d -> 6d Level 7: 10d -> 6d 12h"
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at level 1-6. Level 1: 12h -> 8h Level 2: 2d -> 16h Level 3: 3d 12h -> 1d Level 4: 4d 12h -> 1d 12h Level 5: 5d 12h -> 2d Level 6: 6d -> 4d Level 7: 6d 12h -> 6d Reduced upgrade costs at level 4-7. Level 4: 2,400,000 -> 2,000,000 Level 5: 4,800,000 -> 3,000,000 Level 6: 7,200,000 -> 5,000,000 Level 7: 9,600,000 -> 8,000,000"
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "The Air Sweeper now shows aim angles properly in village preview, and now shows the correct frame."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at level 1-7. Level 1: 500,000 -> 400,000 Level 2: 750,000 -> 700,000 Level 3: 1,250,000 -> 1,100,000 Level 4: 2,000,000 -> 1,500,000 Level 5: 3,000,000 -> 2,000,000 Level 6: 5,000,000 -> 4,000,000 Level 7: 8,000,000 -> 7,000,000 Reduced upgrade times at level 1-7 (except level 5). Level 1: 8h -> 6h Level 2: 16h -> 12h Level 3: 1d -> 18h Level 4: 1d 12h -> 1d Level 6: 4d -> 3d Level 7: 6d -> 5d"
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced the upgrade costs of level 6 and 7 Air Sweepers."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

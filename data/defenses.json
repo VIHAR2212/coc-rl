@@ -113,5 +113,28 @@
     "stats_verified": true,
     "source": "https://clashofclans.fandom.com/wiki/Gold_Storage",
     "_note": "Alias for gold_storage/elixir_storage used by starter base01.json."
+  },
+  "hidden_tesla": {
+    "level": 6,
+    "hp": 770,
+    "dps": 75,
+    "attack_speed": 0.6,
+    "range_tiles": 7.0,
+    "size": 2,
+    "targets": "air_ground",
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Hidden_Tesla"
+  },
+  "bomb_tower": {
+    "level": 2,
+    "hp": 700,
+    "dps": 28,
+    "attack_speed": 1.1,
+    "range_tiles": 6.0,
+    "size": 3,
+    "targets": "ground",
+    "splash_radius": 1.5,
+    "stats_verified": true,
+    "source": "https://clashofclans.fandom.com/wiki/Bomb_Tower"
   }
 }

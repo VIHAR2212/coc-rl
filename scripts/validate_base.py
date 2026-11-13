@@ -39,6 +39,8 @@ def _load_th8_limits() -> dict[str, int]:
         "wall": int(def_row["Wall"]),
         "gold_storage": storage_each,
         "elixir_storage": storage_each,
+        "hidden_tesla": int(def_row.get("Hidden Tesla", 3)),
+        "bomb_tower": int(def_row.get("Bomb Tower", 1)),
     }
 
 
