@@ -1,0 +1,3920 @@
+[
+  {
+    "index": 1,
+    "id": "bb-power-pekka-19",
+    "name": "Power P.E.K.K.A",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 19,
+    "thRequired": 10,
+    "hitpoints": 5191,
+    "dps": 560,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Power_P.E.K.K.A",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 5191 and DPS 560 matched (Page: HP=5,191, DPS=560)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/power-pekka/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/power-pekka/"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 2,
+    "id": "bb-beta-minion-20",
+    "name": "Beta Minion",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 20,
+    "thRequired": 10,
+    "hitpoints": 429,
+    "dps": 126,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Beta_Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 429 and DPS 126 matched (Page: HP=429, DPS=126)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 3,
+    "id": "bb-baby-dragon-19",
+    "name": "Baby Dragon (BB)",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 19,
+    "thRequired": 10,
+    "hitpoints": 2358,
+    "dps": 113,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Baby_Dragon_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 4,
+    "id": "bb-sneaky-archer-1",
+    "name": "Sneaky Archer",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 1,
+    "thRequired": 2,
+    "hitpoints": 196,
+    "dps": 60,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Sneaky_Archer_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Sneaky_Archer_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/sneaky-archer/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/sneaky-archer/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 5,
+    "id": "bb-beta-minion-4",
+    "name": "Beta Minion",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 4,
+    "thRequired": 3,
+    "hitpoints": 200,
+    "dps": 60,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Beta_Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 200 and DPS 60 matched (Page: HP=200, DPS=60)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 6,
+    "id": "bb-bomber-6",
+    "name": "Bomber",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 6,
+    "thRequired": 4,
+    "hitpoints": 605,
+    "dps": 80,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bomber",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 605 and DPS 80 matched (Page: HP=605, DPS=80)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 7,
+    "id": "bb-beta-minion-7",
+    "name": "Beta Minion",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 7,
+    "thRequired": 5,
+    "hitpoints": 242,
+    "dps": 72,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Beta_Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 242 and DPS 72 matched (Page: HP=242, DPS=72)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 8,
+    "id": "bb-cannon-cart-8",
+    "name": "Cannon Cart",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 8,
+    "thRequired": 5,
+    "hitpoints": 666,
+    "dps": 115,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Cannon_Cart",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 666 and DPS 115 matched (Page: HP=974, DPS=114)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 9,
+    "id": "bb-beta-minion-9",
+    "name": "Beta Minion",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 9,
+    "thRequired": 6,
+    "hitpoints": 266,
+    "dps": 81,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Beta_Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 266 and DPS 81 matched (Page: HP=266, DPS=81)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 10,
+    "id": "bb-sneaky-archer-9",
+    "name": "Sneaky Archer",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 9,
+    "thRequired": 6,
+    "hitpoints": 287,
+    "dps": 86,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Sneaky_Archer_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Sneaky_Archer_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/sneaky-archer/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/sneaky-archer/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 11,
+    "id": "bb-sneaky-archer-11",
+    "name": "Sneaky Archer",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 11,
+    "thRequired": 6,
+    "hitpoints": 316,
+    "dps": 95,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Sneaky_Archer_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Sneaky_Archer_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/sneaky-archer/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/sneaky-archer/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 12,
+    "id": "bb-drop-ship-13",
+    "name": "Drop Ship",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 13,
+    "thRequired": 7,
+    "hitpoints": 3740,
+    "dps": 10,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Drop_Ship",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3740, DPS=10 | Page has HP=3,740, DPS=None"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 13,
+    "id": "bb-baby-dragon-14",
+    "name": "Baby Dragon (BB)",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 14,
+    "thRequired": 7,
+    "hitpoints": 1949,
+    "dps": 86,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Baby_Dragon_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 14,
+    "id": "bb-drop-ship-14",
+    "name": "Drop Ship",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 14,
+    "thRequired": 7,
+    "hitpoints": 3740,
+    "dps": 10,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Drop_Ship",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3740, DPS=10 | Page has HP=3,740, DPS=None"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 15,
+    "id": "bb-cannon-cart-13",
+    "name": "Cannon Cart",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 13,
+    "thRequired": 7,
+    "hitpoints": 886,
+    "dps": 170,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Cannon_Cart",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 886 and DPS 170 matched (Page: HP=886, DPS=90)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 16,
+    "id": "bb-baby-dragon-16",
+    "name": "Baby Dragon (BB)",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 16,
+    "thRequired": 8,
+    "hitpoints": 2144,
+    "dps": 94,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Baby_Dragon_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 17,
+    "id": "bb-baby-dragon-15",
+    "name": "Baby Dragon (BB)",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 15,
+    "thRequired": 8,
+    "hitpoints": 2144,
+    "dps": 94,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon_(Builder_Base)",
+        "site": "fandom",
+        "status": "URL unreachable",
+        "detail": "Failed to fetch Fandom page: Baby_Dragon_(Builder_Base)"
+      },
+      {
+        "url": "https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/",
+        "site": "www.houseofclashers.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.houseofclashers.com/clash-of-clans/builder-base/troops/baby-dragon/"
+      }
+    ],
+    "overall_status": "URL unreachable"
+  },
+  {
+    "index": 18,
+    "id": "bb-beta-minion-15",
+    "name": "Beta Minion",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 15,
+    "thRequired": 8,
+    "hitpoints": 355,
+    "dps": 108,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Beta_Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 355 and DPS 108 matched (Page: HP=355, DPS=108)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 19,
+    "id": "bb-boxer-giant-17",
+    "name": "Boxer Giant",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 17,
+    "thRequired": 9,
+    "hitpoints": 4930,
+    "dps": 119,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Boxer_Giant",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 4930 and DPS 119 matched (Page: HP=4,930, DPS=119)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 20,
+    "id": "bb-boxer-giant-18",
+    "name": "Boxer Giant",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 18,
+    "thRequired": 9,
+    "hitpoints": 4930,
+    "dps": 119,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Boxer_Giant",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 4930 and DPS 119 matched (Page: HP=4,930, DPS=119)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 21,
+    "id": "bb-night-witch-17",
+    "name": "Night Witch",
+    "category": "Builder Base Troop",
+    "village": "Builder Base",
+    "level": 17,
+    "thRequired": 9,
+    "hitpoints": 1100,
+    "dps": 257,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Night_Witch",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1100 and DPS 257 matched (Page: HP=1,100, DPS=257)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 22,
+    "id": "witch-3",
+    "name": "Witch",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 10,
+    "hitpoints": 360,
+    "dps": 110,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Witch",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=360, DPS=110 | Page has HP=400, DPS=140"
+      },
+      {
+        "url": "https://coc.guide/troop/witch",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 3 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 23,
+    "id": "bowler-3",
+    "name": "Bowler",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 11,
+    "hitpoints": 410,
+    "dps": 85,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bowler",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=410, DPS=85 | Page has HP=420, DPS=84"
+      },
+      {
+        "url": "https://coc.guide/troop/bowler",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=410, DPS=85 | coc.guide has HP=420, DPS=84"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 24,
+    "id": "lava-hound-5",
+    "name": "Lava Hound",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 12,
+    "hitpoints": 8000,
+    "dps": 18,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Lava_Hound",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=8000, DPS=18 | Page has HP=12, DPS=18"
+      },
+      {
+        "url": "https://coc.guide/troop/lava-hound",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 5 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 25,
+    "id": "headhunter-1",
+    "name": "Headhunter",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 12,
+    "hitpoints": 360,
+    "dps": 105,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Headhunter",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 360 and DPS 105 matched (Page: HP=360, DPS=220)"
+      },
+      {
+        "url": "https://coc.guide/troop/headhunter",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=360, DPS=105 | coc.guide has HP=Poison SpellLevel 1, DPS=105"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 26,
+    "id": "minion-10",
+    "name": "Minion",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 13,
+    "hitpoints": 108,
+    "dps": 70,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 108 and DPS 70 matched (Page: HP=108, DPS=70)"
+      },
+      {
+        "url": "https://coc.guide/troop/minion",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 27,
+    "id": "ice-golem-6",
+    "name": "Ice Golem",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 6,
+    "thRequired": 14,
+    "hitpoints": 3850,
+    "dps": 56,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Ice_Golem",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3850, DPS=56 | Page has HP=3.25s, DPS=44"
+      },
+      {
+        "url": "https://coc.guide/troop/ice-golem",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=3850, DPS=56 | coc.guide has HP=3,600, DPS=44"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 28,
+    "id": "furnace-1",
+    "name": "Furnace",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 15,
+    "hitpoints": 1530,
+    "dps": "100 (Firemite)",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Furnace",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1530, DPS=100 (Firemite) | Page has HP=1,530, DPS=None"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 29,
+    "id": "valkyrie-11",
+    "name": "Valkyrie",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 11,
+    "thRequired": 16,
+    "hitpoints": 2350,
+    "dps": 238,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Valkyrie",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2350, DPS=238 | Page has HP=2,600, DPS=238"
+      },
+      {
+        "url": "https://coc.guide/troop/valkyrie",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 11 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 30,
+    "id": "lava-hound-7",
+    "name": "Lava Hound",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 7,
+    "thRequired": 17,
+    "hitpoints": 8800,
+    "dps": 22,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Lava_Hound",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=8800, DPS=22 | Page has HP=14, DPS=22"
+      },
+      {
+        "url": "https://coc.guide/troop/lava-hound",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 7 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 31,
+    "id": "minion-13",
+    "name": "Minion",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 13,
+    "thRequired": 18,
+    "hitpoints": 126,
+    "dps": 82,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Minion",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=126, DPS=82 | Page has HP=130, DPS=84"
+      },
+      {
+        "url": "https://coc.guide/troop/minion",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 13 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 32,
+    "id": "hog-rider-1",
+    "name": "Hog Rider",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 7,
+    "hitpoints": 270,
+    "dps": 60,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hog_Rider",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 270 and DPS 60 matched (Page: HP=270, DPS=60)"
+      },
+      {
+        "url": "https://coc.guide/troop/hog-rider",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=270, DPS=60 | coc.guide has HP=1,267, DPS=112"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 33,
+    "id": "hog-rider-3",
+    "name": "Hog Rider",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 8,
+    "hitpoints": 360,
+    "dps": 80,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hog_Rider",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=360, DPS=80 | Page has HP=370, DPS=80"
+      },
+      {
+        "url": "https://coc.guide/troop/hog-rider",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=360, DPS=80 | coc.guide has HP=1,393, DPS=125"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 34,
+    "id": "witch-2",
+    "name": "Witch",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 9,
+    "hitpoints": 320,
+    "dps": 90,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Witch",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=320, DPS=90 | Page has HP=650, DPS=260"
+      },
+      {
+        "url": "https://coc.guide/troop/witch",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 35,
+    "id": "minion-5",
+    "name": "Minion",
+    "category": "Dark Elixir Troop",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 9,
+    "hitpoints": 78,
+    "dps": 50,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Minion",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 78 and DPS 50 matched (Page: HP=78, DPS=50)"
+      },
+      {
+        "url": "https://coc.guide/troop/minion",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 5 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 36,
+    "id": "inferno-multi-2",
+    "name": "Inferno Tower (Multi-Target)",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 10,
+    "hitpoints": 1800,
+    "dps": "35 per beam (175 max)",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Inferno_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1800 and DPS 35 per beam (175 max) matched (Page: HP=575, DPS=230)"
+      },
+      {
+        "url": "https://coc.guide/defense/inferno-tower",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 37,
+    "id": "hidden-tesla-8",
+    "name": "Hidden Tesla",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 8,
+    "thRequired": 10,
+    "hitpoints": 850,
+    "dps": 99,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hidden_Tesla",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 850 and DPS 99 matched (Page: HP=850, DPS=116)"
+      },
+      {
+        "url": "https://coc.guide/defense/hidden-tesla",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 8 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 38,
+    "id": "bomb-tower-5",
+    "name": "Bomb Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 10,
+    "hitpoints": 1050,
+    "dps": 40,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bomb_Tower",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1050, DPS=40 | Page has HP=3,000, DPS=105"
+      },
+      {
+        "url": "https://coc.guide/defense/bomb-tower",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=1050, DPS=40 | coc.guide has HP=300[ 2.75 Tiles ], DPS=48"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 39,
+    "id": "cannon-15",
+    "name": "Cannon",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 15,
+    "thRequired": 11,
+    "hitpoints": 1500,
+    "dps": 105,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Cannon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1500 and DPS 105 matched (Page: HP=2,250, DPS=320)"
+      },
+      {
+        "url": "https://coc.guide/defense/cannon",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=1,500, DPS=105)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 40,
+    "id": "hidden-tesla-9",
+    "name": "Hidden Tesla",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 11,
+    "hitpoints": 900,
+    "dps": 110,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hidden_Tesla",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 900 and DPS 110 matched (Page: HP=1,000, DPS=128)"
+      },
+      {
+        "url": "https://coc.guide/defense/hidden-tesla",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 9 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 41,
+    "id": "archer-tower-15",
+    "name": "Archer Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 15,
+    "thRequired": 11,
+    "hitpoints": 1230,
+    "dps": 85,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1230 and DPS 85 matched (Page: HP=1,800, DPS=290)"
+      },
+      {
+        "url": "https://coc.guide/defense/archer-tower",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=1,230, DPS=85)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 42,
+    "id": "archer-tower-17",
+    "name": "Archer Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 17,
+    "thRequired": 12,
+    "hitpoints": 1390,
+    "dps": 100,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1390 and DPS 100 matched (Page: HP=1,390, DPS=220)"
+      },
+      {
+        "url": "https://coc.guide/defense/archer-tower",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=1,390, DPS=100)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 43,
+    "id": "mortar-12",
+    "name": "Mortar",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 12,
+    "thRequired": 12,
+    "hitpoints": 1500,
+    "dps": 38,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Mortar",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1500 and DPS 38 matched (Page: HP=1,500, DPS=46)"
+      },
+      {
+        "url": "https://coc.guide/defense/mortar",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=1,500, DPS=38)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 44,
+    "id": "bomb-tower-8",
+    "name": "Bomb Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 8,
+    "thRequired": 13,
+    "hitpoints": 1650,
+    "dps": 56,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bomb_Tower",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1650, DPS=56 | Page has HP=1,900, DPS=72"
+      },
+      {
+        "url": "https://coc.guide/defense/bomb-tower",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=1650, DPS=56 | coc.guide has HP=450[ 2.75 Tiles ], DPS=72"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 45,
+    "id": "inferno-single-7",
+    "name": "Inferno Tower (Single-Target)",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 7,
+    "thRequired": 13,
+    "hitpoints": 3300,
+    "dps": "65 -> 180 -> 1800",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Inferno_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 3300 and DPS 65 -> 180 -> 1800 matched (Page: HP=3,300, DPS=65)"
+      },
+      {
+        "url": "https://coc.guide/defense/inferno-tower",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 7 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 46,
+    "id": "wizard-tower-13",
+    "name": "Wizard Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 13,
+    "thRequired": 13,
+    "hitpoints": 2500,
+    "dps": 84,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wizard_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 2500 and DPS 84 matched (Page: HP=2,500, DPS=84)"
+      },
+      {
+        "url": "https://coc.guide/defense/wizard-tower",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=2,500, DPS=84)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 47,
+    "id": "hidden-tesla-13",
+    "name": "Hidden Tesla",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 13,
+    "thRequired": 14,
+    "hitpoints": 1350,
+    "dps": 150,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hidden_Tesla",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1350 and DPS 150 matched (Page: HP=1,350, DPS=150)"
+      },
+      {
+        "url": "https://coc.guide/defense/hidden-tesla",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 13 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 48,
+    "id": "archer-tower-20",
+    "name": "Archer Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 20,
+    "thRequired": 14,
+    "hitpoints": 1700,
+    "dps": 135,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1700 and DPS 135 matched (Page: HP=1,700, DPS=276)"
+      },
+      {
+        "url": "https://coc.guide/defense/archer-tower",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=1,700, DPS=135)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 49,
+    "id": "scattershot-4",
+    "name": "Scattershot",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 15,
+    "hitpoints": 5100,
+    "dps": 195,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Scattershot",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=5100, DPS=195 | Page has HP=5,100, DPS=175"
+      },
+      {
+        "url": "https://coc.guide/defense/scattershot",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=5100, DPS=195 | coc.guide has HP=139.405, DPS=185"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 50,
+    "id": "spell-tower-3",
+    "name": "Spell Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 15,
+    "hitpoints": 3500,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Spell_Tower",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3500 | Page has HP=3,100"
+      },
+      {
+        "url": "https://coc.guide/defense/spell-tower",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=3500, DPS=0 | coc.guide has HP=11 d, DPS=3,100"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 51,
+    "id": "bomb-tower-10",
+    "name": "Bomb Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 15,
+    "hitpoints": 2150,
+    "dps": 72,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bomb_Tower",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2150, DPS=72 | Page has HP=2,500, DPS=94"
+      },
+      {
+        "url": "https://coc.guide/defense/bomb-tower",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=2150, DPS=72 | coc.guide has HP=550[ 2.75 Tiles ], DPS=94"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 52,
+    "id": "ricochet-cannon-2",
+    "name": "Ricochet Cannon",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 16,
+    "hitpoints": 5700,
+    "dps": 390,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Ricochet_Cannon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 5700 and DPS 390 matched (Page: HP=6,250, DPS=420)"
+      },
+      {
+        "url": "https://coc.guide/defense/ricochet-cannon",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 53,
+    "id": "battle-builder-hut-5",
+    "name": "Battle Builder Hut",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 16,
+    "hitpoints": 1800,
+    "dps": 110,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Builder%27s_Hut",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1800, DPS=110 | Page has HP=1,800, DPS=135"
+      },
+      {
+        "url": "https://coc.guide/defense/builder-hut",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 5 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 54,
+    "id": "scattershot-5",
+    "name": "Scattershot",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 17,
+    "hitpoints": 5400,
+    "dps": 215,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Scattershot",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=5400, DPS=215 | Page has HP=5,410, DPS=180"
+      },
+      {
+        "url": "https://coc.guide/defense/scattershot",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=5400, DPS=215 | coc.guide has HP=148.699, DPS=190"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 55,
+    "id": "inferno-single-11",
+    "name": "Inferno Tower (Single-Target)",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 11,
+    "thRequired": 17,
+    "hitpoints": 4800,
+    "dps": "140 -> 290 -> 2900",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Inferno_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 4800 and DPS 140 -> 290 -> 2900 matched (Page: HP=4,800, DPS=140)"
+      },
+      {
+        "url": "https://coc.guide/defense/inferno-tower",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 11 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 56,
+    "id": "wall-2",
+    "name": "Wall",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 2,
+    "hitpoints": 500,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=500 | Page has HP=6,500"
+      },
+      {
+        "url": "https://coc.guide/building/wall",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 57,
+    "id": "wall-3",
+    "name": "Wall",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 3,
+    "hitpoints": 700,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=700 | Page has HP=8,000"
+      },
+      {
+        "url": "https://coc.guide/building/wall",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 3 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 58,
+    "id": "wall-4",
+    "name": "Wall",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 4,
+    "hitpoints": 900,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=900 | Page has HP=9,500"
+      },
+      {
+        "url": "https://coc.guide/building/wall",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 4 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 59,
+    "id": "wall-5",
+    "name": "Wall",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 5,
+    "hitpoints": 1400,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1400 | Page has HP=11,000"
+      },
+      {
+        "url": "https://coc.guide/building/wall",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 5 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 60,
+    "id": "archer-tower-7",
+    "name": "Archer Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 7,
+    "thRequired": 6,
+    "hitpoints": 630,
+    "dps": 42,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Tower",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 630 and DPS 42 matched (Page: HP=1,250, DPS=158)"
+      },
+      {
+        "url": "https://coc.guide/defense/archer-tower",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=630, DPS=42)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 61,
+    "id": "air-sweeper-3",
+    "name": "Air Sweeper",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 7,
+    "hitpoints": 850,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Air_Sweeper",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 850 matched (Page: HP=850)"
+      },
+      {
+        "url": "https://coc.guide/defense/air-sweeper",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 3 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 62,
+    "id": "air-sweeper-4",
+    "name": "Air Sweeper",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 8,
+    "hitpoints": 900,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Air_Sweeper",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 900 matched (Page: HP=900)"
+      },
+      {
+        "url": "https://coc.guide/defense/air-sweeper",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 4 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 63,
+    "id": "hidden-tesla-5",
+    "name": "Hidden Tesla",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 8,
+    "hitpoints": 730,
+    "dps": 64,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hidden_Tesla",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 730 and DPS 64 matched (Page: HP=550, DPS=88)"
+      },
+      {
+        "url": "https://coc.guide/defense/hidden-tesla",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 5 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 64,
+    "id": "bomb-tower-3",
+    "name": "Bomb Tower",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 9,
+    "hitpoints": 800,
+    "dps": 32,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bomb_Tower",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=800, DPS=32 | Page has HP=2,500, DPS=85"
+      },
+      {
+        "url": "https://coc.guide/defense/bomb-tower",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=800, DPS=32 | coc.guide has HP=220[ 2.75 Tiles ], DPS=32"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 65,
+    "id": "x-bow-1",
+    "name": "X-Bow",
+    "category": "Defense",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 9,
+    "hitpoints": 1500,
+    "dps": 60,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/X-Bow",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1500 and DPS 60 matched (Page: HP=1,700, DPS=80)"
+      },
+      {
+        "url": "https://coc.guide/defense/x-bow",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 1 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 66,
+    "id": "barbarian-8",
+    "name": "Barbarian",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 8,
+    "thRequired": 10,
+    "hitpoints": 205,
+    "dps": 34,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Barbarian",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 205 and DPS 34 matched (Page: HP=205, DPS=34)"
+      },
+      {
+        "url": "https://coc.guide/troop/barbarian",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=205, DPS=34)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 67,
+    "id": "baby-dragon-3",
+    "name": "Baby Dragon",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 10,
+    "hitpoints": 1400,
+    "dps": 95,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1400 and DPS 95 matched (Page: HP=1,400, DPS=285)"
+      },
+      {
+        "url": "https://coc.guide/troop/baby-dragon",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 3 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 68,
+    "id": "wall-breaker-8",
+    "name": "Wall Breaker",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 8,
+    "thRequired": 11,
+    "hitpoints": 92,
+    "dps": 92,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall_Breaker",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=92, DPS=92 | Page has HP=92, DPS=None"
+      },
+      {
+        "url": "https://coc.guide/troop/wall-breaker",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=92, DPS=92 | coc.guide has HP=92, DPS=75"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 69,
+    "id": "barbarian-9",
+    "name": "Barbarian",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 11,
+    "hitpoints": 230,
+    "dps": 38,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Barbarian",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 230 and DPS 38 matched (Page: HP=230, DPS=38)"
+      },
+      {
+        "url": "https://coc.guide/troop/barbarian",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=230, DPS=38)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 70,
+    "id": "yeti-1",
+    "name": "Yeti",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 12,
+    "hitpoints": 2900,
+    "dps": 230,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Yeti",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 2900 and DPS 230 matched (Page: HP=2,900, DPS=230)"
+      },
+      {
+        "url": "https://coc.guide/troop/yeti",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=2,900, DPS=230)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 71,
+    "id": "baby-dragon-6",
+    "name": "Baby Dragon",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 6,
+    "thRequired": 12,
+    "hitpoints": 1700,
+    "dps": 125,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1700 and DPS 125 matched (Page: HP=1,772, DPS=83)"
+      },
+      {
+        "url": "https://coc.guide/troop/baby-dragon",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 6 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 72,
+    "id": "dragon-rider-2",
+    "name": "Dragon Rider",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 13,
+    "hitpoints": 4400,
+    "dps": 370,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon_Rider",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 4400 and DPS 370 matched (Page: HP=4,400, DPS=370)"
+      },
+      {
+        "url": "https://coc.guide/troop/dragon-rider",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=4400, DPS=370 | coc.guide has HP=800[ 2 Tiles ], DPS=370"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 73,
+    "id": "dragon-8",
+    "name": "Dragon",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 8,
+    "thRequired": 13,
+    "hitpoints": 4200,
+    "dps": 330,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 4200 and DPS 330 matched (Page: HP=4,200, DPS=330)"
+      },
+      {
+        "url": "https://coc.guide/troop/dragon",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=4,200, DPS=330)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 74,
+    "id": "wall-breaker-11",
+    "name": "Wall Breaker",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 11,
+    "thRequired": 14,
+    "hitpoints": 140,
+    "dps": 136,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall_Breaker",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=140, DPS=136 | Page has HP=140, DPS=None"
+      },
+      {
+        "url": "https://coc.guide/troop/wall-breaker",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=140, DPS=136 | coc.guide has HP=140, DPS=102"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 75,
+    "id": "miner-9",
+    "name": "Miner",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 15,
+    "hitpoints": 1300,
+    "dps": 144,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Miner",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1300, DPS=144 | Page has HP=1,350, DPS=144"
+      },
+      {
+        "url": "https://coc.guide/troop/miner",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=1300, DPS=144 | coc.guide has HP=1,250, DPS=144"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 76,
+    "id": "dragon-rider-4",
+    "name": "Dragon Rider",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 15,
+    "hitpoints": 5000,
+    "dps": 430,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon_Rider",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=5000, DPS=430 | Page has HP=5,100, DPS=430"
+      },
+      {
+        "url": "https://coc.guide/troop/dragon-rider",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=5000, DPS=430 | coc.guide has HP=1000[ 2 Tiles ], DPS=430"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 77,
+    "id": "electro-titan-4",
+    "name": "Electro Titan",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 16,
+    "hitpoints": 8700,
+    "dps": 240,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Electro_Titan",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 8700 and DPS 240 matched (Page: HP=8,700, DPS=137.5)"
+      },
+      {
+        "url": "https://coc.guide/troop/electro-titan",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=8700, DPS=240 | coc.guide has HP=137.5[ 7 Tiles ], DPS=240"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 78,
+    "id": "healer-9",
+    "name": "Healer",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 17,
+    "hitpoints": 1900,
+    "dps": 0,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Healer",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1900 matched (Page: HP=1,900)"
+      },
+      {
+        "url": "https://coc.guide/troop/healer",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=1900, DPS=0 | coc.guide has HP=56, DPS=80"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 79,
+    "id": "dragon-rider-5",
+    "name": "Dragon Rider",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 17,
+    "hitpoints": 5300,
+    "dps": 460,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon_Rider",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=5300, DPS=460 | Page has HP=5,600, DPS=470"
+      },
+      {
+        "url": "https://coc.guide/troop/dragon-rider",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=5300, DPS=460 | coc.guide has HP=1100[ 2 Tiles ], DPS=460"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 80,
+    "id": "meteor-golem-2",
+    "name": "Meteor Golem",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 18,
+    "hitpoints": 9800,
+    "dps": 165,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://supercell.com/en/games/clashofclans/blog/",
+        "site": "supercell.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (supercell.com); table parsing not supported"
+      },
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Meteor_Golem",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=9800, DPS=165 | Page has HP=5,000, DPS=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 81,
+    "id": "wall-breaker-2",
+    "name": "Wall Breaker",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 3,
+    "hitpoints": 24,
+    "dps": 16,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall_Breaker",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=24, DPS=16 | Page has HP=24, DPS=None"
+      },
+      {
+        "url": "https://coc.guide/troop/wall-breaker",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=24, DPS=16 | coc.guide has HP=24, DPS=10"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 82,
+    "id": "goblin-3",
+    "name": "Goblin",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 4,
+    "hitpoints": 36,
+    "dps": 19,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Goblin",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 36 and DPS 19 matched (Page: HP=36, DPS=38)"
+      },
+      {
+        "url": "https://coc.guide/troop/goblin",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=36, DPS=19)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 83,
+    "id": "archer-4",
+    "name": "Archer",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 5,
+    "hitpoints": 33,
+    "dps": 16,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 33 and DPS 16 matched (Page: HP=33, DPS=16)"
+      },
+      {
+        "url": "https://coc.guide/troop/archer",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=33, DPS=16)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 84,
+    "id": "wall-breaker-4",
+    "name": "Wall Breaker",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 6,
+    "hitpoints": 35,
+    "dps": 32,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Wall_Breaker",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=35, DPS=32 | Page has HP=35, DPS=None"
+      },
+      {
+        "url": "https://coc.guide/troop/wall-breaker",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=35, DPS=32 | coc.guide has HP=35, DPS=20"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 85,
+    "id": "dragon-1",
+    "name": "Dragon",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 7,
+    "hitpoints": 1900,
+    "dps": 140,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1900 and DPS 140 matched (Page: HP=1,900, DPS=140)"
+      },
+      {
+        "url": "https://coc.guide/troop/dragon",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=1,900, DPS=140)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 86,
+    "id": "pekka-2",
+    "name": "P.E.K.K.A",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 8,
+    "hitpoints": 3500,
+    "dps": 270,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/P.E.K.K.A",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3500, DPS=270 | Page has HP=3,500, DPS=290"
+      },
+      {
+        "url": "https://coc.guide/troop/pekka",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=3500, DPS=270 | coc.guide has HP=3,500, DPS=290"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 87,
+    "id": "dragon-3",
+    "name": "Dragon",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 8,
+    "hitpoints": 2300,
+    "dps": 180,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 2300 and DPS 180 matched (Page: HP=2,300, DPS=180)"
+      },
+      {
+        "url": "https://coc.guide/troop/dragon",
+        "site": "coc.guide",
+        "status": "match",
+        "detail": "HP and DPS matched on coc.guide (HP=2,300, DPS=180)"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 88,
+    "id": "baby-dragon-2",
+    "name": "Baby Dragon",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 9,
+    "hitpoints": 1300,
+    "dps": 85,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 1300 and DPS 85 matched (Page: HP=1,300, DPS=255)"
+      },
+      {
+        "url": "https://coc.guide/troop/baby-dragon",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 89,
+    "id": "goblin-7",
+    "name": "Goblin",
+    "category": "Elixir Troop",
+    "village": "Home Village",
+    "level": 7,
+    "thRequired": 9,
+    "hitpoints": 86,
+    "dps": 48,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Goblin",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=86, DPS=48 | Page has HP=105, DPS=104"
+      },
+      {
+        "url": "https://coc.guide/troop/goblin",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=86, DPS=48 | coc.guide has HP=105, DPS=52"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 90,
+    "id": "grand-warden-10",
+    "name": "Grand Warden",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 11,
+    "hitpoints": 1350,
+    "dps": 90,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Grand_Warden",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1350, DPS=90 | Page has HP=256, DPS=309"
+      },
+      {
+        "url": "https://coc.guide/hero/grand-warden",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 91,
+    "id": "barbarian-king-65",
+    "name": "Barbarian King",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 65,
+    "thRequired": 12,
+    "hitpoints": 8780,
+    "dps": 620,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Barbarian_King",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=8780, DPS=620 | Page has HP=1,700, DPS=385"
+      },
+      {
+        "url": "https://coc.guide/hero/barbarian-king",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 65 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 92,
+    "id": "royal-champion-10",
+    "name": "Royal Champion",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 13,
+    "hitpoints": 3340,
+    "dps": 442,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Royal_Champion",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3340, DPS=442 | Page has HP=1,300, DPS=545"
+      },
+      {
+        "url": "https://coc.guide/hero/royal-champion",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 93,
+    "id": "royal-champion-30",
+    "name": "Royal Champion",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 30,
+    "thRequired": 14,
+    "hitpoints": 4460,
+    "dps": 590,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Royal_Champion",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=4460, DPS=590 | Page has HP=1,000, DPS=492"
+      },
+      {
+        "url": "https://coc.guide/hero/royal-champion",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 30 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 94,
+    "id": "barbarian-king-90",
+    "name": "Barbarian King",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 90,
+    "thRequired": 15,
+    "hitpoints": 11850,
+    "dps": 835,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Barbarian_King",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=11850, DPS=835 | Page has HP=2,650, DPS=574"
+      },
+      {
+        "url": "https://coc.guide/hero/barbarian-king",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 90 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 95,
+    "id": "dragon-duke-12",
+    "name": "Dragon Duke",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 12,
+    "thRequired": 16,
+    "hitpoints": 9925,
+    "dps": 348,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dragon_Duke",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 9925 and DPS 348 matched (Page: HP=4,750, DPS=400)"
+      },
+      {
+        "url": "https://gameboost.com",
+        "site": "gameboost.com",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://gameboost.com"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 96,
+    "id": "archer-queen-100",
+    "name": "Archer Queen",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 100,
+    "thRequired": 17,
+    "hitpoints": 5050,
+    "dps": 1105,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Queen",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=5050, DPS=1105 | Page has HP=415, DPS=780"
+      },
+      {
+        "url": "https://coc.guide/hero/archer-queen",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 100 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 97,
+    "id": "archer-queen-10",
+    "name": "Archer Queen",
+    "category": "Hero",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 9,
+    "hitpoints": 960,
+    "dps": 212,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Queen",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=960, DPS=212 | Page has HP=400, DPS=765"
+      },
+      {
+        "url": "https://coc.guide/hero/archer-queen",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 98,
+    "id": "eq-metal-pants-lvl-1",
+    "name": "Metal Pants",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 10,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Metal_Pants",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 99,
+    "id": "eq-life-gem-lvl-3",
+    "name": "Life Gem",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 11,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Life_Gem",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 100,
+    "id": "eq-noble-iron-lvl-1",
+    "name": "Noble Iron",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 11,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Noble_Iron",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 101,
+    "id": "eq-healer-puppet-lvl-9",
+    "name": "Healer Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 12,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Healer_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 102,
+    "id": "eq-dark-orb-lvl-15",
+    "name": "Dark Orb",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 15,
+    "thRequired": 12,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Dark_Orb",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 103,
+    "id": "eq-healing-tome-lvl-9",
+    "name": "Healing Tome",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 13,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Healing_Tome",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 104,
+    "id": "eq-royal-gem-lvl-1",
+    "name": "Royal Gem",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 13,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Royal_Gem",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=1,200"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 105,
+    "id": "eq-frost-flake-lvl-18",
+    "name": "Frost Flake",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 18,
+    "thRequired": 14,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "LOW",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Frost_Flake",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 106,
+    "id": "eq-noble-iron-lvl-18",
+    "name": "Noble Iron",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 18,
+    "thRequired": 14,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Noble_Iron",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 107,
+    "id": "eq-lavaloon-puppet-lvl-18",
+    "name": "Lavaloon Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 18,
+    "thRequired": 14,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Lavaloon_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 108,
+    "id": "eq-hog-rider-puppet-lvl-1",
+    "name": "Hog Rider Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 14,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hog_Rider_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 109,
+    "id": "eq-stick-horse-lvl-21",
+    "name": "Stick Horse",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 21,
+    "thRequired": 14,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Stick_Horse",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 110,
+    "id": "eq-hog-rider-puppet-lvl-18",
+    "name": "Hog Rider Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 18,
+    "thRequired": 14,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Hog_Rider_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 111,
+    "id": "eq-electro-boots-lvl-21",
+    "name": "Electro Boots",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 21,
+    "thRequired": 14,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Electro_Boots",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 112,
+    "id": "eq-haste-vial-lvl-3",
+    "name": "Haste Vial",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 15,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Haste_Vial",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 113,
+    "id": "eq-fire-heart-lvl-15",
+    "name": "Fire Heart",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 15,
+    "thRequired": 15,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Fire_Heart",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 114,
+    "id": "eq-haste-vial-lvl-1",
+    "name": "Haste Vial",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 15,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Haste_Vial",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 115,
+    "id": "eq-rocket-backpack-lvl-21",
+    "name": "Rocket Backpack",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 21,
+    "thRequired": 15,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "LOW",
+    "citations": [
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      },
+      {
+        "url": "https://www.ldshop.gg",
+        "site": "www.ldshop.gg",
+        "status": "URL unreachable",
+        "detail": "HTTP request failed for https://www.ldshop.gg"
+      }
+    ],
+    "overall_status": "page does not contain the value"
+  },
+  {
+    "index": 116,
+    "id": "eq-stick-horse-lvl-27",
+    "name": "Stick Horse",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 27,
+    "thRequired": 16,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Stick_Horse",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 117,
+    "id": "eq-portal-pendant-lvl-27",
+    "name": "Portal Pendant",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 27,
+    "thRequired": 16,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Portal_Pendant",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 118,
+    "id": "eq-monolith-arrow-lvl-27",
+    "name": "Monolith Arrow",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 27,
+    "thRequired": 16,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Monolith_Arrow",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 119,
+    "id": "eq-barbarian-puppet-lvl-3",
+    "name": "Barbarian Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 7,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Barbarian_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      },
+      {
+        "url": "https://coc.guide",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 3 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 120,
+    "id": "eq-earthquake-boots-lvl-3",
+    "name": "Earthquake Boots",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 3,
+    "thRequired": 8,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Earthquake_Boots",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      },
+      {
+        "url": "https://coc.guide",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 3 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 121,
+    "id": "eq-snake-bracelet-lvl-9",
+    "name": "Snake Bracelet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 8,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Snake_Bracelet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 122,
+    "id": "eq-henchmen-puppet-lvl-1",
+    "name": "Henchmen Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 9,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Henchmen_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 123,
+    "id": "eq-archer-puppet-lvl-1",
+    "name": "Archer Puppet",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 9,
+    "hitpoints": "Common \u00b7 Max 18",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Archer_Puppet",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Common \u00b7 Max 18 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 124,
+    "id": "eq-meteor-staff-lvl-9",
+    "name": "Meteor Staff",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 9,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Meteor_Staff",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 125,
+    "id": "eq-action-figure-lvl-9",
+    "name": "Action Figure",
+    "category": "Hero Equipment",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 9,
+    "hitpoints": "Epic \u00b7 Max 27",
+    "dps": "Active + Passive",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Action_Figure",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=Epic \u00b7 Max 27 | Page has HP=None"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 126,
+    "id": "electro-owl-5",
+    "name": "Electro Owl",
+    "category": "Hero Pet",
+    "village": "Home Village",
+    "level": 5,
+    "thRequired": 14,
+    "hitpoints": 1700,
+    "dps": 125,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Electro_Owl",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1700, DPS=125 | Page has HP=2,000, DPS=120"
+      },
+      {
+        "url": "https://coc.guide/pet/electro-owl",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 5 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 127,
+    "id": "electro-owl-10",
+    "name": "Electro Owl",
+    "category": "Hero Pet",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 14,
+    "hitpoints": 2050,
+    "dps": 155,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Electro_Owl",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2050, DPS=155 | Page has HP=2,500, DPS=145"
+      },
+      {
+        "url": "https://coc.guide/pet/electro-owl",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 128,
+    "id": "diggy-10",
+    "name": "Diggy",
+    "category": "Hero Pet",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 15,
+    "hitpoints": 4000,
+    "dps": 170,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Diggy",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=4000, DPS=170 | Page has HP=5,000, DPS=150"
+      },
+      {
+        "url": "https://coc.guide/pet/diggy",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=4000, DPS=170 | coc.guide has HP=5,000, DPS=150"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 129,
+    "id": "spirit-fox-10",
+    "name": "Spirit Fox",
+    "category": "Hero Pet",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 16,
+    "hitpoints": 3600,
+    "dps": 200,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Spirit_Fox",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3600, DPS=200 | Page has HP=2,800, DPS=180"
+      },
+      {
+        "url": "https://coc.guide/pet/spirit-fox",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 130,
+    "id": "sneezy-7",
+    "name": "Sneezy",
+    "category": "Hero Pet",
+    "village": "Home Village",
+    "level": 7,
+    "thRequired": 17,
+    "hitpoints": 4200,
+    "dps": 390,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Sneezy",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 4200 and DPS 390 matched (Page: HP=4,200, DPS=390)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 131,
+    "id": "greedy-raven-10",
+    "name": "Greedy Raven",
+    "category": "Hero Pet",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 18,
+    "hitpoints": 3500,
+    "dps": "155 (775 vs Res)",
+    "confidence": "MEDIUM",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Greedy_Raven",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 3500 and DPS 155 (775 vs Res) matched (Page: HP=3,500, DPS=775)"
+      },
+      {
+        "url": "https://clashperk.com",
+        "site": "clashperk.com",
+        "status": "page does not contain the value",
+        "detail": "Generic external site (clashperk.com); table parsing not supported"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 132,
+    "id": "battle-blimp-2",
+    "name": "Battle Blimp",
+    "category": "Siege Machine",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 12,
+    "hitpoints": 3500,
+    "dps": 140,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Battle_Blimp",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 3500 and DPS 140 matched (Page: HP=3,500, DPS=140)"
+      },
+      {
+        "url": "https://coc.guide/siege/battle-blimp",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 133,
+    "id": "log-launcher-4",
+    "name": "Log Launcher",
+    "category": "Siege Machine",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 13,
+    "hitpoints": 5200,
+    "dps": 200,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Log_Launcher",
+        "site": "fandom",
+        "status": "match",
+        "detail": "HP 5200 and DPS 200 matched (Page: HP=5,200, DPS=200)"
+      },
+      {
+        "url": "https://coc.guide/siege/log-launcher",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 4 not in coc.guide table"
+      }
+    ],
+    "overall_status": "match"
+  },
+  {
+    "index": 134,
+    "id": "flame-flinger-4",
+    "name": "Flame Flinger",
+    "category": "Siege Machine",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 14,
+    "hitpoints": 2100,
+    "dps": 200,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Flame_Flinger",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2100, DPS=200 | Page has HP=2,000, DPS=120"
+      },
+      {
+        "url": "https://coc.guide/siege/flame-flinger",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 4 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 135,
+    "id": "super-minion-8",
+    "name": "Super Minion",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 8,
+    "thRequired": 11,
+    "hitpoints": 1400,
+    "dps": 300,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Minion",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1400, DPS=300 | Page has HP=1,500, DPS=300"
+      },
+      {
+        "url": "https://coc.guide/troop/super-minion",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=1400, DPS=300 | coc.guide has HP=1,800, DPS=360"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 136,
+    "id": "super-barbarian-9",
+    "name": "Super Barbarian",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 11,
+    "hitpoints": 550,
+    "dps": 200,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Barbarian",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=550, DPS=200 | Page has HP=1,100, DPS=200"
+      },
+      {
+        "url": "https://coc.guide/troop/super-barbarian",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 9 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 137,
+    "id": "super-giant-10",
+    "name": "Super Giant",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 12,
+    "hitpoints": 4400,
+    "dps": 140,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Giant",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=4400, DPS=140 | Page has HP=4,200, DPS=140"
+      },
+      {
+        "url": "https://coc.guide/troop/super-giant",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 138,
+    "id": "super-archer-10",
+    "name": "Super Archer",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 12,
+    "hitpoints": 510,
+    "dps": 140,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Archer",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=510, DPS=140 | Page has HP=565, DPS=144"
+      },
+      {
+        "url": "https://coc.guide/troop/super-archer",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 139,
+    "id": "ice-hound-6",
+    "name": "Ice Hound",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 6,
+    "thRequired": 13,
+    "hitpoints": 10000,
+    "dps": 18,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Ice_Hound",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=10000, DPS=18 | Page has HP=11, DPS=15"
+      },
+      {
+        "url": "https://coc.guide/troop/ice-hound",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=10000, DPS=18 | coc.guide has HP=10,000, DPS=15"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 140,
+    "id": "super-minion-10",
+    "name": "Super Minion",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 13,
+    "hitpoints": 1600,
+    "dps": 350,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Minion",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=1600, DPS=350 | Page has HP=1,700, DPS=350"
+      },
+      {
+        "url": "https://coc.guide/troop/super-minion",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=1600, DPS=350 | coc.guide has HP=2,000, DPS=380"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 141,
+    "id": "super-bowler-6",
+    "name": "Super Bowler",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 6,
+    "thRequired": 14,
+    "hitpoints": 2100,
+    "dps": 210,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Bowler",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2100, DPS=210 | Page has HP=2,000, DPS=200"
+      },
+      {
+        "url": "https://coc.guide/troop/super-bowler",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=2100, DPS=210 | coc.guide has HP=2,000, DPS=200"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 142,
+    "id": "super-valkyrie-10",
+    "name": "Super Valkyrie",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 10,
+    "thRequired": 15,
+    "hitpoints": 2800,
+    "dps": 350,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Valkyrie",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2800, DPS=350 | Page has HP=3,400, DPS=350"
+      },
+      {
+        "url": "https://coc.guide/troop/super-valkyrie",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 10 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 143,
+    "id": "super-miner-9",
+    "name": "Super Miner",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 9,
+    "thRequired": 15,
+    "hitpoints": 3600,
+    "dps": "200 - 1500 (ramp)",
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Miner",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3600, DPS=200 - 1500 (ramp) | Page has HP=605, DPS=205"
+      },
+      {
+        "url": "https://coc.guide/troop/super-miner",
+        "site": "coc.guide",
+        "status": "mismatch",
+        "detail": "Expected HP=3600, DPS=200 - 1500 (ramp) | coc.guide has HP=1800[ 2 Tiles ], DPS=200 \u2022 400 \u2022 600"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 144,
+    "id": "super-hog-rider-13",
+    "name": "Super Hog Rider",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 13,
+    "thRequired": 16,
+    "hitpoints": 2050,
+    "dps": 225,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Hog_Rider",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=2050, DPS=225 | Page has HP=2,050, DPS=250"
+      },
+      {
+        "url": "https://coc.guide/troop/super-hog-rider",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 13 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 145,
+    "id": "super-witch-7",
+    "name": "Super Witch",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 7,
+    "thRequired": 17,
+    "hitpoints": 3600,
+    "dps": 420,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Witch",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3600, DPS=420 | Page has HP=3,750, DPS=430"
+      },
+      {
+        "url": "https://coc.guide/troop/super-witch",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 7 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 146,
+    "id": "super-valkyrie-12",
+    "name": "Super Valkyrie",
+    "category": "Super Troop",
+    "village": "Home Village",
+    "level": 12,
+    "thRequired": 18,
+    "hitpoints": 3200,
+    "dps": 400,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Super_Valkyrie",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected HP=3200, DPS=400 | Page has HP=4,500, DPS=405"
+      },
+      {
+        "url": "https://coc.guide/troop/super-valkyrie",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 12 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 147,
+    "id": "trap-bomb-11",
+    "name": "Bomb",
+    "category": "Trap",
+    "village": "Home Village",
+    "level": 11,
+    "thRequired": 11,
+    "hitpoints": 0,
+    "dps": 140,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Bomb",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected DPS=140 | Page has DPS=None"
+      },
+      {
+        "url": "https://coc.guide/trap/bomb",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 11 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 148,
+    "id": "seeking-air-mine-1",
+    "name": "Seeking Air Mine",
+    "category": "Trap",
+    "village": "Home Village",
+    "level": 1,
+    "thRequired": 7,
+    "hitpoints": 0,
+    "dps": 1500,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Seeking_Air_Mine",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected DPS=1500 | Page has DPS=None"
+      },
+      {
+        "url": "https://coc.guide/trap/seeking-air-mine",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 1 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 149,
+    "id": "seeking-air-mine-2",
+    "name": "Seeking Air Mine",
+    "category": "Trap",
+    "village": "Home Village",
+    "level": 2,
+    "thRequired": 8,
+    "hitpoints": 0,
+    "dps": 1800,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Seeking_Air_Mine",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected DPS=1800 | Page has DPS=None"
+      },
+      {
+        "url": "https://coc.guide/trap/seeking-air-mine",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 2 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  },
+  {
+    "index": 150,
+    "id": "giant-bomb-4",
+    "name": "Giant Bomb",
+    "category": "Trap",
+    "village": "Home Village",
+    "level": 4,
+    "thRequired": 9,
+    "hitpoints": 0,
+    "dps": 275,
+    "confidence": "HIGH",
+    "citations": [
+      {
+        "url": "https://clashofclans.fandom.com/wiki/Giant_Bomb",
+        "site": "fandom",
+        "status": "mismatch",
+        "detail": "Expected DPS=275 | Page has DPS=None"
+      },
+      {
+        "url": "https://coc.guide/trap/giant-bomb",
+        "site": "coc.guide",
+        "status": "page does not contain the value",
+        "detail": "Level 4 not in coc.guide table"
+      }
+    ],
+    "overall_status": "mismatch"
+  }
+]
