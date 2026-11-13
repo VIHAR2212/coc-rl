@@ -67,27 +67,33 @@ M7b (RENDER POLISH) — PASSED
 2. PARTIALLY COMPLETE
 ========================================================================
 
-M7b (RL RIGOR & GENERALIZATION BENCHMARK):
-- Status: PARTIAL (pipeline validated, beats baseline on destruction, but does not beat best baseline on stars).
-- Audit findings from M7 Attempt 1:
-  1. The initial 800 episodes across 2 held-out bases lacked intra-pair variance because the simulator was strictly deterministic without spawn jitter (std = 0.0 across all seeds within each pair).
-  2. The initial RL agent scored 0.00 stars on held-out bases despite higher destruction because it lacked a Town Hall visual indicator in the observation space and suffered from the 50% destruction cliff.
-- Upgrades implemented in M7b:
-  (a) Legitimate seeded randomness: added uniform(-0.3, 0.3) sub-tile spawn jitter and defense firing phase offsets in sim/env.py. Verified that 22 of 24 pairs now exhibit genuine seed-to-seed variance.
-  (b) Observation & reward upgrades: added 6th grid channel (is_town_hall) to ActionMaskCoCEnv; added stars-aware reward terms (+25 at 50% destruction, +25 additional on TH, +50 at 100%, -0.05 wait penalty).
-  (c) Extended multi-seed training: trained 3 independent seeds (42, 43, 44) across 25k Stage 1 steps and 500k Stage 2 steps each (total 1.575M steps) on train split [base02.json, base03.json, base04.json] (trivial base01 excluded). Models saved to models/ppo_m7b_seed*.zip and multi-seed curves to results/reward_curves.png.
-  (d) Held-out evaluation scale: expanded held-out evaluation pool to 6 unseen bases (base05.json to base10.json) across 4 armies = 24 independent (base, army) pairs, 100 seeded episodes each (12,000 total episodes, saved to results/rl_vs_baselines.csv and results/rl_vs_baselines_pairs.csv).
-- 24-Pair Held-Out Benchmark Results (95% Pair Bootstrap CI):
-  * maskable_ppo:  31.15% dest [95% CI 21.61, 41.40] | 0.46 stars [0.18, 0.80] | 3.58% 3-star [0.00, 10.00]
-  * left_wave:     26.12% dest [95% CI 16.00, 37.42] | 0.53 stars [0.21, 0.92] | 4.17% 3-star [0.00, 12.50]
-  * smart_funnel: 20.33% dest [95% CI 12.21, 30.24] | 0.28 stars [0.07, 0.56] | 2.79% 3-star [0.00,  8.38]
-  * surround:     10.73% dest [95% CI  5.75, 16.76] | 0.07 stars [0.00, 0.21] | 0.00% 3-star
-  * random_masked:  9.94% dest [95% CI  5.72, 14.81] | 0.02 stars [0.00, 0.06] | 0.00% 3-star
+M7b Part A (RL RIGOR & GENERALIZATION BENCHMARK ON HELD-OUT BASES 07-10):
+- Status: COMPLETED (pipeline validated, beats baseline on destruction, but DOES NOT beat best baseline on stars).
+- Model Evaluated: models/ppo_m7b_seed42.zip, seed43.zip, seed44.zip (training date: 2026-11-12).
+- Determinism & Variance Audit:
+  * Seeded sub-tile spawn jitter (uniform(-0.3, 0.3)) and initial defense cooldown phase offsets (uniform(0, attack_speed)) in sim/env.py produce genuine seed-to-seed variance across 10-14 of 16 pairs per agent (remaining zero-variance pairs are either 0% or 100% destruction invariants).
+  * Evaluated across 16 held-out pairs (base07.json, base08.json, base09.json, base10.json x 4 armies), 100 seeded episodes per pair (8,000 total episodes; results/m7b_partA.csv).
+- 16-Pair Held-Out Benchmark Results (Bootstrap 95% Confidence Intervals over independent pairs):
+  * maskable_ppo:  31.78% dest [95% CI 19.51, 45.62] | 0.57 stars [0.18, 1.04] | 5.38% 3-star [0.00, 15.00]
+  * left_wave:     27.32% dest [95% CI 13.53, 43.27] | 0.70 stars [0.25, 1.23] | 6.25% 3-star [0.00, 18.75]
+  * smart_funnel: 22.82% dest [95% CI 11.29, 36.67] | 0.41 stars [0.10, 0.81] | 4.19% 3-star [0.00, 12.56]
+  * surround:      9.77% dest [95% CI  3.77, 17.82] | 0.11 stars [0.00, 0.32] | 0.00% 3-star
+  * random_masked: 8.69% dest [95% CI  3.78, 14.94] | 0.03 stars [0.00, 0.09] | 0.00% 3-star
+- Paired Head-to-Head (PPO vs left_wave):
+  * Paired delta destruction: +4.46 pp [95% CI +0.01, +9.10]
+  * Paired delta stars:       -0.128 [95% CI -0.309, +0.008]
 - Honest Outcome on Target Conditions:
-  * Beats random agent clearly: YES (+21.21 pp destruction, +0.44 stars).
-  * Beats best baseline on destruction: YES (+5.02 pp paired delta [95% CI +1.96, +8.29]; PPO achieves higher destruction on 18 of 24 pairs, e.g. base05, base06, base07, base08).
-  * Beats best baseline on stars: NO (-0.070 paired star delta [95% CI -0.204, +0.042]).
-  * Why: left_wave achieves full 100% wipes (3.00 stars) on wide spread layout base10.json with giant_barch and 2.00 stars with other armies, pulling its average star score up, whereas PPO's deployments distribute damage more reliably across heavily compartmentalized walled bases (base06, base07, base08) but convert fewer full-base wipeouts.
+  * Does MaskablePPO beat random_masked on destruction? YES (31.78% vs 8.69%, +23.09 pp).
+  * Does MaskablePPO beat the best baseline on destruction? YES (31.78% vs 27.32% for left_wave, paired delta +4.46 pp).
+  * Does MaskablePPO beat the best baseline on stars? NO (0.57 vs 0.70 stars for left_wave, paired delta -0.128). PPO plain and simply fails to beat left_wave on stars.
+  * Why: left_wave achieves reliable full wipes (3.0 stars) on wide spread layout base10.json and 2.0 stars on base09.json, whereas PPO spreads damage more safely to avoid total defense wipeouts, maximizing expected destruction percentage across compact bases (base07, base08) without concentrating enough firepower onto the Town Hall or clearing the 50% threshold on difficult layouts.
+- Action Diagnostics (results/ppo_action_diagnostics.csv):
+  * Single sector collapse: 0 of 16 pairs (>90% whole army in one sector). Single sector fraction is 0.0 across 15/16 pairs and 0.33 on 1 pair (barch on base08).
+  * Distinct sectors used per episode: 2.00 to 3.53 sectors.
+  * Action entropy: 1.695 to 3.361 nats.
+  * Wall Breakers: deployed 100% of the time when present in the army (goblin_giant and mixed_wb) at average step 12.8 to 32.1.
+- TH8 Level Check (data/TH8_LEVEL_CHECK.md):
+  * Verified against Fandom Laboratory and Town Hall tables: Town Hall 8 caps Laboratory at Level 6. Laboratory Level 6 unlocks exactly Level 5 for Giant, Barbarian, Archer, Goblin, and Wall Breaker. Level 6 requires TH9/Lab 7 or TH10/Lab 8. Stop Condition 2 is NOT triggered.
 
 ========================================================================
 3. FAILED COMPLETELY

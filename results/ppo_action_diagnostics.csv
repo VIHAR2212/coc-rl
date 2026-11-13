@@ -1,0 +1,17 @@
+model_file,model_date,base,army,episodes,sectors_used,avg_distinct_sectors_per_ep,action_entropy,wb_deploy_fraction,wb_avg_step,single_sector_fraction,is_single_sector_over_90pct
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base07.json,giant_barch,100,"[10, 11, 12, 13, 14, 15]",2.43,2.8155,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base07.json,barch,100,"[7, 9, 10, 11, 14, 15]",2.33,2.6071,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base07.json,goblin_giant,100,"[8, 9, 11, 12, 14, 15]",3.5,2.8689,1.0,21.8,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base07.json,mixed_wb,100,"[7, 10, 11, 13, 14, 15]",2.92,2.953,1.0,17.4,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base08.json,giant_barch,100,"[7, 9, 10, 11, 13, 14, 15]",3.01,3.1649,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base08.json,barch,100,"[7, 14, 15]",1.67,1.6954,0.0,-1.0,0.33,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base08.json,goblin_giant,100,"[7, 8, 9, 10, 11, 14, 15]",3.47,3.1517,1.0,15.9,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base08.json,mixed_wb,100,"[7, 9, 10, 11, 13, 14, 15]",3.06,3.0881,1.0,12.8,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base09.json,giant_barch,100,"[0, 7, 9, 10, 11, 12, 13, 14, 15]",3.53,3.1911,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base09.json,barch,100,"[7, 9, 14, 15]",2.0,1.9413,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base09.json,goblin_giant,100,"[7, 8, 9, 10, 11, 14, 15]",3.35,3.1306,1.0,15.8,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base09.json,mixed_wb,100,"[7, 9, 10, 11, 14, 15]",2.9,3.0555,1.0,13.4,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base10.json,giant_barch,100,"[0, 10, 11, 12, 13, 14, 15]",2.66,3.1034,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base10.json,barch,100,"[10, 11, 12, 13, 14, 15]",2.0,2.5759,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base10.json,goblin_giant,100,"[0, 8, 11, 12, 14, 15]",3.4,3.3607,1.0,32.1,0.0,False
+ppo_m7b_seed42.zip,2026-11-12 21:35:44,base10.json,mixed_wb,100,"[0, 10, 11, 12, 13, 14, 15]",3.33,3.252,1.0,27.0,0.0,False

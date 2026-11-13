@@ -40,3 +40,4 @@ for k, sim_t in sim_troops.items():
     print("  All Explorer Levels:")
     for r in sorted(exp_rows, key=lambda x: x["level"]):
         print(f"    Lvl {r['level']}: TH_req={r.get('thRequired')} ({r.get('buildingRequired')}), HP={r.get('hitpoints')}, DPS={r.get('dps')}")
+

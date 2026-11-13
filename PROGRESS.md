@@ -93,5 +93,22 @@
     * Even comparing at the **same level (Level 5)**, there are **real underlying stat disagreements** due to balance patches: Giant HP (900 vs 670, a 230-HP gap), Archer (40 HP / 20 DPS vs 44 HP / 22 DPS), Goblin (65 vs 52 HP), and Wall Breaker (43 vs 46 DPS), while Barbarian matches exactly (105 HP / 23 DPS).
   - (5) **Verification & Integrity:** Zero simulator changes, zero stat changes. `pytest -q` -> `20 passed in 21.21s`, `check_env` passed with zero errors.
 
-## Current Step: FINAL_REPORT.txt
-- **Next action:** Update `FINAL_REPORT.txt` with M7b evidence, commit in small steps, and push to `origin/main`.
+## Current Step: STAGE 1 (M7b Part A) -> COMPLETED. Proceeding to STAGE 2 (M5b).
+- **Stage 1 (M7b Part A) Status:** COMPLETED
+  - (1) Determinism & Seed Variance Check: Ran 100 seeded episodes across 16 held-out pairs (`base07`..`base10` x 4 armies) for all 5 agents. Non-zero variance confirmed across 10-14 of 16 pairs (invariants are 0% or 100% destruction).
+  - (2) Held-Out Evaluation (`results/m7b_partA.csv`):
+    * `maskable_ppo`: 31.78% dest [95% CI 19.51, 45.62], 0.57 stars [0.18, 1.04], 5.38% 3-star [0.00, 15.00]
+    * `left_wave`: 27.32% dest [95% CI 13.53, 43.27], 0.70 stars [0.25, 1.23], 6.25% 3-star [0.00, 18.75]
+    * `smart_funnel`: 22.82% dest [95% CI 11.29, 36.67], 0.41 stars [0.10, 0.81], 4.19% 3-star [0.00, 12.56]
+    * `surround`: 9.77% dest [95% CI 3.77, 17.82], 0.11 stars [0.00, 0.32], 0.00% 3-star
+    * `random_masked`: 8.69% dest [95% CI 3.78, 14.94], 0.03 stars [0.00, 0.09], 0.00% 3-star
+    * **PPO vs Best Baseline (`left_wave`):** Beats on destruction (+4.46 pp [95% CI +0.01, +9.10]); DOES NOT beat on stars (-0.128 stars [95% CI -0.309, +0.008]).
+  - (3) PPO Action Diagnostics (`results/ppo_action_diagnostics.csv`):
+    * Evaluated models: `models/ppo_m7b_seed42.zip..44.zip` (trained 2026-11-12).
+    * Single sector collapse (>90% army in one sector): 0 of 16 pairs. Single sector fraction is 0.0 across 15 pairs and 0.33 on 1 pair (`barch` on `base08`).
+    * Distinct sectors per episode: 2.00 to 3.53 sectors.
+    * Action entropy: 1.695 to 3.361 nats.
+    * Wall Breaker deployment fraction: 100% when available in army (`goblin_giant` and `mixed_wb`), at average step 12.8 to 32.1.
+  - (4) TH8 Level Check (`data/TH8_LEVEL_CHECK.md`): Verified from Fandom Laboratory & Town Hall tables that Giant, Barbarian, Archer, Goblin, and Wall Breaker are strictly Level 5 at TH8 (Laboratory Level 6). Stop Condition 2 is NOT triggered.
+  - (5) Integrity Checks: `pytest -q` -> 20 passed in 15.63s; `check_env` BOTH OK.
+- **Next action:** Commit Stage 1 deliverables, push to origin/main, then start STAGE 2 (M5b).
