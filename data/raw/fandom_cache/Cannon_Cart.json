@@ -1,0 +1,304 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Spring Weight": "16",
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground Only)",
+        "Movement Speed": "19",
+        "Attack Speed": "1.2s",
+        "Builder Barracks Level Required": "7",
+        "Range": "4.5 tiles",
+        "Number of Units per Army Camp": "1",
+        "Special Ability": "Change Mode"
+      }
+    ],
+    [
+      {
+        "Level": "7",
+        "Damage per Second": "115",
+        "Damage per Attack": "138",
+        "Hitpoints": "666",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "115",
+        "Damage per Attack": "138",
+        "Hitpoints": "666",
+        "Research Cost": "1,000,000",
+        "Research Time": "1d",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "130",
+        "Damage per Attack": "156",
+        "Hitpoints": "732",
+        "Research Cost": "1,100,000",
+        "Research Time": "1d 12h",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "130",
+        "Damage per Attack": "156",
+        "Hitpoints": "732",
+        "Research Cost": "1,200,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "150",
+        "Damage per Attack": "180",
+        "Hitpoints": "805",
+        "Research Cost": "1,400,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "150",
+        "Damage per Attack": "180",
+        "Hitpoints": "805",
+        "Research Cost": "1,600,000",
+        "Research Time": "2d 12h",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "170",
+        "Damage per Attack": "204",
+        "Hitpoints": "886",
+        "Research Cost": "2,400,000",
+        "Research Time": "3d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "170",
+        "Damage per Attack": "204",
+        "Hitpoints": "886",
+        "Research Cost": "2,600,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "190",
+        "Damage per Attack": "228",
+        "Hitpoints": "974",
+        "Research Cost": "3,400,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "190",
+        "Damage per Attack": "228",
+        "Hitpoints": "974",
+        "Research Cost": "3,600,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "215",
+        "Damage per Attack": "258",
+        "Hitpoints": "1,072",
+        "Research Cost": "4,100,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "215",
+        "Damage per Attack": "258",
+        "Hitpoints": "1,072",
+        "Research Cost": "4,300,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "240",
+        "Damage per Attack": "288",
+        "Hitpoints": "1,179",
+        "Research Cost": "5,300,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "240",
+        "Damage per Attack": "288",
+        "Hitpoints": "1,179",
+        "Research Cost": "5,700,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Spring Weight": "16",
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground Only) Splash - ? tiles",
+        "Movement Speed": "0",
+        "Attack Speed": "2.5s",
+        "Builder Barracks Level Required": "7",
+        "Range": "8.5 tiles",
+        "Number of Units per Army Camp": "1",
+        "Special Ability": "Change Mode"
+      }
+    ],
+    [
+      {
+        "Level": "7",
+        "Damage per Second": "60",
+        "Damage per Attack": "150",
+        "Hitpoints": "666",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "68",
+        "Damage per Attack": "170",
+        "Hitpoints": "666",
+        "Research Cost": "1,000,000",
+        "Research Time": "1d",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "68",
+        "Damage per Attack": "170",
+        "Hitpoints": "732",
+        "Research Cost": "1,100,000",
+        "Research Time": "1d 12h",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "78",
+        "Damage per Attack": "195",
+        "Hitpoints": "732",
+        "Research Cost": "1,200,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "78",
+        "Damage per Attack": "195",
+        "Hitpoints": "805",
+        "Research Cost": "1,400,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "90",
+        "Damage per Attack": "225",
+        "Hitpoints": "805",
+        "Research Cost": "1,600,000",
+        "Research Time": "2d 12h",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "90",
+        "Damage per Attack": "225",
+        "Hitpoints": "886",
+        "Research Cost": "2,400,000",
+        "Research Time": "3d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "102",
+        "Damage per Attack": "255",
+        "Hitpoints": "886",
+        "Research Cost": "2,600,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "102",
+        "Damage per Attack": "255",
+        "Hitpoints": "974",
+        "Research Cost": "3,400,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "114",
+        "Damage per Attack": "285",
+        "Hitpoints": "974",
+        "Research Cost": "3,600,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "114",
+        "Damage per Attack": "285",
+        "Hitpoints": "1,072",
+        "Research Cost": "4,100,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "130",
+        "Damage per Attack": "325",
+        "Hitpoints": "1,072",
+        "Research Cost": "4,300,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "130",
+        "Damage per Attack": "325",
+        "Hitpoints": "1,179",
+        "Research Cost": "5,300,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "144",
+        "Damage per Attack": "360",
+        "Hitpoints": "1,179",
+        "Research Cost": "5,700,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Next Generation Model": "Description"
+      },
+      {
+        "Next Generation Model": "Unlock Cannon Cart in the Builder Barracks"
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the Clan Capital counterpart, see Raid Cart . \"A cannon on wheels?! Wait, did it just turn into a mortar ?? Bet they won't see that coming! Both powerful and versatile!\" Cannon Mode Level 7-11 Level 12-15 Level 16-17 Level 18-20 Mortar Mode Level 7-11 Level 12-15 Level 16-17 Level 18-20 Contents 1 Summary 2 Strategies 2.1 Offensive Strategy 2.2 Defensive Strategy 3 Upgrade Differences 4 Statistics 5 Related Achievement 6 Gallery 7 Trivia 7.1 Comparisons Summary The Cannon Cart is the seventh Builder Base Troop . It is a ground troop that is a cannon on wheels. This troop is unlocked at Builder Barracks level 7, which requires Builder Hall level 5. Cannon Carts have no preferred target when attacking; they will simply attack the closest building to them. However, once they become aware of enemy Guard Post troops or Zappies (either by being attacked themselves or being near another friendly troop under attack), they will leave their previously targeted building and engage the enemy troops instead. Once all of the nearby enemy troops are defeated, they will proceed to attack the nearest building from their current location. The Cannon Cart has a Change Mode ability, which allows it to change between a mobile cannon cart (known as Cannon Mode ), which deals damage from a moderate range, and a stationary Mortar (known as Mortar Mode ). In Mortar Mode, the Cannon Cart will deal area damage at a longer range, but will fire more slowly and cannot move. The Cannon Cart's range in Mortar Mode is displayed by a green ring whenever it is in its base Cannon mode, indicating the area that the Mortar Mode can fire upon if it changes to Mortar Mode at that instant. The Cannon Cart in Mortar Mode will target anything it can hit in its range, except for Walls (it can still damage Wall if hitting a target near the Wall). If there are no such targets, a red question mark (\"?\") will appear above it, indicating it cannot attack. Strategies Offensive Strategy Try to place a tank, such as the Boxer Giant and the Battle Machine , to take shots for the Cannon Cart while the Cannon Cart wreaks havoc behind. The Cannon Cart has a high damage output but relatively low hitpoints, which makes them vulnerable to the Multi Mortar , so try and spread your tank from the Cannon Carts so splash damage cannot hit both of them. A good strategy is to use 2-3 Army Camps worth of Boxer Giants with the remainder being used for Cannon Carts. If the Battle Machine is available, you can use 2 Army Camps of Boxer Giants and 4 Army Camps of Cannon Carts. If it is upgrading, you can use 3 Army Camps of Boxer Giants and 3 Army Camps of Cannon Carts. The Cannon Cart can shoot over two-tile gaps between Walls and a building, which many players do to prevent Sneaky Archers from shooting over. The Cannon Cart can quickly destroy the Crusher and other key defensive buildings to make a path for Raged Barbarians and Boxer Giants, and possibly the Battle Machine. In Mortar Mode, the Cannon Cart is able to outrange many short-range defenses, such as the Double Cannon , Roaster , and Mega Tesla . This makes them excellent for clearing areas of a base defended only by such defenses. However, effective micro-management of the Cart is required to utilize this ability to its fullest potential, and due to the lower DPS of Mortar Mode, it can cause time fails. It is possible for the Mortar Mode to outrange the Cannon , though the positioning is extremely precise. This is most easily done when attacking from a corner, since the hitbox of the Cannon is farthest from the Cannon's center (from which its range extends out from) at its corners. Switching to Mortar Mode may be useful even if it is not being used to snipe a building. If it is obvious that the first stage of an attack will be cleared, keeping the Cannon Cart in Mortar mode can prevent it from destroying unimportant non-defensive buildings. Although it prevents the Cannon Cart from contributing to the attack, this is beneficial for two main reasons: The Cannon Cart will not move into any Traps , preventing further damage to it and ensuring it starts stage two with as much health as possible. Rechargeable abilities of the attacking Hero will be afforded more time to charge up; if the Hero is damaged, stalling the end of the stage will enable the Hero to use its ability at as high of a charge level as possible, maximizing its health regeneration for stage two. Defensive Strategy Keep Crushers away from areas where Cannon Carts may be deployed. Its long range will render the Crusher useless, thus allowing Boxer Giants , Raged Barbarians and the like to easily swarm a good portion of the base. It is best to ensure that the Cannon Cart is destroyed as quickly as possible in order to prevent it from potentially devastating the base. To do this, it is best to quickly destroy any troops that might be able to protect the Cannon Cart. Since the Cannon Cart is often paired with Boxer Giants, one could find Crushers and Spring Traps useful. A Double Cannon is a versatile substitute, being able to do lots of damage to tanks; it can also destroy a relative leveled Cannon Cart with a single burst. The Multi Mortar can deal damage to both Cannon Carts and their tanks with its splash damage. Try to protect it in the center of your base to maximize its effects, as it can destroy a Cannon Cart with two volleys of shots. The Lava Launcher can easily destroy Cannon Carts and troops that are tanking for them, as with the Multi Mortar. Try and place buildings around your base so it is harder to make a funnel. Since most Cannon Cart users have no expendable unit in their army, they have to expend at least two Cannon Carts to funnel the rest of the units in. A Hidden Tesla can catch Cannon Cart users off-guard; if an attacker intends to use Mortar Mode to snipe a large area of buildings, placing a Tesla near common deployment locations can enable the Tesla to ambush the Cannon Cart and severely limit its potential. Upgrade Differences Initially, the Cannon Cart is a Cannon mounted on a machine which has 4 wooden wheels, a platform, and 2 metal barrels that can be tilted upward by 2 supports, on which it then turns into a Mortar , with the inner barrel retracted, while its wheels go down to the ground to attack from a long range. When its barrel lowers, it reverts into Cannon Mode, the wheels return to its original position, and the inner barrel extends again. At level 12, its wheels gain a metal line that goes in the middle of the wheel. At level 16, the ropes on its large barrel are removed and are replaced with metal plating. At level 18, steel bars are added to the sides of the Cannon Cart's platform. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Cannon Mode Spring Weight Preferred Target Attack Type Movement Speed Attack Speed Builder Barracks Level Required Range Number of Units per Army Camp Special Ability 16 None Ranged (Ground Only) 19 1.2s 7 4.5 tiles 1 Change Mode Level Damage per Second Damage per Attack Hitpoints Research Cost Research Time Star Laboratory Level Required 7 115 138 666 N/A N/A N/A 8 115 138 666 1,000,000 1d 5 9 130 156 732 1,100,000 1d 12h 5 10 130 156 732 1,200,000 2d 5 11 150 180 805 1,400,000 2d 6 12 150 180 805 1,600,000 2d 12h 6 13 170 204 886 2,400,000 3d 12h 7 14 170 204 886 2,600,000 4d 12h 7 15 190 228 974 3,400,000 5d 12h 8 16 190 228 974 3,600,000 5d 12h 8 17 215 258 1,072 4,100,000 6d 9 18 215 258 1,072 4,300,000 6d 9 19 240 288 1,179 5,300,000 6d 12h 10 20 240 288 1,179 5,700,000 6d 12h 10 Mortar Mode Spring Weight Preferred Target Attack Type Movement Speed Attack Speed Builder Barracks Level Required Range Number of Units per Army Camp Special Ability 16 None Ranged (Ground Only) Splash - ? tiles 0 2.5s 7 8.5 tiles 1 Change Mode Level Damage per Second Damage per Attack Hitpoints Research Cost Research Time Star Laboratory Level Required 7 60 150 666 N/A N/A N/A 8 68 170 666 1,000,000 1d 5 9 68 170 732 1,100,000 1d 12h 5 10 78 195 732 1,200,000 2d 5 11 78 195 805 1,400,000 2d 6 12 90 225 805 1,600,000 2d 12h 6 13 90 225 886 2,400,000 3d 12h 7 14 102 255 886 2,600,000 4d 12h 7 15 102 255 974 3,400,000 5d 12h 8 16 114 285 974 3,600,000 5d 12h 8 17 114 285 1,072 4,100,000 6d 9 18 130 325 1,072 4,300,000 6d 9 19 130 325 1,179 5,300,000 6d 12h 10 20 144 360 1,179 5,700,000 6d 12h 10 Related Achievement Next Generation Model Description Rewards Rewards Unlock Cannon Cart in the Builder Barracks 200 30 Gallery Default mode Mortar mode Trivia In the August 25, 2018 Balance Update , the movement speed was increased by 33% (from 12 to 16), the first shot is fired after 0.4 seconds (speed increased from 1.2 seconds) and the range of Cannon Cart's Last Stand ability was increased by 1 tile. The Cannon Cart appears with a stirrup in its picture, but does not appear with one in battle. Surprisingly, the Cannon Cart still creates a gravestone when destroyed, even though it is a machine and not something that can die. The first part of the Cannon Cart's description was taken by the Cannon Cart in Clash Royale , where it says \" A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels. \" In Clash Royale , the Star Level 3 Cannon Cart skin grants it the Golden Dragon's head, a defending troop that appears in Dragon's Lair . Comparisons The Cannon Cart, along with the Bomber and Night Witch are the only Builder Base Troops to appear in Clash Royale. The Cannon Cart and the Inferno Dragon are the only Troops that are based on a defense ( Cannon for Cannon Cart and Inferno Tower for Inferno Dragon). The Cannon Cart is one of the 13 units to appear in a Scenery, the others being the Barbarian , Goblin , Balloon , Hog Rider , Barbarian King , P.E.K.K.A , Baby Dragon , Skeleton , Archer Queen , Grand Warden , Dragon Rider , and Party Wizard . In its case, it appears in the Pirate Scenery. The Cannon Cart is currently the only Builder Base troop that is not based on one of the troops in the Home Village. The Cannon Cart, along with the Sneaky Archer and Super P.E.K.K.A are the only Builder Base Troops to have achievements. Since the Builder Base 2.0. update, the Cannon Cart has the longest range of all the Builder Base troops, having a range of about 9 tiles. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

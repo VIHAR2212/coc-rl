@@ -1,0 +1,169 @@
+{
+  "tables": [
+    [
+      [
+        "Level",
+        "Damage per hit",
+        "Damage when destroyed",
+        "",
+        "",
+        "",
+        "",
+        "Laboratory"
+      ],
+      [
+        "1",
+        "6",
+        "6[ 1.5 Tiles ]",
+        "20",
+        "None",
+        "None",
+        "0",
+        "None"
+      ],
+      [
+        "2",
+        "10",
+        "9[ 1.5 Tiles ]",
+        "24",
+        "100,000",
+        "6 h",
+        "146",
+        "2"
+      ],
+      [
+        "3",
+        "15",
+        "13[ 1.5 Tiles ]",
+        "29",
+        "250,000",
+        "9 h",
+        "180",
+        "4"
+      ],
+      [
+        "4",
+        "20",
+        "16[ 1.5 Tiles ]",
+        "35",
+        "600,000",
+        "14 h",
+        "224",
+        "5"
+      ],
+      [
+        "5",
+        "43",
+        "23[ 1.5 Tiles ]",
+        "53",
+        "1,200,000",
+        "18 h",
+        "254",
+        "6"
+      ],
+      [
+        "6",
+        "55",
+        "30[ 1.5 Tiles ]",
+        "72",
+        "2,500,000",
+        "1 d 6 h",
+        "328",
+        "8"
+      ],
+      [
+        "7",
+        "66",
+        "36[ 1.5 Tiles ]",
+        "82",
+        "3,400,000",
+        "2 d",
+        "415",
+        "9"
+      ],
+      [
+        "8",
+        "75",
+        "42[ 1.5 Tiles ]",
+        "92",
+        "4,500,000",
+        "3 d",
+        "509",
+        "10"
+      ],
+      [
+        "9",
+        "86",
+        "48[ 1.5 Tiles ]",
+        "112",
+        "6,000,000",
+        "4 d 12 h",
+        "623",
+        "11"
+      ],
+      [
+        "10",
+        "94",
+        "54[ 1.5 Tiles ]",
+        "130",
+        "6,500,000",
+        "7 d",
+        "777",
+        "12"
+      ],
+      [
+        "11",
+        "102",
+        "60[ 1.5 Tiles ]",
+        "140",
+        "13,000,000",
+        "8 d",
+        "831",
+        "13"
+      ],
+      [
+        "12",
+        "110",
+        "66[ 1.5 Tiles ]",
+        "150",
+        "16,000,000",
+        "10 d 12 h",
+        "952",
+        "14"
+      ],
+      [
+        "13",
+        "118",
+        "72[ 1.5 Tiles ]",
+        "160",
+        "20,000,000",
+        "14 d",
+        "1099",
+        "15"
+      ]
+    ],
+    [
+      [
+        "Upgrade",
+        "",
+        "Range",
+        "",
+        "",
+        "",
+        "",
+        "Favorite target"
+      ],
+      [
+        "Super Wall Breaker",
+        "15 s",
+        "0.5 Tiles",
+        "2",
+        "1 s",
+        "Area Splash",
+        "Ground",
+        "Wall(Damage x40)"
+      ]
+    ]
+  ],
+  "raw_text": "Wall Breaker - Clash of Clans Guide CoC Season Challenges Clan Games Defenses Resources Army Traps Other Heroes Troops Spells Obstacles العربية 简体中文 繁體中文 Deutsch English Español فارسی Suomalainen Français Bahasa Indonesia Italiano 日本語 한국어 Bahasa Melayu Nederlands Norsk Português Русский Türkçe, Tiếng Việt Cost Discount: 0% 10% 15% 20% Wall Breaker Level 5 Barracks Required Nothing warms a Wall Breaker's cold and undead heart like blowing up Walls. A squad of them will make way for your ground units, and they will do it with a BANG! Any values listed below are subject to change before update releases. Level Damage per hit Damage when destroyed Laboratory 1 6 6 [ 1.5 Tiles ] 20 None None 0 None 2 10 9 [ 1.5 Tiles ] 24 100,000 6 h 146 2 3 15 13 [ 1.5 Tiles ] 29 250,000 9 h 180 4 4 20 16 [ 1.5 Tiles ] 35 600,000 14 h 224 5 5 43 23 [ 1.5 Tiles ] 53 1,200,000 18 h 254 6 6 55 30 [ 1.5 Tiles ] 72 2,500,000 1 d 6 h 328 8 7 66 36 [ 1.5 Tiles ] 82 3,400,000 2 d 415 9 8 75 42 [ 1.5 Tiles ] 92 4,500,000 3 d 509 10 9 86 48 [ 1.5 Tiles ] 112 6,000,000 4 d 12 h 623 11 10 94 54 [ 1.5 Tiles ] 130 6,500,000 7 d 777 12 11 102 60 [ 1.5 Tiles ] 140 13,000,000 8 d 831 13 12 110 66 [ 1.5 Tiles ] 150 16,000,000 10 d 12 h 952 14 13 118 72 [ 1.5 Tiles ] 160 20,000,000 14 d 1099 15 Upgrade Range Favorite target Super Wall Breaker 15 s 0.5 Tiles 2 1 s Area Splash Ground Wall (Damage x40) This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. Enter creator code: spAnser"
+}

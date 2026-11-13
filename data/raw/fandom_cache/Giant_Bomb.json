@@ -1,0 +1,305 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "1",
+        "7": "2",
+        "8": "3",
+        "9": "4"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "5",
+        "2": "5",
+        "3": "6",
+        "4": "6",
+        "5": "7",
+        "6": "7",
+        "7": "7",
+        "8": "8",
+        "9": "8"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage": "175",
+        "Damage Radius": "3 tiles",
+        "Cost": "12,500",
+        "Build Time": "N/A",
+        "Experience Gained": "N/A",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "2",
+        "Damage": "200",
+        "Damage Radius": "3.5 tiles",
+        "Cost": "75,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "3",
+        "Damage": "225",
+        "Damage Radius": "3.5 tiles",
+        "Cost": "220,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "4",
+        "Damage": "250",
+        "Damage Radius": "4 tiles",
+        "Cost": "750,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "5",
+        "Damage": "275",
+        "Damage Radius": "4 tiles",
+        "Cost": "900,000",
+        "Build Time": "10h",
+        "Experience Gained": "189",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage": "325",
+        "Damage Radius": "4 tiles",
+        "Cost": "1,300,000",
+        "Build Time": "11h",
+        "Experience Gained": "198",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "7",
+        "Damage": "375",
+        "Damage Radius": "4 tiles",
+        "Cost": "1,500,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "8",
+        "Damage": "400",
+        "Damage Radius": "4 tiles",
+        "Cost": "2,000,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "9",
+        "Damage": "425",
+        "Damage Radius": "4 tiles",
+        "Cost": "3,200,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "10",
+        "Damage": "450",
+        "Damage Radius": "4 tiles",
+        "Cost": "5,500,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "11",
+        "Damage": "475",
+        "Damage Radius": "4 tiles",
+        "Cost": "10,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "12",
+        "Damage": "490",
+        "Damage Radius": "4.2 tiles",
+        "Cost": "17,000,000",
+        "Build Time": "10d 12h",
+        "Experience Gained": "952",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Trigger Radius": "2 tiles",
+        "Damage Type": "Area Splash",
+        "Unit Type Targeted": "Ground",
+        "Favorite Target": "None"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon begins upgrading the Giant Bomb to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Giant Bomb is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon instantly upgrades the Giant Bomb to the next level, at the cost of one Hammer of Building if you have one. When the Giant Bomb is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Description": "Introduction of the Giant Bomb, with no levels and 3 of them to build."
+      },
+      {
+        "Date": "August 30, 2012",
+        "Description": "The Giant Bomb is now visible when visiting own clan members. This also affected other traps."
+      },
+      {
+        "Date": "September 19, 2012",
+        "Description": "Improved the Giant Bomb's lit fuse visual effect."
+      },
+      {
+        "Date": "October 15, 2012",
+        "Description": "Giant Bombs and other traps are no longer visible during a defense replay."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "The Giant Bomb now shows its trigger radius by simply tapping it."
+      },
+      {
+        "Date": "November 6, 2013",
+        "Description": "Giant Bombs now remain in the village after being triggered, but imposing a re-arm cost in doing so, and removing the ability to sell untriggered Giant Bombs. Added three more levels to the Giant Bomb, for a total of four. The level 1 Giant Bomb is now much cheaper, though with a slightly decreased damage radius that can be upgraded. Giant Bombs explode faster after being triggered."
+      },
+      {
+        "Date": "July 3, 2014",
+        "Description": "Allowed the Giant Bomb to do 1.5x normal damage to Hog Riders ."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Removed the ability from the Giant Bomb to do 1.5x the damage to Hog Riders."
+      },
+      {
+        "Date": "March 5, 2018",
+        "Description": "Added the level 5 Giant Bomb."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the sixth Giant Bomb at Town Hall 12."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Removed re-arm costs for the Giant Bomb entirely (as with all traps and reloadable defenses), and is instead automatically re-armed after logging into the game."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the level 6 Giant Bomb."
+      },
+      {
+        "Date": "December 7, 2020",
+        "Description": "Added the level 7 Giant Bomb."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added the seventh Giant Bomb at Town Hall 14."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Description": "Added the level 8 Giant Bomb."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the level 9 Giant Bomb."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 10 Giant Bomb. Reduced upgrade times and costs at levels 1 to 9."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the eighth Giant Bomb at Town Hall 17. Added the level 11 Giant Bomb. Reduced upgrade times at levels 3 to 10 (except 8): Level 3: 12h -> 6h Level 4: 18h -> 12h Level 5: 1d -> 18h Level 6: 2d -> 1d Level 7: 3d 12h -> 3d Level 9: 5d -> 4d Level 10: 12d -> 8d Reduced upgrade costs at levels 8 to 10: Level 8: 6,000,000 -> 4,000,000 Level 9: 8,500,000 -> 5,000,000 Level 10: 12,000,000 -> 9,000,000"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced upgrade time at level 7 from 2d to 12h. Reduced upgrade cost at level 7 from 3,500,000 to 2,000,000."
+      },
+      {
+        "Date": "March 25, 2025",
+        "Description": "Reduced upgrade times at levels 2 to 10 (except lvl 7): Level 2: 3h -> 1h Level 3: 6h -> 3h Level 4: 12h -> 8h Level 5: 18h -> 10h Level 6: 1d -> 11h Level 8: 3d -> 2d Level 9: 4d -> 3d Level 10: 8d -> 4d Reduced upgrade costs at levels 3 to 10: Level 3: 480,00 -> 220,000 Level 4: 1,500,000 -> 750,000 Level 5: 2,000,000 -> 900,000 Level 6: 2,500,000 -> 1,300,000 Level 7: 2,000,000 -> 1,500,000 Level 8: 4,000,000 -> 2,500,000 Level 9: 5,000,000 -> 4,000,000 Level 10: 9,000,000 -> 5,500,000"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade time at level 11 from 9d to 5d. Reduced upgrade cost at level 11 from 12,000,000 to 10,000,000."
+      },
+      {
+        "Date": "April 27, 2026",
+        "Description": "Added the level 12 Giant Bomb."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the smaller analogue, see Bomb . For the bigger analogue, see Giga Bomb . For a similar trap in Builder Base and Clan Capital , see Mega Mine . \"When you're looking for a Big Boom, you need the Giant Bomb.\" Level 1-2 Level 3-4 Level 5-6 Level 7-8 Level 9-10 Level 11-12 Summary The Giant Bomb is unlocked at Town Hall level 6. Like the Bomb , the Giant Bomb explodes when an enemy comes into proximity. It is essentially a much more powerful (and expensive) version of the Bomb. This deals splash damage to all enemies within a 3 to 4 tile radius, depending on the Giant Bomb's level. Once activated, the Giant Bomb must be re-armed in order to be a part of the next defense. Doing so is free and occurs automatically once the player logs into the game. Giant Bombs can do serious damage to moderate-health troops, such as low-level Giants or Hog Riders and usually instantly kill low-health troops such as Barbarians , Archers , Goblins , and Wizards . Giant Bombs has a knockback effect like Bombs that can affect any ground troops with three or less housing space. The more housing space they have, the less they get knocked back. However, this is often unnoticeable besides two circumstances: either a high-leveled smaller troop such as a Barbarian survives a low-leveled Giant Bomb, or if they are protected by the Eternal Tome ability. Strategies Defensive Strategies If you love using Giant Bombs and you want to get a good amount of troops with it, place it where you commonly see a large amount of troops deployed when you are being attacked. A Giant Bomb takes up the same amount of space (2×2) as a Hidden Tesla . If you have multiple places where your Hidden Teslas could spawn, placing Giant Bombs in the others can be an effective strategy. Your enemy may decide that the area is safe once they do not trigger a Hidden Tesla, then spawn additional troops, which will all be blown up by the Giant Bomb. Be cautious when upgrading the Giant Bomb, as this will reveal its location to future attackers. Combat this by relocating it during the upgrade period. As with any other Trap , Giant Bombs cannot be triggered during an upgrade. Some players place their Giant Bombs on the outside of their bases, to ensure that troops will trigger them early, helping to prevent 50% destruction. The best place to put outside Giant Bombs is behind external buildings, but in front of external Walls . This ensures that troops will get grouped up while destroying the external building, after which the bomb triggers, destroying many troops at once. Other players prefer to place the Giant Bomb further into their bases to act as a trap for Hog Rider and Giant groups. Placing them between two Defensive Buildings ensures that the Giants and Hog Riders will be closely grouped before triggering the bomb. This strategy can also be used to counter the Invisibility Spell , Clone Spell , and Super Archers or Super Wizards combo that may come out from Battle Blimp , with the help of other Traps like Bombs. Offensive Strategies Try to trigger them with a single expendable troop such as a Barbarian (or a Goblin if it is near resource buildings) if you can; drop them one by one near 2×2 spaces in an attempt to trigger them as to prevent further losses in your army. Use a Healing Spell to heal your remaining troops, especially if you are a lower level using Giant attacking strategy after they trigger a Giant Bomb. When you see a Giant Bomb about to explode, do not deploy more troops near it as they will explode too, because the Giant Bomb has a time between when it explodes. Try using a Hero or a troop with lots of hitpoints such as a P.E.K.K.A or Golem to trigger the Giant Bomb as they will not take much damage compared to their overall health. Do not use the Barbarian Puppet , Archer Puppet , or Hog Rider Puppet abilities when they trigger a Giant Bomb, as they will blow up the summoned troops. Likewise, it is best to avoid doing the same when approaching a suspicious empty space, lest a Giant Bomb appears. Upgrade Differences When initially constructed, the Giant Bomb consists of a single big Bomb tied together to three barrels of gunpowder with a single round of rope. At level 3, five sticks of dynamite are placed between the bomb and barrels of gunpowder. At level 5, the big bomb gets golden rings and spikes to resemble a level 7 Bomb, the dynamites get slightly larger, and the barrels of gunpowder also gain golden rings with spikes. At level 7, the small barrel at the bottom gets replaced with a large bomb looking identical to the one at the top of the set, but slightly smaller. The front dynamites have been slightly shifted. At level 9, the entire layout of the bomb is shifted. There are now 4 barrels of gunpowder and 4 significantly larger dynamite sticks. The large bomb's top ring is now thicker with 4 spikes across it, and its middle ring now has 8 spikes. As for the layout, the large bomb is now in the center, and the barrels of gunpowder are in the corners of the layout, with the dynamite in the middle of the barrels. At level 11, the entire appearance changes. The dynamites are now slightly shifted to the right side, are redder in color, and are smaller while being tied by black wires. Two of the four barrels are replaced with much larger red dynamites with a skull symbol each, while the other two change their positions, grow bigger and resemble a 3D model. The large bomb itself is reinforced with iron rings with brass spikes and lining, and has a pentagonal opening where the fuse sticks out. The ropes have been changed to black wires which hold the large dynamites in place. Statistics Gold Pass modifiers Input Gold Pass boosts to modify the statistics in the tables below accordingly Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 1 2 3 4 10 11 12 13 14 15 16 17 18 5 5 6 6 7 7 7 8 8 Size 2x2 Level Damage Damage Radius Cost Build Time Experience Gained Town Hall Level Required 1 175 3 tiles 12,500 N/A N/A 6 2 200 3.5 tiles 75,000 1h 60 6 3 225 3.5 tiles 220,000 3h 103 8 4 250 4 tiles 750,000 4h 120 10 5 275 4 tiles 900,000 10h 189 11 6 325 4 tiles 1,300,000 11h 198 13 7 375 4 tiles 1,500,000 12h 207 13 8 400 4 tiles 2,000,000 1d 293 14 9 425 4 tiles 3,200,000 2d 415 15 10 450 4 tiles 5,500,000 2d 12h 464 16 11 475 4 tiles 10,000,000 4d 587 17 12 490 4.2 tiles 17,000,000 10d 12h 952 18 Trigger Radius Damage Type Unit Type Targeted Favorite Target 2 tiles Area Splash Ground None Unarmed Giant Bombs Level 1-2 Level 3-4 Level 5-6 Level 7-8 Level 9-10 Level 11-12 Icon Descriptions Tapping this icon displays information about the Giant Bomb, such as Level, Damage Type and Targets. Tapping this icon begins upgrading the Giant Bomb to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Giant Bomb is at maximum level, this icon is not shown. Tapping this icon instantly upgrades the Giant Bomb to the next level, at the cost of one Hammer of Building if you have one. When the Giant Bomb is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. History Date Description August 2, 2012 Introduction of the Giant Bomb, with no levels and 3 of them to build. August 30, 2012 The Giant Bomb is now visible when visiting own clan members. This also affected other traps. September 19, 2012 Improved the Giant Bomb's lit fuse visual effect. October 15, 2012 Giant Bombs and other traps are no longer visible during a defense replay. February 5, 2013 The Giant Bomb now shows its trigger radius by simply tapping it. November 6, 2013 Giant Bombs now remain in the village after being triggered, but imposing a re-arm cost in doing so, and removing the ability to sell untriggered Giant Bombs. Added three more levels to the Giant Bomb, for a total of four. The level 1 Giant Bomb is now much cheaper, though with a slightly decreased damage radius that can be upgraded. Giant Bombs explode faster after being triggered. July 3, 2014 Allowed the Giant Bomb to do 1.5x normal damage to Hog Riders . October 12, 2016 Removed the ability from the Giant Bomb to do 1.5x the damage to Hog Riders. March 5, 2018 Added the level 5 Giant Bomb. June 11, 2018 Added the sixth Giant Bomb at Town Hall 12. April 2, 2019 Removed re-arm costs for the Giant Bomb entirely (as with all traps and reloadable defenses), and is instead automatically re-armed after logging into the game. December 9, 2019 Added the level 6 Giant Bomb. December 7, 2020 Added the level 7 Giant Bomb. April 12, 2021 Added the seventh Giant Bomb at Town Hall 14. June 15, 2021 Added the level 8 Giant Bomb. June 12, 2023 Added the level 9 Giant Bomb. December 12, 2023 Added the level 10 Giant Bomb. Reduced upgrade times and costs at levels 1 to 9. November 25, 2024 Added the eighth Giant Bomb at Town Hall 17. Added the level 11 Giant Bomb. Reduced upgrade times at levels 3 to 10 (except 8): Level 3: 12h -> 6h Level 4: 18h -> 12h Level 5: 1d -> 18h Level 6: 2d -> 1d Level 7: 3d 12h -> 3d Level 9: 5d -> 4d Level 10: 12d -> 8d Reduced upgrade costs at levels 8 to 10: Level 8: 6,000,000 -> 4,000,000 Level 9: 8,500,000 -> 5,000,000 Level 10: 12,000,000 -> 9,000,000 February 10, 2025 Reduced upgrade time at level 7 from 2d to 12h. Reduced upgrade cost at level 7 from 3,500,000 to 2,000,000. March 25, 2025 Reduced upgrade times at levels 2 to 10 (except lvl 7): Level 2: 3h -> 1h Level 3: 6h -> 3h Level 4: 12h -> 8h Level 5: 18h -> 10h Level 6: 1d -> 11h Level 8: 3d -> 2d Level 9: 4d -> 3d Level 10: 8d -> 4d Reduced upgrade costs at levels 3 to 10: Level 3: 480,00 -> 220,000 Level 4: 1,500,000 -> 750,000 Level 5: 2,000,000 -> 900,000 Level 6: 2,500,000 -> 1,300,000 Level 7: 2,000,000 -> 1,500,000 Level 8: 4,000,000 -> 2,500,000 Level 9: 5,000,000 -> 4,000,000 Level 10: 9,000,000 -> 5,500,000 November 17, 2025 Reduced upgrade time at level 11 from 9d to 5d. Reduced upgrade cost at level 11 from 12,000,000 to 10,000,000. April 27, 2026 Added the level 12 Giant Bomb. Gallery Short Animations Trivia General When the Giant Bomb explodes, it leaves a black scorched mark in the grass, similar to the Bomb . However, the scorch mark lasts for about 1 minute and 40 seconds, compared to that of the Bomb, which lasts only a few seconds. The level 2 and 4 upgrades increase its explosion radius, but do not change its visual appearance. In contrast, the level 3 and 5 upgrades change its visual appearance but do not increase its explosion radius. At level 11, when unarmed, its wooden barrels do not open, despite they still have gunpowder inside. Comparisons The Giant Bomb, Bomb , and Spring Trap are the oldest traps in the game. The Giant Bomb and the Giga Bomb have the largest trap size in the Home Village, with both occupying a 2x2 area. The Giant Bomb and the Bomb under the Bomb Tower have similar components, and do similar area damage as well. Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

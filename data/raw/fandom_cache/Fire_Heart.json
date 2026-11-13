@@ -1,0 +1,208 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Dragon Duke",
+        "Ability Type": "Passive",
+        "Rarity": "Common",
+        "Unlock Requirement": "Available by default"
+      }
+    ],
+    [
+      {
+        "Level": "Self Healing Per Second",
+        "Damage on Defeat": "Hitpoint Increase",
+        "Hero Boosts": "Shiny Ore",
+        "Upgrade Cost": "Glowy Ore"
+      },
+      {
+        "Level": "1",
+        "Damage on Defeat": "1,000",
+        "Hero Boosts": "50",
+        "Upgrade Cost": "830",
+        "Blacksmith Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage on Defeat": "1,000",
+        "Hero Boosts": "50",
+        "Upgrade Cost": "1,100",
+        "Blacksmith Level Required": "120"
+      },
+      {
+        "Level": "3",
+        "Damage on Defeat": "1,350",
+        "Hero Boosts": "70",
+        "Upgrade Cost": "1,350",
+        "Blacksmith Level Required": "240"
+      },
+      {
+        "Level": "4",
+        "Damage on Defeat": "1,350",
+        "Hero Boosts": "70",
+        "Upgrade Cost": "1,600",
+        "Blacksmith Level Required": "400"
+      },
+      {
+        "Level": "5",
+        "Damage on Defeat": "1,350",
+        "Hero Boosts": "70",
+        "Upgrade Cost": "1,850",
+        "Blacksmith Level Required": "600"
+      },
+      {
+        "Level": "6",
+        "Damage on Defeat": "1,700",
+        "Hero Boosts": "90",
+        "Upgrade Cost": "2,100",
+        "Blacksmith Level Required": "840"
+      },
+      {
+        "Level": "7",
+        "Damage on Defeat": "1,700",
+        "Hero Boosts": "90",
+        "Upgrade Cost": "2,400",
+        "Blacksmith Level Required": "1,120"
+      },
+      {
+        "Level": "8",
+        "Damage on Defeat": "1,700",
+        "Hero Boosts": "90",
+        "Upgrade Cost": "2,600",
+        "Blacksmith Level Required": "1,440"
+      },
+      {
+        "Level": "9",
+        "Damage on Defeat": "2,000",
+        "Hero Boosts": "110",
+        "Upgrade Cost": "2,900",
+        "Blacksmith Level Required": "1,800"
+      },
+      {
+        "Level": "10",
+        "Damage on Defeat": "2,000",
+        "Hero Boosts": "110",
+        "Upgrade Cost": "3,150",
+        "Blacksmith Level Required": "1,900"
+      },
+      {
+        "Level": "11",
+        "Damage on Defeat": "2,000",
+        "Hero Boosts": "110",
+        "Upgrade Cost": "3,400",
+        "Blacksmith Level Required": "2,000"
+      },
+      {
+        "Level": "12",
+        "Damage on Defeat": "2,350",
+        "Hero Boosts": "120",
+        "Upgrade Cost": "3,700",
+        "Blacksmith Level Required": "2,100"
+      },
+      {
+        "Level": "13",
+        "Damage on Defeat": "2,350",
+        "Hero Boosts": "120",
+        "Upgrade Cost": "3,900",
+        "Blacksmith Level Required": "2,200"
+      },
+      {
+        "Level": "14",
+        "Damage on Defeat": "2,350",
+        "Hero Boosts": "120",
+        "Upgrade Cost": "4,200",
+        "Blacksmith Level Required": "2,300"
+      },
+      {
+        "Level": "15",
+        "Damage on Defeat": "2,700",
+        "Hero Boosts": "130",
+        "Upgrade Cost": "4,400",
+        "Blacksmith Level Required": "2,400"
+      },
+      {
+        "Level": "16",
+        "Damage on Defeat": "2,700",
+        "Hero Boosts": "130",
+        "Upgrade Cost": "4,700",
+        "Blacksmith Level Required": "2,500"
+      },
+      {
+        "Level": "17",
+        "Damage on Defeat": "2,700",
+        "Hero Boosts": "130",
+        "Upgrade Cost": "5,000",
+        "Blacksmith Level Required": "2,600"
+      },
+      {
+        "Level": "18",
+        "Damage on Defeat": "3,000",
+        "Hero Boosts": "140",
+        "Upgrade Cost": "5,150",
+        "Blacksmith Level Required": "2,700"
+      }
+    ],
+    [
+      {
+        "Damage Radius": "4 tiles"
+      }
+    ],
+    [
+      {
+        "Date": "February 22, 2026",
+        "Description": "Announce the Dragon Duke, with the Fire Heart shown."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the Fire Heart, unavailable to be obtained as the Dragon Duke is imprisoned."
+      },
+      {
+        "Date": "February 27, 2026",
+        "Description": "Explained how the Fire Heart works."
+      },
+      {
+        "Date": "May 26, 2026",
+        "Description": "Decreased self healing per second at levels 15 to 18: Level 15-17: 155 -> 140 Level 18: 175 -> 150 Decreased damage per second at levels 2 to 18: Level 2: 12 -> 10 Level 3: 14 -> 12 Level 4: 16 -> 12 Level 5: 18 -> 12 Level 6: 20 -> 14 Level 7: 22 -> 14 Level 8: 24 -> 14 Level 9: 26 -> 16 Level 10: 28 -> 16 Level 11: 30 -> 16 Level 12: 32 -> 18 Level 13: 34 -> 18 Level 14: 36 -> 18 Level 15: 38 -> 20 Level 16: 40 -> 20 Level 17: 42 -> 20 Level 18: 45 -> 23"
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Decreased self healing per second at levels 12 to 18: Level 12-14: 130 -> 120 Level 15-17: 140 -> 130 Level 18: 150 -> 140 Decreased health increase at all levels: Level 1: 900 -> 830 Level 2: 1,200 -> 1,100 Level 3: 1,450 -> 1,350 Level 4: 1,750 -> 1,600 Level 5: 2,000 -> 1,850 Level 6: 2,300 -> 2,100 Level 7: 2,600 -> 2,400 Level 8: 2,850 -> 2,600 Level 9: 3,150 -> 2,900 Level 10: 3,400 -> 3,150 Level 11: 3,700 -> 3,400 Level 12: 4,000 -> 3,700 Level 13: 4,250 -> 3,900 Level 14: 4,550 -> 4,200 Level 15: 4,800 -> 4,400 Level 16: 5,100 -> 4,700 Level 17: 5,450 -> 5,000 Level 18: 5,600 -> 5,150 Removed passive damage increase from Fire Heart."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Fire_Heart_heal.ogg",
+        "Captions": "Dragon Duke heals",
+        "Description": "Plays in loop while Dragon Duke is in battle"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Slowly regenerates health and bursts into damaging Flames when Dragon Duke falls\" Contents 1 Summary 2 Strategies 3 Statistics 4 History 5 Audio 6 Trivia Summary [ ] The Fire Heart is a piece of Common Hero Equipment for the Dragon Duke . It is one of two pieces of Hero Equipment that the Dragon Duke starts with, the other being the Flame Blower . The Fire Heart appears as a heart with claw-like spikes poking out on the left behind the right, and a hole on the right with fire spilling out. When equipped, it grants a large amount of health regeneration and a death explosion to the Dragon Duke. The death explosion can only trigger once, for the first time the Dragon Duke falls. If he is revived later, his subsequent defeats will not cause an explosion. In addition, the Fire Heart grants additional hitpoints to the Dragon Duke. Strategies [ ] Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Dragon Duke Passive Common Available by default Level Damage on Defeat Hero Boosts Upgrade Cost Blacksmith Level Required Self Healing Per Second Hitpoint Increase Shiny Ore Glowy Ore 1 1,000 50 830 N/A N/A N/A 2 1,000 50 1,100 120 - 1 3 1,350 70 1,350 240 20 1 4 1,350 70 1,600 400 - 1 5 1,350 70 1,850 600 - 1 6 1,700 90 2,100 840 100 1 7 1,700 90 2,400 1,120 - 1 8 1,700 90 2,600 1,440 - 1 9 2,000 110 2,900 1,800 200 1 10 2,000 110 3,150 1,900 - 3 11 2,000 110 3,400 2,000 - 3 12 2,350 120 3,700 2,100 400 3 13 2,350 120 3,900 2,200 - 5 14 2,350 120 4,200 2,300 - 5 15 2,700 130 4,400 2,400 600 5 16 2,700 130 4,700 2,500 - 7 17 2,700 130 5,000 2,600 - 7 18 3,000 140 5,150 2,700 600 7 Damage Radius 4 tiles History [ ] Date Description February 22, 2026 Announce the Dragon Duke, with the Fire Heart shown. February 23, 2026 Added the Fire Heart, unavailable to be obtained as the Dragon Duke is imprisoned. February 27, 2026 Explained how the Fire Heart works. May 26, 2026 Decreased self healing per second at levels 15 to 18: Level 15-17: 155 -> 140 Level 18: 175 -> 150 Decreased damage per second at levels 2 to 18: Level 2: 12 -> 10 Level 3: 14 -> 12 Level 4: 16 -> 12 Level 5: 18 -> 12 Level 6: 20 -> 14 Level 7: 22 -> 14 Level 8: 24 -> 14 Level 9: 26 -> 16 Level 10: 28 -> 16 Level 11: 30 -> 16 Level 12: 32 -> 18 Level 13: 34 -> 18 Level 14: 36 -> 18 Level 15: 38 -> 20 Level 16: 40 -> 20 Level 17: 42 -> 20 Level 18: 45 -> 23 October 20, 2026 Decreased self healing per second at levels 12 to 18: Level 12-14: 130 -> 120 Level 15-17: 140 -> 130 Level 18: 150 -> 140 Decreased health increase at all levels: Level 1: 900 -> 830 Level 2: 1,200 -> 1,100 Level 3: 1,450 -> 1,350 Level 4: 1,750 -> 1,600 Level 5: 2,000 -> 1,850 Level 6: 2,300 -> 2,100 Level 7: 2,600 -> 2,400 Level 8: 2,850 -> 2,600 Level 9: 3,150 -> 2,900 Level 10: 3,400 -> 3,150 Level 11: 3,700 -> 3,400 Level 12: 4,000 -> 3,700 Level 13: 4,250 -> 3,900 Level 14: 4,550 -> 4,200 Level 15: 4,800 -> 4,400 Level 16: 5,100 -> 4,700 Level 17: 5,450 -> 5,000 Level 18: 5,600 -> 5,150 Removed passive damage increase from Fire Heart. Audio [ ] Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Fire_Heart_heal.ogg Dragon Duke heals Plays in loop while Dragon Duke is in battle Trivia [ ] Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

@@ -1,0 +1,158 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Air Defense",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "40",
+        "Movement Speed": "20",
+        "Attack Speed": "2s",
+        "Range": "0.75 tiles",
+        "Special Ability": "Dish Served Cold"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Lava Hound Level Required": "5"
+      }
+    ],
+    [
+      {
+        "Level": "On Offense",
+        "Damage per Second": "On Defense"
+      },
+      {
+        "Level": "1*",
+        "Damage per Second": "2",
+        "Damage per Attack": "4",
+        "Freeze Time when Destroyed": "3.75s",
+        "Ice Pups Spawned": "6",
+        "Hitpoints": "6",
+        "Town Hall Level Required": "7,500"
+      },
+      {
+        "Level": "2*",
+        "Damage per Second": "4",
+        "Damage per Attack": "8",
+        "Freeze Time when Destroyed": "3.75s",
+        "Ice Pups Spawned": "7",
+        "Hitpoints": "7",
+        "Town Hall Level Required": "8,000"
+      },
+      {
+        "Level": "3*",
+        "Damage per Second": "6",
+        "Damage per Attack": "12",
+        "Freeze Time when Destroyed": "3.75s",
+        "Ice Pups Spawned": "8",
+        "Hitpoints": "8",
+        "Town Hall Level Required": "8,500"
+      },
+      {
+        "Level": "4*",
+        "Damage per Second": "8",
+        "Damage per Attack": "16",
+        "Freeze Time when Destroyed": "3.75s",
+        "Ice Pups Spawned": "9",
+        "Hitpoints": "9",
+        "Town Hall Level Required": "9,000"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "10",
+        "Damage per Attack": "20",
+        "Freeze Time when Destroyed": "3.75s",
+        "Ice Pups Spawned": "10",
+        "Hitpoints": "10",
+        "Town Hall Level Required": "9,500"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "15",
+        "Damage per Attack": "30",
+        "Freeze Time when Destroyed": "4.25s",
+        "Ice Pups Spawned": "12",
+        "Hitpoints": "11",
+        "Town Hall Level Required": "10,000"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "20",
+        "Damage per Attack": "40",
+        "Freeze Time when Destroyed": "4.75s",
+        "Ice Pups Spawned": "14",
+        "Hitpoints": "12",
+        "Town Hall Level Required": "10,500"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "25",
+        "Damage per Attack": "50",
+        "Freeze Time when Destroyed": "5.25s",
+        "Ice Pups Spawned": "16",
+        "Hitpoints": "13",
+        "Town Hall Level Required": "11,500"
+      }
+    ],
+    [
+      {
+        "Date": "December 6, 2020",
+        "Description": "Announced the Ice Hound, with two distinct levels."
+      },
+      {
+        "Date": "December 7, 2020",
+        "Description": "Added the Ice Hound."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Ice Hounds no longer forget about targeting Air Defenses if all the remaining Air Defenses are invisible when they're targeting."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced training time from 6m 40s to 5m 47s."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "June 16, 2025",
+        "Description": "Added the level 7 Ice hound."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 8 Ice hound."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his base version, see Lava Hound . \"Free from all the lava-induced indigestion, the Ice Hound is ready to freeze the flow of battle . Chill out, or else.\" Level 1-8 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Gallery 6 Trivia 6.1 Comparisons Summary The Ice Hound is a Super Troop based on the Lava Hound . It can be unlocked by boosting the Lava Hound when the Lava Hound is at least level 5. Boosting the Lava Hound requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Lava Hound to be boosted for 3 days. The level of Ice Hound you obtain from the boost corresponds to the level of Lava Hound you have. The Ice Hound is similar to a Lava Hound, except with higher hitpoints, spawning less pups compared to the Lava Hound, and an ability to chill targets that he hits, which slows afflicted targets down just like the Ice Wizard and Ice Golem . Upon death, he freezes the surrounding area like an Ice Golem , and releases several Ice Pups . The Ice Hound also does a little less damage than the Lava Hound . Because of the level requirement, players require Town Hall 12 in order to boost Lava Hounds into Ice Hounds. However, players require a level 8 Clan Castle or greater in order to get donated one, meaning that they likely already have the troop unlocked or can do so at the same Town Hall level. Ice Hounds prioritize Air Defenses above all other targets, and will bypass all other enemy buildings and troops while any Air Defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Once all Air Defenses are destroyed, they will continue to attack any other remaining defenses . Note that like all troops that prioritize defenses, Ice Hounds do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all remaining defenses are destroyed, Ice Hounds become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. The Ice Hound was available as part of the Meltdown Mayhem event, where it can be boosted for free for the duration of the event (without taking up a Super Troop boost slot). Additionally, it is available at lower levels below its normal minimum level, so that the event is accessible to players as low as Town Hall level 7. Strategies Offensive Strategies Make sure that Ice Hound do not explodes into Ice Pups prematurely, because otherwise his Freeze upon death and his high tanking potential will be next to useless. Ice Hounds can be used very similarly to Lava Hounds in LavaLoon attacks. They can shield for the Balloons and also destroy enemy Heroes with their Ice Pups once popped, and the freeze upon death can help freeze defenses and reduce the damage taken by your damage dealers. Each Ice Hound is worth takes up a lot housing space of a max army , so use each one wisely and get heavy value out of it or else it will be a waste of precious housing space. Like the Ice Golem , an Ice Hound can stop a single-target Inferno Tower from harming powerful troops. However, it will still deal that devastating third-stage damage, albeit just slower, so still watch out for that! Even though he has more hitpoints, Ice Hound should be treated more towards an air-Ice Golem than an air- Golem . This is because of his freezing effect and less Ice Pups, However, he boasts a lot of hitpoints, so he still has great tanking potential. The Ice Hound and his pups can slow down defenses, acting as a great support and tank for many air troops and for many air-based attack. Defensive Strategies As a Clan Castle Troop, the effectiveness of Ice Hounds depend on Town Hall level. On Town Hall 12-14, they take way too much space and may not be worth it. However, on Town Hall 15 and especially Town Hall 17 or above(where you can have one Ice Golem alongside the Ice Hound), the Ice Hound can be an excellent tank style Troop as it has one of the highest hitpoints in the game, can spawn Ice Pups that distract attackers even further, and to top it all off, the Ice Hound's freeze duration is longer than the Ice Golem's at ALL levels, as the Ice Hound's freeze duration is not reduced on defense. Putting your single-target Inferno Towers closer to the outside could cause Ice Hounds to pop early and waste their ability. Keep in mind that this could weaken your base to things like Dragon attacks. Make sure you destroy them as fast as possible, or else their freeze and his Ice Pups could be a threat to your village . As such, make sure you guard your Air Defenses and your single-target Inferno Towers so they do not get destroyed too quickly and letting the Ice Hound survive more. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Air Defense Melee (Ground Only) 40 20 2s 0.75 tiles Dish Served Cold Boost Cost Boost Duration Lava Hound Level Required 25,000 3d 5 Level Damage per Second Damage per Attack Freeze Time when Destroyed Ice Pups Spawned Hitpoints Town Hall Level Required On Offense On Defense 1* 2 4 3.75s 6 6 7,500 7 2* 4 8 3.75s 7 7 8,000 9 3* 6 12 3.75s 8 8 8,500 10 4* 8 16 3.75s 9 9 9,000 11 5 10 20 3.75s 10 10 9,500 12 6 15 30 4.25s 12 11 10,000 13 7 20 40 4.75s 14 12 10,500 16 8 25 50 5.25s 16 13 11,500 18 *Levels 1 through 4 are only accessible in the Meltdown Mayhem event. History Date Description December 6, 2020 Announced the Ice Hound, with two distinct levels. December 7, 2020 Added the Ice Hound. April 12, 2021 Ice Hounds no longer forget about targeting Air Defenses if all the remaining Air Defenses are invisible when they're targeting. February 10, 2025 Reduced training time from 6m 40s to 5m 47s. March 27, 2025 Removed training time. June 16, 2025 Added the level 7 Ice hound. February 23, 2026 Added the level 8 Ice hound. Gallery Ice Hound icon Ice Hound render In-game appearance Ice Hound with his Ice Puppies. Concept designs of Ice Hound. Ice Hound model Beta Art Beta Art Trivia You can have a maximum of 8 Ice Hounds at one time in a complete set of fully upgraded Army Camps . This number increases to 9 if you include 1 that can fit into a level 8 or higher Clan Castle . On the battlefield, you can clone an additional 4 Ice Hounds with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 13 Ice Hounds. The Ice Hound's death freeze particle is similar to the Ice Golem's . The Ice Hound charmingly appears with a scarf in the artwork, but in-game does not wear one and instead looks like a re-textured level 3 Lava Hound. The Ice Hound's deploying and attacking sounds are somewhat the same as Clash Royale's Lava Hound . Comparisons The Ice Hound, Sneaky Goblin , Rocket Balloon , and Inferno Dragon are the only Super Troops which do not have the word \"Super\" in their names. At max level, the Ice Hound has the second highest hitpoints of any offensive unit, the first being the Barbarian King . If not counting Heroes , then the Ice Hound would be the first. The Ice Hound and Super Valkyrie are the only Super Troops to have a spell effect after death. The Ice Hound, along with the Inferno Dragon and Super Witch are the only Super Troops to have unique sounds exclusively (deployed, attacking, and upon death). TheIce Hound is one of the four troops associated with ice, the others are the Ice Golem , Ice Pup , and Ice Wizard . The Ice Hound, alongside the Ice Pup are the only Air Troops that have grass in their info image. The Ice Hound is one of the three troops that have three preferred target stages, the other's being the Lava Hound and the Headhunter (has two stages if there is no Clan Castle troops). The Ice Hound is the only Super Troop to have three preferred target stages. The Ice Hound is one of the two troops to prioritize one type of Defensive Building over others and is the only Super Troop to do so. The other troop that does this is the Lava Hound . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

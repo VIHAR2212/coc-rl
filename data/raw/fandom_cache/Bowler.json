@@ -1,0 +1,278 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash",
+        "Housing Space": "6",
+        "Movement Speed": "14",
+        "Attack Speed": "2.2s",
+        "Dark Barracks Level Required": "7",
+        "Range": "3 tiles from first target - can hit more"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "60",
+        "Damage per Hit": "132",
+        "Hitpoints": "325",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "72",
+        "Damage per Hit": "158.4",
+        "Hitpoints": "375",
+        "Research Cost": "32,500",
+        "Research Time": "2d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "84",
+        "Damage per Hit": "184.8",
+        "Hitpoints": "420",
+        "Research Cost": "44,000",
+        "Research Time": "2d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "96",
+        "Damage per Hit": "211.2",
+        "Hitpoints": "470",
+        "Research Cost": "62,500",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "102",
+        "Damage per Hit": "224.4",
+        "Hitpoints": "505",
+        "Research Cost": "85,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "108",
+        "Damage per Hit": "237.6",
+        "Hitpoints": "530",
+        "Research Cost": "110,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "114",
+        "Damage per Hit": "250.8",
+        "Hitpoints": "565",
+        "Research Cost": "145,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "126",
+        "Damage per Hit": "277.2",
+        "Hitpoints": "600",
+        "Research Cost": "175,000",
+        "Research Time": "7d 12h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "140",
+        "Damage per Hit": "308",
+        "Hitpoints": "700",
+        "Research Cost": "260,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "160",
+        "Damage per Hit": "352",
+        "Hitpoints": "860",
+        "Research Cost": "360,000",
+        "Research Time": "15d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Bowler",
+        "Boost Cost": "25,000",
+        "Bowler Level Required": "4"
+      }
+    ],
+    [
+      {
+        "Patch": "March 21, 2016",
+        "Type": "Update",
+        "Description": "Added the Bowler, with three levels."
+      },
+      {
+        "Patch": "May 4, 2016",
+        "Type": "Balance Update",
+        "Description": "Increased the first attack speed. Decreased training time from 8m to 5m."
+      },
+      {
+        "Patch": "May 24, 2016",
+        "Type": "Update",
+        "Description": "Reduced housing space from 8 to 6."
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Reduced hitpoint."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 4 Bowler. Reduced damage at levels 1 to 3."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade time at level 2 from 10d to 8d 12h."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Reduced Gem donation cost from 8 to 5. Reduced training costs at all levels: Level 1: 130 -> 110 Level 2: 150 -> 130 Level 3: 170 -> 150 Level 4: 190 -> 170"
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade time at level 3 from 14d to 12d."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 5 Bowler."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times at level 2 and 3."
+      },
+      {
+        "Patch": "September 27, 2021",
+        "Type": "Update",
+        "Description": "Added the level 6 Bowler."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade times for level 2 to 5."
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Type": "Update",
+        "Description": "Increased hitpoints from levels 1 to 5: Level 1: 290 -> 325 Level 2: 310 -> 350 Level 3: 350 -> 385 Level 4: 390 -> 420 Level 5: 430 -> 455"
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 7 Bowler. Reduced upgrade times for levels 4 and 5: Level 4: 8d 12h -> 7d 12h Level 5: 11d -> 9d Reduced upgrade costs for levels 6 and 7: Level 4: 140,000 -> 125,000 Level 5: 210,000 -> 170,000"
+      },
+      {
+        "Patch": "February 27, 2024",
+        "Type": "Update",
+        "Description": "Added the level 8 Bowler."
+      },
+      {
+        "Patch": "June 3, 2024",
+        "Type": "Balance Changes",
+        "Description": "Increased damage at levels 2 to 6: Level 2: 70 -> 72 Level 3: 80 -> 84 Level 4: 90 -> 96 Level 5: 96 -> 102 Level 6: 102 -> 108 Increased hitpoints at levels 2 to 7: Level 2: 350 -> 375 Level 3: 385 -> 420 Level 4: 420 -> 470 Level 5: 455 -> 505 Level 6: 500 -> 530 Level 7: 550 -> 565"
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Added the level 9 Bowler. Reduced training time from 1m to 50s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the level 10 Bowler. Increase damage at level 9 from 136 to 140. Increase hitpoint at level 9 from 650 to 700. Reduced upgrade time at level 9 from 15d to 10d. Reduced upgrade cost at level 9 from 280,000 to 260,000."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Increased damage at level 10 from 156 to 160 Increased Hitpoints at level 10 from 850 to 860"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_die.ogg",
+        "Captions": "Bowler dies",
+        "Description": "When the Bowler dies"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Bowler_deploy.ogg",
+        "Captions": "Bowler deploys",
+        "Description": "When the Bowler is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Bowler_attack1.ogg https://clashofclans.fandom.com/wiki/File:Bowler_attack2.ogg",
+        "Captions": "Bowler bowls",
+        "Description": "When the Bowler attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Bowler_attack3.ogg",
+        "Captions": "Bowler bowls (unused)",
+        "Description": "Ditto"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Bowler_bounce.ogg",
+        "Captions": "Boulder bounces",
+        "Description": "When the boulder hits something for the first time"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Bowler_hit.ogg",
+        "Captions": "Boulder crumbles",
+        "Description": "When the boulder hits the target behind"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Super variant, see Super Bowler . \"This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders bounce off of their target and hit again behind it for a double strike!\" Levels 1-2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Sounds 6.1 Generic 6.2 Unique 7 Gallery 8 Trivia 8.1 General Summary The Bowler is the seventh Dark Elixir troop that is unlocked at Dark Barracks level 7, which requies Town Hall level 10. The Bowler is the second troop unlocked that can damage multiple buildings in a straight line and the first ground troop to be able to do so. He attacks by throwing a large boulder that bounces; dealing splash damage on the initial bounce, and again when it lands. The Bowler's boulder will only roll far enough to hit two targets. Bowlers have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Bowlers will proceed to attack the nearest structure. Strategies Offensive Strategies The Bowler doesn't have a lot of hitpoints, so he can be easily taken out if not protected. Be sure he is behind tanks like Golems , Ice Golems or P.E.K.K.As . Using many Bowlers can be a very strong strategy, as they can take out multiple buildings quickly. However, this strategy becomes progressively ineffective at higher Town Hall levels, because defenses gain more health and damage at these levels, as well as newer defenses such as Ricochet Cannons and Multi-Archer Towers . The Bowler can be a great unit for funneling due to his ability to hit two structures with one attack. This allows better funneling compared to using Wizards . The Bowler can also snipe structures that are located around the edge of the base. For example, a bowler can snipe a Wizard Tower or Bomb Tower on the second bounce, without taking any damage. The most common strategy that includes Bowlers is the BoWitch, a Town Hall 10 and 11 attack strategy that uses Bowlers and Witches together in great synergy. Paired with Golems, it makes the GoWiBo (Golems, Witches, and Bowlers), a powerful strategy at Town Halls 10 to 12 that synergizes with each other. Defensive Strategies The Eagle Artillery can deal great damage to multiple Bowlers at once. Two shots from a volley can wipe out a whole group of Bowlers. Bowlers have relatively low hitpoints for their housing space, so placing two Giant Bombs together in places where Bowlers are more likely to be placed will entirely wipe out a large group of Bowlers. Spring Traps also work well on them. Spreading out your defenses will make it so that the Bowlers cannot hit all of them at once. Isolate your Town Hall from other buildings so the Bowlers cannot hit it as part of their boulders' second bounces. Upgrade Differences The Bowler undergoes significant visual changes at levels 3, 4, 5, 6, 7, 8, 9 and 10. Initially, the Bowler is a large, muscular humanoid creature with indigo-colored skin that wears a pale brown loincloth around his waist bound to him with a rope and carries a large boulder in the shape of a bowling ball. He has pointed ears and red, sunken eyes with black or blue irises. His hands and feet resemble those of a Giant . He also has an orange band on both arms. At level 3, the Bowler becomes slightly darker, and his boulder gains pink, Elixir -colored crystals sticking out of it, similar to the level 5 Golem . At level 4, the boulder's crystals turn dark orange. At level 5, the crystals on the boulder turn into sky blue to match the winter theme. At level 6, the crystals on the boulder turn emerald to match the jungle theme. At level 7, the crystals are now white, with a light blue glow around them, to match the magic theme. At level 8, the boulder gets slightly darker and is now strangled with a curling vine, and the Bowler's loincloth is now vandyke brown in color and so does its rope. The orange bands are now replaced with large golden wristbands. At level 9, the boulder is now charcoal in color, and gains golden crystals, replacing the curling roots. The large golden wristbands now gain spikes and become brighter, his loincloth turns black, and its rope is now a bright yellow. At level 10, the boulder gets changed back to its original color and now has a long meteor crack on it which glows cyan, matching the meteorite theme of Town Hall level 18. The Bowler gains dark metal guards on his arms and back and gauntlets with a cyan gem on each. His loincloth is now replaced with a chainmail, and the color of its rope turns from yellow to cyan. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range None Area Splash 6 14 2.2s 7 3 tiles from first target - can hit more Level Damage per Second Damage per Hit Hitpoints Research Cost Research Time Laboratory Level Required 1 60 132 325 N/A N/A N/A 2 72 158.4 375 32,500 2d 8 3 84 184.8 420 44,000 2d 12h 9 4 96 211.2 470 62,500 3d 10 5 102 224.4 505 85,000 4d 11 6 108 237.6 530 110,000 6d 12 7 114 250.8 565 145,000 7d 13 8 126 277.2 600 175,000 7d 12h 14 9 140 308 700 260,000 10d 15 10 160 352 860 360,000 15d 16 Super Troop Boost Super Troop Boost Cost Bowler Level Required Super Bowler 25,000 4 History Patch Type Description March 21, 2016 Update Added the Bowler, with three levels. May 4, 2016 Balance Update Increased the first attack speed. Decreased training time from 8m to 5m. May 24, 2016 Update Reduced housing space from 8 to 6. October 12, 2016 Update Reduced hitpoint. June 11, 2018 Update Added the level 4 Bowler. Reduced damage at levels 1 to 3. June 26, 2018 Balance Changes Reduced upgrade time at level 2 from 10d to 8d 12h. October 23, 2018 Update Reduced Gem donation cost from 8 to 5. Reduced training costs at all levels: Level 1: 130 -> 110 Level 2: 150 -> 130 Level 3: 170 -> 150 Level 4: 190 -> 170 April 2, 2019 Update Reduced upgrade time at level 3 from 14d to 12d. December 9, 2019 Update Added the level 5 Bowler. October 12, 2020 Update Reduced upgrade costs and times at level 2 and 3. September 27, 2021 Update Added the level 6 Bowler. December 9, 2021 Update Reduced upgrade times for level 2 to 5. June 27, 2022 Update Increased hitpoints from levels 1 to 5: Level 1: 290 -> 325 Level 2: 310 -> 350 Level 3: 350 -> 385 Level 4: 390 -> 420 Level 5: 430 -> 455 June 12, 2023 Update Added the level 7 Bowler. Reduced upgrade times for levels 4 and 5: Level 4: 8d 12h -> 7d 12h Level 5: 11d -> 9d Reduced upgrade costs for levels 6 and 7: Level 4: 140,000 -> 125,000 Level 5: 210,000 -> 170,000 February 27, 2024 Update Added the level 8 Bowler. June 3, 2024 Balance Changes Increased damage at levels 2 to 6: Level 2: 70 -> 72 Level 3: 80 -> 84 Level 4: 90 -> 96 Level 5: 96 -> 102 Level 6: 102 -> 108 Increased hitpoints at levels 2 to 7: Level 2: 350 -> 375 Level 3: 385 -> 420 Level 4: 420 -> 470 Level 5: 455 -> 505 Level 6: 500 -> 530 Level 7: 550 -> 565 February 10, 2025 Update Added the level 9 Bowler. Reduced training time from 1m to 50s. March 27, 2025 Clash Anytime Update Removed training time. November 17, 2025 Town Hall 18 Update Added the level 10 Bowler. Increase damage at level 9 from 136 to 140. Increase hitpoint at level 9 from 650 to 700. Reduced upgrade time at level 9 from 15d to 10d. Reduced upgrade cost at level 9 from 280,000 to 260,000. April 27, 2026 Update Increased damage at level 10 from 156 to 160 Increased Hitpoints at level 10 from 850 to 860 Sounds Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Wizard_die.ogg Bowler dies When the Bowler dies Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Bowler_deploy.ogg Bowler deploys When the Bowler is deployed https://clashofclans.fandom.com/wiki/File:Bowler_attack1.ogg https://clashofclans.fandom.com/wiki/File:Bowler_attack2.ogg Bowler bowls When the Bowler attacks https://clashofclans.fandom.com/wiki/File:Bowler_attack3.ogg Bowler bowls (unused) Ditto https://clashofclans.fandom.com/wiki/File:Bowler_bounce.ogg Boulder bounces When the boulder hits something for the first time https://clashofclans.fandom.com/wiki/File:Bowler_hit.ogg Boulder crumbles When the boulder hits the target behind Gallery Bowler's avatar Old Bowler's pose In-game render Promotional image of Bowler added in the update Trivia General You can have a maximum of 58 Bowlers at one time in a complete set of fully upgraded Army Camps . This number increases to 67 if you include 9 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 32 Bowlers with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 99 Bowlers. When clicking on the Army Camp , the Bowler turns away from the screen, same as the Lava Hound does. The Bowler's death sound is not unique, as he shares the same death sound with the Wizard . However, his deploy and attack sounds are different. The Bowler was originally a troop idea for Clash Royale , but being scrapped, he was transferred to Clash of Clans . Despite this, he was later added in an update. His description in Clash Royale is similar to the one in Clash of Clans . The second sentence of his description is changed to \" His massive boulders roll through their target, hitting everything behind for a strike! \" This may refer to how the Bowler hits every ground unit in range in Clash Royale , while he only attacks two buildings at a time in Clash of Clans . There is also a loading screen hint in Clash Royale that is similar to his card description. Despite mentioning Dark Elixir in his Clash Royale description, Dark Elixir does not exist in the game. In Clash Royale , the Bowler's bowling action resembles a more conventional underhand style of bowling, like that seen in ten-pin bowling , for example, as opposed to in Clash of Clans , where he hurls his boulder overhand, resembling that of a bowler in cricket . In Clash Royale , the Bowler's 3D render above the card info screen is taken from his Clash of Clans counterpart's old render. Some fans speculate that Bowlers are Goblins due to having pointy ears like the latter, but it has not been confirmed by Supercell up until Clash Mini Update 8 was released, putting Bowler in the Goblin Class. The Bowler is one of ten troops featured as a monster in the game Squad Busters , the others being the Wall Breaker , P.E.K.K.A , Minion , Golem , Baby Dragon , Lava Hound , Ice Golem , Yeti , and Inferno Dragon . The Bowler in Squad Busters resembles the level 1 or 2 Bowler in Clash of Clans . According to Vlad Perge, the Community Manager of Clash Mini , the Bowler is his favorite troop, as stated on Pocket Gamer . Despite being big and muscular, the Bowler seems to have low hitpoints, unlike his Clash Royale counterpart . This is not the case with the Super Bowler , who has much more hitpoints. About quarce the amount of hitpoints compared to his normal counterpart. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

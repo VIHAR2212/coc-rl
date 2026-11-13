@@ -1,0 +1,122 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Single Target (Ground Only)",
+        "Housing Space": "12",
+        "Movement Speed": "24",
+        "Attack Speed": "1s",
+        "Range": "0.6 tiles",
+        "Special Ability": "Divide and Conquer"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Hog Rider Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Level": "10",
+        "Damage per Second": "180",
+        "Damage per Hit": "180",
+        "Hitpoints": "1,600"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "200",
+        "Damage per Hit": "200",
+        "Hitpoints": "1,700"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "230",
+        "Damage per Hit": "230",
+        "Hitpoints": "1,900"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "250",
+        "Damage per Hit": "250",
+        "Hitpoints": "2,050"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "270",
+        "Damage per Hit": "270",
+        "Hitpoints": "2,250"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "300",
+        "Damage per Hit": "300",
+        "Hitpoints": "2,500"
+      }
+    ],
+    [
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the Super Hog Rider, with three distinct levels."
+      },
+      {
+        "Date": "February 27, 2024",
+        "Description": "Added the level 13 Super Hog Rider."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced training time from 1m 48s to 1m 41s."
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Added the level 14 Super Hog Rider."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "June 30, 2025",
+        "Description": "Increased hitpoints at levels 12 to 14: Level 12: 1,700 -> 1,750 Level 13: 1,800 -> 1,900 Level 14: 1,900 -> 2,100"
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 15 Super Hog Rider."
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Increased hitpoints at all levels: Level 10: 1,500 -> 1,600 Level 11: 1,600 -> 1,700 Level 12: 1,750 -> 1,900 Level 13: 1,900 -> 2,050 Level 14: 2,100 -> 2,250 Level 15: 2,350 -> 2,500"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his base version, see Hog Rider . For the seperate entities, see Super Rider and Super Hog . \"This dangerous duo of Hog and Rider are even more superb now. They ride together, they split up and keep fighting together.\" Level 10-15 Contents 1 Summary 2 Strategies 2.1 Offensive Strategy 2.2 Defensive Strategy 3 Statistics 4 History 5 Gallery 6 Trivia Summary The Super Hog Rider is a Super Troop based on the Hog Rider . It can be unlocked by boosting the Hog Rider when the Hog Rider is at least level 10. Boosting the Hog Rider requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Hog Rider to be boosted for 3 days. The level of Super Hog Rider you obtain from the boost corresponds to the level of Hog Rider you have. The Super Hog Rider is a ground troop that attacks defenses similarly to the Hog Rider, being able to bypass Walls to that end to achieve this. The troop comprises a Super Rider and a Super Hog , though they attack as one unit initially. When defeated, the Super Rider is knocked off from the Super Hog, and the pair will continue to fight as single troops. The Super Rider deals the same damage as Super Hog Rider but can deal double damage to Walls, targets anything on the ground, but is incapable of bypassing Walls and moves slower. The Super Hog continues to target defenses, and can still jump over Walls. It has higher hitpoints but lower damage compare to Super Rider. Super Hog Riders prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Note that like all troops that prioritize defenses, Super Hog Riders do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all defenses are destroyed, Super Hog Riders become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. However, they will not switch targets to enemy units until their previous target was destroyed. Because of the level requirements to boost Hog Riders into Super Hog Riders, players require a level 7 Clan Castle to hold one, even though space for it exists in Clan Castles as low as level 2. Strategies Offensive Strategy Because they are more durable than regular Hog Riders , they can be much more useful in Queen Charges and are less prone to splash damage, such as from Bomb Towers and Scattershots . The Super Hog Rider splits up upon death, and summons a Hog and a Rider. The Hog is faster and will attack defenses, while the Rider is slower and can attack anything. This essentially makes the Hog the tank while the Rider deals the damage. Because the Rider will get flung 5 spaces back when the Super Hog Rider dies, try and keep them alive until the center of the base, where the attack will not be completely ruined. Another reason for this is because the Super Rider will target anything, it can help with cleaning building behind due to the damage the Rider has. The Super Hog will continue to destroy defenses and will act as a mini-tanker. It can be used in Miner Hybrid attacks with the regular Hog Rider, and because of it being more durable and being an okay troop for clean up, it can be a very worthwhile and useful contribution to the army. The Super Hog can jump over walls after splitting, but the Super Rider cannot. However, the Rider also deals double damage to walls. The Super Hog Rider will always split into its Hog and Rider, even when bounced from a Spring Trap , so use this to your advantage. The Super Hog Rider should still be supported by the Grand Warden , as while the Super Hog Rider will be fine, the Hog and Rider won't and will die due to the poison/splash damage. Defensive Strategy Super Hog riders make poor defensive troops as when destroyed, they will simply die without splitting into a Super Rider/Hog Splash-damaging units in the defensive Clan Castle troops or splash-damage defenses, if they attack fast enough, can take down the Super Hog Rider, even when they split into 2, preventing them from getting extra value. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Defenses Single Target (Ground Only) 12 24 1s 0.6 tiles Divide and Conquer Boost Cost Boost Duration Hog Rider Level Required 25,000 3d 10 Level Damage per Second Damage per Hit Hitpoints 10 180 180 1,600 11 200 200 1,700 12 230 230 1,900 13 250 250 2,050 14 270 270 2,250 15 300 300 2,500 History Date Description June 12, 2023 Added the Super Hog Rider, with three distinct levels. February 27, 2024 Added the level 13 Super Hog Rider. February 10, 2025 Reduced training time from 1m 48s to 1m 41s. March 24, 2025 Added the level 14 Super Hog Rider. March 27, 2025 Removed training time. June 30, 2025 Increased hitpoints at levels 12 to 14: Level 12: 1,700 -> 1,750 Level 13: 1,800 -> 1,900 Level 14: 1,900 -> 2,100 February 23, 2026 Added the level 15 Super Hog Rider. October 20, 2026 Increased hitpoints at all levels: Level 10: 1,500 -> 1,600 Level 11: 1,600 -> 1,700 Level 12: 1,750 -> 1,900 Level 13: 1,900 -> 2,050 Level 14: 2,100 -> 2,250 Level 15: 2,350 -> 2,500 Gallery Super Hog Rider's avatar Super Hog Rider's info image Trivia You can have a maximum of 29 Super Hog Riders at one time in a complete set of fully upgraded Army Camps . This number increases to 33 if you include 4 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 16 Super Hog Riders with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 49 Super Hog Riders. The Super Hog Rider is the only troop in the game so far to split into two different sub-troops upon death. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

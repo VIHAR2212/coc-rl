@@ -1,0 +1,189 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Minion Prince",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Blacksmith level 3"
+      }
+    ],
+    [
+      {
+        "Level": "Ability Duration",
+        "Ability Attributes": "Incoming Damage Reduction",
+        "Hero Boosts": "Hitpoint Increase",
+        "Upgrade Cost": "HP Recovery Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "9s",
+        "Hero Boosts": "46%",
+        "Upgrade Cost": "850",
+        "Blacksmith Level Required": "1,600"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "9s",
+        "Hero Boosts": "46%",
+        "Upgrade Cost": "900",
+        "Blacksmith Level Required": "1,675"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "10s",
+        "Hero Boosts": "50%",
+        "Upgrade Cost": "950",
+        "Blacksmith Level Required": "1,750"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "10s",
+        "Hero Boosts": "50%",
+        "Upgrade Cost": "1,000",
+        "Blacksmith Level Required": "1,800"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "10s",
+        "Hero Boosts": "50%",
+        "Upgrade Cost": "1,050",
+        "Blacksmith Level Required": "1,850"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "11s",
+        "Hero Boosts": "54%",
+        "Upgrade Cost": "1,100",
+        "Blacksmith Level Required": "1,900"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "11s",
+        "Hero Boosts": "54%",
+        "Upgrade Cost": "1,150",
+        "Blacksmith Level Required": "1,950"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "11s",
+        "Hero Boosts": "54%",
+        "Upgrade Cost": "1,200",
+        "Blacksmith Level Required": "2,000"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "12s",
+        "Hero Boosts": "58%",
+        "Upgrade Cost": "1,250",
+        "Blacksmith Level Required": "2,050"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "12s",
+        "Hero Boosts": "58%",
+        "Upgrade Cost": "1,300",
+        "Blacksmith Level Required": "2,100"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "12s",
+        "Hero Boosts": "58%",
+        "Upgrade Cost": "1,350",
+        "Blacksmith Level Required": "2,150"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "13s",
+        "Hero Boosts": "62%",
+        "Upgrade Cost": "1,400",
+        "Blacksmith Level Required": "2,200"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "13s",
+        "Hero Boosts": "62%",
+        "Upgrade Cost": "1,450",
+        "Blacksmith Level Required": "2,250"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "13s",
+        "Hero Boosts": "62%",
+        "Upgrade Cost": "1,500",
+        "Blacksmith Level Required": "2,300"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "14s",
+        "Hero Boosts": "66%",
+        "Upgrade Cost": "1,550",
+        "Blacksmith Level Required": "2,350"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "14s",
+        "Hero Boosts": "66%",
+        "Upgrade Cost": "1,600",
+        "Blacksmith Level Required": "2,400"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "14s",
+        "Hero Boosts": "66%",
+        "Upgrade Cost": "1,650",
+        "Blacksmith Level Required": "2,450"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "15s",
+        "Hero Boosts": "70%",
+        "Upgrade Cost": "1,700",
+        "Blacksmith Level Required": "2,500"
+      }
+    ],
+    [
+      {
+        "Date": "February 9, 2025",
+        "Description": "Announced the Metal Pants, with 18 levels."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Added the Metal Pants."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Increased hitpoint increase Hero Boost by 500 at all levels to offset the 1,000 hitpoint nerf of the Minion Prince on defense."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Creates a protective barrier that blocks almost all damage temporarily\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Trivia 5.1 Comparisons Summary The Metal Pants is a piece of Common Hero Equipment for the Minion Prince . It is unlocked when the Blacksmith is upgraded to level 3, which requires Town Hall level 10 to do so. The Metal Pants appear as a piece of chain mail pants with the inner side and groin cover made with leather, with a tied cincture acting as a belt. When equipped, it enables the Minion Prince to create an orange shield around him which temporarily reduces the damage from any type. In addition to the ability, the Metal Pants grants additional hitpoints to the Minion Prince, and also increases the amount of health he recovers when using the ability. Strategies Offensive Strategies The Metal Pants can be used to let the Minion Prince tank Seeking Air Mines better when he is by himself, and can also reduce damage taken from defenses. However, its weakness is that single-target Inferno Towers at maximum stage and Monolith can take lots of damage if they had locked on to him, eventually getting him knocked out. Defensive Strategies To prevent the opponent from getting value of the Metal Pants, separate the Seeking Air Mines away from each other, so that they will maximize the damage when the effect expires. Protect your single-target Inferno Towers and the Monolith in a way so that the army will be separated from the Minion Prince, allowing the Inferno Tower and Monolith to lock onto him and possibly defeat him, even with his barrier. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Minion Prince Active Common Blacksmith level 3 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Ability Duration Incoming Damage Reduction Hitpoint Increase HP Recovery Increase Shiny Ore Glowy Ore 1 9s 46% 850 1,600 N/A N/A 3 2 9s 46% 900 1,675 120 - 3 3 10s 50% 950 1,750 240 20 3 4 10s 50% 1,000 1,800 400 - 3 5 10s 50% 1,050 1,850 600 - 3 6 11s 54% 1,100 1,900 840 100 3 7 11s 54% 1,150 1,950 1,120 - 3 8 11s 54% 1,200 2,000 1,440 - 3 9 12s 58% 1,250 2,050 1,800 200 3 10 12s 58% 1,300 2,100 1,900 - 3 11 12s 58% 1,350 2,150 2,000 - 3 12 13s 62% 1,400 2,200 2,100 400 3 13 13s 62% 1,450 2,250 2,200 - 5 14 13s 62% 1,500 2,300 2,300 - 5 15 14s 66% 1,550 2,350 2,400 600 5 16 14s 66% 1,600 2,400 2,500 - 7 17 14s 66% 1,650 2,450 2,600 - 7 18 15s 70% 1,700 2,500 2,700 600 7 History Date Description February 9, 2025 Announced the Metal Pants, with 18 levels. February 10, 2025 Added the Metal Pants. November 17, 2025 Increased hitpoint increase Hero Boost by 500 at all levels to offset the 1,000 hitpoint nerf of the Minion Prince on defense. Trivia The Metal Pants is likely made in response to the sentiment of fans being appalled by Minion Prince not wearing any pants. Before the February 2025 sneak peek starts, Supercell made a tweet with different real life pants being photoshopped on Minion Prince and announce it as a fashion show, with one of them being poorly censored with question marks all over it, hinting at the existence of a pants equipment. There was an unused Equipment called the Trap Shield for the Minion Prince, with the ability description \"Protects from damage caused by Traps. Seeking Air Mines are no longer nemesis of the hero.\" It had a 90% Trap damage reduction, 150 passive damage increase, and 1,000 passive hitpoint increase at max level. This is likely a prototype of the Metal Pants, which made the damage reduction more general but lowered the percentage reduction, and switched passive damage increase to hitpoint recovery to be more defensive and synergize with the ability. This ability was later reused for the Dragon Duke 's Royal Rampage ability. Comparisons The Metal Pants and Vampstache , and Healer Puppet and Noble Iron are the only Common Equipment to be unlocked at the same Blacksmith level, at levels 3 and 5 respectively. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

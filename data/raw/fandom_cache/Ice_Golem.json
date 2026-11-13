@@ -1,0 +1,201 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "On Offense",
+        "Attack Type": "On Defense"
+      },
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "15",
+        "Movement Speed": "12",
+        "Attack Speed": "2s",
+        "Dark Barracks Level Required": "8",
+        "Range": "1 tile",
+        "Freeze Radius": "7.5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "On Offense",
+        "Damage per Second": "On Defense"
+      },
+      {
+        "Level": "1",
+        "Damage per Second": "24",
+        "Damage per Attack": "48",
+        "Freeze Time After Death": "4.0s",
+        "Hitpoints": "2.0s",
+        "Research Cost": "2,600",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "28",
+        "Damage per Attack": "56",
+        "Freeze Time After Death": "4.75s",
+        "Hitpoints": "2.25s",
+        "Research Cost": "2,800",
+        "Research Time": "27,500",
+        "Laboratory Level Required": "2d"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "32",
+        "Damage per Attack": "64",
+        "Freeze Time After Death": "5.5s",
+        "Hitpoints": "2.5s",
+        "Research Cost": "3,000",
+        "Research Time": "42,500",
+        "Laboratory Level Required": "2d 12h"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "36",
+        "Damage per Attack": "72",
+        "Freeze Time After Death": "6.25s",
+        "Hitpoints": "2.75s",
+        "Research Cost": "3,200",
+        "Research Time": "50,000",
+        "Laboratory Level Required": "3d 6h"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "40",
+        "Damage per Attack": "80",
+        "Freeze Time After Death": "7.0s",
+        "Hitpoints": "3.0s",
+        "Research Cost": "3,400",
+        "Research Time": "62,500",
+        "Laboratory Level Required": "4d"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "44",
+        "Damage per Attack": "88",
+        "Freeze Time After Death": "7.5s",
+        "Hitpoints": "3.25s",
+        "Research Cost": "3,600",
+        "Research Time": "110,000",
+        "Laboratory Level Required": "6d 12h"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "48",
+        "Damage per Attack": "96",
+        "Freeze Time After Death": "8s",
+        "Hitpoints": "3.5s",
+        "Research Cost": "3,900",
+        "Research Time": "140,000",
+        "Laboratory Level Required": "7d 12h"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "52",
+        "Damage per Attack": "104",
+        "Freeze Time After Death": "8.5s",
+        "Hitpoints": "3.5s",
+        "Research Cost": "4,200",
+        "Research Time": "180,000",
+        "Laboratory Level Required": "8d"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "56",
+        "Damage per Attack": "112",
+        "Freeze Time After Death": "9s",
+        "Hitpoints": "3.5s",
+        "Research Cost": "4,350",
+        "Research Time": "280,000",
+        "Laboratory Level Required": "10d 14h"
+      }
+    ],
+    [
+      {
+        "Patch": "December 10, 2018",
+        "Type": "Update",
+        "Description": "Added the Ice Golem, with 4 levels."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Added the level 5 Ice Golem. Reduced the freeze duration on defense, but increased freeze radius on offense."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced the defensive Ice Golem's freeze duration by 0.5 seconds."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 6 Ice Golem. Fixed some visual inconsistencies with the Ice Golem death effects."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at level 2 and 3: Level 2: 5d -> 4d Level 3: 8d -> 7d"
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 7 Ice Golem. Reduced upgrade times at levels 4 and 5: Level 4: 7d 6h -> 6d 12h Level 5: 9d 12h -> 8d Reduced upgrade costs at levels 4 and 5: Level 3: 110,000 -> 100,000 Level 5: 140,000 -> 125,000"
+      },
+      {
+        "Patch": "April 17, 2024",
+        "Type": "Update",
+        "Description": "Added the level 8 Ice Golem."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 2m 30s to 2m 10s."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Update",
+        "Description": "Added the level 9 Ice Golem."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Reduced upgrade time at level 9 from 13d 12h to 9d 5h. Reduced upgrade cost at level 9 from 1300,000 to 280,000."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"The Ice Golem has a chilling personality and absolutely zero sense of humour. He frosts over everything he touches, freezes his surroundings when destroyed and ices up when talked to at a party. On defense his freeze effect is smaller and has a shorter duration.\" Level 1-2 Level 3-4 Level 5-6 Level 7 Level 8 Level 9 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Gallery 7 Trivia 7.1 General 7.2 Comparisons Summary The Ice Golem is the eighth Dark Elixir Troop unlocked once the Dark Barracks is upgraded to level 8, which requires Town Hall level 11. He is a slow-moving ground troop with low damage and high hitpoints that prioritizes defenses . Ice Golems are powerful tanking units with low damage but high hitpoints for the housing space they occupy. Their attacks slow down whatever they attack, reducing affected Defensive Buildings or units' fire rate by 50% for 2 seconds. Upon death, the Ice Golem freezes everything in a large radius, completely immobilizing any defenses and enemy units caught within. However, the upon death freeze does not deal any damage. An Ice Golem's death freeze will neither prevent Traps from triggering nor will it stop a triggering Trap from going off. (The Trap however, will appear as if it were being hit by the Ice Golem). Ice Golems prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Note that like all troops that prioritize defenses, Ice Golems do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all defenses are destroyed, Ice Golems become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. However, they will not switch targets to enemy units until their previous target was destroyed. Strategies Offensive Strategies Ice Golems are very strong tanking units compared to other high-hitpoint units because they have good health for their housing space, have two special abilities (slowing defenses he attacks and freezing everything in a radius of 7.5 tiles when destroyed for a few seconds) and only take up 15 housing space each. Their freeze effect stops high damage defenses from attacking for a while and lets other units destroy important buildings. The freeze effect is best used with high DPS troops or Heroes . The Ice Golem is not a good long-lasting tank, though, due to the somewhat low HP for an entire base. He can be paired well with the Bat Spell , because the Bats help to deal the damage, and the Ice Golem tanks for the Bats and the Freeze helps the Bats tackle splash defenses easier, since it distracts them for a while, allowing the Bats to destroy the defenses before they attack them. If you are not using a Queen Charge ( Archer Queen supported by five Healers ), then using an Ice Golem to freeze up the area before deploying a lone Archer Queen can almost completely destroy a small compartment. You can use Ice Golems to tank for ground Siege Machines, such as Log Launchers to allow them to get a lot of value. Since the Ice Golems do small amounts of damage themselves, it is important that they are backed up by high damage-dealing troops, like Wizards , Witches , Bowlers , or the Archer Queen. For example, a popular strategy in TH11 is Ice Golem BoWitch, which uses Ice Golems to tank Witches and Bowlers. The Ice Golem can effectively counter a single-target Inferno Tower . When the Ice Golem dies, he will freeze it, resetting its damage ramp-up, and allowing other troops to take the Inferno Tower out. However, make sure that the Ice Golem's death freeze affects the Inferno Tower, otherwise it will continue attacking as normal. You need to make sure to fully utilize the freeze. If there is a large amount of high DPS buildings near the Ice Golem's target, consider bringing a lesser tank like a Giant to allow him to get to where he needs to freeze. One can also consider placing the Ice Golem in a Siege Machine , such as the Wall Wrecker or Battle Blimp , to get it into the core of a base. This allows the opposing Town Hall weapon to be frozen, as well as other core defenses, making for an easy path to the center for your ground troops. Defensive Strategies Ice Golems are very high-health units that can be used to soak up damage. Make sure that the Ice Golem is in the middle or in range of most of your defenses, as the Ice Golem can distract attacking troops very effectively for a considerable amount of time. Even when overwhelmed, the Ice Golem freezes any remaining attackers for a few seconds. Ice Golems can prove to be a valuable defensive troop in Clan Castles . Not only can he soak up damage so that other troops can attack behind his cover, when he does die, the resulting freeze will also stall the attacker's troops or Heroes for some time, allowing both Clan Castle troops and defenses to quickly pile damage onto them. However, his freeze effect is weaker when defending, having less area of effect while also lasting for a much shorter duration than when the Ice Golem is used for attacking, so keep that in mind when using an Ice Golem for defending. Also, if the base is well-designed to delay the attacker, the attacker may time fail. However, this does not work if the attacker is using aerial units, unless if a ground unit (such as a Barbarian King or P.E.K.K.A ) manages to enter the Clan Castle's trigger radius. The Ice Golem can be bounced off the map by a level 4 or higher Spring Trap . If you want to use Spring Traps to defeat him, place them in a location where his death freeze will not be able to affect many important defenses, such as an entrance to an outer compartment. Upgrade Differences The Ice Golem undergoes visual changes at levels 1, 5, 7, 8 and 9. Initially, the Ice Golem is a large two-legged creature made out of snow with some parts of his body being composed of thick segments of ice. He has glowing blue eyes. The icy parts of his body are mostly concentrated on his arms, hands and head. At level 3, the segments closest to the hands turn a darker blue, and the feet turn to an icy blue. At level 5, the upper body segment turns to a darker blue and gets slightly bigger. At level 7, the head gains two ice spikes, and gains an icy beard, with 9 ice spikes. At level 8, his shoulders gain two ice spikes each, and his body turns slightly bluer. At level 9, the snow on his body becomes darker, and his icy parts become zaffre. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range Freeze Radius On Offense On Defense Defenses Melee (Ground Only) 15 12 2s 8 1 tile 7.5 tiles 5.5 tiles Level Damage per Second Damage per Attack Freeze Time After Death Hitpoints Research Cost Research Time Laboratory Level Required On Offense On Defense 1 24 48 4.0s 2.0s 2,600 N/A N/A N/A 2 28 56 4.75s 2.25s 2,800 27,500 2d 9 3 32 64 5.5s 2.5s 3,000 42,500 2d 12h 9 4 36 72 6.25s 2.75s 3,200 50,000 3d 6h 10 5 40 80 7.0s 3.0s 3,400 62,500 4d 10 6 44 88 7.5s 3.25s 3,600 110,000 6d 12h 12 7 48 96 8s 3.5s 3,900 140,000 7d 12h 13 8 52 104 8.5s 3.5s 4,200 180,000 8d 14 9 56 112 9s 3.5s 4,350 280,000 10d 14h 15 History Patch Type Description December 10, 2018 Update Added the Ice Golem, with 4 levels. April 2, 2019 Update Added the level 5 Ice Golem. Reduced the freeze duration on defense, but increased freeze radius on offense. March 30, 2020 Update Reduced the defensive Ice Golem's freeze duration by 0.5 seconds. April 12, 2021 Update Added the level 6 Ice Golem. Fixed some visual inconsistencies with the Ice Golem death effects. December 9, 2021 Update Reduced upgrade times at level 2 and 3: Level 2: 5d -> 4d Level 3: 8d -> 7d June 12, 2023 Update Added the level 7 Ice Golem. Reduced upgrade times at levels 4 and 5: Level 4: 7d 6h -> 6d 12h Level 5: 9d 12h -> 8d Reduced upgrade costs at levels 4 and 5: Level 3: 110,000 -> 100,000 Level 5: 140,000 -> 125,000 April 17, 2024 Update Added the level 8 Ice Golem. February 10, 2025 Update Reduced training time from 2m 30s to 2m 10s. March 24, 2025 Update Added the level 9 Ice Golem. March 27, 2025 Update Removed training time. November 17, 2025 Town Hall 18 Update Reduced upgrade time at level 9 from 13d 12h to 9d 5h. Reduced upgrade cost at level 9 from 1300,000 to 280,000. Gallery Ice Golem's avatar In-game sprite Trivia General The word \"Golem\" occurs once in the Bible in Psalm 139:16, which uses the word \" golmi \", that means \"my light form\", \"raw\" material, connoting the unfinished human being. A golem is an animated, anthropomorphic being in Jewish folklore , which is entirely created from inanimate matter, usually clay or mud. The most famous golem narrative involves Loew ben Bezalel , the late 16th-century rabbi of Prague. You can have a maximum of 23 Ice Golems at one time in a complete set of fully upgraded Army Camps . This number increases to 26 if you include 3 that can fit into a level 9 or higher Clan Castle . On the battlefield, you can clone an additional 12 Ice Golems with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 38 Ice Golems. The Ice Golem is inspired by the Clash Royale troop of the same name . Aside from having a slightly different appearance and is bigger than his Clash Royale counterpart like the standard Golem, he freezes enemy units and defenses completely upon death, rather than dealing slight damage and merely slowing them down. The Ice Golem is one of ten troops featured as a monster in the game Squad Busters . The others are the Wall Breaker , P.E.K.K.A , Minion , Golem , Bowler , Baby Dragon , Lava Hound , Yeti , and Inferno Dragon . The Ice Golem in Squad Busters resembles the Ice Golem in Clash Royale . The Ice Golem's death sound is not unique, as he shares the same death sound with the Giant . However, his other sounds (when being deployed and attacking) are unique. When an Ice Golem disappears upon death or at the end of a battle, he explodes into regular Elixir , despite being a Dark Elixir Troop much like the Witch . This trait is also shared with the Baby Dragon who is an Elixir troop but explodes into Dark Elixir instead. If the Ice Golem is the last unit that is defeated, he will not freeze his surroundings. According to his in-game description, the Ice Golem has no sense of humor. Comparisons He is one of two troops to have different stats when used defensively rather than offensively, the other being the Miner (the Miner moves slower on defense and does not burrow). The Ice Golem and the Miner are the only troops that have visual changes every 2 levels, as most of the troops do not have much of a visual change. The Ice Golem is one of the four troops associated with ice, the others are the Ice Hound , Ice Pup , and Ice Wizard . The Ice Golem, along with the Healer , Miner , Electro Dragon , Yeti , Dragon Rider , Meteor Golem , Golem , Headhunter , Apprentice Warden , Root Rider , and Druid are the only troops that do not have a Builder Base Troop or Super Troop counterpart. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

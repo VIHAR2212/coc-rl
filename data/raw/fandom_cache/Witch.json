@@ -1,0 +1,284 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash 0.3 Tile Radius (Ground & Air)",
+        "Housing Space": "12",
+        "Movement Speed": "12",
+        "Attack Speed": "0.7s",
+        "Summon Cooldown": "7s",
+        "Dark Barracks Level Required": "5",
+        "Range": "4 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "100",
+        "Damage per Hit": "70",
+        "Skeletons per Summon": "4",
+        "Maximum Skeletons Summoned": "6",
+        "Skeleton Level": "1",
+        "Hitpoints": "300",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "110",
+        "Damage per Hit": "77",
+        "Skeletons per Summon": "4",
+        "Maximum Skeletons Summoned": "8",
+        "Skeleton Level": "1",
+        "Hitpoints": "320",
+        "Research Cost": "20,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "140",
+        "Damage per Hit": "98",
+        "Skeletons per Summon": "4",
+        "Maximum Skeletons Summoned": "10",
+        "Skeleton Level": "1",
+        "Hitpoints": "400",
+        "Research Cost": "29,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "165",
+        "Damage per Hit": "115.5",
+        "Skeletons per Summon": "4",
+        "Maximum Skeletons Summoned": "12",
+        "Skeleton Level": "1",
+        "Hitpoints": "470",
+        "Research Cost": "45,000",
+        "Research Time": "3d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "185",
+        "Damage per Hit": "129.5",
+        "Skeletons per Summon": "4",
+        "Maximum Skeletons Summoned": "14",
+        "Skeleton Level": "1",
+        "Hitpoints": "520",
+        "Research Cost": "62,500",
+        "Research Time": "4d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "200",
+        "Damage per Hit": "140",
+        "Skeletons per Summon": "4",
+        "Maximum Skeletons Summoned": "15",
+        "Skeleton Level": "1",
+        "Hitpoints": "540",
+        "Research Cost": "150,000",
+        "Research Time": "5d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "220",
+        "Damage per Hit": "154",
+        "Skeletons per Summon": "5",
+        "Maximum Skeletons Summoned": "16",
+        "Skeleton Level": "1",
+        "Hitpoints": "560",
+        "Research Cost": "180,000",
+        "Research Time": "7d 6h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "260",
+        "Damage per Hit": "182",
+        "Skeletons per Summon": "5",
+        "Maximum Skeletons Summoned": "16",
+        "Skeleton Level": "2",
+        "Hitpoints": "650",
+        "Research Cost": "355,000",
+        "Research Time": "15d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Witch",
+        "Boost Cost": "25,000",
+        "Witch Level Required": "5"
+      }
+    ],
+    [
+      {
+        "November 26, 2012": "Date",
+        "iron999gary suggested adding a necromancer.": "Description"
+      },
+      {
+        "November 26, 2012": "July 28, 2013",
+        "iron999gary suggested adding a necromancer.": "Announced the Witch."
+      },
+      {
+        "November 26, 2012": "July 29, 2013",
+        "iron999gary suggested adding a necromancer.": "Added the Witch, with two levels."
+      },
+      {
+        "November 26, 2012": "August 27, 2013",
+        "iron999gary suggested adding a necromancer.": "Reduced attack range from 5 tiles to 3 tiles."
+      },
+      {
+        "November 26, 2012": "December 10, 2015",
+        "iron999gary suggested adding a necromancer.": "Added the level 3 Witch."
+      },
+      {
+        "November 26, 2012": "March 21, 2016",
+        "iron999gary suggested adding a necromancer.": "Reduced Skeleton's hitpoints from 40 to 30. Skeletons no longer trigger traps ."
+      },
+      {
+        "November 26, 2012": "May 4, 2016",
+        "iron999gary suggested adding a necromancer.": "Reduced training time from 20 minutes to 10 minutes."
+      },
+      {
+        "November 26, 2012": "October 12, 2016",
+        "iron999gary suggested adding a necromancer.": "Decreased training time from 10 minutes to 3 minutes so long as both Dark Barracks are Witch capable. Increased hitpoints at all levels: Level 1: 75 -> 250 Level 2: 100 -> 275 Level 3: 125 -> 300"
+      },
+      {
+        "November 26, 2012": "October 25, 2016",
+        "iron999gary suggested adding a necromancer.": "Temporarily reduced Witch's training cost and time to 2 minutes to celebrate Halloween."
+      },
+      {
+        "November 26, 2012": "November 2, 2016",
+        "iron999gary suggested adding a necromancer.": "Reverted the Witch's training cost and time."
+      },
+      {
+        "November 26, 2012": "December 19, 2016",
+        "iron999gary suggested adding a necromancer.": "Increased damage at all levels: Level 1: 30 -> 50 Level 2: 35 -> 60 Level 3: 40 -> 70 Increased hitpoints at all levels: Level 1: 250 -> 270 Level 2: 275 -> 300 Level 3: 300 -> 330"
+      },
+      {
+        "November 26, 2012": "March 8, 2017",
+        "iron999gary suggested adding a necromancer.": "Increased spawning rate from 6 seconds to 5.6 seconds."
+      },
+      {
+        "November 26, 2012": "August 18, 2017",
+        "iron999gary suggested adding a necromancer.": "Witches took the role of being the Home Village's builders for the week, having replaced the Giants . While they were builders, they interacted with buildings at melee range, much unlike their ranged attacks. A week later, they were then replaced by the Wizards ."
+      },
+      {
+        "November 26, 2012": "June 11, 2018",
+        "iron999gary suggested adding a necromancer.": "Added the level 4 Witch. Increased damage at levels 1 to 3: Level 1: 50 -> 100 Level 2: 60 -> 120 Level 3: 70 -> 140 Increased hitpoints at levels 1 to 3: Level 1: 270 -> 320 Level 2: 300 -> 360 Level 3: 330 -> 400 All levels now spawn 4 Skeletons at a time (max summoned Skeletons unchanged)."
+      },
+      {
+        "November 26, 2012": "June 26, 2018",
+        "iron999gary suggested adding a necromancer.": "Reduced upgrade times at levels 2 and 3: Level 2: 10d -> 6d 12h Level 3: 14d -> 11d 12h"
+      },
+      {
+        "November 26, 2012": "October 23, 2018",
+        "iron999gary suggested adding a necromancer.": "Reduced training costs at all levels: Level 1: 250 -> 175 Level 2: 350 -> 225 Level 3: 450 -> 275 Level 4: 550 -> 325 Reduced damage at level 2 from 120 to 110. Reduced hitpoints at levels 1 and 2: Level 1: 320 -> 300 Level 2: 360 -> 320 Reduced gem donation cost from 15 to 10."
+      },
+      {
+        "November 26, 2012": "April 2, 2019",
+        "iron999gary suggested adding a necromancer.": "Added the level 5 Witch. Level 3 moved to Town Hall 10 and level 4 to Town Hall 11 respectively (previously level 3 was at Town Hall 11 and 4 was at Town Hall 12). Reduced upgrade times at levels 2 to 4: Level 2: 6d 12h -> 6d Level 3: 11d 12h -> 9d Level 4: 14d -> 12d Reduced training cost at levels 1 to 4: Level 1: 175 -> 125 Level 2: 225 -> 150 Level 3: 275 -> 175 Level 4: 325 -> 225 Reduced upgrade costs at levels 3 and 4: Level 3: 160,000 -> 120,000 Level 4: 200,000 -> 160,000"
+      },
+      {
+        "November 26, 2012": "October 12, 2020",
+        "iron999gary suggested adding a necromancer.": "Reduced upgrade times at levels 2 to 4: Level 2: 6d -> 5d Level 3: 9d -> 6d 12h Level 4: 12d -> 9d 12h Reduced upgrade costs at levels 2 to 4: Level 2: 75,000 -> 50,000 Level 3: 120,000 -> 80,000 Level 4: 160,000 -> 130,000"
+      },
+      {
+        "November 26, 2012": "April 12, 2021",
+        "iron999gary suggested adding a necromancer.": "Reduced training time from 6m to 4m."
+      },
+      {
+        "November 26, 2012": "December 9, 2021",
+        "iron999gary suggested adding a necromancer.": "Reduced upgrade times at levels 2 and 3: Level 2: 5d -> 4d Level 3: 6d 12h -> 5d 12h"
+      },
+      {
+        "November 26, 2012": "October 10, 2022",
+        "iron999gary suggested adding a necromancer.": "Added the level 6 Witch."
+      },
+      {
+        "November 26, 2012": "December 12, 2023",
+        "iron999gary suggested adding a necromancer.": "Added the level 7 Witch. Reduced upgrade times at levels 5 and 6: Level 5: 9d -> 7d 12h Level 6: 17d 12h -> 14d Reduced upgrade costs at levels 2 and 3: Level 2: 50,000 -> 40,000 Level 3: 68,000 -> 58,000"
+      },
+      {
+        "November 26, 2012": "June 3, 2024",
+        "iron999gary suggested adding a necromancer.": "Increased damage at levels 4 and 5: Level 4: 160 -> 165 Level 5: 180 -> 185 Increased hitpoints at levels 4 to 6: Level 4: 440 -> 470 Level 5: 480 -> 520 Level 6: 520 -> 540"
+      },
+      {
+        "November 26, 2012": "February 10, 2025",
+        "iron999gary suggested adding a necromancer.": "Reduced training time from 2m to 1m 40s."
+      },
+      {
+        "November 26, 2012": "March 27, 2025",
+        "iron999gary suggested adding a necromancer.": "Removed training time."
+      },
+      {
+        "November 26, 2012": "February 23, 2026",
+        "iron999gary suggested adding a necromancer.": "Added the level 8 Witch."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_hit.ogg",
+        "Captions": "Projectile hits*",
+        "Description": "When the Witch projectile is succesfully hits a unit or building"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Witch_deploy.ogg",
+        "Captions": "Witch deploys",
+        "Description": "When the Witch is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Witch_attack.ogg",
+        "Captions": "Witch attacks",
+        "Description": "When the Witch is attacking something"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Witch_summon.ogg",
+        "Captions": "Witch summon",
+        "Description": "When the Witch summoning a Skeletons"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Witch_die.ogg",
+        "Captions": "Witch dies",
+        "Description": "When the Witch dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her Super version, see Super Witch . For her Builder Base counterpart, see Night Witch . \"The Witch never fights alone, constantly raising dead warriors from past battles to lead her attacks. Upgraded Witches raise more skeletons at a time.\" Level 1-2 Level 3-4 Level 5 Level 6 Level 7 Level 8 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 6.1 Generic 6.2 Unique 7 Gallery 8 Trivia Summary The Witch is the fifth Dark Elixir Troop unlocked in the Dark Barracks when it is upgraded to level 5, which requires Town Hall level 9. She is a splash-damaging ground troop. The Witch shoots blue projectiles at her target and can summon dead warriors from past battles, the Skeletons . Only a certain amount of Skeletons per Witch can be summoned to the battlefield at the same time (see table below for details). In her artwork, the Witch has short purple hair that goes down to her shoulders and has glowing pink eyes. She wears two golden shoulder pieces, a golden belt, two gold bracelets, and a raggedy skirt. She also wears a raggedy purple cape and holds a staff with a goat's skull. Witches have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Witches will proceed to attack the nearest structure. Strategies Offensive Strategies As she has low hitpoints, the Witch is recommended as a support troop, and should be placed near the back of an attack. Avoid grouping Witches together, as splash defenses such as the Mortar , Wizard Tower , Bomb Tower, Eagle Artillery , or Scattershot may wipe them all out. Plus the Skeletons spawned by Witches are good distractions to occupy defense buildings. A good strategy is to include one or two Witches in your attack. Where needed, the Skeletons can tank and provide small bonuses to damage. At higher levels, the Witches can spawn tons of Skeletons, which makes it a good idea to include some for attacks like Yeti Smash, Super Archer Smash or BoWitch. Golems and Ice Golems are the preferred and recommended tank for Witches as they do not have a need for extra DPS and P.E.K.K.As have marginally less hitpoints than the Golems at higher Town Hall levels. At Town Hall 9 and 10, Giants have a great synergy with the Witch Slap or other Witch based attacks also because Witches must be funnelled and deploying a few Giants and 2-3 Witches at the start of an attack will do that beautifully. The Witch's Skeletons can help low damage tanks like the Giant , Golem or Ice Golem destroy buildings. The Witch's Skeletons can easily overwhelm defenses, though splash-damaging buildings ( Mortars , Bomb Towers and Wizard Towers ) can wipe them out just as easily as they can be raised. Keep in mind that the Mortar's fire rate, as slow as it is, is still faster than the spawn rate of the Witches skeletons. The Bomb Tower is the main defense to be aware of, as it can quickly decimate the attacking Skeletons if not supported, then lock onto the Witches. Once the Witches spawn another wave, the Bomb Tower easily takes it out with its death bomb resulting in huge damage to the witch army. Make sure there are tanks like a Giant supporting the Witches so the Bomb Tower does not lock on to the Witches and Skeletons. Multi-target Inferno Towers and Scattershots also have the same threat. If you have strong enough Lightning Spells , take out one or two Wizard Towers (or in higher levels, multi-target Inferno Towers or Scattershots) at the start of the raid. This will greatly decrease the base's splash damage capability. More Skeletons will then stay alive longer acting as a distraction for the defense and will let your stronger units take care of the rest. If you see a Witch on defense, a single Lightning Spell or Poison Spell is a convenient option to prevent wave after wave of Skeletons continually distracting your offensive troops. If neither of these are available, luring the Witch out into the open and then swarming her with massed troops can be a good idea. The massed troops may all target the same Skeletons, though. A Totem Spell or two also works well for distracting Witches and any Skeletons they spawn. Using an all-Witch army can potentially topple most base designs if supported by spells. Due to the fact that large numbers of Witches can summon Skeletons numbering into the hundreds, most defenses will easily be swarmed. Mortars, Wizard Towers and Bomb Towers are amongst the few defenses that can handle the Skeleton swarm. Beware that even high-level Walls will not last long due to the additive damage of all the Skeletons. This strategy works as long as the Witches can reliably stay alive. Once the Witches start to die out, the Skeleton horde will drop in numbers which can result in a defeat, so it is still recommended to back them up with tanks such as the Golem. Defensive Strategies When trying to defend against Witches, the Giant Bomb can severely damage the Witch(es) and kill off any nearby Skeletons in its radius. Bomb Towers are also good at defeating the Skeletons quickly, and damaging the Witches when destroyed. When defending in Clan Castles , Witches can be overwhelming if the attacker does not prepare for it (especially if there are two or more in the same Clan Castle). Their summoned Skeletons are excellent at swarming attackers, and can possibly take out a lone Barbarian King or Archer Queen even if they use their abilities (provided that the Heroes do not target the Witch immediately after being deployed). That being said, the Witch is vulnerable against being swarmed by troops herself, as she has moderate hitpoints. and her Skeletons do not deal splash damage. Complementing her with a Valkyrie or Baby Dragon can be a good idea to compensate for her weaknesses. However, Witches can get taken out with a single Poison Spell. Valkyries are themselves effective counters against Witches, as they can quickly take out the spawned Skeletons and move onto the Witch just as quickly. Other splash damage units, such as Wizards , can also wipe out multiple Skeletons in one go. Witches are also weak against air attacks, as her Skeletons do not target air units. Dragons , Baby Dragons or Electro Dragons when used in attacking can easily take out defending Witches. When using Witches as part of your Clan Castle complement, place the Clan Castle behind Walls to protect her from being drawn out and killed easily. As Skeleton Traps are good for distracting P.E.K.K.As , so is a Witch. A protected Witch has the ability to destroy a P.E.K.K.A with ease. Using Giants or Golems with Witches is a great idea. Because Giants get deployed before Witches, the Giants will be able to take off some heat from the Witches until their Skeletons take over. This is, unless a Poison Spell will be used to kill the Witches. Usually, a Giant Bomb and a Bomb will kill a Witch of the equivalent level. Because the Skeletons do not activate traps, a Spring Trap is very effective at removing a single Witch from the map, provided that it is level 2 or higher. Poison Spell Towers, if available, can be used to destroy groups of Witches and their summoned Skeletons. Upgrade Differences The Witch undergoes significant visual changes at levels 2, 5 and 7. Initially, the Witch is a woman wearing a dark magenta dress with slightly crumpled ends and a few holes, a gray top, golden shoulder guards, gloves with golden details, and a belt with a golden skull at the center. She has glowing red eyes. She carries a staff capped by the skull of a ram with golden horns. Her skin is pale, appearing to look like a whitish color, and her cloak is violet which goes down almost to the bottom of her dress, covering her actual hair. At level 3, the Witch gains a golden headdress. Her dress loses the holes and smoothes itself out. Her staff gains two golden rings around the handle. At level 5, the Witch's gains a purple headpiece. Her staff's horns are now pink. At level 6, the Witch's headpiece gains a gold border and changes its shape to a triangle. At level 7, the Witch's headpiece gains a green leaf symbol with a golden outline around it. Her staff's horns are now red. At level 8, the Witch loses her headpiece. Her dress is now blue, the skull on her belt turns black, and the trim of her cloak also turns blue from gold and is thinner. Her gloves become lighter and its details turn black, and her shoulder guards turn black. Her staff loses the golden rings it had before, and the ram skull on her staff turns darker, and its eyes and horns turn blue. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Summon Cooldown Dark Barracks Level Required Range None Area Splash 0.3 Tile Radius (Ground & Air) 12 12 0.7s 7s 5 4 tiles Level Damage per Second Damage per Hit Skeletons per Summon Maximum Skeletons Summoned Skeleton Level Hitpoints Research Cost Research Time Laboratory Level Required 1 100 70 4 6 1 300 N/A N/A N/A 2 110 77 4 8 1 320 20,000 2d 7 3 140 98 4 10 1 400 29,000 3d 8 4 165 115.5 4 12 1 470 45,000 3d 12h 9 5 185 129.5 4 14 1 520 62,500 4d 10 6 200 140 4 15 1 540 150,000 5d 12h 13 7 220 154 5 16 1 560 180,000 7d 6h 14 8 260 182 5 16 2 650 355,000 15d 12h 16 Super Troop Boost Super Troop Boost Cost Witch Level Required Super Witch 25,000 5 History November 26, 2012 iron999gary suggested adding a necromancer. Date Description July 28, 2013 Announced the Witch. July 29, 2013 Added the Witch, with two levels. August 27, 2013 Reduced attack range from 5 tiles to 3 tiles. December 10, 2015 Added the level 3 Witch. March 21, 2016 Reduced Skeleton's hitpoints from 40 to 30. Skeletons no longer trigger traps . May 4, 2016 Reduced training time from 20 minutes to 10 minutes. October 12, 2016 Decreased training time from 10 minutes to 3 minutes so long as both Dark Barracks are Witch capable. Increased hitpoints at all levels: Level 1: 75 -> 250 Level 2: 100 -> 275 Level 3: 125 -> 300 October 25, 2016 Temporarily reduced Witch's training cost and time to 2 minutes to celebrate Halloween. November 2, 2016 Reverted the Witch's training cost and time. December 19, 2016 Increased damage at all levels: Level 1: 30 -> 50 Level 2: 35 -> 60 Level 3: 40 -> 70 Increased hitpoints at all levels: Level 1: 250 -> 270 Level 2: 275 -> 300 Level 3: 300 -> 330 March 8, 2017 Increased spawning rate from 6 seconds to 5.6 seconds. August 18, 2017 Witches took the role of being the Home Village's builders for the week, having replaced the Giants . While they were builders, they interacted with buildings at melee range, much unlike their ranged attacks. A week later, they were then replaced by the Wizards . June 11, 2018 Added the level 4 Witch. Increased damage at levels 1 to 3: Level 1: 50 -> 100 Level 2: 60 -> 120 Level 3: 70 -> 140 Increased hitpoints at levels 1 to 3: Level 1: 270 -> 320 Level 2: 300 -> 360 Level 3: 330 -> 400 All levels now spawn 4 Skeletons at a time (max summoned Skeletons unchanged). June 26, 2018 Reduced upgrade times at levels 2 and 3: Level 2: 10d -> 6d 12h Level 3: 14d -> 11d 12h October 23, 2018 Reduced training costs at all levels: Level 1: 250 -> 175 Level 2: 350 -> 225 Level 3: 450 -> 275 Level 4: 550 -> 325 Reduced damage at level 2 from 120 to 110. Reduced hitpoints at levels 1 and 2: Level 1: 320 -> 300 Level 2: 360 -> 320 Reduced gem donation cost from 15 to 10. April 2, 2019 Added the level 5 Witch. Level 3 moved to Town Hall 10 and level 4 to Town Hall 11 respectively (previously level 3 was at Town Hall 11 and 4 was at Town Hall 12). Reduced upgrade times at levels 2 to 4: Level 2: 6d 12h -> 6d Level 3: 11d 12h -> 9d Level 4: 14d -> 12d Reduced training cost at levels 1 to 4: Level 1: 175 -> 125 Level 2: 225 -> 150 Level 3: 275 -> 175 Level 4: 325 -> 225 Reduced upgrade costs at levels 3 and 4: Level 3: 160,000 -> 120,000 Level 4: 200,000 -> 160,000 October 12, 2020 Reduced upgrade times at levels 2 to 4: Level 2: 6d -> 5d Level 3: 9d -> 6d 12h Level 4: 12d -> 9d 12h Reduced upgrade costs at levels 2 to 4: Level 2: 75,000 -> 50,000 Level 3: 120,000 -> 80,000 Level 4: 160,000 -> 130,000 April 12, 2021 Reduced training time from 6m to 4m. December 9, 2021 Reduced upgrade times at levels 2 and 3: Level 2: 5d -> 4d Level 3: 6d 12h -> 5d 12h October 10, 2022 Added the level 6 Witch. December 12, 2023 Added the level 7 Witch. Reduced upgrade times at levels 5 and 6: Level 5: 9d -> 7d 12h Level 6: 17d 12h -> 14d Reduced upgrade costs at levels 2 and 3: Level 2: 50,000 -> 40,000 Level 3: 68,000 -> 58,000 June 3, 2024 Increased damage at levels 4 and 5: Level 4: 160 -> 165 Level 5: 180 -> 185 Increased hitpoints at levels 4 to 6: Level 4: 440 -> 470 Level 5: 480 -> 520 Level 6: 520 -> 540 February 10, 2025 Reduced training time from 2m to 1m 40s. March 27, 2025 Removed training time. February 23, 2026 Added the level 8 Witch. Audio Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Wizard_hit.ogg Projectile hits* When the Witch projectile is succesfully hits a unit or building Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Witch_deploy.ogg Witch deploys When the Witch is deployed https://clashofclans.fandom.com/wiki/File:Witch_attack.ogg Witch attacks When the Witch is attacking something https://clashofclans.fandom.com/wiki/File:Witch_summon.ogg Witch summon When the Witch summoning a Skeletons https://clashofclans.fandom.com/wiki/File:Witch_die.ogg Witch dies When the Witch dies * Reuses the fireball hit sound effect of the Wizard Gallery Witch's icon In-game sprite Witching hour Clan Games challenge Four Witches at a level 8 Army Camp Witch's render in the Chinese server Trivia You can have a maximum of 29 Witches at one time in a complete set of fully upgraded Army Camps . This number increases to 33 if you include 4 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 16 Witches with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 49 Witches. The Witch is shown to utilize the practice of necromancy . Necromancy is a form of magic involving communication with the deceased – either by summoning their spirit as an apparition or raising them bodily. This is referenced in the descriptions stating that Skeletons are dead warriors from the past summoned by the Witch. In the Japanese language setting of the game, the Witch's name translates to \"Necromancer\". Although she appears to have no feet, which makes it seem like she is levitating, she is actually a ground troop and will not be attacked by Air Defenses or trigger Air Bombs or Seeking Air Mines , nor will she float over Walls like the Grand Warden . However, her Clash Royale counterpart walks instead. Unlike her counterpart in Clash Royale , the stats of the Skeletons do not increase when the Witch is upgraded until level 8. Although summoned Skeletons look very similar to Wall Breakers , they are more likely to be Barbarians because they have a similar look, stance and attacking style. Many fans mistake the Witch's cloak for her hair. The Witch has dark pink-purple hair, as shown in a Clash of Clans commercial, depicting that the bit of hair shown outside her cloak is dark pink-purple. Supercell held a forums contest on August 5, 2013 to see who could draw the best art of \"What does the Witch do on her day off\" to earn 2,500 Gems . The winner of this contest was emiriic . If you observe carefully, the Witch looks similar to the Archer , only much more \"zombified\". Witches do not require any graves on the battlefield to summon Skeletons. Rage Spells don't speed up the Witch's Skeleton production. Skeletons spawned by the Witch will not return to the Clan Castle during a defense. The summoned Skeletons make upon-death skeletons. There was a bug where the Witch would spawn Skeletons while walking and would not stop to do so. She also spawned Skeletons at death similar to the Lava Hound mechanic. This was, unfortunately, a bug which was patched in the Builder Hall 6 update. But this gave birth to the Witch Slap attack strategy which was still relevant even after the removal of this mechanic. The Witch is mentioned to have created the spell involved in the Shrink Trap . The Witch is revealed to be Night Witch's sister, according to the Night Witch Karaoke Contest video and the Night Witch's description. The Witch and Night Witch are also mentioned as being sisters in the Clash-a-Rama episode \" Clone Alone \". Although the description states that upgraded Witches raise more Skeletons at a time, upgraded Witches only get an increase in the total Skeleton limit, not number of Skeletons spawned at a time. When the Witch was first released however, upgraded Witches did spawn more Skeletons at a time. The Witch is the Dark Elixir Troop that requires the least amount of Dark Elixir to upgrade to max level, with 555,000 Dark Elixir needed to upgrade her from level 1 to level 5. Despite the Witch being a Dark Elixir troop, she will make a regular Elixir explosion upon death much like the Ice Golem . In Clash Royale , her Star Level 2 skin resembles the Level 3 Witch in Clash of Clans . Witch is one of seven troops featured as a character in Squad Busters . The others are the Barbarian , Archer , Goblin , Wizard , Hog Rider , and Miner . The Witch's Classic form in Squad Busters resembles the level 1 Witch in Clash of Clans . In the Dark Ages scenery , at the bottom-right, a Ducking Stool (a torture device which consisted of a chair fastened to the end of a pole, used formerly to plunge offenders into a pond or river as a punishment) can be seen as well as several hoods of Witches. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

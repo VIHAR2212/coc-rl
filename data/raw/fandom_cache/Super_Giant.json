@@ -1,0 +1,215 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "10",
+        "Movement Speed": "12",
+        "Attack Speed": "2s",
+        "Range": "1 tile",
+        "Special Ability": "Wall Buster"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Giant Level Required": "9"
+      }
+    ],
+    [
+      {
+        "Level": "9",
+        "Damage per Second": "130",
+        "Damage per Attack": "260",
+        "Damage vs Walls": "1,300",
+        "Hitpoints": "4,000"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "140",
+        "Damage per Attack": "280",
+        "Damage vs Walls": "1,400",
+        "Hitpoints": "4,200"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "150",
+        "Damage per Attack": "300",
+        "Damage vs Walls": "1,500",
+        "Hitpoints": "4,400"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "160",
+        "Damage per Attack": "320",
+        "Damage vs Walls": "1,600",
+        "Hitpoints": "4,600"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "175",
+        "Damage per Attack": "350",
+        "Damage vs Walls": "1,750",
+        "Hitpoints": "4,900"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "205",
+        "Damage per Attack": "410",
+        "Damage vs Walls": "2,050",
+        "Hitpoints": "5,600"
+      }
+    ],
+    [
+      {
+        "Date": "March 30, 2020",
+        "Description": "Added the Super Giant, with one distinct level."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Description": "Added the level 10 Super Giant."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Reduced hitpoints at levels 9 and 10: Level 9: 4,200 -> 4,000 Level 10: 4,400 -> 4,200"
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added the level 11 Super Giant."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 12 Super Giant."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the level 13 Super Giant."
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Added the level 14 Super Giant. Increased damage at level 13 from 170 to 175. Increased hitpoint at level 13 from 4,800 to 4,900."
+      },
+      {
+        "Date": "January 12, 2026",
+        "Description": "Increased damage at level 14 from 190 to 205. Increased hitpoint at level 14 from 5,300 to 5,600."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ],
+    [
+      {
+        "": "Level 1-5"
+      }
+    ],
+    [
+      {
+        "": "",
+        "ⓘ": "ⓘ"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "10",
+        "Movement Speed": "9",
+        "Attack Speed": "2s",
+        "Range": "0.75 tiles",
+        "Special Ability": "Wall Buster",
+        "Super Giant Barracks Level Required": "1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "100",
+        "Damage per Attack": "200",
+        "Damage vs Walls": "1,000",
+        "Hitpoints": "3,000",
+        "Super Giant Barracks Level": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "110",
+        "Damage per Attack": "220",
+        "Damage vs Walls": "1,100",
+        "Hitpoints": "3,300",
+        "Super Giant Barracks Level": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "120",
+        "Damage per Attack": "240",
+        "Damage vs Walls": "1,200",
+        "Hitpoints": "3,600",
+        "Super Giant Barracks Level": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "130",
+        "Damage per Attack": "260",
+        "Damage vs Walls": "1,300",
+        "Hitpoints": "4,000",
+        "Super Giant Barracks Level": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "140",
+        "Damage per Attack": "280",
+        "Damage vs Walls": "1,400",
+        "Hitpoints": "4,400",
+        "Super Giant Barracks Level": "5"
+      }
+    ],
+    [
+      {
+        "Patch": "May 2, 2022",
+        "Description": "Added the Super Giant to the Clan Capital in its eponymous update, with 5 levels."
+      },
+      {
+        "Patch": "September 14, 2023",
+        "Description": "Increased the Super Giant's hitpoints at levels 4 and 5: Level 4: 3,900 -> 4,000 Level 5: 4,200 -> 4,400"
+      }
+    ],
+    [
+      {
+        "Clan Capital Army": "Troops"
+      },
+      {
+        "Clan Capital Army": "Spells"
+      }
+    ]
+  ],
+  "raw_text": "Home Village Clan Capital [[File:{{{Alt}}}|28px|link=]] For his base version, see Giant . For his Clan Capital counterpart, see Super Giant . \"Super Giants are bigger than their ordinary cousins and are great at punching their way through walls . The belt is from the annual village eating contest.\" Level 9-14 Summary The Super Giant is a Super Troop based on the Giant . It can be unlocked by boosting the Giant when the Giant is at least level 9. Boosting the Giant requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Giant to be boosted for 3 days. The level of Super Giant you obtain from the boost corresponds to the level of Giant you have. The Super Giant is a melee unit with a very high amount of hitpoints for his housing space. His Wall Buster ability allows him to deal five times damage to Walls , but despite this, he does not preferentially target Walls. Because of the level requirement, players require Town Hall 12 in order to boost Giants into Super Giants. However, because of the Laboratory level cap, players require a level 6 Clan Castle or greater in order to get donated one, allowing anyone Town Hall 10 or above to get one. Super Giants prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Note that like all troops that prioritize defenses, Super Giants do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all defenses are destroyed, Super Giants become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. However, they will not switch targets to enemy units until their previous target was destroyed. Strategy Offensive You could use the Super Giant to destroy Walls , as he has less of a chance to be taken out before destroying a Wall as a Wall Breaker , since they have high hitpoints. However, against high-level Walls, a single Super Giant will take a considerable amount of time to break Walls - consider using multiple at once. Like the regular Giant (and similarly to other tanking troops like Ice Golems ), you can use Super Giants to tank for other troops. They can work as a middle ground between Giants and Golems . Alternatively, they can help tank for Super Wall Breakers or for regular Wall Breakers, if you are trying to achieve a funnel. Super Giants can work well in a smash-style attack. You can consider taking less spells to give them access through the base and more spells to boost them through the base, like Rage Spells . Swarming them in a line will help: It will negate some of the splash damage, and they will break the walls quickly and effectively, while tanking for the troops behind. Defensive Super Giants are more susceptible to Single-Target Inferno Towers than two regular Giants (but less susceptible than troops that take more housing space such as a P.E.K.K.A or Golem ), however they will fare better against splash defenses than two Giants will. On the other hand, the Super Giant is less susceptible to multi-target Inferno Towers than the regular Giant, as 5 Super Giants (50 housing space) will last a lot longer than 10 regular Giants. As by aforementioned logic that Super Giant attackers would take less spells to counter Walls , having a more compact base that would have many Wall layers is a good idea to delay the Super Giants. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Defenses Melee (Ground Only) 10 12 2s 1 tile Wall Buster Boost Cost Boost Duration Giant Level Required 25,000 3d 9 Level Damage per Second Damage per Attack Damage vs Walls Hitpoints 9 130 260 1,300 4,000 10 140 280 1,400 4,200 11 150 300 1,500 4,400 12 160 320 1,600 4,600 13 175 350 1,750 4,900 14 205 410 2,050 5,600 History Date Description March 30, 2020 Added the Super Giant, with one distinct level. October 12, 2020 Added the level 10 Super Giant. April 12, 2021 Reduced hitpoints at levels 9 and 10: Level 9: 4,200 -> 4,000 Level 10: 4,400 -> 4,200 October 10, 2022 Added the level 11 Super Giant. December 12, 2023 Added the level 12 Super Giant. November 25, 2024 Added the level 13 Super Giant. March 24, 2025 Removed training time. November 17, 2025 Added the level 14 Super Giant. Increased damage at level 13 from 170 to 175. Increased hitpoint at level 13 from 4,800 to 4,900. January 12, 2026 Increased damage at level 14 from 190 to 205. Increased hitpoint at level 14 from 5,300 to 5,600. Gallery Super Giant icon Trivia You can have a maximum of 35 Super Giants at one time in a complete set of fully upgraded Army Camps . This number increases to 40 if you include 5 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 16 Super Giants with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 56 Super Giants. Super Giants are more visually similar to Boxer Giants than the regular ones, having a belt and compression bandages around the wrist and a different hairstyle. VX Sagittarii, a red supergiant star He is based on a supergiant , a very large star after it left the large main sequence stage, with Antares and Betelgeuse being examples of those stars. His name and appearance are both puns on \"supergiant\", as he is a Super Troop counterpart of the Giant. The description is also a reference to the fact that he is bigger than regular Giants. Although the description states that the Super Giant is Giant's cousin, the Giant is shown to transform into Super Giant in Clash-A-Rama and Clash Combat , especially in-game where Giants will walk to the Super Sauna to turn into Super Giants. The Super Giant's description states that they are bigger than regular Giants, although their size is the same. In the artwork, the Super Giant's clothing is brown and his belt is maroon, but in battle, his clothing is taupe and his belt is black. Apparently, from the description, the Super Troops logo is also used to represent the winner of a food eating contest. When comparing to a regular Giant in battle, the Super Giant's head seems smaller. The Super Giant is the second least boosted Super Troop, with the Super Valkyrie being the least boosted one. [ 1 ] Comparisons The Super Giant is one of the Super Troops to have a Super Troop logo, the others being the Rocket Balloon , Super Wizard , Super Valkyrie , Super Witch , and Super Bowler . The Super Giant, Super Barbarian , Sneaky Goblin , and Super Wall Breaker were the first Super Troops to be added into the game. The Super Giant and the Rocket Balloon are the first and only Super Troops to appear in a loading screen. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven [[File:{{{Alt}}}|28px|link=]] For his base version, see Giant . For his Home Village counterpart, see Super Giant/Home Village . \"Super Giants are bigger than their ordinary cousins and are great at punching their way through walls . The belt is from the annual village eating contest.\" Level 1-5 Summary The Super Giant is a troop available in the Clan Capital , available when the Super Giant Barracks is constructed (this requires the Barbarian Camp district to be unlocked, and hence requires Capital Hall level 2). The Super Giant is a melee unit with high hitpoints that targets defenses. His Wall Buster ability enables him to deal 5x damage to Capital Walls , just like the Super Giants in the Home Village. Super Giants prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy troops stationed in defense posts ( Super Giant , Raid Cart , and Super Dragon Posts ). Note that the defense posts themselves are not considered defensive buildings, regardless of whether or not their stationed troops are still alive. Once all defenses are destroyed, Super Giants become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. Super Giants are also stationed in Super Giant Posts as defending troops, which have the same stats that of attacking Super Giants. Strategies Offensive Strategies Super Giants are excellent for tanking, especially for troops with low hitpoints such as Capital Sneaky Archers and Capital Super Wizards . They can even tank for air troops such as Minion Hordes in scenarios where no air-only defenses are being fought, such as against single Spear Throwers on the outskirts of a district. Capital Heal Spells are usually paired up with Super Giants and their supporting units so that they can all stay alive for longer. Their high health to housing space ratio means that they can distract the Capital Hall weapon for a decent amount of time. This is especially useful if you can take it out with Super Wizards chaining onto nearby buildings, which a typical feature of lower levelled Clan Capitals. Defensive Strategies The most effective defense (especially at lower Capital Hall Levels) to quickly annihilate Super Giants is the Multi Cannon . Just make sure that they only target Super Giants and it is separated from all other buildings 2 tiles apart while being in the core of a base so that Capital Sneaky Archers would be distracted and quickly wiped out by the Capital Multi Mortar and the Capital Super Wizards could not deal chain lightning damage to the Multi Cannon. Super Giants are vulnerable to having their troop AI exploited for funneling via gaps in Capital Walls (they may go for such gaps even if it is very far away from their deployment point). Although there are no Spring Traps to instantly kill them, they can at least be lured into choke points where defenses can lay into them while separating them from more vulnerable troops. Such funnels can possibly be broken with Capital Battle Rams or Capital Jump Spells , the former of which is much cheaper than the latter in terms of housing space, so one should also make the funnel foolproof against Battle Rams, possibly by exploiting the Rams' AI themselves. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Super Giant Barracks Level Required Defenses Melee (Ground Only) 10 9 2s 0.75 tiles Wall Buster 1 Level Damage per Second Damage per Attack Damage vs Walls Hitpoints Super Giant Barracks Level 1 100 200 1,000 3,000 1 2 110 220 1,100 3,300 2 3 120 240 1,200 3,600 3 4 130 260 1,300 4,000 4 5 140 280 1,400 4,400 5 History Patch Description May 2, 2022 Added the Super Giant to the Clan Capital in its eponymous update, with 5 levels. September 14, 2023 Increased the Super Giant's hitpoints at levels 4 and 5: Level 4: 3,900 -> 4,000 Level 5: 4,200 -> 4,400 Gallery Super Giant icon Trivia General You can have a maximum of 25 Super Giants at one time in a complete set of fully upgraded Capital Army Camps . Super Giants are the second-best troop for breaking walls, the best being the Capital Battle Rams . Super Giants are more visually similar to Boxer Giants than the regular ones, having a belt and compression bandages around the wrist and a different hairstyle. VX Sagittarii, a red supergiant star He is based on a supergiant , a very large star after it left the large main sequence stage, with Antares and Betelgeuse being examples of those stars. His name and appearance are both puns on \"supergiant,\" since the description states that is also a reference to the fact that he is bigger than regular Giants. Although the description states that the Super Giant is Giant 's cousin, the Giant is shown to transform into Super Giant in Clash-A-Rama and Clash Combat, especially in-game where Giants will walk to the Super Sauna to turn into Super Giants. The Super Giant's description states that they are bigger than regular Giants, although their size is the same. In the artwork, the Super Giant's clothing is brown and his belt is red, but in battle, his clothing is taupe and his belt is black. Apparently, from the description, the Super Troops logo is also used to represent the winner of a food eating contest. When comparing to a regular Giant in battle, the Super Giant's head seems smaller. Comparisons The Super Giant is one of the 6 Super Troops to have a Super Troop logo, the others being the Rocket Balloon , Super Wizard , Super Valkyrie , Super Witch , and the Super Bowler . The Super Giant, Super Barbarian , Sneaky Goblin and Super Wall Breaker were the first Super Troops to be added into the game. The Super Giant and the Rocket Balloon are the first and only Super Troops to appear in a loading screen. Clan Capital Army Troops Super Barbarian • Sneaky Archers • Super Giant • Battle Ram ( Barbarian ) • Minion Horde • Super Wizard • Rocket Balloons • Skeleton Barrels ( Skeleton )  • Flying Fortress ( Skeleton Glider • Skeleton ) • Raid Cart ( Siege Cart • Barbarian ) • Power P.E.K.K.A • Hog Raiders • Super Dragon • Mountain Golem • Inferno Dragon • Super Miner • Mega Sparky Spells Healing Spell • Jump Spell • Lightning Spell • Frost Spell • Rage Spell • Graveyard Spell • Endless Haste Spell ↑ Super Troop Boost Usage (09/23 to present) : r/ClashOfClans (reddit.com)"
+}

@@ -1,0 +1,217 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Minion Prince",
+        "Ability Type": "Passive",
+        "Rarity": "Common",
+        "Unlock Requirement": "Blacksmith level 5"
+      }
+    ],
+    [
+      {
+        "Level": "Damage per Shot Increase",
+        "Ability Attributes": "Attack Range",
+        "Hero Boosts": "Number of Attacks",
+        "Upgrade Cost": "Attack Speed Increase",
+        "Blacksmith Level Required": "Hitpoint Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "350",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "5",
+        "Blacksmith Level Required": "+6%"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "350",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "5",
+        "Blacksmith Level Required": "+7%"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "420",
+        "Hero Boosts": "10.5",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "+7%"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "420",
+        "Hero Boosts": "10.5",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "+8%"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "420",
+        "Hero Boosts": "10.5",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "+9%"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "490",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "+9%"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "490",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "+10%"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "490",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "+11%"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "560",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "7",
+        "Blacksmith Level Required": "+11%"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "560",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "7",
+        "Blacksmith Level Required": "+12%"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "560",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "7",
+        "Blacksmith Level Required": "+13%"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "630",
+        "Hero Boosts": "11.5",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "+13%"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "630",
+        "Hero Boosts": "11.5",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "+14%"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "630",
+        "Hero Boosts": "11.5",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "+15%"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "700",
+        "Hero Boosts": "11.5",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "+15%"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "700",
+        "Hero Boosts": "11.5",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "+16%"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "700",
+        "Hero Boosts": "11.5",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "+17%"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "770",
+        "Hero Boosts": "12",
+        "Upgrade Cost": "10",
+        "Blacksmith Level Required": "+18%"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg",
+        "Caption": "Hero Equipment upgraded",
+        "Description": "When the Noble Iron is upgraded"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg",
+        "Caption": "Hero Equipment equipped",
+        "Description": "When the Noble Iron is equipped"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:NobleIronProjectile_Fire.ogg",
+        "Caption": "Iron Fist launches",
+        "Description": "When the Minion Prince fires an iron fist for the first few attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:NobleIronProjectile_Impact.ogg",
+        "Caption": "Iron Fist hits something",
+        "Description": "When the Iron fist impacts a unit or building"
+      }
+    ],
+    [
+      {
+        "Date": "March 23, 2025",
+        "Description": "Announced the Noble Iron, with 18 levels."
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Added the Noble Iron."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Increased hitpoint increase Hero Boost by 500 at all levels to offset the 1,000 hitpoint nerf of the Minion Prince on defense."
+      },
+      {
+        "Date": "January 28, 2026",
+        "Description": "Increased number of attacks at all levels: Level 1-2: 4 -> 5 Level 3-5: 4 -> 6 Level 6-8: 5 -> 6 Level 9-11: 5 -> 7 Level 12-17: 6 -> 8 Level 18: 7 -> 10 Increased ability attack range by 1 tile at all levels. Increased attack speed increase by 1% at all levels."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Increases the speed, range, and power of the Minion Prince's first few attacks\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 Audio 4.1 Generic 4.2 Unique 5 History 6 Trivia 6.1 Comparisons Summary The Noble Iron is a piece of Common Hero Equipment for the Minion Prince . It is unlocked when the Blacksmith is upgraded to level 5, which requires Town Hall 12 to do so. The Noble Iron is a passive Hero Equipment that appears to be a dumbbell with a brass bar and crown-shaped end, and iron weights bolted on each end. When equipped, it increases the range and damage of the first few shots of the Minion Prince after he is deployed and modify his shots into a big purplish iron fist. In addition to the ability, the Noble Iron grants additional attack speed and hitpoints to the Minion Prince. Strategies Offensive Strategies Pairing up with the Angry Jelly allows Minion Prince to work similarly as Royal Champion with Rocket Spear or Flame Flinger with a massive range, allow him to snipe defenses from afar. With Metal Pants , since it is an active ability that recover a large amount of hitpoints and reduce damage taken by a lot, it can extends the Minion Prince Charge to clear out more from a corner of the base. In addition to the above pairing, one can add Air Mode Grand Warden into the charge as he will attack the same target with the Minion Prince and may help provide some passive bonus based on his own Equipment, and both can be recalled after the charge is finished. While Grand Warden have more range than Minion Prince normally and stays safe behind him, it is not true when the Noble Iron ability is active, be careful to not let him be target first. Defensive Strategies At level 12 and above, only the Inferno Artillery , Firespitters , Long Range Multi-Gear Tower , and Longshot can match or outrange the Minion Prince with Noble Iron, which renders him vulnerable, especially when exposed. While the Eagle Artillery can also target him when Noble Iron is active, he most likely is deployed at the start of the attack so it will remain inactive. Even when he is deployed later when it is active to help with the back end, the Eagle Artillery will likely target the main army instead. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Minion Prince Passive Common Blacksmith level 5 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Damage per Shot Increase Attack Range Number of Attacks Attack Speed Increase Hitpoint Increase Shiny Ore Glowy Ore 1 350 10 5 +6% 500 N/A N/A 5 2 350 10 5 +7% 500 120 - 5 3 420 10.5 6 +7% 500 240 20 5 4 420 10.5 6 +8% 500 400 - 5 5 420 10.5 6 +9% 500 600 - 5 6 490 11 6 +9% 500 840 100 5 7 490 11 6 +10% 500 1,120 - 5 8 490 11 6 +11% 500 1,440 - 5 9 560 11 7 +11% 500 1,800 200 5 10 560 11 7 +12% 500 1,900 - 5 11 560 11 7 +13% 500 2,000 - 5 12 630 11.5 8 +13% 500 2,100 400 5 13 630 11.5 8 +14% 500 2,200 - 5 14 630 11.5 8 +15% 500 2,300 - 5 15 700 11.5 8 +15% 500 2,400 600 5 16 700 11.5 8 +16% 500 2,500 - 7 17 700 11.5 8 +17% 500 2,600 - 7 18 770 12 10 +18% 500 2,700 600 7 Audio Generic Sound Effect Caption Description https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg Hero Equipment upgraded When the Noble Iron is upgraded https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg Hero Equipment equipped When the Noble Iron is equipped Unique Sound Effect Caption Description https://clashofclans.fandom.com/wiki/File:NobleIronProjectile_Fire.ogg Iron Fist launches When the Minion Prince fires an iron fist for the first few attacks https://clashofclans.fandom.com/wiki/File:NobleIronProjectile_Impact.ogg Iron Fist hits something When the Iron fist impacts a unit or building History Date Description March 23, 2025 Announced the Noble Iron, with 18 levels. March 24, 2025 Added the Noble Iron. November 17, 2025 Increased hitpoint increase Hero Boost by 500 at all levels to offset the 1,000 hitpoint nerf of the Minion Prince on defense. January 28, 2026 Increased number of attacks at all levels: Level 1-2: 4 -> 5 Level 3-5: 4 -> 6 Level 6-8: 5 -> 6 Level 9-11: 5 -> 7 Level 12-17: 6 -> 8 Level 18: 7 -> 10 Increased ability attack range by 1 tile at all levels. Increased attack speed increase by 1% at all levels. Trivia When initially unlocked and when equipped, the Minion Prince attacks every 0.802 seconds, and when maxed out, his attack speed is 0.720 seconds. Comparisons The Noble Iron and Healer Puppet , and Vampstache and Metal Pants are the only Common Equipment to be unlocked at the same Blacksmith level, at level 5 and 3 respectively. The Noble Iron and Rocket Spear works similarly, both increases the attack damage and range temporarily, with Rocket Spear being an active ability while Noble Iron will always be used at the start of the attack. The Noble Iron also makes Minion Prince acts like a Super Minion , with a temporary extended range when deployed. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

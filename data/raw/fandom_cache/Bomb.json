@@ -1,0 +1,331 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "2",
+        "4": "2",
+        "5": "4",
+        "6": "4",
+        "7": "6",
+        "8": "6",
+        "9": "6"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "6",
+        "2": "6",
+        "3": "6",
+        "4": "7",
+        "5": "8",
+        "6": "8",
+        "7": "8",
+        "8": "8",
+        "9": "8"
+      }
+    ],
+    [
+      {
+        "Size": "1x1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage": "20",
+        "Cost": "400",
+        "Build Time": "N/A",
+        "Experience Gained": "N/A",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "2",
+        "Damage": "24",
+        "Cost": "1,000",
+        "Build Time": "1m",
+        "Experience Gained": "7",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Damage": "29",
+        "Cost": "10,000",
+        "Build Time": "5m",
+        "Experience Gained": "17",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "4",
+        "Damage": "35",
+        "Cost": "40,000",
+        "Build Time": "40m",
+        "Experience Gained": "48",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage": "42",
+        "Cost": "100,000",
+        "Build Time": "1h",
+        "Experience Gained": "60",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage": "54",
+        "Cost": "230,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "7",
+        "Damage": "72",
+        "Cost": "330,000",
+        "Build Time": "3h",
+        "Experience Gained": "103",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "8",
+        "Damage": "92",
+        "Cost": "500,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "9",
+        "Damage": "125",
+        "Cost": "750,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "10",
+        "Damage": "140",
+        "Cost": "1,300,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "11",
+        "Damage": "155",
+        "Cost": "2,500,000",
+        "Build Time": "18h",
+        "Experience Gained": "254",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "12",
+        "Damage": "170",
+        "Cost": "4,000,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "13",
+        "Damage": "185",
+        "Cost": "8,500,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "14",
+        "Damage": "200",
+        "Cost": "14,000,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Trigger Radius": "1.5 tiles",
+        "Damage Radius": "3 tiles",
+        "Damage Type": "Area Splash",
+        "Unit Type Targeted": "Ground",
+        "Favorite Target": "None"
+      }
+    ],
+    [
+      {
+        "Unarmed Bombs": "Level 1-2"
+      },
+      {
+        "Unarmed Bombs": ""
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon begins upgrading the Bomb to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Bomb is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon instantly upgrades the Bomb to the next level, at the cost of one Hammer of Building if you have one. When the Bomb is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Description": "Introduction of the Bomb, with no levels and six of them to build."
+      },
+      {
+        "Date": "August 30, 2012",
+        "Description": "Bombs and other traps are now visible when visiting own clan members."
+      },
+      {
+        "Date": "September 19, 2012",
+        "Description": "Improved visual effect of Bomb's lit fuse."
+      },
+      {
+        "Date": "October 15, 2012",
+        "Description": "Bombs and other traps are no longer visible during a defense replay."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "Tapping a Bomb now shows its trigger radius."
+      },
+      {
+        "Date": "November 6, 2013",
+        "Description": "Bombs now remain in the village after being triggered, but imposing a re-arm cost in doing so, and removing the ability to sell untriggered Bombs. Added levels 2 to 4 to the Bomb, for a total of five."
+      },
+      {
+        "Date": "July 3, 2014",
+        "Description": "Added the level 6 Bomb. All Bombs and other traps can now be re-armed by tapping the Town Hall. Moved down the Town Hall requirement for level 5 Bomb to Town Hall 8 (from 9)."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Description": "Reduced re-arm costs at all levels: Level 1: 400 -> 50 Level 2: 500 -> 100 Level 3: 600 -> 150 Level 4: 700 -> 200 Level 5: 800 -> 250 Level 6: 900 -> 300"
+      },
+      {
+        "Date": "May 22, 2017",
+        "Description": "Increased damages at all levels: Level 1: 12 -> 20 Level 2: 16 -> 24 Level 3: 20 -> 29 Level 4: 26 -> 35 Level 5: 34 -> 42 Level 6: 42 -> 54"
+      },
+      {
+        "Date": "March 5, 2018",
+        "Description": "Added the level 7 Bomb."
+      },
+      {
+        "Date": "October 23, 2018",
+        "Description": "Added the level 8 Bomb. Reduced detonation delay from 2 seconds to 1.5 seconds."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Removed re-arm costs entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the level 9 Bomb. Added the seventh Bomb available at Town Hall 13."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Reduced upgrade costs at levels 5 to 7: Level 5: 1,000,000 -> 500,000 Level 6: 1,500,000 -> 1,000,000 Level 7: 2,000,000 -> 1,500,000"
+      },
+      {
+        "Date": "January 20, 2021",
+        "Description": "Increased damage at the level 9 from 112 to 125."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added the level 10 Bomb. Added the eighth Bomb available at Town Hall 14. Reduced upgrade costs at levels 5 to 7: Level 5: 500,000 -> 300,000 Level 6: 1,000,000 -> 600,000 Level 7: 1,500,000 -> 1,200,000 Reduced upgrade times at level 2, 5, and 6: Level 2: 15m -> 6m Level 5: 1d -> 18h Level 6: 2d -> 1d 12h"
+      },
+      {
+        "Date": "December 9, 2021",
+        "Description": "Reduced upgrade costs at levels 6 to 8."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added the level 11 Bomb."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 12 Bomb. Reduced upgrade costs and times at levels 3 to 10."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the level 13 Bomb."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Added the level 14 Bomb. Reduced upgrade cost at level 13 from 10,000,000 to 8,500,000. Reduced upgrade time at level 13 from 8d to 4d 12h."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Trap_activate.ogg",
+        "Captions": "Trap triggered",
+        "Description": "When an ground unit triggers the Bomb"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:CannonCart_impact.ogg",
+        "Captions": "Ground explosion",
+        "Description": "When the Bomb exploded and hits an ground unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Rearm_Trap.ogg",
+        "Captions": "Re-arm trap",
+        "Description": "When the Bomb is re-armed (became unused since the April 2, 2019 update)"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For its aerial counterpart, see Air Bomb . For the larger analogues, see Giant Bomb and Giga Bomb . For a similar trap in the Builder Base and Clan Capital , see Mine . \"Nothing says 'STAY OUT' quite like a good old-fashioned hidden bomb.\" Level 1-2 Level 3-4 Level 5-6 Level 7-8 Level 9-10 Level 11-12 Level 13-14 Contents 1 Summary 2 Strategies 2.1 Defensive Strategies 2.2 Offensive Strategies 3 Upgrade Differences 4 Statistics 5 Icon Descriptions 6 History 7 Sounds 8 Gallery 8.1 Short Animations 9 Trivia Summary Bombs are traps that remain hidden until they are activated by an attacking troop moving into their trigger radius like other traps. It is the first such trap unlocked. Once triggered, Bombs must be re-armed, which can be done for free and takes place automatically after logging into the game. Although they are the weakest of all the traps, Bombs can still have a positive impact on the effectiveness of a village's defense if properly placed, but only if they are always re-armed after triggering. Even though Bombs are classified as \" Defensive Buildings \", they are not buildings and do not need to be triggered/destroyed for your enemy to reach 100% destruction (nor do they count toward it). The Bomb explodes approximately 1.5 seconds after an enemy comes within 1 tile of it, causing splash damage to every enemy ground troop within 3 tiles. This delay means that you will want to place the Bomb in an area where troops are likely to remain for a period of time like right next to a building they are attacking. The Bomb has a knockback effect that can affect any ground troops with three or less housing space. The more housing space they have, the less they get knocked back. Strategies Defensive Strategies A Bomb can destroy an equivalent-level Wall Breaker in one hit. Since the Wall Breaker A.I. targets wall junctions, place Bombs at outside perimeter intersections and corners for maximum effect. This can be used to ruin pathing for a potential Queen Charge or similar strategy, though it is ineffective against Super Wall Breakers (or if the enemy deploys a sufficient amount of Wall Breakers and they are able to reach the Walls). One defensive strategy commonly used for the placement of Bombs is to position them along the outside Wall , behind external buildings. The external buildings serve to delay the enemy troops until they have grouped up, so that when they attack the Wall, the Bomb hits many troops at once. This is most effective against low-health troops, though grouping enough Bombs together can be a serious hazard for Giants , too. Alternatively, some players decide to place a group of Bombs around a defensive building on the outside of their base, to act as a trap for enemy Giants. Placing a Spring Trap at the entrance to these trapped defense structures makes them even more effective. Be cautious when upgrading a Bomb, as this will reveal its location. Combat this by relocating it during the upgrade period, since it will not trigger during that period anyway. This is useful against players who scout out your base ahead of time for revenge attacks. This does not apply when the player is in Legend League, where the Bomb will always be active while it is upgraded. Exploiting the way the A.I. targets buildings can dramatically increase the defensive effectiveness of your Bombs. For example, a group of 2 to 3 Bombs placed between a pair of resource collectors is very likely to destroy an entire group of Goblins as they pass from one collector to the next. A Bomb upgraded to level 4 or higher can instantly kill a group of summoned Skeletons , making Bombs very effective against Witch based attacks. However, note that Skeletons on their own are unable to trigger Bombs, meaning they will not be immediately wiped out until other troops (such as Giants) trigger it. Bombs are useful against players who use a Battle Blimp filled with Sneaky Goblins who aim to use the Sneaky Goblins to quickly destroy the Town Hall. Since Bombs trigger even if the Sneaky Goblins are invisible, a sufficient amount of Bombs around the Town Hall can quickly kill the Sneaky Goblins and defuse this tactic. This increases in importance at the highest Town Hall levels, where Town Hall sniping strategies become more viable as the Town Hall gains an increasingly devastating weapon. Bombs can damage Witches fairly, also wiping out her summoned Skeletons. Pair this with a sufficiently-leveled Giant Bomb, and this combo will destroy them. Offensive Strategies Bombs do only slight damage to high health troops but will destroy small troops. Try using tanks or high health troops like a Giant to absorb the Bomb. Skeletons spawned by Witches or a Skeleton Spell do not trigger Bombs, so using such troops to trigger the traps may be less beneficial in Witch-based strategies. If you suspect that a particular location has Bombs in it, use a small troop, such as a Barbarian to trigger them. Do not send small troops in mass, or they may all be heavily damaged at best, or completely wiped out at worst. Air troops like Minions do not have to worry about Bombs as Bombs cannot damage them. Upgrade Differences When initially constructed, the Bomb appears as a spherical iron shell with a fuse. At level 3, the Bomb becomes a little bigger and gains 4 golden spikes around its circumference. At level 5, the Bomb is encased in two metal shells that have several golden bumps on their surface. At level 7, the Bomb is encased in two golden shells with no bumps on the surface. At level 9, the Bomb takes the shape of a truncated icosahedron with spikes. At level 11, the Bomb takes the shape of a cube with the corners golden and spiked, and gains a thin torus around its circumference. At level 13, the Bomb's shell turns blue, protected by dark metal platings with studs, and the opening of the fuse changes from a flat circle into two layers of a pentagon, with one being brass and the other made of dark iron. Statistics Gold Pass modifiers Input Gold Pass boosts to modify the statistics in the tables below accordingly Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 2 2 4 4 6 6 6 10 11 12 13 14 15 16 17 18 6 6 6 7 8 8 8 8 8 Size 1x1 Level Damage Cost Build Time Experience Gained Town Hall Level Required 1 20 400 N/A N/A 3 2 24 1,000 1m 7 3 3 29 10,000 5m 17 5 4 35 40,000 40m 48 7 5 42 100,000 1h 60 8 6 54 230,000 2h 84 9 7 72 330,000 3h 103 10 8 92 500,000 4h 120 11 9 125 750,000 6h 146 13 10 140 1,300,000 12h 207 14 11 155 2,500,000 18h 254 15 12 170 4,000,000 1d 293 16 13 185 8,500,000 2d 415 17 14 200 14,000,000 8d 831 18 Trigger Radius Damage Radius Damage Type Unit Type Targeted Favorite Target 1.5 tiles 3 tiles Area Splash Ground None Unarmed Bombs Level 1-2 Level 3-4 Level 5-6 Level 7-8 Level 9-10 Level 11-12 Level 13-14 Icon Descriptions Tapping this icon displays information about the Bomb, such as Level, Damage Type and Targets. Tapping this icon begins upgrading the Bomb to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Bomb is at maximum level, this icon is not shown. Tapping this icon instantly upgrades the Bomb to the next level, at the cost of one Hammer of Building if you have one. When the Bomb is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. History Date Description August 2, 2012 Introduction of the Bomb, with no levels and six of them to build. August 30, 2012 Bombs and other traps are now visible when visiting own clan members. September 19, 2012 Improved visual effect of Bomb's lit fuse. October 15, 2012 Bombs and other traps are no longer visible during a defense replay. February 5, 2013 Tapping a Bomb now shows its trigger radius. November 6, 2013 Bombs now remain in the village after being triggered, but imposing a re-arm cost in doing so, and removing the ability to sell untriggered Bombs. Added levels 2 to 4 to the Bomb, for a total of five. July 3, 2014 Added the level 6 Bomb. All Bombs and other traps can now be re-armed by tapping the Town Hall. Moved down the Town Hall requirement for level 5 Bomb to Town Hall 8 (from 9). December 10, 2015 Reduced re-arm costs at all levels: Level 1: 400 -> 50 Level 2: 500 -> 100 Level 3: 600 -> 150 Level 4: 700 -> 200 Level 5: 800 -> 250 Level 6: 900 -> 300 May 22, 2017 Increased damages at all levels: Level 1: 12 -> 20 Level 2: 16 -> 24 Level 3: 20 -> 29 Level 4: 26 -> 35 Level 5: 34 -> 42 Level 6: 42 -> 54 March 5, 2018 Added the level 7 Bomb. October 23, 2018 Added the level 8 Bomb. Reduced detonation delay from 2 seconds to 1.5 seconds. April 2, 2019 Removed re-arm costs entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game. December 9, 2019 Added the level 9 Bomb. Added the seventh Bomb available at Town Hall 13. March 30, 2020 Reduced upgrade costs at levels 5 to 7: Level 5: 1,000,000 -> 500,000 Level 6: 1,500,000 -> 1,000,000 Level 7: 2,000,000 -> 1,500,000 January 20, 2021 Increased damage at the level 9 from 112 to 125. April 12, 2021 Added the level 10 Bomb. Added the eighth Bomb available at Town Hall 14. Reduced upgrade costs at levels 5 to 7: Level 5: 500,000 -> 300,000 Level 6: 1,000,000 -> 600,000 Level 7: 1,500,000 -> 1,200,000 Reduced upgrade times at level 2, 5, and 6: Level 2: 15m -> 6m Level 5: 1d -> 18h Level 6: 2d -> 1d 12h December 9, 2021 Reduced upgrade costs at levels 6 to 8. October 10, 2022 Added the level 11 Bomb. December 12, 2023 Added the level 12 Bomb. Reduced upgrade costs and times at levels 3 to 10. November 25, 2024 Added the level 13 Bomb. November 17, 2025 Added the level 14 Bomb. Reduced upgrade cost at level 13 from 10,000,000 to 8,500,000. Reduced upgrade time at level 13 from 8d to 4d 12h. Sounds Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Trap_activate.ogg Trap triggered When an ground unit triggers the Bomb https://clashofclans.fandom.com/wiki/File:CannonCart_impact.ogg Ground explosion When the Bomb exploded and hits an ground unit https://clashofclans.fandom.com/wiki/File:Rearm_Trap.ogg Re-arm trap When the Bomb is re-armed (became unused since the April 2, 2019 update) Gallery Short Animations Trivia The fuse on the Bomb is lit constantly, but never burns up. The Bomb, Giant Bomb , and Spring Trap are the oldest traps in the game. If the Bomb has been triggered just before the battle ends, the Bomb will not explode. Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

@@ -1,0 +1,248 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Grand Warden",
+        "Ability Type": "Active",
+        "Rarity": "Epic",
+        "Unlock Requirement": "Buy in Mashup Mania event for 3,100 Buy in Friend or Foe event for 3,100 Buy in Meltdown Mayhem event for 3,100 or purchasable from the Trader for 1,500"
+      }
+    ],
+    [
+      {
+        "Level": "Summoned Lavaloons",
+        "Ability Attributes": "Lavaloon Level",
+        "Hero Boosts": "Damage per Second Increase",
+        "Upgrade Cost": "Hitpoint Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "1",
+        "Hero Boosts": "1",
+        "Upgrade Cost": "10",
+        "Blacksmith Level Required": "50"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "1",
+        "Hero Boosts": "1",
+        "Upgrade Cost": "12",
+        "Blacksmith Level Required": "55"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "1",
+        "Hero Boosts": "2",
+        "Upgrade Cost": "13",
+        "Blacksmith Level Required": "57"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "1",
+        "Hero Boosts": "2",
+        "Upgrade Cost": "15",
+        "Blacksmith Level Required": "60"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "1",
+        "Hero Boosts": "2",
+        "Upgrade Cost": "16",
+        "Blacksmith Level Required": "65"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "1",
+        "Hero Boosts": "3",
+        "Upgrade Cost": "18",
+        "Blacksmith Level Required": "67"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "1",
+        "Hero Boosts": "3",
+        "Upgrade Cost": "20",
+        "Blacksmith Level Required": "70"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "1",
+        "Hero Boosts": "3",
+        "Upgrade Cost": "22",
+        "Blacksmith Level Required": "75"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "2",
+        "Hero Boosts": "4",
+        "Upgrade Cost": "23",
+        "Blacksmith Level Required": "77"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "2",
+        "Hero Boosts": "4",
+        "Upgrade Cost": "25",
+        "Blacksmith Level Required": "80"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "2",
+        "Hero Boosts": "4",
+        "Upgrade Cost": "28",
+        "Blacksmith Level Required": "85"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "2",
+        "Hero Boosts": "5",
+        "Upgrade Cost": "30",
+        "Blacksmith Level Required": "87"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "2",
+        "Hero Boosts": "5",
+        "Upgrade Cost": "31",
+        "Blacksmith Level Required": "90"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "2",
+        "Hero Boosts": "5",
+        "Upgrade Cost": "33",
+        "Blacksmith Level Required": "95"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "2",
+        "Hero Boosts": "6",
+        "Upgrade Cost": "35",
+        "Blacksmith Level Required": "97"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "2",
+        "Hero Boosts": "6",
+        "Upgrade Cost": "37",
+        "Blacksmith Level Required": "100"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "2",
+        "Hero Boosts": "6",
+        "Upgrade Cost": "38",
+        "Blacksmith Level Required": "105"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "2",
+        "Hero Boosts": "7",
+        "Upgrade Cost": "40",
+        "Blacksmith Level Required": "107"
+      },
+      {
+        "Level": "19",
+        "Ability Attributes": "2",
+        "Hero Boosts": "7",
+        "Upgrade Cost": "41",
+        "Blacksmith Level Required": "110"
+      },
+      {
+        "Level": "20",
+        "Ability Attributes": "2",
+        "Hero Boosts": "7",
+        "Upgrade Cost": "42",
+        "Blacksmith Level Required": "115"
+      },
+      {
+        "Level": "21",
+        "Ability Attributes": "3",
+        "Hero Boosts": "8",
+        "Upgrade Cost": "43",
+        "Blacksmith Level Required": "117"
+      },
+      {
+        "Level": "22",
+        "Ability Attributes": "3",
+        "Hero Boosts": "8",
+        "Upgrade Cost": "45",
+        "Blacksmith Level Required": "120"
+      },
+      {
+        "Level": "23",
+        "Ability Attributes": "3",
+        "Hero Boosts": "9",
+        "Upgrade Cost": "46",
+        "Blacksmith Level Required": "125"
+      },
+      {
+        "Level": "24",
+        "Ability Attributes": "3",
+        "Hero Boosts": "9",
+        "Upgrade Cost": "47",
+        "Blacksmith Level Required": "127"
+      },
+      {
+        "Level": "25",
+        "Ability Attributes": "3",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "48",
+        "Blacksmith Level Required": "130"
+      },
+      {
+        "Level": "26",
+        "Ability Attributes": "3",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "49",
+        "Blacksmith Level Required": "135"
+      },
+      {
+        "Level": "27",
+        "Ability Attributes": "3",
+        "Hero Boosts": "11",
+        "Upgrade Cost": "50",
+        "Blacksmith Level Required": "150"
+      }
+    ],
+    [
+      {
+        "Date": "October 11, 2024",
+        "Description": "Made the Lavaloon Puppet available in the Mashup Mania event."
+      },
+      {
+        "Date": "January 12, 2026",
+        "Description": "Increased the summoned Lavaloon count by 1 at levels 21 to 27. Reduced summoned Lavaloon housing space from 23 to 21."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Summons spooky Lavaloons \" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Trivia Summary [ ] The Lavaloon Puppet is the second Epic piece of Hero Equipment for the Grand Warden . It was first seen in the No Strings Attached! challenge in October 11, 2024, and made its debut in the Mashup Mania event at the same date. The Lavaloon Puppet appears as a doll with a basket held by a doll that resembles a Lava Hound . When activated, it summons one to three weaker versions of Lavaloons depending on level, which primarily target Air Defenses , drops bombs every few seconds that summon a Lavaloon Pup , and when destroyed, deal massive damage to nearby buildings and enemy units caught in the explosion and also summons Lavaloon Pups to distract anti-air defenses for a short period of time. The summoned Lavaloons deal less damage and death damage, have less health, and summon less Lavaloon Pups when destroyed. In addition to the ability, the Lavaloon Puppet grants additional hitpoints and damage per second to the Grand Warden. Every three levels, it increases the level of the Lavaloon summoned by one level except for levels 21 to 27, where it only requires two. At levels 9 and 21, it summons an additional Lavaloon each. Strategies [ ] Offensive Strategies [ ] The Lavaloon Puppet, when activated, summons Lavaloons to tank for other aerial units such as Dragons and Electro Dragons from aerial traps like as Air Bombs and Seeking Air Mines , improving their survivability. After the Lavaloons have been summoned, the Grand Warden will follow them, which might lead him to being defeated too early, so deploy your main army before you use the ability, and set your Grand Warden to air for the best effect. Additionally, when Lavaloons attack, they can deal heavy splash damage, in order for other aerial units to finish them off. Clone Spell can be used on the Lavaloons to summon massive amount of Lavaloon Pups, this strategy is only effective at lower Town Halls as more and more splash damage and multi target defenses get introduced. An important milestone of this equipment is upgrading it to level 9, since it will spawn two Lavaloons to help out in battle, making it the biggest spike in power for this equipment. Similarly, having it upgraded to level 21 will spawn 3 Lavaloons, which also works and provides more tanking. There are different interactions when using other Hero Equipment: When used with the Life Gem , it will not have much effect to the summoned Lavaloons and other air units such as Dragons, since their hitpoints are too high. However, it can be useful for the LaLo strategy, since the aura can boost the hitpoints of Balloons. Lavaloon Pups can also gain benefits due to their low hitpoints, although their survivability remains low, especially without the Eternal Tome. When used with the Rage Gem , it allows the Lavaloons to deal more damage when they attack, and their Lavaloon Pups will also benefit from it. Not only do these things apply, it can also be very helpful to further increase the damage of already-high damage aerial units, thereby increasing the synergy of this Equipment. However, this leaves him vulnerable to Seeking Air Mines, if they somehow manage to target him first. When used with the Eternal Tome , as soon as the ability is activated, the Lavaloons that spawn from it become invincible for the duration until they exit the aura or when the effect expires, allowing for extra tanking for other aerial units. It can be very useful to help your Battle Blimp to go towards its desired target, so that the attack can be executed successfully, especially in the cases of a Super Archer Blimp or a Blizzard, since after the update that reworked the Eternal Tome, which the Battle Blimp will lose its invincibility when it leaves the aura. To do this, at least two Air Defenses must be destroyed (with each one on both opposite sides of the base). Doing it correctly will increase the chances of a successful attack, otherwise they will be split from the Battle Blimp, leading to the Blimp's premature destruction and may cause a one-star or a loss of an attack. When used with the Healing Tome , the ability will not be as effective on the summoned Lavaloons, as they will only heal a small portion of their hitpoints and the Lavaloon Pups die easily, and only heals the supporting army. When used with the Fireball , it is complicated as the Fireball will be summoned first, and then the Lavaloons, on which the Grand Warden might follow them, if the player does not deploy the main army. Defensive Strategies [ ] Defending against Lavaloons are quite tricky as they can distract Air Defenses to provide cover for other aerial units. The best way to prevent this is to spread them from other important defenses from other Air Defenses, so that the Lavaloons will be split away from the main army. Aerial traps can also help in this regard. However, this does not work if the attacker manages to destroy too many Air Defenses, either by using Lightning Spells , Earthquake Spells , or using ranged Hero Equipment such as the Giant Arrow . Single-target Inferno Towers and Monoliths are very effective against Lavaloons, because they will get popped early on, while the multi-target Inferno Towers and Multi-Archer Towers are very useful in warding off Lavaloon Pups, because they can target Lavaloon Pups independently of any shielding Lavaloons. At Town Hall 15 and above, Poison Spell Towers are effective area denial tools against Lavaloon Pups. Useful troops to include in a defending Clan Castle to oppose Lavaloons are Super Dragons and Electro Titans . A Super Dragon can deal strong damage to Lavaloons and his area damage can eliminate nearby Lavaloon Pups, while the Electro Titan will outright wipe out any Lavaloon Pups that come near her due to her electric aura. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Grand Warden Active Epic Buy in Mashup Mania event for 3,100 Buy in Friend or Foe event for 3,100 Buy in Meltdown Mayhem event for 3,100 or purchasable from the Trader for 1,500 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Summoned Lavaloons Lavaloon Level Damage per Second Increase Hitpoint Increase Shiny Ore Glowy Ore Starry Ore 1 1 1 10 50 N/A N/A N/A 1 2 1 1 12 55 120 - - 1 3 1 2 13 57 240 20 - 1 4 1 2 15 60 400 - - 1 5 1 2 16 65 600 - - 1 6 1 3 18 67 840 100 - 1 7 1 3 20 70 1,120 - - 1 8 1 3 22 75 1,440 - - 1 9 2 4 23 77 1,800 200 10 1 10 2 4 25 80 1,900 - - 1 11 2 4 28 85 2,000 - - 1 12 2 5 30 87 2,100 400 20 1 13 2 5 31 90 2,200 - - 3 14 2 5 33 95 2,300 - - 3 15 2 6 35 97 2,400 600 30 3 16 2 6 37 100 2,500 - - 5 17 2 6 38 105 2,600 - - 5 18 2 7 40 107 2,700 600 50 5 19 2 7 41 110 2,800 - - 7 20 2 7 42 115 2,900 - - 7 21 3 8 43 117 3,000 600 100 7 22 3 8 45 120 3,100 - - 8 23 3 9 46 125 3,200 - - 8 24 3 9 47 127 3,300 600 120 8 25 3 10 48 130 3,400 - - 9 26 3 10 49 135 3,500 - - 9 27 3 11 50 150 3,600 600 150 9 History [ ] Date Description October 11, 2024 Made the Lavaloon Puppet available in the Mashup Mania event. January 12, 2026 Increased the summoned Lavaloon count by 1 at levels 21 to 27. Reduced summoned Lavaloon housing space from 23 to 21. Trivia [ ] The Lavaloon Puppet resembles a voodoo doll of a Lavaloon . A voodoo doll is an effigy that is typically used for the insertion of pins. Such practices are found in various forms in the magical traditions of many cultures around the world. The name \" Lavaloon \" is a portmanteau of \" Lava \" and \" Balloon \", originating from an attack strategy called LavaLoon, which utilized Lava Hounds and Balloons . The Lavaloon Puppet is one of the equipment that spawn additional troops when activated, the others being Barbarian Puppet , Archer Puppet , Healer Puppet , Action Figure , Henchmen Puppet , and Hog Rider Puppet . It is the only one whose troops can also spawn sub-troops. Unlike the other Levels of the Lavaloon Puppet, the Level 24 upgrade does not improve the active ability. This is because starting from Level 21, the active ability of the Lavaloon Puppet is improved every two Levels instead of every three Levels. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

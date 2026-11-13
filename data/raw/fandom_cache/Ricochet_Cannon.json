@@ -1,0 +1,256 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "0",
+        "8": "0",
+        "9": "0"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "2",
+        "8": "3",
+        "9": "3"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "360",
+        "Damage per Shot (Primary Target)": "288",
+        "Secondary Chain Damage": "201.6",
+        "Hitpoints": "5,400",
+        "Build Cost": "12,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "390",
+        "Damage per Shot (Primary Target)": "312",
+        "Secondary Chain Damage": "218.4",
+        "Hitpoints": "5,700",
+        "Build Cost": "13,000,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "405",
+        "Damage per Shot (Primary Target)": "324",
+        "Secondary Chain Damage": "226.8",
+        "Hitpoints": "6,000",
+        "Build Cost": "17,500,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "412",
+        "Damage per Shot (Primary Target)": "329.6",
+        "Secondary Chain Damage": "230.72",
+        "Hitpoints": "6,100",
+        "Build Cost": "26,500,000",
+        "Build Time": "13d 12h",
+        "Experience Gained": "1,080",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "420",
+        "Damage per Shot (Primary Target)": "336",
+        "Secondary Chain Damage": "235.2",
+        "Hitpoints": "6,100",
+        "Build Cost": "4,750,000",
+        "Build Time": "2d 10h",
+        "Experience Gained": "456",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "420",
+        "Damage per Shot (Primary Target)": "336",
+        "Secondary Chain Damage": "235.2",
+        "Hitpoints": "6,250",
+        "Build Cost": "4,000,000",
+        "Build Time": "2d 19h",
+        "Experience Gained": "491",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "9",
+        "Attack Speed": "0.8s",
+        "Damage Type": "Ricochet Shot",
+        "Unit Type Targeted": "Ground"
+      }
+    ],
+    [
+      {
+        "Ricochet Cannon Crusher": "Description"
+      },
+      {
+        "Ricochet Cannon Crusher": "Destroy 50 Ricochet Cannons in Multiplayer Battles"
+      },
+      {
+        "Ricochet Cannon Crusher": "Destroy 500 Ricochet Cannons in Multiplayer Battles"
+      },
+      {
+        "Ricochet Cannon Crusher": "Destroy 5,000 Ricochet Cannons in Multiplayer Battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Ricochet Cannon to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Ricochet Cannon is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed Ricochet Cannon to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Ricochet Cannon is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Ricochet Cannon to the next level, at the cost of one Hammer of Building if you have one. When the Ricochet Cannon is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_Shoot.ogg",
+        "Captions": "Cannon fires",
+        "Description": "When the Ricochet Cannon attacks ground units within its range"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Generic_Hit.ogg",
+        "Captions": "Cannonball hits target",
+        "Description": "When the Cannon's cannonball hits a ground unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_Picked_Up.ogg",
+        "Captions": "Cannon selected",
+        "Description": "When the Ricochet Cannon is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Cannon_place.ogg",
+        "Captions": "Cannon placed",
+        "Description": "When the Ricochet Cannon is placed"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:CannonballRicochet.ogg https://clashofclans.fandom.com/wiki/File:Cannonball_Ricochet.ogg",
+        "Captions": "Cannonball ricochets",
+        "Description": "When a cannonball bounces to another target (sound may sound lower or higher)"
+      }
+    ],
+    [
+      {
+        "Date": "December 6, 2023",
+        "Description": "Announced the Ricochet Cannon, with two levels."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the Ricochet Cannon, with two are available at Town Hall 16."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the third Ricochet Cannon available at Town Hall 17. Added the level 3 Ricochet Cannon. Added two Supercharge levels for the Ricochet Cannon. Reduced upgrade times at all levels: Level 1: 14d -> 12d Level 2: 15d 12h -> 13d Reduced upgrade costs at all levels: Level 1: 20,000,000 -> 16,000,000 Level 2: 22,000,000 -> 18,000,000"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Added the achievement associated with the Ricochet Cannon, \"Ricochet Cannon Crusher\"."
+      },
+      {
+        "Date": "October 6, 2025",
+        "Description": "Reduced upgrade times at levels 1 and 2: Level 1: 9d -> 7d Level 2: 10d-> 8d"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Added the level 4 Ricochet Cannon. Reduced upgrade time at level 3 from 15d 12h to 10d 18h. Reduced upgrade cost at level 3 from 23,000,000 to 17,500,000. Removed the Supercharges at level 3 and replaced them at level 4: Charge 1: Damage: 413 -> 420 Cost: 7,000,000 -> 12,000,000 Time: 3d 12h -> 6d Charge 2: Hitpoints: 6,150 -> 6,250 Cost: 4,000,000 -> 10,000,000 Time: 4d -> 7d"
+      },
+      {
+        "Date": "January 28, 2026",
+        "Description": "Reduced the range of ricochets from 4.5 tiles to 3.5 tiles. Introduced a -30% chain damage decay to the ricocheted shot: Level 1: 288 -> 201.6 Level 2: 312 -> 218.4 Level 3: 324 -> 226.8 Level 4: 329.6 -> 230.72 Charge 1: 336 -> 235.2"
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Reduced charge times at all charges: Charge 1: 6d -> 2d 10h Charge 2: 7d -> 2d 19h Reduced charge costs at all charges: Charge 1: 12,000,000 -> 4,750,000 Charge 2: 10,000,000 -> 4,000,000"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For its unmerged version, see Cannon . For the mini analogues, see Cannon , Double Cannon , and Multi Cannon . For the similar-sized analogues, see Giant Cannon and Multi-Gear Tower . \" Builder has used one weird trick to develop a devastating cannonball that will ricochet and hit a second target.\" Construction Level 1 Level 2 Level 3 Level 4 Contents 1 Summary 2 Strategies 2.1 Defensive Strategies 2.2 Offensive Strategies 3 Upgrade Differences 4 Statistics 4.1 Supercharges 4.2 Achievements 5 Icon Descriptions 6 Sounds 6.1 Generic 6.2 Unique 7 History 8 Gallery 8.1 Images 8.2 Short Animations 9 Trivia Summary The Ricochet Cannon is a defense that unlocks at Town Hall 16 and is constructed by merging two level 21 Cannons together. The merging process cannot be undone once the construction is started. The Ricochet Cannon cannot be split back into two Cannons. A Cannon that has been geared up cannot be selected for merging. Merging all of the Cannons into Ricochet Cannons to the Town Hall limit is required to upgrade the Town Hall to the next level, similar to the \"placing all of the buildings\" requirement. Compared to two normal Cannons, the Ricochet Cannon starts off with 20% more health and each shot deals 12.5% more damage than the two combined. These metrics will keep improving as it levels up while the normal Cannons stop getting new levels, extending the usefulness of merging. When attacking opponents, the Ricochet Cannon fires a cannonball at a target within its range, just like a normal Cannon. However, the projectile ricochets to a second target if there exists one within 3.5 tiles of the initial target, they can even be outside of the normal range of the Ricochet Cannon. The ricocheted shots have a chain damage decay of -30%, meaning it only deals 70% of the damage. Note that if there are no valid targets, the ricochet does not hit the original target again. With this ability, the range of Ricochet Cannon can be up to 12.5 tiles situationally, and the starting damage output is usually almost four times stronger than a Cannon when there is more than one target close by. Strategies Defensive Strategies The Ricochet Cannon performs well against ground Heroes , as it will target the Hero first and then hit the Pet behind them, damaging both the Hero and the Pet simultaneously. It is also good against the usual tank-damage dealer combo if the tank and damage dealer are too close to be damaged. However, this is not the case if the targeted Hero is paired with the Phoenix (when in egg form), Electro Owl or Angry Jelly , since the former is untargetable while being dormant, and the latter two are aerial Pets. It is as durable than two Cannons and deals more than twice the damage per shot, thus making it a good counter to medium troops and significant damage to clumps of ground troops. It can even shred small swarms, which makes it a versatile and effective defense overall. When paired with a Rage Spell Tower , it will deal significant amounts of damage to ground troops due to its high-damage increase. It could be positioned with some anti-air defenses since it cannot target air units, and the buildings around it can help distract, allowing more damage to be dealt. This defense should be placed in the center or the core area of the base, due to its huge tanking potential and high damage per shot. Its ricochet shot can even help extend its range when there are valid targets. Offensive Strategies Air Troops such as Balloons , Baby Dragons and Dragons can counter a Ricochet Cannon easily, as it is unable to target them. Protect it by placing anti-air defenses such as Wizard Towers , Scattershots , Air Bombs and the Eagle Artillery to clear hordes and Air Defenses , Seeking Air Mines , Inferno Towers on single mode and the Monolith to target high-hitpoint units such as Electro Dragons , Dragon Riders and Lava Hounds . Single big troops such as the P.E.K.K.A , Yeti , Electro Titan , Root Rider , and Golem can counter this defense, but put your support troops far enough, else the Ricochet Cannon might hit them. Since this defense deals a lot of damage to your troops, you can use a Freeze Spell to stop it from firing temporarily, Invisibility Spell to turn your troops invisible, an Overgrowth Spell to disable it, or an Ice Block Spell to protect the troops. Upgrade Differences The Ricochet Cannon undergoes significant visual changes at levels 2, 3 and 4. When both Cannons are merged, only the base appears and the Cannon itself is not completed yet, the base is much taller than the base of Cannons. It is made out of gray patterned metal with the rotational mount on full display, the axle is surrounded by a brass ring and around it is a metal ring sectioned into eight pieces. The corners are like pillars, shaped like half of an octagon, with a spike on the side facing out, and are wider at the base. Between each pillar, there is a dark gray metal triangular prism, the top slants down as it points outward and have a V-shaped groove for a brass lining. The pillars and prisms are on top of a dark gray metal plate, matching the shape of the pillars and straight across the sides connecting the pillars. At the base, each corner has the same shape as the pillar but expanded, forming a step, on top of it is a brass lining across the side of the plate; on the sides under the lining, there are two small protrusions holding the lining up. Tree roots cover the metal ring on the left, then splits and cover the sides of the left pillar, and stops on the plate; another starts at the front right of the ring, immediately splits to follow the edge of the front and right pillar, and stops on the ground, a leaf sprouts from the left root; all of the roots curl up when they end. When constructed, the large Cannon barrel is placed on top of the axle. The main body is made of metal and the barrel is shaped like an octagon, covered by a piece of red wood on each side and secured by two brass rings that follow the shape of barrel: The front ring connects to the neck of the cannon at the diagonal sides with a rivet on top, forming a trapezoid as the front narrows; the back ring has a rivet on each side and a groove on the diagonal sides, it connects to the back with a curved horizontal piece to a circular plate - with a thin layer of red wood and a brass rivet - to hold all eight wood pieces together at the back. Both sides of the barrel are covered by curled roots with a leaf in the middle. The neck sharply narrows when the front brass ring exposes the metal barrel, then trims three times. The muzzle is circular and reinforced with a brass ring. Unlike the Cannon, the inside no longer shines. At level 2, all of the brass is replaced with gold. The connecting pieces of the front ring expanded to the red wood pieces, pointing back and forming a pentagon, each piece has a gold plate on top with a thin layer of red wood and a gold spike. The muzzle ring has four small pentagonal connecting pieces to the neck on the orthogonal sides. The spikes on the corner pillars are also replaced with gold and has a thin diamond plate around it. At level 3, the wooden parts of the barrel change to blue metal, the golden ring of the muzzle becomes thicker. Both sides of the barrel gains dark grey shields with golden edges and four blue square studs. The spikes of the corner pillars are replaced with dark metal studs, and their bottom parts have an additional stone base. The rear ring disappears, while the one at the middle changes into metal with eight small metal spikes. All the stone parts of the base and the barrel are replaced with dark metal, with blue supports on each side of the former. The golden line at the base is replaced with dark stone. At level 4, TBA. The appearance of the cannonball changes after the merge and at certain levels. At level 1, the cannonball is much bigger, with the molten metal and the trailing particles glow yellow, and there are yellow cracks that form randomly on the surface but no longer has spikes. At level 3, the cannonball is covered by a metal casing using triangular plates, leaving pentagonal holes which have a pentagonal metal protrusion in it, forming an icosidodecahedron . The plates and protrusions leave a small gap between them which shows a glowing yellow core. At level 4, the cannonball is a round meteor with blue cracks, with the trailing particles glow cyan. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 0 0 0 0 10 11 12 13 14 15 16 17 18 0 0 0 0 0 0 2 3 3 Size 3x3 Level Damage per Second Damage per Shot (Primary Target) Secondary Chain Damage Hitpoints Build Cost Build Time Experience Gained Town Hall Level Required 1 360 288 201.6 5,400 12,000,000 7d 777 16 2 390 312 218.4 5,700 13,000,000 8d 831 16 3 405 324 226.8 6,000 17,500,000 9d 881 17 4 412 329.6 230.72 6,100 26,500,000 13d 12h 1,080 18 Supercharges These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added. New Level Coming! This Supercharge lasts until a new level becomes available. Depletes Soon! Charge Level Damage per Second Damage per Shot (Primary Target) Secondary Chain Damage Hitpoints Build Cost Build Time Experience Gained Town Hall Level Required 1 420 336 235.2 6,100 4,750,000 2d 10h 456 18 2 420 336 235.2 6,250 4,000,000 2d 19h 491 18 Range Attack Speed Damage Type Unit Type Targeted 9 0.8s Ricochet Shot Ground Achievements Ricochet Cannon Crusher Description Rewards Rewards Destroy 50 Ricochet Cannons in Multiplayer Battles 100 25 Destroy 500 Ricochet Cannons in Multiplayer Battles 800 75 Destroy 5,000 Ricochet Cannons in Multiplayer Battles 5,000 200 Icon Descriptions Tapping this icon displays information about the Ricochet Cannon, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets. Tapping this icon begins upgrading the Ricochet Cannon to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Ricochet Cannon is at maximum level, this icon is replaced by the Supercharge! icon. Tapping this icon begins Supercharging the maxed Ricochet Cannon to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Ricochet Cannon is at maximum charge, this icon is not shown. Tapping this icon instantly upgrades the Ricochet Cannon to the next level, at the cost of one Hammer of Building if you have one. When the Ricochet Cannon is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. Sounds Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Cannon_Shoot.ogg Cannon fires When the Ricochet Cannon attacks ground units within its range https://clashofclans.fandom.com/wiki/File:Generic_Hit.ogg Cannonball hits target When the Cannon's cannonball hits a ground unit https://clashofclans.fandom.com/wiki/File:Cannon_Picked_Up.ogg Cannon selected When the Ricochet Cannon is picked https://clashofclans.fandom.com/wiki/File:Cannon_place.ogg Cannon placed When the Ricochet Cannon is placed Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:CannonballRicochet.ogg https://clashofclans.fandom.com/wiki/File:Cannonball_Ricochet.ogg Cannonball ricochets When a cannonball bounces to another target (sound may sound lower or higher) History Date Description December 6, 2023 Announced the Ricochet Cannon, with two levels. December 12, 2023 Added the Ricochet Cannon, with two are available at Town Hall 16. November 25, 2024 Added the third Ricochet Cannon available at Town Hall 17. Added the level 3 Ricochet Cannon. Added two Supercharge levels for the Ricochet Cannon. Reduced upgrade times at all levels: Level 1: 14d -> 12d Level 2: 15d 12h -> 13d Reduced upgrade costs at all levels: Level 1: 20,000,000 -> 16,000,000 Level 2: 22,000,000 -> 18,000,000 March 24, 2025 Added the achievement associated with the Ricochet Cannon, \"Ricochet Cannon Crusher\". October 6, 2025 Reduced upgrade times at levels 1 and 2: Level 1: 9d -> 7d Level 2: 10d-> 8d November 17, 2025 Added the level 4 Ricochet Cannon. Reduced upgrade time at level 3 from 15d 12h to 10d 18h. Reduced upgrade cost at level 3 from 23,000,000 to 17,500,000. Removed the Supercharges at level 3 and replaced them at level 4: Charge 1: Damage: 413 -> 420 Cost: 7,000,000 -> 12,000,000 Time: 3d 12h -> 6d Charge 2: Hitpoints: 6,150 -> 6,250 Cost: 4,000,000 -> 10,000,000 Time: 4d -> 7d January 28, 2026 Reduced the range of ricochets from 4.5 tiles to 3.5 tiles. Introduced a -30% chain damage decay to the ricocheted shot: Level 1: 288 -> 201.6 Level 2: 312 -> 218.4 Level 3: 324 -> 226.8 Level 4: 329.6 -> 230.72 Charge 1: 336 -> 235.2 October 20, 2026 Reduced charge times at all charges: Charge 1: 6d -> 2d 10h Charge 2: 7d -> 2d 19h Reduced charge costs at all charges: Charge 1: 12,000,000 -> 4,750,000 Charge 2: 10,000,000 -> 4,000,000 Gallery Images Short Animations https://clashofclans.fandom.com/wiki/File:RicochetCannon_InAction_Single.mp4 A level 1 Ricochet Cannon attacking a Giant https://clashofclans.fandom.com/wiki/File:RicochetCannon_InAction_Double.mp4 Ditto, but two Giants close to each other (prior to the January 28, 2026 balance changes) https://clashofclans.fandom.com/wiki/File:RicochetCannon_InAction_Double2026.mp4 A level 4 Ricochet Cannon attacking two Giants close to each other (after the January 28, 2026 balance changes) Trivia Sometimes, when the Ricochet Cannon's cannonball hits a target when dealing with a group of units, the ricochet shot may target a different unit closer to the initial target. For example, if a Super Giant, Root Rider and a Yeti were to attack the Ricochet Cannon, the Ricochet Cannon will shoot at the Root Rider as it approaches, bouncing to the Yeti as the Super Giant eventually becomes in range of the ricochet shot, which will cause the shot to bounce to either the Super Giant or the Yeti. The description is a reference to sensationalist clickbait articles with titles such as \"Doctors hate this one weird trick you can do to...\" Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

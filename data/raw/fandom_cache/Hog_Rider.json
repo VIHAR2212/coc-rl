@@ -1,0 +1,376 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "5",
+        "Movement Speed": "24",
+        "Attack Speed": "1s",
+        "Dark Barracks Level Required": "2",
+        "Range": "0.6 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "60",
+        "Damage per Hit": "60",
+        "Hitpoints": "270",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "70",
+        "Damage per Hit": "70",
+        "Hitpoints": "312",
+        "Research Cost": "2,000",
+        "Research Time": "10h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "80",
+        "Damage per Hit": "80",
+        "Hitpoints": "370",
+        "Research Cost": "3,500",
+        "Research Time": "18h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "92",
+        "Damage per Hit": "92",
+        "Hitpoints": "430",
+        "Research Cost": "5,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "105",
+        "Damage per Hit": "105",
+        "Hitpoints": "500",
+        "Research Cost": "10,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "118",
+        "Damage per Hit": "118",
+        "Hitpoints": "590",
+        "Research Cost": "18,500",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "140",
+        "Damage per Hit": "140",
+        "Hitpoints": "700",
+        "Research Cost": "35,000",
+        "Research Time": "2d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "155",
+        "Damage per Hit": "155",
+        "Hitpoints": "870",
+        "Research Cost": "47,500",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "165",
+        "Damage per Hit": "165",
+        "Hitpoints": "960",
+        "Research Cost": "50,000",
+        "Research Time": "3d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "176",
+        "Damage per Hit": "176",
+        "Hitpoints": "1,050",
+        "Research Cost": "85,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "187",
+        "Damage per Hit": "187",
+        "Hitpoints": "1,150",
+        "Research Cost": "107,500",
+        "Research Time": "5d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "200",
+        "Damage per Hit": "200",
+        "Hitpoints": "1,350",
+        "Research Cost": "125,000",
+        "Research Time": "5d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "213",
+        "Damage per Hit": "213",
+        "Hitpoints": "1,500",
+        "Research Cost": "175,000",
+        "Research Time": "6d 12h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "225",
+        "Damage per Hit": "225",
+        "Hitpoints": "1,600",
+        "Research Cost": "240,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "250",
+        "Damage per Hit": "250",
+        "Hitpoints": "1,950",
+        "Research Cost": "340,000",
+        "Research Time": "14d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Hog Rider",
+        "Boost Cost": "25,000",
+        "Hog Rider Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Patch": "March 12, 2013",
+        "Type": "Update",
+        "Description": "Added the Hog Rider, with 5 levels."
+      },
+      {
+        "Patch": "April 17, 2013",
+        "Type": "Update",
+        "Description": "Reduced upgrade times of the Hog Rider."
+      },
+      {
+        "Patch": "July 29, 2013",
+        "Type": "Update",
+        "Description": "Reduced housing space requirement from 6 to 5."
+      },
+      {
+        "Patch": "August 27, 2013",
+        "Type": "Update",
+        "Description": "The Hog Rider now preferentially targets defenses . Increased damage per second at all levels: Level 1: 50 -> 60 Level 2: 58 -> 70 Level 3: 66 -> 80 Level 4: 76 -> 92 Level 5: 90 -> 105 Training time reduced from 5 minutes to 2 minutes."
+      },
+      {
+        "Patch": "September 30, 2013",
+        "Type": "Update",
+        "Description": "Reduced hitpoints at all levels: Level 1: 300 -> 285 Level 2: 345 -> 328 Level 3: 400 -> 380 Level 4: 460 -> 437 Level 5: 525 -> 500"
+      },
+      {
+        "Patch": "November 6, 2013",
+        "Type": "Update",
+        "Description": "Reduced hitpoints at all levels: Level 1: 285 -> 270 Level 2: 328 -> 312 Level 3: 380 -> 360 Level 4: 437 -> 415 Level 5: 500 -> 475"
+      },
+      {
+        "Patch": "January 29, 2014",
+        "Type": "Update",
+        "Description": "Increased training costs at all levels: Level 1: 30 -> 40 Level 2: 35 -> 45 Level 3: 40 -> 52 Level 4: 45 -> 58 Level 5: 50 -> 65"
+      },
+      {
+        "Patch": "July 3, 2014",
+        "Type": "Update",
+        "Description": "Hog Riders now take 1.5x damage from Giant Bombs ."
+      },
+      {
+        "Patch": "March 21, 2016",
+        "Type": "Update",
+        "Description": "Added the level 6 Hog Rider."
+      },
+      {
+        "Patch": "April 2016",
+        "Type": "?",
+        "Description": "Reduced upgrade times of level 4 and 5 Hog Riders: Level 4: 12d -> 11d Level 5: 14d -> 12d"
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Hog Riders no longer take extra damage from Giant Bombs. Training time reduced from 2m to 1m 30s."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Added the level 7 Hog Rider. Reduced upgrade times at levels 2 to 6: Level 2: 8d -> 5d Level 3: 10d -> 6d Level 4: 11d -> 8d Level 5: 12d -> 10d Level 6: 14d -> 12d"
+      },
+      {
+        "Patch": "March 8, 2017",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 5 to 7: Level 5: 475 -> 480 Level 6: 535 -> 550 Level 7: 600 -> 640"
+      },
+      {
+        "Patch": "June 27, 2017",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 6 and 7: Level 6: 550 -> 590 Level 7: 640 -> 700"
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 8 Hog Rider."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 2 to 7: Level 2: 5d -> 3d 12h Level 3: 6d -> 4d Level 4: 8d -> 5d 12h Level 5: 10d -> 6d 12h Level 6: 12d -> 8d Level 7: 14d -> 11d 12h"
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Reduced quick donation cost from 5 to 3 Gems."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Added the level 9 Hog Rider. Reduced upgrade times at levels 4 to 6: Level 4: 5d 12h -> 4d 12h Level 5: 6d 12h -> 6d Level 6: 8d -> 7d 12h Reduced training costs at levels 1 to 8: Level 1: 40 -> 30 Level 2: 45 -> 34 Level 3: 52 -> 38 Level 4: 58 -> 42 Level 5: 65 -> 48 Level 6: 90 -> 60 Level 7: 115 -> 80 Level 8: 140 -> 100"
+      },
+      {
+        "Patch": "September 11, 2019",
+        "Type": "Maintenance Break",
+        "Description": "Reduced hitpoints at level 9 from 920 to 890."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 10 Hog Rider."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade cost at level 6 from 100,000 to 60,000."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 2 to 8: Level 2: 20,000 -> 15,000 Level 3: 30,000 -> 20,000 Level 4: 40,000 -> 25,000 Level 5: 50,000 -> 35,000 Level 6: 60,000 -> 50,000 Level 7: 150,000 -> 100,000 Level 8: 200,000 -> 180,000 Reduced upgrade time at levels 2 to 8: Level 2: 3d 12h -> 2d 12h Level 3: 4d -> 3d Level 4: 4d 12h -> 3d 12h Level 5: 6d -> 4d 12h Level 6: 7d 12h -> 5d 12h Level 7: 11d 12h -> 8d Level 8: 14d -> 12d"
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 2 to 8: Level 2: 15,000 -> 5,000 Level 3: 20,000 -> 9,000 Level 4: 25,000 -> 16,000 Level 5: 35,000 -> 30,000 Level 8: 180,000 -> 150,000 Reduced upgrade time at levels 2 to 8: Level 2: 2d 12h -> 1d 6h Level 3: 3d -> 2d Level 4: 3d 12h -> 2d 12h Level 5: 4d 12h -> 4d Level 6: 5d 12h -> 5d Level 7: 8d -> 7d 12h Level 8: 12d -> 11d 12h"
+      },
+      {
+        "Patch": "September 27, 2021",
+        "Type": "Update",
+        "Description": "Added the level 11 Hog Rider."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 2 to 6. Increased hitpoints at levels 3 to 5: Level 3: 360 -> 370 Level 4: 415 -> 430 Level 5: 480 -> 500"
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 12 Hog Rider. Reduced upgrade times at levels 8 to 10: Level 8: 8d -> 7d Level 9: 9d 18h -> 9d Level 10: 12d -> 10d Reduced upgrade costs at levels 8 to 10: Level 8: 105,000 -> 95,000 Level 9: 168,000 -> 150,000 Level 10: 210,000 -> 175,000"
+      },
+      {
+        "Patch": "February 27, 2024",
+        "Type": "Update",
+        "Description": "Added the level 13 Hog Rider."
+      },
+      {
+        "Patch": "June 3, 2024",
+        "Type": "Balance Changes",
+        "Description": "Increased damage at levels 7 to 10: Level 7: 135 -> 140 Level 8: 148 -> 155 Level 9: 161 -> 165 Level 10: 174 -> 176"
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 45s to 42s."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Update",
+        "Description": "Added the level 14 Hog Rider."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Reduced upgrade time at level 14 from 14d to 10d. Reduced upgrade cost at level 14 from 280,000 to 240,000."
+      },
+      {
+        "Patch": "February 23, 2026",
+        "Type": "Update",
+        "Description": "Added the level 15 Hog Rider."
+      },
+      {
+        "Patch": "October 20, 2026",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoints at levels 8 to 15: Level 8: 810 -> 870 Level 9: 890 -> 960 Level 10: 970 -> 1,050 Level 11: 1,080 -> 1,150 Level 12: 1,230 -> 1,350 Level 13: 1,380 -> 1,500 Level 14: 1,500 -> 1,600 Level 15: 1,750 -> 1,950"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Hog_Rider_Deploy_01.ogg https://clashofclans.fandom.com/wiki/File:Hog_Rider_Deploy_02.ogg",
+        "Captions": "Hog Rider deployed",
+        "Description": "When the Hog Rider is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Hog_Rider_Hit_01.ogg https://clashofclans.fandom.com/wiki/File:Hog_Rider_Hit_02.ogg",
+        "Captions": "Hog Rider hits something",
+        "Description": "When the Hog Rider attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Hog_Rider_Death.ogg",
+        "Captions": "Hog Rider dies",
+        "Description": "When the Hog Rider dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Super counterpart, see Super Hog Rider . For his Builder Base and Clan Capital counterparts, see Hog Glider and Hog Raiders . \"Having tamed the fierce leaping hog, the Hog Rider punishes those who hide behind their puny walls ! Fueled by Dark Elixir , these warriors have never known defeat!\" Level 1-2 Level 3-4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Level 14 Level 15 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 7 Gallery 8 Trivia 8.1 Comparisons Summary The Hog Rider is the second Dark Elixir Troop unlocked in the Dark Barracks , once it has been upgraded to level 2. The Hog Rider is a fast ground troop with medium hitpoints and damage, and the ability to jump over enemy Walls . His ride is a large hog, about half his height. It has a brown leather bridle looped around its tusks, which in turn is held by the Hog Rider. Hog Riders prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Note that like all troops that prioritize defenses, Hog Riders do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all defenses are destroyed, Hog Riders become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. However, they will not switch targets to enemy units until their previous target was destroyed. Strategies Offensive Strategies He can be used to jump over any level Walls , rendering them ineffective against Hog Riders. Note that while this allows Hog Riders free access to what lies behind the Walls, it does not open up gaps for other troops to move through. If the Hog Riders need the support of other ground troops , you will still need to deploy Wall Breakers , a Jump Spell , or Earthquake Spells in order to assist them. Hog Riders can be used en masse, i.e. a \" Hog Rider Rush \", without requiring any Wall Breakers to break Walls. However, such a strategy sports weaknesses against defending Clan Castle troops, Heroes , Giant Bombs , and Skeleton Traps , a problem which only becomes more prominent at higher levels. At Town Hall 10 and above, Hog Riders can be combined with Miners in a strategy known as Hog Miner or Hybrid. Both troops are able to bypass Walls innately, but Miners do not have a preferential target, allowing them to cover for Hog Riders by dealing with defending Heroes and Skeleton Traps. The combination also has weaknesses against flying Clan Castle troops, as neither are able to target air. At lower levels, Hog Riders are quite capable of acting as distracting troops like Giants ; they have nearly as much health as a similar-level Giant, move twice as fast, and do considerably more damage. They work well with the Healing Spell when you group several of them together. A good tactic for using Healing Spells is to place them strategically on a cluster of defenses (at least about 3 or more) and also deploy them shortly before the Hog Riders arrive in the area, deploy them in front of the Hog Riders. This is so that the Hog Riders get the most value out of the Healing Spell, and destroy the defenses without losing too much HP. Spots where Giant Bombs or Bomb Towers are/may be should be given special attention when deploying Healing Spells. Hogs of the same level as the Giant Bomb will survive a single Giant Bomb, but they are helpless against a pair of Giant Bombs even with a Healing Spell. Heal them after they have gone through a Giant Bomb blast. The Hog Rider is one of the best troop types for drawing out Clan Castle troops, as he can avoid Walls to penetrate deep enough to reach centrally-placed Clan Castles (and enough health to not die before he gets there). Deploy one or a few to trigger the Clan Castle troops, then lure the reinforcement troops to the corner side, and deploy multiple Archers or Wizards to destroy them, and then deploy the remainder of your Hog Riders. This strategy is especially effective during Clan War raids . However, Skeletons from the Skeleton Trap and Heroes can also easily kill the Hog Riders, as they can only target defenses, so make sure to have some troops that target anything, such as Wizards, which can swipe out the Skeletons. At higher Town Hall levels, after you have drawn out the Clan Castle using a few Hog Riders, you can use a Poison Spell at the lured Clan Castle troops when they go near a unit such as an Archer, then the Clan Castle troops will be finished off by the Archer Queen, for example. This only applies if they are able to reach the Clan Castle's trigger radius without being taken out. Hog Riders do not target air so flying Clan Castle troops, especially Dragons and Baby Dragons , can be a big threat. Most mass Hog Rider strategies in Clan Wars require that the Clan Castle troops be killed first by luring. Bring other troops in addition to Hog Riders, such as Wizards, to deal with enemy Clan Castle troops and clean up the base. Poison Spells can be used to kill almost any enemy Clan Castle troop, but beware as the troops will attempt to flee the poison. If the Poison Spells are decently leveled, and you effectively keep the Clan Castle troops from escaping the Poison Spell with distracting troops, they can eliminate almost any troop. They can also be used to dispense of those pesky Skeletons risen from the Skeleton Traps. Time is also a factor to consider. With only 3 minutes in an attack, it is essential to make sure that this whole process and the remainder of the attack is done as quickly as possible to avoid running out of time. Defensive Strategies Defending against Hog Riders is tricky, as their ability to bypass Walls renders them irrelevant. However, the fact that they can jump over Walls and attack defenses means that they may leave behind their ground support (such as Barbarians and Valkyries , etc.), as they will not be able to follow. This will allow your interior defenses to concentrate on the Hog Riders. Another way to defend against Hog Riders is to exploit the fact that they will attack the closest defensive building. You can arrange your base in such a way so that you have high-powered defenses on the inside and lower-powered defense on the outside, with a layer of resources in between. That way, the Hogs will (in theory) complete a loop around your base before being able to attack your interior defenses ( Inferno Towers , X-Bows , etc.), by which time they should have all been taken out by the interior defenses. You can place Spring Traps and Giant Bombs in between defensive buildings to take out a few Hog Riders at a time; good usage of multiple Spring Traps and Giant Bombs can severely hinder a Hog Rider rush. Hog Riders can be easily killed using \"forced pathing\". Forced pathing is a strategy that manipulates the Hog Rider AI and makes them go to at least 2 defenses that cannot be prevented by surgical dropping or side clearing. Placing a set of Giant Bombs in between the two can most certainly hinder the attacker progress. They would not be able to heal the Hog Riders in time. Clan Castle troops, Heroes , and Skeleton Traps set to Ground Mode can be an annoyance to mass Hog Rider raids, as Hog Riders will not attack them unless all defenses have been destroyed. Make sure to centralize them if you want to beat Hog Riders. In Clan Wars , Dragons are excellent troops to place in Clan Castles against Hog Riders, especially for Town Halls 8 and 9. They have high HP, meaning they will not die easily and can kill mass quantities of Hog Riders swiftly if not properly lured. Most mass Hog Rider strategies require that the enemy Clan Castle troops be killed first, so if the attacker lures out a Dragon, but fails to kill it, then a 3-star win is next to impossible, much less a 1-star win via destroying 50% of the buildings. At higher Town Halls, there are other troops that can deal with them such as the Ice Golems to slow down the attack if defeated, Super Dragons, etc. Multi-target Inferno Towers can be a severe hindrance to Hog Riders, having high HP to take several hits from Hog Riders, while hitting large groups of them. Although the Hog Rider is certainly not a liability on defense, the fact that all defensive troops are unimpeded by Walls negates the primary advantage of the Hog Rider. Still, for the space they take they are faster and more damaging compared to Giants. Upgrade Differences The Hog Rider undergoes significant visual changes at levels 1, 5, 6, 7, 8, 10, 11, 12, 13, 14, and 15. Initially, the Hog Rider is a dark-skinned shirtless man with a black mohawk and beard who rides a hog to help jump over walls. He also has a gold earring in his right ear and sports two heavy golden wristbands, a maroon belt, and a brown loincloth. The Hog Rider's weapon is a large hammer that has two brass bands and a red ribbon tied to the end. At level 3, his hammer increases in size and turns black. The brass bands on the hammer's head disappear, and the hammerhead goes further down onto the stick, creating a button looking object on the top of the hammerhead. At level 5, his mohawk turns from black to orange, making it similar to that of a level 5 Goblin . At level 6, his hammer gains three large, golden spikes and a bronze plating. At level 7, the edges of his hammer start to glow red, and he gains a brown headband but reverts to a black mohawk. At level 8, his hammer is now mostly golden and loses its spikes. His hog also gains a brown headband. At level 9, his hammer's plating is now black and the gold on his hammer is much thicker. His headband also lightens in color. At level 10, his hammer turns celeste that resembles the look of ice. This matches the theme of Town Hall 13. It also gains a small same-colored glow and black edges on it. The gold on his hammer turns gray. At level 11, his hammer turns light green and is covered with golden edges. The top of his hammer gets changed back to gold. This matches the theme of Town Hall 14. His hog gains gold armor on its face and muzzle. At level 12, his hammer reverts back to its previous color and so does its plating, except it now has a triangle symbol on it. This matches the theme of Town Hall 15. His mohawk turns from brown to lavender, and his hog's armor is reinforced with additional gold plating. At level 13, his hammer is now crimson red and the plating of the hammer changes from black to white, with the triangle symbol being replaced with a leaf symbol. This matches the theme of Town Hall 16. His mohawk also changes to crimson red and the hog's helmet becomes lighter and shinier in color with less shadows, and its ears are reinforced with armor. At level 14, his hammer, along with his belt, loincloth, headband and his hammer's ribbon, all turn navy, and the hammer's plating becomes aureolin in color from white, its bands also have a yellow glow. This matches the theme of Town Hall 17. His mohawk turns golden. His hammer loses its glow and regains the golden spikes, but are much thinner and shinier. His wristbands, along with the hog's armor become brighter. At level 15, his hammer turns sky blue, and its plating turns dark gray and loses the spikes again. His wristbands turn gray and gain spikes on them, his loincloth becomes tan, and his belt turns lighter. His mohawk reverts to black again, and the earring is now blue. His hog's color is changed to taupe and loses its armor and headband, its eyes turn blue with glowing irises, and the bridle around its tusks is changed to blue from brown. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range Defenses Melee (Ground Only) 5 24 1s 2 0.6 tiles Level Damage per Second Damage per Hit Hitpoints Research Cost Research Time Laboratory Level Required 1 60 60 270 N/A N/A N/A 2 70 70 312 2,000 10h 5 3 80 80 370 3,500 18h 6 4 92 92 430 5,000 1d 6 5 105 105 500 10,000 2d 7 6 118 118 590 18,500 2d 6h 8 7 140 140 700 35,000 2d 12h 9 8 155 155 870 47,500 3d 10 9 165 165 960 50,000 3d 12h 10 10 176 176 1,050 85,000 4d 11 11 187 187 1,150 107,500 5d 12 12 200 200 1,350 125,000 5d 12h 13 13 213 213 1,500 175,000 6d 12h 14 14 225 225 1,600 240,000 10d 15 15 250 250 1,950 340,000 14d 12h 16 Super Troop Boost Super Troop Boost Cost Hog Rider Level Required Super Hog Rider 25,000 10 History Patch Type Description March 12, 2013 Update Added the Hog Rider, with 5 levels. April 17, 2013 Update Reduced upgrade times of the Hog Rider. July 29, 2013 Update Reduced housing space requirement from 6 to 5. August 27, 2013 Update The Hog Rider now preferentially targets defenses . Increased damage per second at all levels: Level 1: 50 -> 60 Level 2: 58 -> 70 Level 3: 66 -> 80 Level 4: 76 -> 92 Level 5: 90 -> 105 Training time reduced from 5 minutes to 2 minutes. September 30, 2013 Update Reduced hitpoints at all levels: Level 1: 300 -> 285 Level 2: 345 -> 328 Level 3: 400 -> 380 Level 4: 460 -> 437 Level 5: 525 -> 500 November 6, 2013 Update Reduced hitpoints at all levels: Level 1: 285 -> 270 Level 2: 328 -> 312 Level 3: 380 -> 360 Level 4: 437 -> 415 Level 5: 500 -> 475 January 29, 2014 Update Increased training costs at all levels: Level 1: 30 -> 40 Level 2: 35 -> 45 Level 3: 40 -> 52 Level 4: 45 -> 58 Level 5: 50 -> 65 July 3, 2014 Update Hog Riders now take 1.5x damage from Giant Bombs . March 21, 2016 Update Added the level 6 Hog Rider. April 2016 ? Reduced upgrade times of level 4 and 5 Hog Riders: Level 4: 12d -> 11d Level 5: 14d -> 12d October 12, 2016 Update Hog Riders no longer take extra damage from Giant Bombs. Training time reduced from 2m to 1m 30s. December 19, 2016 Update Added the level 7 Hog Rider. Reduced upgrade times at levels 2 to 6: Level 2: 8d -> 5d Level 3: 10d -> 6d Level 4: 11d -> 8d Level 5: 12d -> 10d Level 6: 14d -> 12d March 8, 2017 Update Increased hitpoints at levels 5 to 7: Level 5: 475 -> 480 Level 6: 535 -> 550 Level 7: 600 -> 640 June 27, 2017 Update Increased hitpoints at levels 6 and 7: Level 6: 550 -> 590 Level 7: 640 -> 700 June 11, 2018 Update Added the level 8 Hog Rider. June 26, 2018 Balance Changes Reduced upgrade times at levels 2 to 7: Level 2: 5d -> 3d 12h Level 3: 6d -> 4d Level 4: 8d -> 5d 12h Level 5: 10d -> 6d 12h Level 6: 12d -> 8d Level 7: 14d -> 11d 12h October 23, 2018 Update Reduced quick donation cost from 5 to 3 Gems. April 2, 2019 Update Added the level 9 Hog Rider. Reduced upgrade times at levels 4 to 6: Level 4: 5d 12h -> 4d 12h Level 5: 6d 12h -> 6d Level 6: 8d -> 7d 12h Reduced training costs at levels 1 to 8: Level 1: 40 -> 30 Level 2: 45 -> 34 Level 3: 52 -> 38 Level 4: 58 -> 42 Level 5: 65 -> 48 Level 6: 90 -> 60 Level 7: 115 -> 80 Level 8: 140 -> 100 September 11, 2019 Maintenance Break Reduced hitpoints at level 9 from 920 to 890. December 9, 2019 Update Added the level 10 Hog Rider. March 30, 2020 Update Reduced upgrade cost at level 6 from 100,000 to 60,000. October 12, 2020 Update Reduced upgrade costs at levels 2 to 8: Level 2: 20,000 -> 15,000 Level 3: 30,000 -> 20,000 Level 4: 40,000 -> 25,000 Level 5: 50,000 -> 35,000 Level 6: 60,000 -> 50,000 Level 7: 150,000 -> 100,000 Level 8: 200,000 -> 180,000 Reduced upgrade time at levels 2 to 8: Level 2: 3d 12h -> 2d 12h Level 3: 4d -> 3d Level 4: 4d 12h -> 3d 12h Level 5: 6d -> 4d 12h Level 6: 7d 12h -> 5d 12h Level 7: 11d 12h -> 8d Level 8: 14d -> 12d April 12, 2021 Update Reduced upgrade costs at levels 2 to 8: Level 2: 15,000 -> 5,000 Level 3: 20,000 -> 9,000 Level 4: 25,000 -> 16,000 Level 5: 35,000 -> 30,000 Level 8: 180,000 -> 150,000 Reduced upgrade time at levels 2 to 8: Level 2: 2d 12h -> 1d 6h Level 3: 3d -> 2d Level 4: 3d 12h -> 2d 12h Level 5: 4d 12h -> 4d Level 6: 5d 12h -> 5d Level 7: 8d -> 7d 12h Level 8: 12d -> 11d 12h September 27, 2021 Update Added the level 11 Hog Rider. December 9, 2021 Update Reduced upgrade times at levels 2 to 6. Increased hitpoints at levels 3 to 5: Level 3: 360 -> 370 Level 4: 415 -> 430 Level 5: 480 -> 500 June 12, 2023 Update Added the level 12 Hog Rider. Reduced upgrade times at levels 8 to 10: Level 8: 8d -> 7d Level 9: 9d 18h -> 9d Level 10: 12d -> 10d Reduced upgrade costs at levels 8 to 10: Level 8: 105,000 -> 95,000 Level 9: 168,000 -> 150,000 Level 10: 210,000 -> 175,000 February 27, 2024 Update Added the level 13 Hog Rider. June 3, 2024 Balance Changes Increased damage at levels 7 to 10: Level 7: 135 -> 140 Level 8: 148 -> 155 Level 9: 161 -> 165 Level 10: 174 -> 176 February 10, 2025 Update Reduced training time from 45s to 42s. March 24, 2025 Update Added the level 14 Hog Rider. March 27, 2025 Clash Anytime Update Removed training time. November 17, 2025 Town Hall 18 Update Reduced upgrade time at level 14 from 14d to 10d. Reduced upgrade cost at level 14 from 280,000 to 240,000. February 23, 2026 Update Added the level 15 Hog Rider. October 20, 2026 Balance Changes Increased hitpoints at levels 8 to 15: Level 8: 810 -> 870 Level 9: 890 -> 960 Level 10: 970 -> 1,050 Level 11: 1,080 -> 1,150 Level 12: 1,230 -> 1,350 Level 13: 1,380 -> 1,500 Level 14: 1,500 -> 1,600 Level 15: 1,750 -> 1,950 Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Hog_Rider_Deploy_01.ogg https://clashofclans.fandom.com/wiki/File:Hog_Rider_Deploy_02.ogg Hog Rider deployed When the Hog Rider is deployed https://clashofclans.fandom.com/wiki/File:Hog_Rider_Hit_01.ogg https://clashofclans.fandom.com/wiki/File:Hog_Rider_Hit_02.ogg Hog Rider hits something When the Hog Rider attacks https://clashofclans.fandom.com/wiki/File:Hog_Rider_Death.ogg Hog Rider dies When the Hog Rider dies Gallery Hog Rider's avatar Hog Rider's old look Hog Rider cropped In-game sprite Trivia You can have a maximum of 70 Hog Riders at one time in a complete set of fully upgraded Army Camps . This number increases to 81 if you include 11 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 36 Hog Riders with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). Additionally, a total of 9 can be summoned by a Royal Champion equipped with a level 15 or higher Hog Rider Puppet . These total to a maximum of 126 Hog Riders. The species of hog that he rides is most likely the Phacochoerus africanus ( common warthog ). Common warthogs are smaller than boars but more agile which might explain why the Hog Rider can move particularly fast. Warthogs also have tusks, which is like the Hog Rider's hog in Clash of Clans . In the Clan Wars commercial, if you look carefully, you can see that the Hog Rider has a gold tooth. When an Army Camp stationing Hog Riders is tapped, they briefly jump up and down. The Hog Rider bears more than a passing resemblance to Mr. T and Zangief from Street Fighter . In Clash of Clans , the Hog Rider has manly, deeper, aggressive sounds but in commercials and Clash Royale , however, the Hog Rider's voice is high-pitched. This is because the Hog Rider's personality was given in this commercial after being added to the game. It could also be possible that the voice is actually the hog's since the hog is seen speaking English in a similar voice in the commercials. Additionally, the Hog Rider's death sound features both a deeper voice and a higher pitch voice, which may imply the deeper voice is actually the hog's. The phrase \"Did somebody say Hog Rider?\" comes from the Clash of Clans TV commercial. This phrase originates from a popular meme, the \"Did somebody say ___?\" meme. His description in Clash Royale is based on the Clash of Clans Ride of the Hog Riders commercial . It says: \"Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena doors.\" The Hog Rider is featured as a character skin for Carl in Brawl Stars . The Hog Rider is one of the seven troops to be featured as a character in Squad Busters . The others are the Barbarian , Archer , Goblin , Wizard , Witch , and Miner . The Hog Rider's Classic Evolution form in Squad Busters resembles the level 1 Hog Rider in Clash of Clans . Interestingly, the Builder Base Hog Rider has more hitpoints and damage than the Home Village Hog Rider. This may be due to the fact that the Hog Glider and the Hog Rider from it has more levels. There is a Scenery in the game based on the Hog Rider called Hog Mountain which was available for purchase in February 2021 costing USD $6.99. The Scenery is inspired from Arena 10 from Clash Royale . 2 Hog Rider statues can be seen behind the enemy's King's Tower in Clash Royale . In Clash Royale , the Path of Legends Master 2 League badge resembles the Hog Rider's hammer. The hog is heavily implied to be as sentient as a human by both the commercials and in the Clash—a-Rama! series, being seen playing cards, training with the rider, giving baths and even singing in English. Even after the troop training cost was removed, in the troop's description it continues to say \"Fueled by Dark Elixir\". Comparisons The Hog Rider, along with the Barbarian , Archer , and Miner are the only 4 troops not based on fiction or legend/myth. The P.E.K.K.A may be based on fiction but it is currently unknown. The Hog Rider, Minion and Valkyrie were the first Dark Elixir Troops to be added to the game, since the March 12, 2013 update. Hog Riders have the most legs of any troop with a total of six (including the man and hog). The Hog Rider is one of the 13 units to appear in a Scenery, the others being the Barbarian , Goblin , Balloon , Barbarian King , P.E.K.K.A, Baby Dragon, Skeleton , Archer Queen , Grand Warden , Dragon Rider, Cannon Cart , and the Party Wizard . In his case, he appears in the Hog Mountain Scenery. The Hog Rider is one of three troops in the Home Village that can be upgraded to level 13, the other being the Golem amd the Giant . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

@@ -1,0 +1,185 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Single Target",
+        "Housing Space": "25",
+        "Movement Speed": "20",
+        "Attack Speed": "1.2s",
+        "Range": "4 tiles",
+        "Death Damage Radius": "2 tiles",
+        "Barracks Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "340",
+        "Damage per Attack": "408",
+        "Damage Upon Death": "700",
+        "Hitpoints": "4,100",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "370",
+        "Damage per Attack": "444",
+        "Damage Upon Death": "800",
+        "Hitpoints": "4,400",
+        "Research Cost": "7,500,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "400",
+        "Damage per Attack": "480",
+        "Damage Upon Death": "900",
+        "Hitpoints": "4,700",
+        "Research Cost": "12,000,000",
+        "Research Time": "8d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "430",
+        "Damage per Attack": "516",
+        "Damage Upon Death": "1,000",
+        "Hitpoints": "5,100",
+        "Research Cost": "14,500,000",
+        "Research Time": "9d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "470",
+        "Damage per Attack": "564",
+        "Damage Upon Death": "1,100",
+        "Hitpoints": "5,600",
+        "Research Cost": "19,000,000",
+        "Research Time": "10d 6h",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "490",
+        "Damage per Attack": "588",
+        "Damage Upon Death": "1,200",
+        "Hitpoints": "5,900",
+        "Research Cost": "29,500,000",
+        "Research Time": "15d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Patch": "June 13 2021",
+        "Description": "Announced the Dragon Rider."
+      },
+      {
+        "Patch": "June 15, 2021",
+        "Description": "The Dragon Rider was added along with 3 levels."
+      },
+      {
+        "Patch": "September 27, 2021",
+        "Description": "Reduced range from 4.5 to 4 tiles."
+      },
+      {
+        "Patch": "January 20, 2022",
+        "Description": "Reduced hitpoints at levels 2 and 3: Level 2: 4,500 -> 4,400 Level 3: 4,900 -> 4,700"
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Description": "Added the level 4 Dragon Rider."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Description": "Added the level 5 Dragon Rider."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Description": "Reduced training time from 4m 10s to 3m 30s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "June 30, 2025",
+        "Description": "Increased hitpoints at levels 4 and 5: Level 4: 5,000 -> 5,100 Level 5: 5,300 -> 5,600"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Description": "Added the level 6 Dragon Rider. Increased damage at level 5 from 460 to 470. Reduced upgrade time at level 5 from 15d 12h to 10d 6h. Reduced upgrade cost at level 5 from 22,500,000 to 19,000,000."
+      },
+      {
+        "Patch": "May 26, 2026",
+        "Description": "Reduced hitpoints at level 6 from 6,200 to 6,000. Reduced damage at level 6 from 520 to 510."
+      },
+      {
+        "Patch": "July 14, 2026",
+        "Description": "Reduced hitpoints at level 6 from 6,000 to 5,900. Reduced damage at level 6 from 510 to 490."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:BombTower_hit.ogg",
+        "Captions": "Projectile hits¹",
+        "Description": "When the Dragon Rider successfully hit a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wall_Breaker_die.ogg",
+        "Captions": "Skeleton Rider dies²",
+        "Description": "When the Dragon Rider crash and damaging nearby area"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Rider_deploy.ogg",
+        "Captions": "Dragon Rider deploys",
+        "Description": "When the Dragon Rider is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Rider_attack.ogg",
+        "Captions": "Dragon Rider fires",
+        "Description": "When the Dragon Rider is attacking something"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Rider_die.ogg",
+        "Captions": "Dragon Rider crashes",
+        "Description": "When the Dragon Rider dies (pitched higher in-game)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"This aerial engine of destruction readily and frankly, quite excitedly lays waste to any defense it comes across. The skeleton onboard swears he's not touching the controls.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 6.1 Generic 6.2 Unique 7 Gallery 8 Trivia 8.1 General 8.2 Comparisons Summary The Dragon Rider is the fifteenth Elixir Troop unlocked in the Barracks when it has been upgraded to level 15, which requires Town Hall level 13. This flying unit is a mechanized dragon ridden by a Skeleton that prioritizes defenses . The Dragon Rider is a fearsome aerial unit that has high hitpoints and attack damage, but has a moderate movement speed. It is also more powerful and faster than the Dragon and the Electro Dragon , which can make it a preferable choice for taking down defenses. When defeated, the Dragon Rider will fall to the ground and explode, damaging everything around it similarly to a Balloon , dealing high damage. Dragon Riders prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Note that like all troops that prioritize defenses, Dragon Riders do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all defenses are destroyed, Dragon Riders become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. However, they will not switch targets to enemy units until their previous target was destroyed. Strategies Offensive Strategies The Dragon Rider can be used to hunt down defensive buildings that are far away from each other to take them out. It is better than a Dragon in that aspect due to the extra speed, health, and damage. The Dragon Rider has more hitpoints than the Dragon and even the Electro Dragon , which makes it tankier, and its damage is decent, meaning that it can do a lot on its own without any spell or troop support. The Dragon Rider can be effective for funneling defense-targeting troops, since its high health, defense targeting traits, and its good damage makes him good for funneling. However, in some cases, the Rocket Balloon can be better for single-targeting defenses or defenses inside the base. The Dragon Rider has faster speed, higher DPS, higher hitpoints, and lower housing space than the Electro Dragon of a similar level, making it a good alternative. They also target defenses, however, they cannot damage multiple buildings in one attack, unlike the Electro Dragon. Adding an Invisibility Spell and Rage Spell along with an army of Dragon Riders will destroy most of the defenses, making way for the weaker troops , Electro Dragon and Dragon to easily raid the place and secure a victory. It can be paired with Lava Hounds , as they are able to distract the defenses and trigger Seeking Air Mines while the Dragon Rider destroys them. However, this is dependent on the combination's proximity to an Air Defense, as the Lava Hounds target them and thus can only tank defenses around that area. This combination is also very susceptible to seeking air mines, so consider taking Balloons with the Dragon Riders. Defensive Strategies It is pretty difficult to stop a Dragon Rider from reaching a certain defense because of its high damage and hitpoints. One way to stop a Dragon Rider is by using a Skeleton Trap (set to air mode). This is because of the Dragon Rider preferred target, thus ignoring the Skeletons. Even if all defenses are destroyed, the Dragon Rider can only shoot at one at a time, thus hindering the Dragon Rider. Seeking Air Mines can heavily damage, or even kill, Dragon Riders. Placing one near defenses that Dragon Riders are likely to target can ruin the attacker's plan. This is especially valuable to the defender, as a death of one Dragon Rider is a 25 housing space loss. The Dragon Rider is not the best choice as a Clan Castle troop, as it can only attack a single target at a time, which makes it easy to overwhelm with hordes of units. However, its high hitpoints means that it can take a while to kill, depending on the army the attacker is using. It can also stop unprepared attackers, such as one using an all- P.E.K.K.A army. Upgrade Differences The Dragon Rider undergoes significant visual changes at levels 1, 3, 4, 5 and 6. Initially, the Dragon Rider is a mechanical dragon made of iron and wooden planks, with metal supports in the wings, and a Skeleton pilot with a dark helmet, red goggles, and a long, red scarf on his neck. The dragon's head is made out of gray metal, so is the tail and the bands of the barrel, which consists of a metal seat where the pilot sits, and a red lever covered by a metal pipe used for controlling the dragon. When attacking, the metal Dragon head opens its jaws, revealing a Cannon barrel inside, where the cannonballs are fired from a distance. At level 2, the horns of the dragon become golden, and the metal supports on the body and wings of the dragon turn golden and slightly grow in size. At level 3, the top part of the dragon's head is now golden as well, and the Skeleton's helmet appears to have an explosion symbol on it. The Skeleton's hat also appears to be on fire. At level 4, the jaw of the dragon and the metal plates of the barrel becomes golden, and the scarf of the rider becomes purple. At level 5, the wooden parts of the dragon, the upper jaw, and the rider's scarf, all turn into navy. The fire of the helmet is also larger, and the seat inside, along with the tail, turns into a dark metal color. The dragon's eyes turn black, its arms become gold, and the legs turn gray, while the head, the metal plates on the barrel and wings, and the lower jaw, all turn brighter, the lower jaw also gains a smooth texture. The dragon's lower jaw also appears to be slightly lower as opposed to its previous levels. At level 6, the entire body of the dragon turns onyx-colored, with some of its golden parts becoming metal. The horns and rivets on the dragon's head and jaws are replaced with six metal spikes, with the spikes on the front being smaller, and its wings gain a gray metal plate on the edge. The rider's helmet lightens up and loses the fire on the top, his goggles turn blue with cyan lens, and his scarf becomes azure. The control lever in the barrel also turns blue. Both of the dragon's eyes and its mouth glow meteor. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Death Damage Radius Barracks Level Required Defenses Single Target 25 20 1.2s 4 tiles 2 tiles 15 Level Damage per Second Damage per Attack Damage Upon Death Hitpoints Research Cost Research Time Laboratory Level Required 1 340 408 700 4,100 N/A N/A N/A 2 370 444 800 4,400 7,500,000 6d 11 3 400 480 900 4,700 12,000,000 8d 12 4 430 516 1,000 5,100 14,500,000 9d 14 5 470 564 1,100 5,600 19,000,000 10d 6h 15 6 490 588 1,200 5,900 29,500,000 15d 12h 16 History Patch Description June 13 2021 Announced the Dragon Rider. June 15, 2021 The Dragon Rider was added along with 3 levels. September 27, 2021 Reduced range from 4.5 to 4 tiles. January 20, 2022 Reduced hitpoints at levels 2 and 3: Level 2: 4,500 -> 4,400 Level 3: 4,900 -> 4,700 December 12, 2023 Added the level 4 Dragon Rider. November 25, 2024 Added the level 5 Dragon Rider. February 10, 2025 Reduced training time from 4m 10s to 3m 30s. March 27, 2025 Removed training time. June 30, 2025 Increased hitpoints at levels 4 and 5: Level 4: 5,000 -> 5,100 Level 5: 5,300 -> 5,600 November 17, 2025 Added the level 6 Dragon Rider. Increased damage at level 5 from 460 to 470. Reduced upgrade time at level 5 from 15d 12h to 10d 6h. Reduced upgrade cost at level 5 from 22,500,000 to 19,000,000. May 26, 2026 Reduced hitpoints at level 6 from 6,200 to 6,000. Reduced damage at level 6 from 520 to 510. July 14, 2026 Reduced hitpoints at level 6 from 6,000 to 5,900. Reduced damage at level 6 from 510 to 490. Audio Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:BombTower_hit.ogg Projectile hits¹ When the Dragon Rider successfully hit a unit or building https://clashofclans.fandom.com/wiki/File:Wall_Breaker_die.ogg Skeleton Rider dies² When the Dragon Rider crash and damaging nearby area Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Dragon_Rider_deploy.ogg Dragon Rider deploys When the Dragon Rider is deployed https://clashofclans.fandom.com/wiki/File:Dragon_Rider_attack.ogg Dragon Rider fires When the Dragon Rider is attacking something https://clashofclans.fandom.com/wiki/File:Dragon_Rider_die.ogg Dragon Rider crashes When the Dragon Rider dies (pitched higher in-game) ¹ Reuses the hit sound effect of the Bomb Tower ² Reuses the death sound effect of the Wall Breaker Gallery Dragon Rider icon Dragon Rider sneak peak New Dragon Rider Troop Explained (Clash of Clans)-2 Dragon Rider render in the Chinese server Trivia General You can have a maximum of 14 Dragon Riders at one time in a complete set of fully upgraded Army Camps . This number increases to 16 if you include 2 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 4 Dragon Riders with four level 3 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 20 Dragon Riders. The Dragon Rider is one of the five troops associated with Dragons, the others are the Baby Dragon , Electro Dragon , Super Dragon , and the Inferno Dragon . As a troop that is associated with Dragons, the Dragon Rider is: The only dragon troop not to be organic. The only dragon troop that targets defenses . The dragon troop that deals the highest damage per second, although the Electro Dragon deals the highest damage per hit, while the Inferno Dragon deals the highest damage overall in his third stage. Comparisons The Dragon Rider is one of the several troops, along with the Healer , Miner , Electro Dragon , Yeti , Golem , Ice Golem and Headhunter not to have a Builder Base Troop or Super Troop counterpart. Out of these, the Dragon Rider is the only Wall Breaker-like troop not to have a Super Troop or Builder Base counterpart. It is one of the three \"vehicle\" troops that are manned by Wall Breaker-like Skeletons, the others being the Balloon and the Rocket Balloon . The Dragon Rider, along with the Dragon, P.E.K.K.A , Yeti , Electro Titan, Headhunter , Root Rider and the Thrower are the only troops to have upgrade differences at each level. The Dragon Rider, along with the Mighty Yak , Hog Glider and Battle Machine are the only units not to appear in loading screen images , excluding the Super Troops (with the exception of the Super Giant and Rocket Balloon ). The Dragon Rider is one of the 13 units to appear in a Scenery, the others being the Barbarian , Goblin , Balloon , Hog Rider , Barbarian King , P.E.K.K.A, Baby Dragon, Skeleton , Archer Queen , Grand Warden , Cannon Cart , and the Party Wizard . In its case, it appears in the 9th Clashiversary Scenery. The Dragon Rider, along with the Dragon, Yeti, and Headhunter are the only Home Village troops not to appear in Clash Royale , excluding Super Troops (with the exception of the Inferno Dragon). Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

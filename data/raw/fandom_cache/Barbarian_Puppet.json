@@ -1,0 +1,273 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Barbarian King",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Available by default"
+      }
+    ],
+    [
+      {
+        "Level": "Summoned Barbarians",
+        "Ability Attributes": "Barbarian Damage Increase",
+        "Hero Boosts": "Barbarian Speed Increase",
+        "Upgrade Cost": "Hitpoint Increase",
+        "Blacksmith Level Required": "HP Recovery Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "8",
+        "Hero Boosts": "+100%",
+        "Upgrade Cost": "9.5",
+        "Blacksmith Level Required": "309"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "8",
+        "Hero Boosts": "+100%",
+        "Upgrade Cost": "9.5",
+        "Blacksmith Level Required": "385"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "16",
+        "Hero Boosts": "+120%",
+        "Upgrade Cost": "12.7",
+        "Blacksmith Level Required": "467"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "16",
+        "Hero Boosts": "+120%",
+        "Upgrade Cost": "12.7",
+        "Blacksmith Level Required": "564"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "16",
+        "Hero Boosts": "+120%",
+        "Upgrade Cost": "12.7",
+        "Blacksmith Level Required": "649"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "20",
+        "Hero Boosts": "+140%",
+        "Upgrade Cost": "16.0",
+        "Blacksmith Level Required": "734"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "20",
+        "Hero Boosts": "+140%",
+        "Upgrade Cost": "16.0",
+        "Blacksmith Level Required": "836"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "20",
+        "Hero Boosts": "+140%",
+        "Upgrade Cost": "16.0",
+        "Blacksmith Level Required": "940"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "30",
+        "Hero Boosts": "+160%",
+        "Upgrade Cost": "19.1",
+        "Blacksmith Level Required": "1,045"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "30",
+        "Hero Boosts": "+160%",
+        "Upgrade Cost": "19.1",
+        "Blacksmith Level Required": "1,155"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "30",
+        "Hero Boosts": "+160%",
+        "Upgrade Cost": "19.1",
+        "Blacksmith Level Required": "1,265"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "36",
+        "Hero Boosts": "+180%",
+        "Upgrade Cost": "22.3",
+        "Blacksmith Level Required": "1,445"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "36",
+        "Hero Boosts": "+180%",
+        "Upgrade Cost": "22.3",
+        "Blacksmith Level Required": "1,755"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "36",
+        "Hero Boosts": "+180%",
+        "Upgrade Cost": "22.3",
+        "Blacksmith Level Required": "2,087"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "40",
+        "Hero Boosts": "+200%",
+        "Upgrade Cost": "25.5",
+        "Blacksmith Level Required": "2,444"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "40",
+        "Hero Boosts": "+200%",
+        "Upgrade Cost": "25.5",
+        "Blacksmith Level Required": "2,703"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "40",
+        "Hero Boosts": "+200%",
+        "Upgrade Cost": "25.5",
+        "Blacksmith Level Required": "3,093"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "44",
+        "Hero Boosts": "+220%",
+        "Upgrade Cost": "28.7",
+        "Blacksmith Level Required": "3,366"
+      }
+    ],
+    [
+      {
+        "Barbarian Rage Duration": "20 seconds"
+      }
+    ],
+    [
+      {
+        "Town Hall Level": "Summoned Barbarians",
+        "Ability Attributes": "Barbarian Damage Increase",
+        "Hero Boosts": "Barbarian Speed Increase"
+      },
+      {
+        "Town Hall Level": "4",
+        "Ability Attributes": "8",
+        "Hero Boosts": "+100%"
+      },
+      {
+        "Town Hall Level": "5",
+        "Ability Attributes": "8",
+        "Hero Boosts": "+100%"
+      }
+    ],
+    [
+      {
+        "Barbarian King Level": "1-10",
+        "Barbarian Puppet Level": "1"
+      },
+      {
+        "Barbarian King Level": "11-20",
+        "Barbarian Puppet Level": "2"
+      },
+      {
+        "Barbarian King Level": "21-25",
+        "Barbarian Puppet Level": "3"
+      },
+      {
+        "Barbarian King Level": "26-30",
+        "Barbarian Puppet Level": "4"
+      },
+      {
+        "Barbarian King Level": "31-35",
+        "Barbarian Puppet Level": "5"
+      },
+      {
+        "Barbarian King Level": "36-40",
+        "Barbarian Puppet Level": "6"
+      },
+      {
+        "Barbarian King Level": "41-45",
+        "Barbarian Puppet Level": "7"
+      },
+      {
+        "Barbarian King Level": "46-50",
+        "Barbarian Puppet Level": "8"
+      },
+      {
+        "Barbarian King Level": "51-55",
+        "Barbarian Puppet Level": "9"
+      },
+      {
+        "Barbarian King Level": "56-60",
+        "Barbarian Puppet Level": "10"
+      },
+      {
+        "Barbarian King Level": "61-65",
+        "Barbarian Puppet Level": "11"
+      },
+      {
+        "Barbarian King Level": "66-70",
+        "Barbarian Puppet Level": "12"
+      },
+      {
+        "Barbarian King Level": "71-75",
+        "Barbarian Puppet Level": "13"
+      },
+      {
+        "Barbarian King Level": "76-80",
+        "Barbarian Puppet Level": "14"
+      },
+      {
+        "Barbarian King Level": "81-90",
+        "Barbarian Puppet Level": "15"
+      }
+    ],
+    [
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the Barbarian Puppet, separated from the original Iron Fist ability of the Barbarian King."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Doubled the rage duration of Barbarians from 10 seconds to 20 seconds. Changed the spawn rate to spawn 5 Barbarians every half-second. Increased passive hitpoint increase at levels 13 to 18: Level 13: 1,520 -> 1,596 Level 14: 1,726 -> 1,898 Level 15: 1,932 -> 2,222 Level 16: 2,138 -> 2,458 Level 17: 2,344 -> 2,812 Level 18: 2,550 -> 3,060"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Increased passive hitpoint increase at all levels by 10%: Level 1: 281 -> 309 Level 2: 350 -> 385 Level 3: 425 -> 467 Level 4: 513 -> 564 Level 5: 590 -> 649 Level 6: 668 -> 734 Level 7: 760 -> 836 Level 8: 855 -> 940 Level 9: 950 -> 1,045 Level 10: 1,050 -> 1,155 Level 11: 1,150 -> 1,265 Level 12: 1,314 -> 1,445 Level 13: 1,596 -> 1,755 Level 14: 1,898 -> 2,087 Level 15: 2,222 -> 2,444 Level 16: 2,458 -> 2,703 Level 17: 2,812 -> 3,093 Level 18: 3,060 -> 3,366 Increased health recovery at all levels by 10%: Level 1: 100 -> 110 Level 2: 150 -> 165 Level 3: 200 -> 220 Level 4: 250 -> 270 Level 5: 300 -> 330 Level 6: 350 -> 385 Level 7: 400 -> 440 Level 8: 450 -> 495 Level 9: 520 -> 572 Level 10: 600 -> 660 Level 11: 680 -> 748 Level 12: 770 -> 847 Level 13: 860 -> 946 Level 14: 940 -> 1,034 Level 15: 1,060 -> 1,166 Level 16: 1,130 -> 1,243 Level 17: 1,200 -> 1,320 Level 18: 1,260 -> 1,386"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Summons a pack of raged Barbarians \" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 3.1 Attributes at lower Town Hall levels 3.2 Equipment Migration 4 History 5 Trivia Summary The Barbarian Puppet is a piece of Hero Equipment for the Barbarian King . It is one of the two Hero Equipment that is unlocked alongside him, the other being the Rage Vial . The Barbarian Puppet enables the Barbarian King to summon a large number of enraged Barbarians when using his ability. These Barbarians do extra damage and move faster while enraged. The Barbarians spawned by the ability are equal in Level to the Level of Barbarians that the player has researched in the Laboratory . For example, if the player has upgraded Barbarians to Level 5 in the Laboratory, the ability will spawn Level 5 Barbarians. In addition to the ability, the Barbarian Puppet grants additional hitpoints to the Barbarian King, and increases the amount of health he recovers when using the ability. Strategies Offensive Strategies The spawned Barbarians can distract defenses, and can be vital when the Barbarian King is going against an Inferno Tower or a Monolith . Due to their large numbers, they can help to destroy defenses for the King. Note that spawning in the Barbarians does not force defenses to retarget, so a spell such as a Freeze Spell should be used to get defenses to stop attacking the King (otherwise, they will remain locked on until the King is defeated or goes out of range). It is not advised to use the ability near empty spaces, unless the health regeneration is desperately needed. Such spaces could conceal Giant Bombs or other harmful traps that could wipe out the summoned Barbarians. Likewise, it is not recommended to activate the ability against a Bomb Tower or defensive Town Hall weapon. Both explode upon their destruction, and can similarly destroy the Barbarians. To maximize the effectiveness of the ability, it is recommended that Barbarians are upgraded as much as possible in the Laboratory, even if they are not used elsewhere in the army, as the level of Barbarians Spawned correspond to the level or Barbarians you have in your Laboratory. You can use this equipment in a smash-style attack and the Barbarians can have a lot of purposes, from distracting defenses, to destroying single-targeting defenses with enough Barbarians, to trigger traps, or to even help with cleanup if you activate the ability early. Defensive Strategies The summoned Barbarians are weak to splash defenses such as Mortars , Wizard Towers , Bomb Towers , Eagle Artillery , and Scattershots , since they will destroy them in a few hits (Scattershots and Eagle Artillery can one-shot Barbarians at any level, however). These defenses should be guarded by Walls , since the raged Barbarians can rush to wipe out any defense extremely quickly. Defenses that do not do splash damage but can target multiple units, such as multi-target Inferno Towers , Multi-Archer Towers , and Firespitters can work against the spawns to a limited extent, but can potentially be overrun by the Barbarians' sheer numbers. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Barbarian King Active Common Available by default Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Summoned Barbarians Barbarian Damage Increase Barbarian Speed Increase Hitpoint Increase HP Recovery Increase Shiny Ore Glowy Ore 1 8 +100% 9.5 309 110 N/A N/A N/A 2 8 +100% 9.5 385 165 120 - 1 3 16 +120% 12.7 467 220 240 20 1 4 16 +120% 12.7 564 275 400 - 1 5 16 +120% 12.7 649 330 600 - 1 6 20 +140% 16.0 734 385 840 100 1 7 20 +140% 16.0 836 440 1,120 - 1 8 20 +140% 16.0 940 495 1,440 - 1 9 30 +160% 19.1 1,045 572 1,800 200 1 10 30 +160% 19.1 1,155 660 1,900 - 3 11 30 +160% 19.1 1,265 748 2,000 - 3 12 36 +180% 22.3 1,445 847 2,100 400 3 13 36 +180% 22.3 1,755 946 2,200 - 5 14 36 +180% 22.3 2,087 1,034 2,300 - 5 15 40 +200% 25.5 2,444 1,166 2,400 600 5 16 40 +200% 25.5 2,703 1,243 2,500 - 7 17 40 +200% 25.5 3,093 1,320 2,600 - 7 18 44 +220% 28.7 3,366 1,386 2,700 600 7 Barbarian Rage Duration 20 seconds Attributes at lower Town Hall levels The Barbarian Puppet is equipped to the Barbarian King while he is available at Town Hall 4 through 6. At Town Halls 4 and 5, the equipment's stats (particularly passive Hero Boosts) are reduced compared to the normal stats at level 1. The below table shows the equipment's statistics at these lower Town Hall levels. Note that at Town Hall 6, the Hero Equipment's stats fully match the level 1 statistics. Town Hall Level Ability Attributes Hero Boosts Summoned Barbarians Barbarian Damage Increase Barbarian Speed Increase Hitpoint Increase* HP Recovery Increase* 4 8 +100% 9.5 154.5 55 5 8 +100% 9.5 231.75 82.5 *Statistics are truncated to the whole number in-game. Equipment Migration When the Hero Equipment update was released, players' starting Hero Equipment was leveled up for free, without requiring the appropriate Blacksmith level, so that Heroes' capabilities remained roughly the same before and after the update. The level of Hero Equipment obtained from this process depended on the player's Hero level, and is archived in this table below. Barbarian King Level Barbarian Puppet Level 1-10 1 11-20 2 21-25 3 26-30 4 31-35 5 36-40 6 41-45 7 46-50 8 51-55 9 56-60 10 61-65 11 66-70 12 71-75 13 76-80 14 81-90 15 History Date Description December 12, 2023 Added the Barbarian Puppet, separated from the original Iron Fist ability of the Barbarian King. September 9, 2024 Doubled the rage duration of Barbarians from 10 seconds to 20 seconds. Changed the spawn rate to spawn 5 Barbarians every half-second. Increased passive hitpoint increase at levels 13 to 18: Level 13: 1,520 -> 1,596 Level 14: 1,726 -> 1,898 Level 15: 1,932 -> 2,222 Level 16: 2,138 -> 2,458 Level 17: 2,344 -> 2,812 Level 18: 2,550 -> 3,060 February 10, 2025 Increased passive hitpoint increase at all levels by 10%: Level 1: 281 -> 309 Level 2: 350 -> 385 Level 3: 425 -> 467 Level 4: 513 -> 564 Level 5: 590 -> 649 Level 6: 668 -> 734 Level 7: 760 -> 836 Level 8: 855 -> 940 Level 9: 950 -> 1,045 Level 10: 1,050 -> 1,155 Level 11: 1,150 -> 1,265 Level 12: 1,314 -> 1,445 Level 13: 1,596 -> 1,755 Level 14: 1,898 -> 2,087 Level 15: 2,222 -> 2,444 Level 16: 2,458 -> 2,703 Level 17: 2,812 -> 3,093 Level 18: 3,060 -> 3,366 Increased health recovery at all levels by 10%: Level 1: 100 -> 110 Level 2: 150 -> 165 Level 3: 200 -> 220 Level 4: 250 -> 270 Level 5: 300 -> 330 Level 6: 350 -> 385 Level 7: 400 -> 440 Level 8: 450 -> 495 Level 9: 520 -> 572 Level 10: 600 -> 660 Level 11: 680 -> 748 Level 12: 770 -> 847 Level 13: 860 -> 946 Level 14: 940 -> 1,034 Level 15: 1,060 -> 1,166 Level 16: 1,130 -> 1,243 Level 17: 1,200 -> 1,320 Level 18: 1,260 -> 1,386 Trivia The Barbarian Puppet resembles a voodoo doll of a Barbarian . A voodoo doll is an effigy that is typically used for the insertion of pins. Such practices are found in various forms in the magical traditions of many cultures around the world. The Barbarian Puppet is one of the first equipment to be added to the game, alongside the Rage Vial , Earthquake Boots , Vampstache , Archer Puppet , Invisibility Vial , Giant Arrow , Healer Puppet , Eternal Tome , Life Gem , Rage Gem , Healing Tome , Royal Gem , and Seeking Shield . The Barbarian Puppet is one of the equipment that spawn additional troops when activated, the others being Archer Puppet, Healer Puppet, Action Figure , Hechnmen Puppet , Lavaloon Puppet , and Hog Rider Puppet . The Barbarian Puppet is one of the Common equipment that do not require the Blacksmith to be built in order to unlock them, the others being Rage Vial, Archer Puppet, and Invisibility Vial. Despite requiring a Level 7 Blacksmith in order to have a Level 15 Barbarian Puppet, it can be obtained from as low as a Level 1 Blacksmith. This can happen due to the Equipment Migration in the Town Hall 16 Update (see Statistics above). Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

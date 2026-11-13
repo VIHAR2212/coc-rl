@@ -1,0 +1,170 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash",
+        "Movement Speed": "18",
+        "Attack Speed": "1.5s",
+        "Workshop Level Required": "2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "100",
+        "Damage per Attack": "150",
+        "Damage when Destroyed": "700",
+        "Hitpoints": "3,000",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "140",
+        "Damage per Attack": "210",
+        "Damage when Destroyed": "800",
+        "Hitpoints": "3,500",
+        "Research Cost": "2,500,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "180",
+        "Damage per Attack": "270",
+        "Damage when Destroyed": "900",
+        "Hitpoints": "4,000",
+        "Research Cost": "3,500,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "220",
+        "Damage per Attack": "330",
+        "Damage when Destroyed": "1,000",
+        "Hitpoints": "4,500",
+        "Research Cost": "6,500,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "260",
+        "Damage per Attack": "390",
+        "Damage when Destroyed": "1,100",
+        "Hitpoints": "5,000",
+        "Research Cost": "10,000,000",
+        "Research Time": "9d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "300",
+        "Damage per Attack": "450",
+        "Damage when Destroyed": "1,200",
+        "Hitpoints": "5,500",
+        "Research Cost": "26,000,000",
+        "Research Time": "13d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Patch": "June 5, 2018",
+        "Type": "Sneak Peek",
+        "Description": "Announced the Battle Blimp, with 3 levels."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the Battle Blimp."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Battle Blimp training times have been reduced to a flat 20 minutes for all levels. Battle Blimp training costs have been reduced to 100,000 Gold across all levels. Battle Blimp deployment on the UI will now default to what was previously used. Donating a Battle Blimp will now give 30XP instead of 1XP and counts as donating 30 units. Fixed battle ending too early if only empty undeployed Battle Blimp is remaining."
+      },
+      {
+        "Patch": "December 10, 2018",
+        "Type": "Update",
+        "Description": "Fixed a bug where a donated Battle Blimp gives 30 housing space to Clan Games tasks."
+      },
+      {
+        "Patch": "June 18, 2019",
+        "Type": "Update",
+        "Description": "Increased Battle Blimp's HP. Fixed a bug where deploying Battle Blimp or other Siege Machines to start a battle now cause defending Grand Warden to retreat into statue form, just as he does when any other unit is deployed."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added death damage of 1000/1200/1400 at levels 1/2/3."
+      },
+      {
+        "Patch": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Added the level 4 Battle Blimp."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Fixed the projectile attack animation angle of the Battle Blimp. Previously it was aimed at the ground but exploded in the air above the target."
+      },
+      {
+        "Patch": "January 20, 2021",
+        "Type": "Balance Changes",
+        "Description": "Adjusted the Grand Warden 's priority when Battle Blimps to reduce the chance of him following them in a deadly run towards the Town Hall ."
+      },
+      {
+        "Patch": "June 16, 2021",
+        "Type": "Optional Update",
+        "Description": "Fixed an issue that made switching to donated Battle Blimp and other Siege Machines impossible."
+      },
+      {
+        "Patch": "February 16, 2022",
+        "Type": "Update",
+        "Description": "Reduced the Battle Blimp's damage when destroyed at all levels (going from 1000/1200/1400/1400 to 700/800/900/1000 at levels 1-4). Fixed an issue where Battle Blimp could get stuck in the air near an enemy Town Hall during a battle."
+      },
+      {
+        "Patch": "June 16, 2025",
+        "Type": "Update",
+        "Description": "Added the level 5 Battle Blimp."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Added the level 6 Battle Blimp."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"The Battle Blimp bypasses ground-based obstacles and delivers your Clan Castle troops directly into the heart of the enemy village , all while dropping bombs along the way. However, its thin hide makes it easier to shoot down. Immune to spell effects.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Summary The Battle Blimp is the second Siege Machine unlocked at Workshop level 2. On the way to the Town Hall, the Battle Blimp will drop bombs, doing similar damage to a singular Lightning Spell per bomb. The Battle Blimp prioritizes the Town Hall over all other targets, and will fly over all other types of enemy buildings and troops to reach its location, regardless of whether or not the Town Hall is still standing. When the Battle Blimp successfully reaches the Town Hall (or its remains), it automatically breaks apart to reveal the Clan Castle troops inside. Like other Siege Machines, the Clan Castle troops can be ejected manually by pressing the green arrow symbol. Battle Blimps can still be used if there are no Clan Castle troops, however, when it is destroyed, nothing will spawn from it. Unlike other Siege Machines, it will have no purpose other than to severely damage, if not destroy defenses for the main army, or to activate the Town Hall weapon for them to destroy. Though a Battle Blimp cannot be healed by a Healer or Healing Spell , it can be affected by the Grand Warden 's Eternal Tome. It is affected by Life Gem if he has it equipped but not the Rage Gem. Strategies Offensive Strategies The Battle Blimp is helpful in supporting an air attack. There are several ways it can be used to reinforce an air attack: You can place a Lava Hound inside the Battle Blimp, so that it can provide itself as an additional tank once the Battle Blimp is destroyed or reaches the core of the base. In the case that the Town Hall is off-center, you can still manually destroy the machine to release the Lava Hound in the core. You can place a Dragon (or two if you have the space in your Clan Castle ) which can ravage the Town Hall when the Blimp reaches it. However, you should still beware of nearby Air Defenses , Inferno Towers and the Giga Tesla or Giga Inferno (which are automatically part of Town Halls level 12 or higher). Aside from the above, popular strategies involving the Battle Blimp are: Invisible Super Wizards - Also known as \"Blizzard\" or \"InvisiWiz\", it is a strategy where you keep Super Wizards under constant Invisibility Spells while also boosting their damage with Rage Spells . This is a particularly damaging strategy, often capable of destroying entire compartments; the disadvantage of making buildings invisible is rectified by the Super Wizards' chain lightning chaining back onto said invisible buildings. Though this strategy is incredibly effective, it is weak against traps (which can be partially rectified by adding low-housing troops like Barbarians before the Super Wizards) and you must get the Invisibility Spell placement exactly right to cover the Super Wizards (or they'll quickly be destroyed). Make sure to drop the Battle Blimp in such a way so that you can effectively destroy the core and also allow the Super Wizards to get away from the Town Hall's Giga Bomb, Freeze Bomb or Poison Bomb relatively unscathed. Super Archers - The same as Blizzard or InvisiWiz, but utilizes Super Archers instead of Super Wizards and keeping them covered with constant Invisibility Spells and/or Clone Spells . Rage Spells can also be used to increase their damage output and have the Super Archers deal heavy damage to the Town Hall and nearby buildings, as their ability allows them to fire through Walls which can reach multiple targets at once. A drawback to this strategy is Spell Towers (with the Poison Spell), Giant Bombs , other traps or Clan Castle troops in the area will hinder their progress and kill them before they can destroy their target(s). As this may be the case, it is best to use Super Wizards along with Super Archers to maximize damage and increase your chances of destroying the Town Hall. Electrone - A strategy where you rage and clone Electro Dragons and Balloons once they reach the center. Make sure to clone the Balloons, not the Electro Dragons, as Balloons have enough DPS for the main offense, while Electro Dragons chain outer defenses, essentially acting as a mobile Earthquake Spell. If the defender has the core laden with Air Bombs and Seeking Air Mines , this attack will be severely weakened if not rendered useless, although it is unlikely for an extreme concentration of air traps to be present. Clone Balloons - The same as Electrone without the Electro Dragon. It is easier to use but less effective and much more vulnerable to air traps, but very useful to take down clumped defenses if used correctly. Town Hall sniping - by using a Battle Blimp filled with either Sneaky Goblins or Yetis and Rage Spells, these troops will often be able to do enough damage on their own to take out a Town Hall. This is particularly useful against Town Hall levels 13 and 14, which may leave devastating after-effects upon the Town Hall's explosion. Using the latter can also do massive damage to the surrounding defenses, if it fails to reach the town hall. Ice Golems - You can use Ice Golems in a Blimp to freeze the Town Hall and nearby defenses to allow more Troops to easily get to the core of the base, while the Ice Golems also do some damage. Oftentimes using a Battle Blimp as described above requires support to allow the blimp to reach the Town Hall or its desired location. Depending on the situation, one may need to use Freeze Spells on any obstructive Air Sweepers , tank aerial defenses with a Lava Hound, or otherwise clear said defenses with a ground phase such as a Queen Walk. If you have it, you can use the Lavaloon Puppet to summon Lavaloons to aid it in battle and protect it from Seeking Air Mines, therefore increasing its survivability. Aside from reinforcing an air attack, it can be sent after a main part of the attack, if the Town Hall is still standing. You can place powerful troops inside, such as Valkyries or P.E.K.K.As to finish off the Town Hall, if you intend to use the Battle Blimp in this manner. As it is likely you will have destroyed most of the defenses in your path by then, the Blimp should easily be able to reach the Town Hall. A key component of the Battle Blimp's capabilities is its high death damage, which is capable of destroying certain defenses entirely (and nonetheless doing severe damage to other buildings). It can be useful to intentionally break the Blimp over a compartment with key defenses to ensure they are heavily damaged by it (and also allow the troops inside to immediately attack them). For example, you can use the Battle Blimp to destroy the Eagle Artillery before it is activated, by dropping the Clan Castle troops early. It can be more effective when a Clone Spell and/or a Rage Spell is used when the troops are deployed. Defensive Strategies Place Air Defenses in a way to cover likely paths of the Battle Blimp to the Town Hall . However, since these may also be easily distracted by Lava Hounds or Ice Hounds , you should also consider placement of your other anti-air defenses, such as Archer Towers and X-Bows . A single-target Inferno Tower can easily single out and destroy a Battle Blimp if you can path an air attack in such a way that the Battle Blimp quickly separates from the rest of the troops. Multiple Seeking Air Mines are useful to stop the Battle Blimp from reaching your Town Hall, particularly if a ground attack was used as a first phase to destroy defenses. However, this is much less useful if an air attack was used. Having an Air Sweeper or a well-placed Tornado Trap in an area can stall the Battle Blimp long enough for other defenses to finish it off before it can reach the Town Hall. Often the blimp will be well-covered en route to reaching its target, especially if the Clan Castle troops inside are required for some critical objective (e.g. Sneaky Goblins / Yetis for a Town Hall snipe, or Super Wizards for the Blizzard strategy). If defeating the Blimp is not feasible, traps like Giant Bombs , regular Bombs placed in groups, or Spring Traps can be used to destroy these reinforcements before they can do any significant damage. Upgrade Differences The Battle Blimp undergoes significant visual changes at levels 2, 4, 5 and 6. Initially, the Battle Blimp is a large, scarlet airship reinforced with a spiked metal plate on the front and back. It has a wooden propeller on the back and wooden boxes on the side (which probably hold Clan Castle troops inside). At level 2, wooden boards are attached to the sides of the blimp's side wooden boxes. The metal plate at the front gains two side metal reinforcements. At level 3, each wooden board is replaced by a metal plate. A stub appears on the center just above the metal plate on its nose. At level 4, the metal spikes on the front turn golden, and the metal plate at the front of the blimp is now sharp-sided, which resembles a crown. The previously metal plates on the sides of the Battle Blimp turn golden as well. At level 5, the Battle Blimp's balloon and metal parts become slightly dimmer, its front side gains a pair of swords, and the metal plate at the front becomes more defined. At level 6, the metal plate on the front becomes golden. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Movement Speed Attack Speed Workshop Level Required None Area Splash 18 1.5s 2 Level Damage per Second Damage per Attack Damage when Destroyed Hitpoints Research Cost Research Time Laboratory Level Required 1 100 150 700 3,000 N/A N/A N/A 2 140 210 800 3,500 2,500,000 2d 10 3 180 270 900 4,000 3,500,000 3d 10 4 220 330 1,000 4,500 6,500,000 7d 11 5 260 390 1,100 5,000 10,000,000 9d 13 6 300 450 1,200 5,500 26,000,000 13d 12h 16 History Patch Type Description June 5, 2018 Sneak Peek Announced the Battle Blimp, with 3 levels. June 11, 2018 Update Added the Battle Blimp. October 23, 2018 Update Battle Blimp training times have been reduced to a flat 20 minutes for all levels. Battle Blimp training costs have been reduced to 100,000 Gold across all levels. Battle Blimp deployment on the UI will now default to what was previously used. Donating a Battle Blimp will now give 30XP instead of 1XP and counts as donating 30 units. Fixed battle ending too early if only empty undeployed Battle Blimp is remaining. December 10, 2018 Update Fixed a bug where a donated Battle Blimp gives 30 housing space to Clan Games tasks. June 18, 2019 Update Increased Battle Blimp's HP. Fixed a bug where deploying Battle Blimp or other Siege Machines to start a battle now cause defending Grand Warden to retreat into statue form, just as he does when any other unit is deployed. December 9, 2019 Update Added death damage of 1000/1200/1400 at levels 1/2/3. June 22, 2020 Update Added the level 4 Battle Blimp. October 12, 2020 Update Fixed the projectile attack animation angle of the Battle Blimp. Previously it was aimed at the ground but exploded in the air above the target. January 20, 2021 Balance Changes Adjusted the Grand Warden 's priority when Battle Blimps to reduce the chance of him following them in a deadly run towards the Town Hall . June 16, 2021 Optional Update Fixed an issue that made switching to donated Battle Blimp and other Siege Machines impossible. February 16, 2022 Update Reduced the Battle Blimp's damage when destroyed at all levels (going from 1000/1200/1400/1400 to 700/800/900/1000 at levels 1-4). Fixed an issue where Battle Blimp could get stuck in the air near an enemy Town Hall during a battle. June 16, 2025 Update Added the level 5 Battle Blimp. April 27, 2026 Update Added the level 6 Battle Blimp. Gallery Battle Blimp icon Trivia Out of the seven Siege Machines , the Battle Blimp has the most troops on its artwork with 3. The Battle Blimp and the Wall Wrecker were the first Siege Machines to be added to the game. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

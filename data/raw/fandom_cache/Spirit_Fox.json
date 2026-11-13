@@ -1,0 +1,173 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Within 4.5 tiles of Hero",
+        "Targets": "Ground",
+        "Attack Type": "Single Target",
+        "Movement Speed": "24",
+        "Attack Speed": "1.6s",
+        "Pet House Level Required": "9",
+        "Range": "2.5 tiles",
+        "Special Ability": "Spirit Walk"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "108",
+        "Damage per Hit": "172.8",
+        "Invisibility Duration": "3s",
+        "Hitpoints": "1,900",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "116",
+        "Damage per Hit": "185.6",
+        "Invisibility Duration": "3s",
+        "Hitpoints": "2,000",
+        "Upgrade Cost": "150,000",
+        "Upgrade Time": "3d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "124",
+        "Damage per Hit": "198.4",
+        "Invisibility Duration": "3s",
+        "Hitpoints": "2,100",
+        "Upgrade Cost": "160,000",
+        "Upgrade Time": "4d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "132",
+        "Damage per Hit": "211.2",
+        "Invisibility Duration": "3s",
+        "Hitpoints": "2,200",
+        "Upgrade Cost": "170,000",
+        "Upgrade Time": "5d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "140",
+        "Damage per Hit": "224",
+        "Invisibility Duration": "3.5s",
+        "Hitpoints": "2,300",
+        "Upgrade Cost": "180,000",
+        "Upgrade Time": "5d 12h",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "148",
+        "Damage per Hit": "236.8",
+        "Invisibility Duration": "3.5s",
+        "Hitpoints": "2,400",
+        "Upgrade Cost": "190,000",
+        "Upgrade Time": "6d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "156",
+        "Damage per Hit": "249.6",
+        "Invisibility Duration": "3.5s",
+        "Hitpoints": "2,500",
+        "Upgrade Cost": "200,000",
+        "Upgrade Time": "6d 12h",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "164",
+        "Damage per Hit": "262.4",
+        "Invisibility Duration": "3.5s",
+        "Hitpoints": "2,600",
+        "Upgrade Cost": "210,000",
+        "Upgrade Time": "7d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "172",
+        "Damage per Hit": "275.6",
+        "Invisibility Duration": "3.5s",
+        "Hitpoints": "2,700",
+        "Upgrade Cost": "220,000",
+        "Upgrade Time": "7d 12h",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "180",
+        "Damage per Hit": "288",
+        "Invisibility Duration": "4s",
+        "Hitpoints": "2,800",
+        "Upgrade Cost": "230,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "9"
+      }
+    ],
+    [
+      {
+        "Patch": "November 20, 2023",
+        "Type": "Sneak Peek",
+        "Description": "The Spirit Fox started appearing in the Home Village Classic Scenery ."
+      },
+      {
+        "Patch": "December 9, 2023",
+        "Type": "Sneak Peek",
+        "Description": "Announced Spirit Fox."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the Spirit Fox, with 10 levels."
+      },
+      {
+        "Patch": "February 27, 2024",
+        "Type": "Update",
+        "Description": "Removed the Spirit Fox's frost effect from its attacks."
+      },
+      {
+        "Patch": "March 27, 2024",
+        "Type": "Balance Changes",
+        "Description": "Increased the cooldown of the Spirit Fox's ability to 6 seconds (from 5)."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"An extremely shy creature, who’s happiest alone in the woods outside the Village . When called to battle , Spirit Fox fights fiercely alongside their hero and helps them with a little invisibility.\" Level 1-10 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Gallery 6 Trivia Summary [ ] The Spirit Fox is the ninth pet unlocked when the Pet House is upgraded to level 9 (this requires Town Hall level 16). The Spirit Fox resembles a cyan fox with varying degrees of cyan and has three tails and a long fur coat. Its feet, the tips of its tails, and the eyebrows are deep sea blue in color, with the color growing lighter in height, except for its body, on which it is aquamarine. When deployed, the Spirit Fox turns both itself and its assigned Hero invisible. The duration of invisibility depends on the level of the Spirit Fox. Once the prescribed duration expires, the invisibility will be reapplied after a 6-second cooldown. The invisibility is only applied whenever the Spirit Fox is on the field. If it is removed from battle by a Recall Spell , the Hero will not be able to turn invisible until the Spirit Fox is brought back onto the field. The Spirit Fox can apply invisibility solely to itself if its Hero is knocked out or recalled by a Recall Spell. Effects that affect attack speed will not affect the cooldown of the invisibility ability. The Spirit Fox prioritizes a target within 4.5 tiles of the Hero that the Spirit Fox is paired to. If the Hero is knocked out or removed from battle by a Recall Spell , the Spirit Fox behaves like a troop with no preferential target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. Strategies [ ] Offensive Strategies [ ] The Spirit Fox pairs incredibly well with the Royal Champion thanks to its ability which prevents the Royal Champion from being targeted at times, which increases the odds of the Royal Champion surviving. The Spirit Fox is able to jump over Walls , so will not lag behind the Royal Champion. The Spirit Fox's Spirit Walk ability can be used to push the Hero into compartments with single target Inferno Towers . The ability resets the Inferno Tower's beam every time it activates; giving the Hero or other troops time to destroy it. It should be noted that the 6 second cooldown enables the Inferno Tower to reach its highest damage stage for a split second, which allows it to cause serious damage to your Hero if it was locked on for the entire duration of visibility. It should not be paired with the Archer Queen or the Grand Warden as the Spirit Fox will run ahead of the two heroes in a lot of cases, and will result in a premature death of the pet, which is a waste of its valuable ability. While the Barbarian King moves slower, the Spirit Fox will stay behind him because of the King's melee range. Its invisibility increases the tanking potential of the King, thus allowing him to survive longer. If the Barbarian King has the Vampstache equipped, he can use the invisibility periods to safely heal himself, further increasing his survivability. However, this will remove a tank from the battle, potentially exposing troops at the back susceptible to damage, which by the time when the king becomes visible again, could destroy some, if unlucky, most of your backline, which could ruin the attack. Defensive Strategies [ ] A good way to defend against this is with Inferno Towers and Monolith to take out the Hero directly while it is visible to prevent value. However, the Inferno Tower takes a while to charge up, and if it is not in range when it is visible, it might deal minimal damage. so it is not the most reliable strategy. Ricochet Cannons and Multi-Archer Towers can target both the Spirit Fox and its paired Hero, due to the ability to bounce its shots to another target and the ability to target three units at a time respectively, unless if there are other units close to its range. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Targets Attack Type Movement Speed Attack Speed Pet House Level Required Range Special Ability Within 4.5 tiles of Hero Ground Single Target 24 1.6s 9 2.5 tiles Spirit Walk Level Damage per Second Damage per Hit Invisibility Duration Hitpoints Upgrade Cost Upgrade Time Pet House Level Required 1 108 172.8 3s 1,900 N/A N/A 9 2 116 185.6 3s 2,000 150,000 3d 9 3 124 198.4 3s 2,100 160,000 4d 9 4 132 211.2 3s 2,200 170,000 5d 9 5 140 224 3.5s 2,300 180,000 5d 12h 9 6 148 236.8 3.5s 2,400 190,000 6d 9 7 156 249.6 3.5s 2,500 200,000 6d 12h 9 8 164 262.4 3.5s 2,600 210,000 7d 9 9 172 275.6 3.5s 2,700 220,000 7d 12h 9 10 180 288 4s 2,800 230,000 8d 9 History [ ] Patch Type Description November 20, 2023 Sneak Peek The Spirit Fox started appearing in the Home Village Classic Scenery . December 9, 2023 Sneak Peek Announced Spirit Fox. December 12, 2023 Update Added the Spirit Fox, with 10 levels. February 27, 2024 Update Removed the Spirit Fox's frost effect from its attacks. March 27, 2024 Balance Changes Increased the cooldown of the Spirit Fox's ability to 6 seconds (from 5). Gallery [ ] Spirit Fox concept art Trivia [ ] The Spirit Fox resembles the in-life fox species called \" Vulpes zerda\" ( fennec fox ). The fennec fox is a fox species that endemic to desert areas in North Africa and West Asia. Its most distinctive feature is its unusually large ears, which serve to dissipate heat and listen for underground prey. In Clash of Clans, the Spirit Fox has similar ears and facial expressions. The Spirit Fox is the sixth Pet to be based on a real life animal alongside the Electro Owl , Mighty Yak , Frosty , Diggy , Poison Lizard , Angry Jelly , and Sneezy . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

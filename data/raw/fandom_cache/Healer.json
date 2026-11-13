@@ -1,0 +1,355 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Effect Type": "Heal Splash; 1.5 Tiles (Ground Only)",
+        "Housing Space": "14",
+        "Movement Speed": "16",
+        "Heal Speed": "0.7s",
+        "Barracks Level Required": "8",
+        "Range": "5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Healing per Second": "36",
+        "Healing per Pulse": "25.2",
+        "HPS on Heroes": "19",
+        "HPP on Heroes": "13.3",
+        "Hitpoints": "500",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Healing per Second": "48",
+        "Healing per Pulse": "33.6",
+        "HPS on Heroes": "26",
+        "HPP on Heroes": "18.2",
+        "Hitpoints": "700",
+        "Research Cost": "450,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "3",
+        "Healing per Second": "60",
+        "Healing per Pulse": "42",
+        "HPS on Heroes": "33",
+        "HPP on Heroes": "23.1",
+        "Hitpoints": "900",
+        "Research Cost": "900,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "4",
+        "Healing per Second": "66",
+        "Healing per Pulse": "46.2",
+        "HPS on Heroes": "36",
+        "HPP on Heroes": "25.2",
+        "Hitpoints": "1,200",
+        "Research Cost": "2,500,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Healing per Second": "72",
+        "Healing per Pulse": "50.4",
+        "HPS on Heroes": "48",
+        "HPP on Heroes": "33.6",
+        "Hitpoints": "1,500",
+        "Research Cost": "4,000,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "6",
+        "Healing per Second": "72",
+        "Healing per Pulse": "50.4",
+        "HPS on Heroes": "56",
+        "HPP on Heroes": "39.2",
+        "Hitpoints": "1,600",
+        "Research Cost": "6,000,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "7",
+        "Healing per Second": "72",
+        "Healing per Pulse": "50.4",
+        "HPS on Heroes": "62",
+        "HPP on Heroes": "43.4",
+        "Hitpoints": "1,700",
+        "Research Cost": "9,500,000",
+        "Research Time": "6d 12h",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "8",
+        "Healing per Second": "76",
+        "Healing per Pulse": "53.2",
+        "HPS on Heroes": "68",
+        "HPP on Heroes": "47.6",
+        "Hitpoints": "1,800",
+        "Research Cost": "11,000,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "9",
+        "Healing per Second": "80",
+        "Healing per Pulse": "56",
+        "HPS on Heroes": "75",
+        "HPP on Heroes": "52.5",
+        "Hitpoints": "1,900",
+        "Research Cost": "13,000,000",
+        "Research Time": "7d 6h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "10",
+        "Healing per Second": "80",
+        "Healing per Pulse": "56",
+        "HPS on Heroes": "78",
+        "HPP on Heroes": "54.6",
+        "Hitpoints": "2,000",
+        "Research Cost": "17,000,000",
+        "Research Time": "11d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "11",
+        "Healing per Second": "82",
+        "Healing per Pulse": "57.4",
+        "HPS on Heroes": "88",
+        "HPP on Heroes": "61.6",
+        "Hitpoints": "2,100",
+        "Research Cost": "28,500,000",
+        "Research Time": "15d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Total Number of Healers": "1",
+        "Effectiveness of Additional Healer": "100%",
+        "Overall Efficiency": "100%"
+      },
+      {
+        "Total Number of Healers": "2",
+        "Effectiveness of Additional Healer": "100%",
+        "Overall Efficiency": "100%"
+      },
+      {
+        "Total Number of Healers": "3",
+        "Effectiveness of Additional Healer": "90%",
+        "Overall Efficiency": "96.7%"
+      },
+      {
+        "Total Number of Healers": "4",
+        "Effectiveness of Additional Healer": "90%",
+        "Overall Efficiency": "95%"
+      },
+      {
+        "Total Number of Healers": "5",
+        "Effectiveness of Additional Healer": "70%",
+        "Overall Efficiency": "90%"
+      },
+      {
+        "Total Number of Healers": "6",
+        "Effectiveness of Additional Healer": "40%",
+        "Overall Efficiency": "81.7%"
+      },
+      {
+        "Total Number of Healers": "7",
+        "Effectiveness of Additional Healer": "10%",
+        "Overall Efficiency": "71.4%"
+      },
+      {
+        "Total Number of Healers": "8 and Beyond",
+        "Effectiveness of Additional Healer": "0%",
+        "Overall Efficiency": "62.5%"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Update": "Update",
+        "Description": "Introduction of the Healer, with 3 levels."
+      },
+      {
+        "Patch": "August 30, 2012",
+        "Update": "Update",
+        "Description": "Fixed Healer's AI."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Update": "Update",
+        "Description": "The upgraded Healer now has pink asterisks on her icon that represents her level."
+      },
+      {
+        "Patch": "October 15, 2012",
+        "Update": "Update",
+        "Description": "The Healer now has an upgrade difference at level 3."
+      },
+      {
+        "Patch": "March 12, 2013",
+        "Update": "Update",
+        "Description": "Healers can be deployed near obstacles ."
+      },
+      {
+        "Patch": "May 23, 2013",
+        "Update": "Update",
+        "Description": "Added the level 4 Healer. Decreased Healer's housing space requirement from 20 to 14. Reduced training time from 20m to 15m. Decreased training cost at all levels."
+      },
+      {
+        "Patch": "September 30, 2013",
+        "Update": "Update",
+        "Description": "Increased hitpoints and heal at levels 3 and 4."
+      },
+      {
+        "Patch": "September 16, 2014",
+        "Update": "Update",
+        "Description": "Healers have been trained to avoid distraction: now they will always try to stick with and protect the same group of friendly troops. Defensive Healers no longer heal damaged buildings."
+      },
+      {
+        "Patch": "February 24, 2015",
+        "Update": "Update",
+        "Description": "Healers no longer trigger air Traps ."
+      },
+      {
+        "Patch": "February 27, 2015",
+        "Update": "Update",
+        "Description": "Healer does not trigger the Skeleton Trap anymore."
+      },
+      {
+        "Patch": "December 10, 2015",
+        "Update": "Update",
+        "Description": "Large amounts of Healers now have reduced effectiveness on the same unit."
+      },
+      {
+        "Patch": "March 24, 2016",
+        "Update": "Update",
+        "Description": "Reverted Healers' heal rate on Heroes from 70% to 50% as it is unintentionally raised."
+      },
+      {
+        "Patch": "May 4, 2016",
+        "Update": "Update",
+        "Description": "Reduced training time from 15m to 10m."
+      },
+      {
+        "Patch": "August 25, 2016",
+        "Update": "Update",
+        "Description": "Healers now trigger air Traps ."
+      },
+      {
+        "Patch": "June 27, 2017",
+        "Update": "Update",
+        "Description": "Added the level 5 Healer."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Update": "Update",
+        "Description": "Reduced upgrade times at levels 3 and 4. Reduced training cost at level 5."
+      },
+      {
+        "Patch": "June 18, 2019",
+        "Update": "Update",
+        "Description": "Reduced heal radius from 2 tiles to 1.5 tiles."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Update": "Update",
+        "Description": "Added the level 6 Healer. Reduced healing power on troops at level 5."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Update": "Update",
+        "Description": "Added the level 7 Healer."
+      },
+      {
+        "Patch": "June 15, 2021",
+        "Update": "Update",
+        "Description": "Healers no longer target the Unicorn ."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Update": "Update",
+        "Description": "Reduced upgrade costs and times at levels 2 to 6. Increased hitpoints of level 2 and 3 Healers: Level 2: 600 -> 700 Level 3: 840 -> 900 Increased healing at levels 1 to 4: Level 1: 35 -> 36 Level 2: 42 -> 48 (23 -> 26 on heroes) Level 3: 55 -> 60 (30 -> 33 on heroes) Level 4: 65 -> 66 (35 -> 36 on heroes) Increased Heroes healing at levels 2 to 4: Level 2: 23 -> 26 Level 3: 30 -> 33 Level 4: 35 -> 36"
+      },
+      {
+        "Patch": "May 15, 2023",
+        "Update": "Update",
+        "Description": "Adjusted Healer's AI to more consistently target damaged units when both damaged and undamaged units are near each other."
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Update": "Update",
+        "Description": "Added the level 8 Healer. Reduced upgrade time at level 6 from 10d 12h to 8d 12h. Reduced upgrade cost at level 6 from 9,800,000 to 8,000,000."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Update": "Update",
+        "Description": "Added the level 9 Healer."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Update": "Update",
+        "Description": "Added the level 10 Healer."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Update": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "June 30, 2025",
+        "Update": "Balance Changes",
+        "Description": "Increased Heroes healing at levels 8 to 10: Level 8: 65 -> 68 Level 9: 68 -> 75 Level 10: 74 -> 78"
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Update": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 7 to 9: Level 7: 7d -> 6d 12h Level 8: 7d 12h -> 7d Level 9: 8d -> 7d 6h"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Update": "Town Hall 18 Update",
+        "Description": "Added the level 11 Healer. Reduced upgrade time at level 10 from 15d to 11d. Reduced upgrade cost at level 10 from 22,500,000 to 17,000,000."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"This majestic creature lives to protect and aid her fellow troops . Any army is improved with her healing support, but make sure to protect her from air defenses !\" Level 1-2 Level 3 Level 4 Level 5-6 Level 7 Level 8 Level 9 Level 10 Level 11 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 Effectiveness of Multiple Healers 6 History 7 Gallery 8 Trivia 8.1 Comparisons Summary The Healer is the eighth Elixir Troop unlocked at Barracks level 8, which requires Town Hall level 6. She is a flying unit and the only troop with no attacking capabilities, but can heal any ground troops. When the Healer is deployed, a pulsating circular aura appears around her. She will heal the closest unit or Hero to her, regardless of how damaged they are. For example, if she has already locked on to your Archer Queen , she will not heal anything else until the Archer Queen is destroyed. Healers do not heal air units (other Healers, Dragons , Balloons , Minions , Lava Hounds , etc.), unlike a Healing Spell which heals every kind of troop, as well as the Druid . Healers will also not affect any Siege Machines like the Wall Wrecker . The Healer will not heal if the ground troops have a combined housing space of 2 or less: this means she will not heal a single Barbarian , nor she will heal a Wall Breaker. Note that Healers will heal Heroes at a rate different from that of other units; keep this in mind when using Healers with your heroes. Healers cannot attack at all. They are completely unable to defend themselves, and will totally ignore any enemy buildings or troops attacking them. If they have no target to heal, they will simply remain stationary even if they are taking damage. When defending as a Clan Castle troop, she heals injured Clan Castle troops, Heroes and the Skeletons from Skeleton Trap . Unlike all other troops, Healers are measured in healing per second (abbreviated as HPS; stated in-game as \"Heal\"), rather than in damage per second. The same principle applies to the Druid's initial form. Each additional Healer affecting the same unit after the second will have a reduced effect on healing the unit. Only up to seven Healers can have an effect on a unit at a time. Strategies Offensive Strategies A Healer does not last long if she is in the range of an Air Defense , so make sure you destroy the Air Defenses first or otherwise occupy them before sending in your Healer(s). One strategy to get rid of them is to send an indirect attacker like a Bowler , Electro Dragon , Super Wizard or Super Archer to snipe the Air Defense before it can be of use. The remaining Air Defenses can be a problem so be sure to use a few more troops or spells to take it out. An alternative to taking out the Air Defenses, doing a Hero Walk with a ranged hero will have sufficient range to negate the Air Defense. If at any point in the battle all of your non-healing troops are killed and you have no more non-healing troops or Lightning Spells / Earthquake Spells to deploy, the battle will end, even if you have Healers deployed that are still alive or non-Lightning/Earthquake Spells that are still in effect. You are able to heal a Healer with a Healing Spell , a Druid, or the Healing Tome . As of the December 2015 update, the effect of stacking multiple Healers to heal the same target is reduced. The stacking effectiveness begins to decrease after 4 Healers and decreases drastically after 6 Healers. For this reason, it is not advised to use too many Healers on the same target as the healing efficiency will decrease if they are massed on one target, like the Archer Queen . A Healer can trigger air traps, including the Seeking Air Mine , so be careful when deploying them. Using Balloons will get rid of any SAMs lurking in your preferred spawning location. While the Air Bomb will usually not be enough to kill a Healer, the Seeking Air Mine will prove fatal for almost all Healer levels. Skeleton Traps set to air mode can chip away at a Healer if no other troops that can target air are nearby. You can use this to your advantage when a Hero from a walk with a Healer is defeated, you can pull the Healers with ground troops, thus activating air traps and helpful if you are using an air attack. However, for 14 housing space, it is not the most efficient way and should only be used in desperate situations and can be a final point of value for Healers. Despite the reduced healing rate on Heroes, the Healer is popularly paired with them to increase their survivability, in strategies known as Hero Walks. The most common Hero Walk is the Queen Walk, which involves your Archer Queen funneling and then eventually coming into the base with the help of Wall Breakers to destroy crucial defenses and cover for attacks like the Miner Hog Hybrid, Yeti Smash, BoWitch etc. This works due to the Archer Queen's high damage output. A second Hero Walk is the Warden Walk, where the Healers support the Grand Warden instead of the Queen. Due to the Warden's range being longer, he can outrange a small number of defenses (i.e. Wizard Towers and Bomb Towers ) and so he and the Healers will come across less fire overall. This can be helpful for certain situations, such as facing a multi-target Inferno Tower (when attacking the Inferno, the Queen will bring the Healers into the Inferno's range, while the Warden does not), and can also be done in tandem with a normal Queen Walk. However, due to the Warden's much lower DPS, it is only feasible at Town Hall 12 or above and when the Warden is at least nearly maxed (level 35 or above is considered the bare minimum). However, when the Grand Warden is equipped with the Rage Gem, this speeds up the funneling greatly, improving the chances of success as long as the attack is done correctly. The third Hero Walk is the Champion Walk, which is much less popular because of the champion being defense-targeting and is fast in movement speed, thus only being able to heal when the hero is still, and it runs inside the base, which makes it unpredictable and hard to perform, as well as being ineffective on a whole when paired with the Champion, as the Hero's range is shorter, making the Healers vulnerable to fire from Air Defenses. The fourth Hero Walk is the King Walk, which is commonly used at Town Halls 7-8, due to being to the Barbarian King being the only hero. Since the King is a close ranged attacker, they aren't used very often at higher town hall levels, as he cannot cover the Healers well. If you are using any form of Hero Walk, consider first deploying Balloons to test for Seeking Air Mines . Not doing so can cause the Healers to be destroyed quickly by these Mines which will ruin the walk. You can even couple this further by using the Balloons to also protect other air troops such as Baby Dragons . When using any of the above Hero Walk strategies, one should pay attention to the timer. Using one will usually consume a significant amount of time which may leave insufficient time for the remainder of the attack (especially the Warden Walk due to his low DPS). As a result it may be desirable to execute other phases of the attack at the same time, such as additional funneling or a supporting kill squad. It's recommended to use 5 Healers as it ensures your hero will stay at high HP when being targeted by defenses, and also to ensure sufficient healing if a Healer is killed by a Seeking Air Mine. Rage Spells will increase the Healer's healing, just like how it increases any other troop's damage. Doing so can be extremely useful for Hero Walk strategies; this extra healing can save the Hero from a heavy assault from defenses without having to use their abilities. If placed properly, the Rage Spell will also affect the Hero, greatly increasing their damage. Defensive Strategies Healers do not last long if they are in range of single-target defenses or an Air Defense so make sure you upgrade and protect your Air Defense as much as possible. Also make sure that it is not in the direct way of defense targeting troops, and is off to the side a little bit along with being protected by Walls . This will make sure they do not attack that Air Defense. Put your Air Defense in the middle of the base to prevent ground troops like Giants from destroying it quickly. Since Healers take up 14 housing space, unless you wish to use them on offense, it is not recommended to request or donate them as she does almost nothing on defense and only heals other Clan Castle troops, Skeletons from Skeleton Traps and Heroes . There are much better troops with less or more capacity that would work better anyway. Seeking Air Mines can one shot a relatively leveled Healer. If you plan to counter ground attacks, put your Seeking Air Mines where you predict ground armies to be placed or where ground troops will attack. If a Healer is assisting troops that cannot target air troops, luring her into Skeleton Traps can be an effective way to take her out. Upgrade Differences The Healer undergoes significant visual changes at levels 3, 4, 5, 7, 8, 9, 10 and 11. Initially, the Healer is a woman with long, white angelic wings and short, white hair. She wears a golden dress that ends in four long pieces. Her dress has a white 4-sided star. At level 3, the color of both her aura and her dress turn from light yellow to a bright magenta color (similar to Elixir-pink or level 6 Walls). At level 4, her aura reverts to yellow but becomes brigher, and her dress remains the same. At level 5, her aura turns to white and her dress is now azure. She also wears a light blue headband. At level 7, she now wears a blue tiara on her headband. She now has two auras, which pulsate in anti-phase from each other. At level 8, her wings turn bright yellow, and her headband changes to a hollow triangle (matching many aesthetics of Town Hall 15). Her auras are now differently colored, with one being yellow and the other being bright lavender. At level 9, her wings turn green, her dress becomes jade, and her headband changes to a green strip. She now wears a green tiara and her aura turns green. At level 10, her wings are now colored gold, her inner aura turns golden and her outer white, and her clothes are now a deep cobalt color. Additionally, her tiara turns golden and the decorative piece is diamond-shaped. At level 11, her dress and wings are now charcoal in color, while her hair is changed to azure. Her dress also gains a royal blue trim, while some of the tips of her wings turn sky blue. The aura around her is now cyan. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Effect Type Housing Space Movement Speed Heal Speed Barracks Level Required Range None Heal Splash; 1.5 Tiles (Ground Only) 14 16 0.7s 8 5 tiles Level Healing per Second Healing per Pulse HPS on Heroes HPP on Heroes Hitpoints Research Cost Research Time Laboratory Level Required 1 36 25.2 19 13.3 500 N/A N/A N/A 2 48 33.6 26 18.2 700 450,000 12h 5 3 60 42 33 23.1 900 900,000 1d 6 4 66 46.2 36 25.2 1,200 2,500,000 2d 7 5 72 50.4 48 33.6 1,500 4,000,000 3d 9 6 72 50.4 56 39.2 1,600 6,000,000 4d 12h 11 7 72 50.4 62 43.4 1,700 9,500,000 6d 12h 12 8 76 53.2 68 47.6 1,800 11,000,000 7d 13 9 80 56 75 52.5 1,900 13,000,000 7d 6h 14 10 80 56 78 54.6 2,000 17,000,000 11d 15 11 82 57.4 88 61.6 2,100 28,500,000 15d 16 Effectiveness of Multiple Healers The table below shows the effectiveness of adding another Healer when multiple are healing the same target(s). Total Number of Healers Effectiveness of Additional Healer Overall Efficiency 1 100% 100% 2 100% 100% 3 90% 96.7% 4 90% 95% 5 70% 90% 6 40% 81.7% 7 10% 71.4% 8 and Beyond 0% 62.5% History Patch Update Description August 2, 2012 Update Introduction of the Healer, with 3 levels. August 30, 2012 Update Fixed Healer's AI. September 19, 2012 Update The upgraded Healer now has pink asterisks on her icon that represents her level. October 15, 2012 Update The Healer now has an upgrade difference at level 3. March 12, 2013 Update Healers can be deployed near obstacles . May 23, 2013 Update Added the level 4 Healer. Decreased Healer's housing space requirement from 20 to 14. Reduced training time from 20m to 15m. Decreased training cost at all levels. September 30, 2013 Update Increased hitpoints and heal at levels 3 and 4. September 16, 2014 Update Healers have been trained to avoid distraction: now they will always try to stick with and protect the same group of friendly troops. Defensive Healers no longer heal damaged buildings. February 24, 2015 Update Healers no longer trigger air Traps . February 27, 2015 Update Healer does not trigger the Skeleton Trap anymore. December 10, 2015 Update Large amounts of Healers now have reduced effectiveness on the same unit. March 24, 2016 Update Reverted Healers' heal rate on Heroes from 70% to 50% as it is unintentionally raised. May 4, 2016 Update Reduced training time from 15m to 10m. August 25, 2016 Update Healers now trigger air Traps . June 27, 2017 Update Added the level 5 Healer. April 2, 2019 Update Reduced upgrade times at levels 3 and 4. Reduced training cost at level 5. June 18, 2019 Update Reduced heal radius from 2 tiles to 1.5 tiles. December 9, 2019 Update Added the level 6 Healer. Reduced healing power on troops at level 5. April 12, 2021 Update Added the level 7 Healer. June 15, 2021 Update Healers no longer target the Unicorn . December 9, 2021 Update Reduced upgrade costs and times at levels 2 to 6. Increased hitpoints of level 2 and 3 Healers: Level 2: 600 -> 700 Level 3: 840 -> 900 Increased healing at levels 1 to 4: Level 1: 35 -> 36 Level 2: 42 -> 48 (23 -> 26 on heroes) Level 3: 55 -> 60 (30 -> 33 on heroes) Level 4: 65 -> 66 (35 -> 36 on heroes) Increased Heroes healing at levels 2 to 4: Level 2: 23 -> 26 Level 3: 30 -> 33 Level 4: 35 -> 36 May 15, 2023 Update Adjusted Healer's AI to more consistently target damaged units when both damaged and undamaged units are near each other. June 12, 2023 Update Added the level 8 Healer. Reduced upgrade time at level 6 from 10d 12h to 8d 12h. Reduced upgrade cost at level 6 from 9,800,000 to 8,000,000. December 12, 2023 Update Added the level 9 Healer. February 10, 2025 Update Added the level 10 Healer. March 27, 2025 Clash Anytime Update Removed training time. June 30, 2025 Balance Changes Increased Heroes healing at levels 8 to 10: Level 8: 65 -> 68 Level 9: 68 -> 75 Level 10: 74 -> 78 October 6, 2025 Ranked Battle Update Reduced upgrade times at levels 7 to 9: Level 7: 7d -> 6d 12h Level 8: 7d 12h -> 7d Level 9: 8d -> 7d 6h November 17, 2025 Town Hall 18 Update Added the level 11 Healer. Reduced upgrade time at level 10 from 15d to 11d. Reduced upgrade cost at level 10 from 22,500,000 to 17,000,000. Gallery Healer's avatar Healer render in the Chinese server Healers assisting the Archer Queen in battle Old Healer healing with purple orbs (unused) Trivia In the Chinese language setting of the game, the Healer is called \"Angel\", which the unit resembles. You can have a maximum of 25 Healers at one time in a complete set of fully upgraded Army Camps . This number increases to 28 if you include 3 that can fit into a level 9 or higher Clan Castle . On the battlefield, you can clone an additional 12 Healers with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). Additionally, a total of 3 can be summoned by an Archer Queen equipped with a level 15 or higher Healer Puppet . These total to a maximum of 43 Healers. Note: Having this many Healers is highly discouraged as your troops will have no offensive capabilities unless you bring Clan Castle troops or use them with Heroes . However, at Town Hall 13, Mass Healers with all four heroes is a possible strategy, so long as if those Heroes are set to ground. Healers cannot target and heal the Minion Prince , since he is an aerial unit. To prevent the player from getting softlocked when the player returns after 90 days of staying off the game, an all-Healer army will be replaced by a different army, so that the player can still reclaim their base. However, there was a time when it actually happened, where a user named SociableBuilding posted on Reddit that they were locked out after training all Healers and was permanently locked out of their account. This video can be seen here. After this, Supercell took notice and later fixed it. As a result of the diminishing effects of additional Healers, the maximum possible healing per second on any troop (barring the use of Rage Spells ) is exactly 5 times that of a single Healer's healing per second. For max-level Healers, this is equal to 360 HPS, or 280 HPS on Heroes. Because the Healer cannot attack, a battle will end if she is the only remaining troop on the battlefield. Defensive Healers will not try to escape the poison radius nor heal defensive Clan Castle troops and Heroes while being poisoned. In the Clash-a-rama! series, she was described as both quite pacifistic and an opportunist, as shown helping Barbarians in their Elixir refills, preventing Builders from chopping down trees and healing with a lower price. Unlike her Clash of Clans appearance, the Healer appears to be blind or severely myopic and can even mistake a Balloon for another Healer. The Healer is responsible for creating the Revive Spell , according to the latter's description. Comparisons The Healer is one of the several troops not to have Builder Base or Super Troop counterpart, the others are the Miner , Electro Dragon , Yeti , Dragon Rider , Golem , Ice Golem , and the Headhunter . The Healer, the Balloon , Rocket Balloon , Ice Hound and the Lava Hound are the only air troops in the Home Village that can only target things on the ground. The Healer, along with the Barbarian , Archer , Giant , Goblin , Wall Breaker , Balloon , Wizard , Dragon and P.E.K.K.A , are the oldest units in the game. The Healer, along with the Wall Breaker , Minion and Valkyrie are the only troops to have higher levels with no visual changes. The Healer, along with the Valkyrie and the Yeti are the only troops that do not fully fill a complete set of fully upgraded Army Camps. The Druid and the Healer are similar in different ways: The Druid is a ground unit capable of healing both ground and air troops, but only for a limited time for 16 housing space, moves faster, and does not reduce the Hero Heal. However, he has less hitpoints, his healing is higher and is only limited to 5 targets, has a slower heal speed, and is prone to ground traps such as Spring Traps . The Healer is an aerial unit which heals only ground troops, and her heal type is splash, for 14 housing space. She has a higher heal speed and hitpoints, but she is slower, her healing is lesser and is reduced on Heroes, and is prone to air traps such as Seeking Air Mines . The Druid and Healer cannot heal each other; therefore, they will stand still. However, when the Druid transforms into a Bear , she will heal the Bear. However, if another troop is close enough to the Healer (which can happen if the player deploys a troop with 2 or more housing space or a Hero), the Druid's healing will bounce onto the Healer and heal her. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

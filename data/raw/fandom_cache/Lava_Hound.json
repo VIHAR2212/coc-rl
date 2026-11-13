@@ -1,0 +1,226 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Air Defense",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "30",
+        "Movement Speed": "20",
+        "Attack Speed": "2s",
+        "Dark Barracks Level Required": "6",
+        "Range": "1 tile"
+      }
+    ],
+    [
+      {
+        "Level": "On Offense",
+        "Damage per Second": "On Defense"
+      },
+      {
+        "Level": "1",
+        "Damage per Second": "10",
+        "Damage per Hit": "20",
+        "Damage Upon Death": "100",
+        "Lava Pups Spawned (After Death)": "8",
+        "Hitpoints": "8",
+        "Research Cost": "6,100",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "12",
+        "Damage per Hit": "24",
+        "Damage Upon Death": "150",
+        "Lava Pups Spawned (After Death)": "10",
+        "Hitpoints": "9",
+        "Research Cost": "6,500",
+        "Research Time": "14,000",
+        "Laboratory Level Required": "2d"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "14",
+        "Damage per Hit": "28",
+        "Damage Upon Death": "200",
+        "Lava Pups Spawned (After Death)": "12",
+        "Hitpoints": "10",
+        "Research Cost": "6,800",
+        "Research Time": "21,500",
+        "Laboratory Level Required": "2d 12h"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "16",
+        "Damage per Hit": "32",
+        "Damage Upon Death": "250",
+        "Lava Pups Spawned (After Death)": "14",
+        "Hitpoints": "11",
+        "Research Cost": "7,200",
+        "Research Time": "42,500",
+        "Laboratory Level Required": "3d"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "18",
+        "Damage per Hit": "36",
+        "Damage Upon Death": "300",
+        "Lava Pups Spawned (After Death)": "16",
+        "Hitpoints": "12",
+        "Research Cost": "7,600",
+        "Research Time": "60,000",
+        "Laboratory Level Required": "4d"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "20",
+        "Damage per Hit": "40",
+        "Damage Upon Death": "350",
+        "Lava Pups Spawned (After Death)": "18",
+        "Hitpoints": "13",
+        "Research Cost": "8,000",
+        "Research Time": "80,000",
+        "Laboratory Level Required": "7d"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "22",
+        "Damage per Hit": "44",
+        "Damage Upon Death": "400",
+        "Lava Pups Spawned (After Death)": "20",
+        "Hitpoints": "14",
+        "Research Cost": "8,500",
+        "Research Time": "200,000",
+        "Laboratory Level Required": "8d"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "24",
+        "Damage per Hit": "48",
+        "Damage Upon Death": "450",
+        "Lava Pups Spawned (After Death)": "22",
+        "Hitpoints": "15",
+        "Research Cost": "9,500",
+        "Research Time": "345,000",
+        "Laboratory Level Required": "15d 6h"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Ice Hound",
+        "Boost Cost": "25,000",
+        "Lava Hound Level Required": "5"
+      }
+    ],
+    [
+      {
+        "Date": "September 11, 2014",
+        "Description": "Announced the Lava Hound in the sneak peek, with three levels."
+      },
+      {
+        "Date": "September 16, 2014",
+        "Description": "Added the Lava Hound."
+      },
+      {
+        "Date": "September 9, 2015",
+        "Description": "Lava Hounds no longer attack flying troops, even as a defending Clan Castle troop."
+      },
+      {
+        "Date": "December 19, 2015",
+        "Description": "Fixed a crash when fighting Lava Hounds near the edge of the map."
+      },
+      {
+        "Date": "May 4, 2016",
+        "Description": "Reduced training time from 45m to 15m."
+      },
+      {
+        "Date": "May 24, 2016",
+        "Description": "Added the level 4 Lava Hound."
+      },
+      {
+        "Date": "December 19, 2016",
+        "Description": "Changed icon and info image."
+      },
+      {
+        "Date": "December 18, 2017",
+        "Description": "Increased hitpoints at levels 1 to 3: Level 1: 5,700 -> 6,100 Level 2: 6,200 -> 6,500 Level 3: 6,700 -> 6,800"
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the level 5 Lava Hound."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Description": "Reduced upgrade times at levels 2 to 4: Level 2: 10d -> 6d 12h Level 3: 12d -> 8d Level 4: 14d -> 11d 12h"
+      },
+      {
+        "Date": "October 23, 2018",
+        "Description": "Reduced Gem donation cost from 30 to 20."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Reduced explosion upon death radius from 5 tiles to 3.5 tiles."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Fixed flawed graphics offset for Lava Hound."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Description": "Added the level 6 Lava Hound."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Description": "Reduced upgrade costs at levels 2 and 4: Level 2: 60,000 -> 50,000 Level 4: 150,000 -> 125,000 Reduced upgrade times at levels 2 to 4: Level 2: 6d 12h -> 5d Level 3: 8d -> 6d 12h Level 4: 11d 12h -> 9d"
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Lava Hounds no longer permanently forget about targeting Air Defenses if all the remaining Air Defenses are invisible when they are targeting."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced training time from 5m to 4m 20s."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "June 16, 2025",
+        "Description": "Added the level 7 Lava hound."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 8 Lava hound."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Super variant, see Ice Hound . \"These fiery beasts can't resist chasing after Air Defenses , providing excellent protection for other troops . Once destroyed, they erupt into many smaller, weaker menaces .\" Level 1-2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Gallery 7 Trivia 7.1 Comparisons Summary The Lava Hound is the sixth Dark Elixir Troop unlocked at Dark Barracks level 6, which requires Town Hall level 9. He is a high-hitpoint aerial tank with low damage and moderate speed. The Lava Hound is a fiery, canine beast with a pair of small wings and limbs. He is encased with multiple hardened rock plates over his body and lava flows through every seam. When defeated, the Lava Hound explodes, inflicting a small amount of damage in the area while spawning numerous Lava Pups , which will continue to attack nearby targets. Lava Hounds prioritize Air Defenses above all other targets, and will bypass all other enemy buildings and troops while any Air Defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Once all Air Defenses are destroyed, they will continue to attack any other remaining defenses . Note that like all troops that prioritize defenses, Lava Hounds do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all remaining defenses are destroyed, Lava Hounds become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. Strategies Offensive Strategies Lava Hounds have high health and are essentially the aerial equivalent of the Golem . They can be used to protect Dragons , Minions , Healers and Balloons , much like how Golems can protect a group of Wizards or Witches . Due to their priority against Air Defenses, they can easily occupy them while other troops decimate the base - they deal little damage on their own, and almost always require support from something else. However, it is not a good idea to use Baby Dragons with them as they cannot activate their Tantrum ability while near other aerial allies. Be sure to keep him away from single-targeting Inferno Towers , which can kill him with ease. However, it may also be helpful if the Lava Hound pops on top of the Inferno Tower since the Lava Pups can distract the single-target Inferno for some time. It is a good idea to bring a Freeze Spell if a single-target Inferno Tower is present, since the tower will go down easily if frozen and then bombarded with attacks from allied troops. Against a multi-target Inferno Tower, Lava Hounds will be fine, but the Lava Pups and a large number of allied units that come after it will be decimated, so keep an eye out for them too. Do not use too many Lava Hounds, as they are extremely weak offensive units and will be destroyed before they do too much damage to your enemy, even given their prodigious hitpoints. The Lava Hound can tank for Battle Blimp, especially if the latter is filled with units such as Super Archers, Sneaky Goblins, or Balloons, therefore improving the Blimp's survivability. However, Seeking Mines, if placed far enough from Air Defenses to be triggered by Lava Hounds, will severely damage the Battle Blimp, if not destroy it prematurely, which may result in a one-star or a loss of a battle. Lava Hounds may make high-level Giant - Healer strategies more viable, but they are still one or the weakest strategies at TH9+. This is because Giants hold the least hitpoints for any tank and unlike the Barbarian King, they do not have a Hero ability to get them out of a big doom-circle. Besides, they are intended to absorb fire from anti-air defenses, making ground attackers pointless anyway. It is advisable to have a Clone Spell ready in Lava Hound attacks. Clone the support troops to drastically increase the Lava Hound's effectiveness as it holds off air defenses while other units destroy the buildings. A Rage/Haste Spell can be even better since most of the units that work well with Lava Hound tend to move slowly. It is best to strategically place them around several defenses so they can absorb enemy fire better. While Dragons work well with Lava Hounds, you need to watch out for Seeking Air Mines since they are incredibly effective against strong individuals. Defensive Strategies Spreading your Air Defenses out is a good idea. This forces attackers to keep their air troops near the Lava Hounds for protection, making Air Bombs and Wizard Towers more effective. Also have Seeking Air Mines close near your Air Defenses so they will be more likely to be triggered by Lava Hounds. However, this will not work if your opponent somehow manages to destroy too many air defenses, such as by using Lightning Spells , Earthquake Spells , or the Giant Arrow . Be sure to use at least one single-targeting Inferno Tower, which will destroy a Lava Hound with ease, just like they destroy Golems with ease. Lava Hounds are a great choice as a Clan Castle troop for Clan Castle levels 5 or higher, particularly at higher leagues. While he does virtually no damage on his own, his tremendous hitpoints allow him to soak up a lot of damage from the attacker while the defenses fire upon him, and upon dying, he breaks down into many Lava Pups which can deal a good amount of damage to the attackers. Poison Spells are not as always effective against the Lava Pups, because they often scatter too far apart to be caught by a single Poison Spell, which gives the Lava Hound some stalling potential on defense. However, the Lava Hound will only be deployed if there are ground units such as the Barbarian King near the trigger range of the Clan Castle, since he cannot target aerial units. Upgrade Differences The Lava Hound undergoes significant visual changes at levels 3, 4, 5, 6, 7 and 8. Initially, the Lava Hound is a large, winged, dog-like creature with a body made of molten rock. On his body are cracks filled with lava. He attacks by spitting a single lava ball that deals very low damage. When he dies, he explodes into Lava Pups that deal more damage and have very low hitpoints. At level 3, the spikes on his back turn into a lava color. His eyes also become larger and oranger. The lava under the skin of the forearms also disappears, and his wings grow in size as well as his body. His glow changes a bit. At level 4, the lava on his body turns deep orange. At level 5, the spikes on his back turn dark brown. The wings are now bronze-colored. At level 6, the spikes on his back turn dark red, along with the wings. At level 7, his body becomes slightly bluish, along with his spikes. The lava on his body becomes thicker and starts to glow, and his wings turn navy. His head also becomes gold. At level 8, his body becomes brighter. The spikes on his back turn sky blue and starts to glow, and his wings turn azure. The lava on his upper arms glows the same color as his spikes, while his eyes glow orange. His head is no longer colored gold. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range Air Defense Melee (Ground Only) 30 20 2s 6 1 tile Level Damage per Second Damage per Hit Damage Upon Death Lava Pups Spawned (After Death) Hitpoints Research Cost Research Time Laboratory Level Required On Offense On Defense 1 10 20 100 8 8 6,100 N/A N/A N/A 2 12 24 150 10 9 6,500 14,000 2d 7 3 14 28 200 12 10 6,800 21,500 2d 12h 8 4 16 32 250 14 11 7,200 42,500 3d 9 5 18 36 300 16 12 7,600 60,000 4d 10 6 20 40 350 18 13 8,000 80,000 7d 11 7 22 44 400 20 14 8,500 200,000 8d 14 8 24 48 450 22 15 9,500 345,000 15d 6h 16 Super Troop Boost Super Troop Boost Cost Lava Hound Level Required Ice Hound 25,000 5 History Date Description September 11, 2014 Announced the Lava Hound in the sneak peek, with three levels. September 16, 2014 Added the Lava Hound. September 9, 2015 Lava Hounds no longer attack flying troops, even as a defending Clan Castle troop. December 19, 2015 Fixed a crash when fighting Lava Hounds near the edge of the map. May 4, 2016 Reduced training time from 45m to 15m. May 24, 2016 Added the level 4 Lava Hound. December 19, 2016 Changed icon and info image. December 18, 2017 Increased hitpoints at levels 1 to 3: Level 1: 5,700 -> 6,100 Level 2: 6,200 -> 6,500 Level 3: 6,700 -> 6,800 June 11, 2018 Added the level 5 Lava Hound. June 26, 2018 Reduced upgrade times at levels 2 to 4: Level 2: 10d -> 6d 12h Level 3: 12d -> 8d Level 4: 14d -> 11d 12h October 23, 2018 Reduced Gem donation cost from 30 to 20. December 9, 2019 Reduced explosion upon death radius from 5 tiles to 3.5 tiles. March 30, 2020 Fixed flawed graphics offset for Lava Hound. June 22, 2020 Added the level 6 Lava Hound. October 12, 2020 Reduced upgrade costs at levels 2 and 4: Level 2: 60,000 -> 50,000 Level 4: 150,000 -> 125,000 Reduced upgrade times at levels 2 to 4: Level 2: 6d 12h -> 5d Level 3: 8d -> 6d 12h Level 4: 11d 12h -> 9d April 12, 2021 Lava Hounds no longer permanently forget about targeting Air Defenses if all the remaining Air Defenses are invisible when they are targeting. February 10, 2025 Reduced training time from 5m to 4m 20s. March 27, 2025 Removed training time. June 16, 2025 Added the level 7 Lava hound. February 23, 2026 Added the level 8 Lava hound. Gallery Lava Hound's avatar Lava Hound flying animation Lava Hound's promotional art Old description Trivia You can have a maximum of 11 Lava Hounds at one time in a complete set of fully upgraded Army Camps . This number increases to 12 if you include 1 that can fit into a level 5 or higher Clan Castle . On the battlefield, you can clone an additional 4 Lava Hounds with four level 5 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 16 Lava Hounds. However, because they have insufficient amount of DPS, having that many Lava Hounds would not be a practical move, and will result in a time fail, especially at higher Town Hall levels. The Sneak Peek picture of the Lava Hound features his head, bearing the words \"I smell fireworks...\". This alludes to the fact that Air Defenses' warheads are quite literally fireworks. The Lava Hound bears a strong resemblance to Korath from Backyard Monsters at level 5 and 6 in particular. The Lava Hound is one of ten troops featured as a monster in the game Squad Busters . The others are the Wall Breaker , P.E.K.K.A , Minion , Golem , Bowler , Baby Dragon , Ice Golem , Yeti , and Inferno Dragon . The Lava Hound in Squad Busters resembles the level 1 Lava Hound in Clash of Clans . The Lava Hound is confirmed to be a male in \"The Last Lava Pup\" where a guy asked the storyteller if the Lava Pup's dad was gone too. It also says that the Lava Hound is the father of the Lava Pups. The Lava Hound is often compared to the Golem due to his similar statistics and concept (e.g. they both have a lot of health but low damage, take 30 housing space, and once defeated, they do death damage and spawn smaller sub-troops to continue the fight). However, their main difference is the amount of sub-troops they can spawn. When tapping on an Army Camp , all Lava Hounds stationed there will briefly turn away from the screen. Although the Lava Hound shoots fireballs, he cannot inflict area damage. Unlike his counterpart in Clash Royale , the stats of the Lava Pups do not increase when the Lava Hound is upgraded. Instead, their amount increases. The level 5 Lava Hound has been enlarged in size as of 2018 and has become the largest troop in the game (tied with Heroes ). Comparisons The level 6 Lava Hound has the second highest hitpoints among all regular troops ; (the first one being the level 13 Golem) however, he has lower DPS per housing space (about 0.67) than any other regular troop (excluding the Healer, Unicorn and Druid in his human form, which do not deal any damage), even lower than the level 1 Golem at 1.27 DPS per housing space. When troops at maximum level are compared, it has the second lowest DPS per housing space of all troops, with only the Ice Hound having the lowest DPS per housing space (0.375 at max level). He is one of the four troops that has three preferred target stages, the others being the Broom Witch , the Lavaloon and the Ice Hound. The Lava Hound, Ice Hound, Healer, Balloon, and Rocket Balloon are the only aerial units in the Home Village that can only target things on the ground. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

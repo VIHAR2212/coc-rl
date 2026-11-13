@@ -1,0 +1,207 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Spring Weight": "14",
+        "Number of Units per Army Camp": "1",
+        "Preferred Target": "Any",
+        "Attack Type": "Area Splash",
+        "Movement Speed": "12",
+        "Attack Speed": "0.7s",
+        "Builder Barracks Level Required": "8",
+        "Range": "4 tiles",
+        "Special Ability": "Bat Swarm"
+      }
+    ],
+    [
+      {
+        "Level": "9",
+        "Damage per Second": "176",
+        "Damage per Attack": "123.2",
+        "Hitpoints": "750",
+        "Bats Summon Cooldown": "6.0s",
+        "Bats Summoned": "3 (Max 4)",
+        "Number of Bat Swarm": "7",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "176",
+        "Damage per Attack": "123.2",
+        "Hitpoints": "750",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "3 (Max 4)",
+        "Number of Bat Swarm": "7",
+        "Research Cost": "1,400,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "193",
+        "Damage per Attack": "135.1",
+        "Hitpoints": "830",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "3 (Max 4)",
+        "Number of Bat Swarm": "7",
+        "Research Cost": "1,600,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "193",
+        "Damage per Attack": "135.1",
+        "Hitpoints": "830",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "3 (Max 4)",
+        "Number of Bat Swarm": "8",
+        "Research Cost": "1,800,000",
+        "Research Time": "2d 12h",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "216",
+        "Damage per Attack": "151.2",
+        "Hitpoints": "915",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "3 (Max 4)",
+        "Number of Bat Swarm": "8",
+        "Research Cost": "2,500,000",
+        "Research Time": "3d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "216",
+        "Damage per Attack": "151.2",
+        "Hitpoints": "915",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "8",
+        "Research Cost": "2,700,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "234",
+        "Damage per Attack": "163.8",
+        "Hitpoints": "1,000",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "8",
+        "Research Cost": "3,500,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "234",
+        "Damage per Attack": "163.8",
+        "Hitpoints": "1,000",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "9",
+        "Research Cost": "3,700,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "257",
+        "Damage per Attack": "179.9",
+        "Hitpoints": "1,100",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "9",
+        "Research Cost": "4,200,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "257",
+        "Damage per Attack": "179.9",
+        "Hitpoints": "1,100",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "10",
+        "Research Cost": "4,400,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "278",
+        "Damage per Attack": "194.6",
+        "Hitpoints": "1,220",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "10",
+        "Research Cost": "5,200,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "278",
+        "Damage per Attack": "194.6",
+        "Hitpoints": "1,220",
+        "Bats Summon Cooldown": "4.8s",
+        "Bats Summoned": "4 (Max 5)",
+        "Number of Bat Swarm": "11",
+        "Research Cost": "5,600,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Date": "May 22, 2017",
+        "Description": "Data of her in the game files was available."
+      },
+      {
+        "Date": "June 27, 2017",
+        "Description": "Added the Night Witch, with 12 levels."
+      },
+      {
+        "Date": "September 27, 2017",
+        "Description": "Added levels 13-14 Night Witch."
+      },
+      {
+        "Date": "March 5, 2018",
+        "Description": "Added levels 15-16 Night Witch."
+      },
+      {
+        "Date": "June 18, 2019",
+        "Description": "Added levels 17-18 Night Witch."
+      },
+      {
+        "Date": "May 15, 2023",
+        "Description": "Added levels 19-20 Night Witch."
+      },
+      {
+        "Date": "October 9, 2023",
+        "Description": "Increased Night Witch hitpoints by 11%. Reduced Night Witch summon cooldown by 0.8s."
+      },
+      {
+        "Date": "October 20, 2023",
+        "Description": "Increased Night Witch hitpoints by 6%."
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her Home Village counterpart, see Witch . \"Fearlessly summons flocks of flying creatures and, unlike her sister , leaves the grass in pristine condition.\" Level 9-11 Level 12-15 Level 16-17 Level 18-19 Level 20 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Gallery 7 Trivia 7.1 Comparisons Summary The Night Witch is the eighth Builder Base Troop in the Builder Base, which is unlocked by upgrading the Builder Barracks to level 8, which requires Builder Hall level 6. She is the Builder Base version of the Witch . The Night Witch is a splash-damaging ranged troop that periodically summons Bats , in which are single-target melee air units. This is similar to how the Witch spawns Skeletons . The Night Witch's ability is Bat Swarm , which enables her to spawn several enraged Bats upon being activated. The ability can be activated once per battle. Night Witches have no preferred target when attacking; they will simply attack the closest building to them. However, once they become aware of enemy Guard Post troops or Zappies (either by being attacked themselves or being near another friendly troop under attack), they will leave their previously targeted building and engage the enemy troops instead. Once all of the nearby enemy troops are defeated, they will proceed to attack the nearest building from their current location. Strategies Offensive Strategies The Bats spawned by her could be used as an advantage by attacking as air units. However, unlike the Bats in the Home Village, they target any, so some funneling might be needed. The Battle Machine works well with the Night Witch, as the Battle Machine has a lot of hitpoints to tank hits for the Night Witch while she aids the Battle Machine from behind. However, because Night Witches are ranged units, they are likely to travel around the outside of the base, not following the Battle Machine. You can counteract this by bringing Bombers and Raged Barbarians which will help funnel the Night Witches in. It is a good idea to spawn her at the corner of the map, because she can stack up Bats before she starts attacking, but beware of possible Mega Mines placed at the corners, for they will destroy the Night Witches as they get closer to the base. To counteract this, place the Battle Machine before Night Witches. Placing one or two Night Witches a few tiles behind a Boxer Giant is a good strategy. The Boxer Giant will tank enemy defenses while the Night Witches summon lots of Bats and chip away at the enemy's structures without being targeted. This strategy, however, is vulnerable to Multi Mortar if the troops are not placed a few tiles away from each other due to its large splash radius. The Lava Launcher are extremely powerful against Night Witches and must be watched out for. Tanking troops will not be very effective, as the Lava Launcher's shots will create lava pools that linger for a period, which is usually long enough for Night Witches to get hurt by it as the army advances through the base. As the damage potential of the lava is extremely high, they can be quickly killed if they remain in the lava for long enough. Their slow movement speed is also a reason why the lava pools are so dangerous so make sure the Lava Launcher is aiming at something far away. Her ability is best activated when a lot of Bats are spawned and close to defenses as the raged bats will pick them off easily. It is also preferable to spawn the bats after the Night Witch spawns a pack. Defensive Strategies Any Bats spawned by the Night Witch are vulnerable to Air Bombs and Roaster . Make sure to protect these defenses so your other defenses can take the Night Witch out before she can stack up her Bats. Unlike Skeletons , the Bats cannot protect the Night Witch from ground attacks. This makes her especially vulnerable to ground defenses such as the Double Cannon , Roaster , Multi Mortar , Giant Cannon, Mega Tesla , or Lava Launcher. Single Mines set to air mode are an effective option to quickly destroy a swarm of Bats. The Giant Cannon and Lava Launcher are excellent at damaging Night Witches that are hiding behind tanks. The latter usually will not attack the Witches directly, but the resulting damage over time effect of the lava can be fatal to the Witches. The Roaster can damage both the Night Witch and her Bats. Upgrade Differences Initially, the Night Witch appears as a pale-skinned woman wearing a dark red dress, a black cloak, top and gloves with golden bracelets, two crown-like pieces of jewelry on her head, and a belt with a golden skull at the center. She has glowing blue eyes. She wields a long staff that appears to be shaped like an axe, with a bat located on the top. At level 9, she gains a blood-red colored mist from below her. At level 16, the top of her staff changes to gold. At level 18, the crown-like pieces of jewelry and the front part of her cloak gain a gold trim to match the top of the staff, similar to a level 3-4 Witch . At level 20, the end bits of her cloak turn golden. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Spring Weight Number of Units per Army Camp Preferred Target Attack Type Movement Speed Attack Speed Builder Barracks Level Required Range Special Ability 14 1 Any Area Splash 12 0.7s 8 4 tiles Bat Swarm Level Damage per Second Damage per Attack Hitpoints Bats Summon Cooldown Bats Summoned Number of Bat Swarm Research Cost Research Time Star Laboratory Level Required 9 176 123.2 750 6.0s 3 (Max 4) 7 N/A N/A N/A 10 176 123.2 750 4.8s 3 (Max 4) 7 1,400,000 2d 6 11 193 135.1 830 4.8s 3 (Max 4) 7 1,600,000 2d 6 12 193 135.1 830 4.8s 3 (Max 4) 8 1,800,000 2d 12h 6 13 216 151.2 915 4.8s 3 (Max 4) 8 2,500,000 3d 12h 7 14 216 151.2 915 4.8s 4 (Max 5) 8 2,700,000 4d 12h 7 15 234 163.8 1,000 4.8s 4 (Max 5) 8 3,500,000 5d 12h 8 16 234 163.8 1,000 4.8s 4 (Max 5) 9 3,700,000 5d 12h 8 17 257 179.9 1,100 4.8s 4 (Max 5) 9 4,200,000 6d 9 18 257 179.9 1,100 4.8s 4 (Max 5) 10 4,400,000 6d 9 19 278 194.6 1,220 4.8s 4 (Max 5) 10 5,200,000 6d 12h 10 20 278 194.6 1,220 4.8s 4 (Max 5) 11 5,600,000 6d 12h 10 History Date Description May 22, 2017 Data of her in the game files was available. June 27, 2017 Added the Night Witch, with 12 levels. September 27, 2017 Added levels 13-14 Night Witch. March 5, 2018 Added levels 15-16 Night Witch. June 18, 2019 Added levels 17-18 Night Witch. May 15, 2023 Added levels 19-20 Night Witch. October 9, 2023 Increased Night Witch hitpoints by 11%. Reduced Night Witch summon cooldown by 0.8s. October 20, 2023 Increased Night Witch hitpoints by 6%. Gallery Trivia In her description, it says that unlike her sister, she leaves the grass in pristine condition, which refers to the Witch since she summons Skeletons from the ground. This reveals that the Night Witch is the Witch's sister. The Night Witch explodes regular Elixir upon death instead of Dark Elixir like the Witch . The Night Witch's appearance has many errors in battle. Her dress is red instead of blue. Her bracelets are gold instead of silver. Her buckle is a golden skull instead of resembling her axe. Her cloak is identical to the Witch's cloak, only being black. She is shown wearing a scarf. The stick of her staff is brown instead of charcoal, and lacks swirls. The knob of her staff resembles the Bat instead of a diamond. The glowing mist under her dress is red instead of pink. The Night Witch was nerfed before pre-release. Her base hitpoints were reduced by 50, her death spawn reduced by 2, and her maximum Bats spawned by 1. The Night Witch is a subject of the Night Witch Mortis skin in Brawl Stars . The Night Witch's death sound is the same as Witch's . Comparisons The Night Witch is a one of three Builder Base Troops to originate from Clash Royale , the others are the Bomber and Baby Dragon . However, she shoots the same projectile as the Witch , as opposed to the Clash Royale melee counterpart despite wielding an axe. Additionally, she can do area damage just like the Witch, while her Clash Royale counterpart cannot. The Night Witch is the one of the seven troops in the Builder Base not to add more units per Army Camp when upgraded, the other six being the Drop Ship , Electrofire Wizard , Cannon Cart , Bomber , Boxer Giant , and Power P.E.K.K.A . The Night Witch is the only troop to unlock its ability at level 4 as opposed to level 2. That is, until the Builder Base 2.0 update, where she can use her ability on her initial level, at level 9. The Night Witch is the only unit in either village to have a statistic other than training cost be worse off when upgraded; in particular, her summon cooldown is reset to 6.8 seconds (from 5.6 seconds) when she gains the ability to summon more Bats at a time. The Night Witch, Drop Ship , Hog Glider , Golem , Lava Hound , Yeti , Ice Hound and the temporary Pumpkin Barbarian , Battle Ram , and Skeleton Barrel are the only troops to spawn other troops after death. The Night Witch has the fastest attack speed of all troops in the Builder Base (including sub-troops), at 0.7 seconds. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

@@ -1,0 +1,191 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Single Target",
+        "Housing Space": "12",
+        "Movement Speed": "16",
+        "Attack Speed": "1s",
+        "Range": "4 tiles (Normal) 10.25 tiles (Long Shot)",
+        "Special Ability": "Long Shot"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Minion Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Level": "4*",
+        "Damage per Second": "200",
+        "Damage per Shot": "200",
+        "Hitpoints": "1,100",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "5*",
+        "Damage per Second": "225",
+        "Damage per Shot": "225",
+        "Hitpoints": "1,200",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "6*",
+        "Damage per Second": "250",
+        "Damage per Shot": "250",
+        "Hitpoints": "1,300",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "7*",
+        "Damage per Second": "275",
+        "Damage per Shot": "275",
+        "Hitpoints": "1,400",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "300",
+        "Damage per Shot": "300",
+        "Hitpoints": "1,500",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "325",
+        "Damage per Shot": "325",
+        "Hitpoints": "1,600",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "350",
+        "Damage per Shot": "350",
+        "Hitpoints": "1,700",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "360",
+        "Damage per Shot": "360",
+        "Hitpoints": "1,800",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "370",
+        "Damage per Shot": "370",
+        "Hitpoints": "1,900",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "385",
+        "Damage per Shot": "385",
+        "Hitpoints": "2,100",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "400",
+        "Damage per Shot": "400",
+        "Hitpoints": "2,300",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Patch": "October 11, 2020",
+        "Type": "Sneak Peek",
+        "Description": "Announced the Super Minion, with two distinct levels."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Added the Super Minion."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 10 Super Minion. Reduced damage at levels 8 and 9: Level 8: 350 -> 300 Level 9: 375 -> 325 Increased hitpoints at levels 8 and 9: Level 8: 1,400 -> 1,500 Level 9: 1,500 -> 1,600"
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Super Minion. Reduced number of Long Shot attacks when on defense from 5 to 3."
+      },
+      {
+        "Patch": "January 23, 2023",
+        "Type": "Balance Changes",
+        "Description": "Increased number of Long Shot attacks when on offense from 5 to 6."
+      },
+      {
+        "Patch": "February 27, 2024",
+        "Type": "Update",
+        "Description": "Added the level 12 Super Minion."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Added the level 13 Super Minion."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 1m 48s to 1m 36s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "June 30, 2025",
+        "Type": "Balance Changes",
+        "Description": "Increased number of Long Shot attacks when on offense from 6 to 7."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the level 14 Super Minion. Increased damage at level 13 from 380 to 385. Increased hitpoint at level 13 from 2,000 to 2,100."
+      },
+      {
+        "Patch": "January 28, 2026",
+        "Type": "Balance Changes",
+        "Description": "Increased number of Long Shot attacks when on offense from 7 to 8. Increased range of Long Shot attacks from 10 tiles to 10.25 tiles."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the base version, see Minion . For the Builder Base Troop with a similar ability, see Beta Minion . For the Hero , see Minion Prince . For the troops with similar appearance, see Henchmen . \"Super Minion's big forehead isn't just for show: sniping enemy defenses from a safe distance is simply a brainy move! Especially when you've grown too big to avoid Seeking Air Mines .\" Level 4-14 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Gallery 6 Trivia 6.1 Comparisons Summary The Super Minion is a Super Troop based on the Minion . It can be unlocked by boosting the Minion when the Minion is at least level 8. Boosting the Minion requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Minion to be boosted for 3 days. The level of Super Minion you obtain from the boost corresponds to the level of Minion you have. Because of the level requirement, players require Town Hall 12 in order to boost Minions into Super Minions. However, because of the Laboratory level cap, players require a level 6 Clan Castle or greater in order to get donated one, allowing anyone Town Hall 10 or above to get one. The Super Minion is a much larger Minion who has a ring at the middle of his left horn, wears fingerless gloves and a belt going up to its right, and has hands no longer covered in Dark Elixir. It wields a rocket launcher, on which it uses to fire rockets from a long distance to attack. Its Long Shot ability enables it to fire its first 8 shots (first 3 when on defense) at a very long range. Unlike the regular Minion, the Super Minion can be detected and attacked by Seeking Air Mines . Super Minions have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Minions will proceed to attack the nearest structure. The Super Minion is the subject of the March 2025 Mini Spotlight event, where it can be boosted for free for the duration of the event. Additionally, it is available at lower levels below its normal minimum level, so that the event is accessible to players as low as Town Hall level 7. Strategies Offensive Strategies Consider using a Rage Spell to maximize the amount of damage your Super Minions do with their long-distance attacks. With some precision, you can place a Rage Spell so that the Super Minions will be in its area of effect from a distance and up close, getting the most value out of it. Their long-range attacks from their ability allow them to outrange any defenses with a range of 10 tiles or less. This includes Archer Towers , Air Defenses . Wizard Tower , Hidden Teslas , both modes of Inferno Towers , Giga Weapons , Scattershots , Builder's Hut , Multi-Archer Tower , Fast Attack Multi-Gear Tower , and Super Wizard Towers . Saving a few Super Minions (together with a Rage Spell to boost damage if required) to snipe or finish off an exposed Giga Weapon can be a viable strategy. However, they can be targeted by Inferno Artillery , in addition to dealing splash damage and damage over time. These long-range attacks also allow them to effectively attack defending the Archer Queen , Grand Warden , and Royal Champion without them fighting back. Two Super Minions are generally enough to defeat any of the above heroes if defenses, other buildings or troops do not get in the way. The travel time of the Long Shot projectiles is long enough such that if the Super Minion is sufficiently far enough from its target building, the Super Minion will fire another shot before the first shot lands. As a result, when sniping low-hitpoint buildings in this way, the Super Minion will end up wasting one more shot than needed to destroy a building, and so when attacking non-defensive buildings, its Long Shot is best used on buildings with a considerable amount of hitpoints like resource storages or the Clan Castle . Alternatively, one can also use other troops to clear these non-defensive buildings before deploying the Super Minions. Once the Long Shots run out, the Super Minion will also need some time to move to the shorter-range position from which it attacks thereafter, during which it is vulnerable to the mercy of defenses. Because of its slow movement speed, if you are not already using a Rage Spell as above to buff its speed, you can also use a Haste Spell to get it to its short-range position quickly. Defensive Strategies A Super Minion’s Long Shot ability, high damage per second, and flexibility to target both ground and air troops make it a useful defensive troop. If you combine Super Minions with shorter-range troops like Balloons or Dragons , attackers will not be able to catch both groups of defensive troops with a single Poison Spell without taking heavy damage from either group (or if that is possible, positioning the spell to hit both groups will be difficult). For example, combining Super Minions with the Headhunters in defense will be able to effectively shut down unprepared Queen Walks or Charges. Such a Queen Walk/Charge will need at least two spells to deal with both groups (e.g. Poison to slow down the Super Minions, and a Freeze Spell to stop the Headhunters from doing massive damage to the Archer Queen), and due to her low health recovery, the Super Minions can easily pierce through the her ability and stop a successful attack. It can be handy to distract the Super Minion with unimportant buildings such as Barracks , Army Camps and possibly resource collectors and storages depending on the situation) so that their Long Shot abilities are wasted on them. Defend these buildings to prevent attackers from utilizing other troops like Archers to clear these buildings. Distracting Skeleton Trap skeletons are also useful in this regard, especially if the attacker triggers it by another air troop in a way that the Super Minion uses a Long Shot from far enough to attack the Skeletons. An Air Sweeper can prove useful against Super Minions because of their slow movement speed, and can allow the rest of your defenses an opening to attack especially once the Super Minion runs out of Long Shot attacks. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability None Single Target 12 16 1s 4 tiles (Normal) 10.25 tiles (Long Shot) Long Shot Boost Cost Boost Duration Minion Level Required 25,000 3d 8 Level Damage per Second Damage per Shot Hitpoints Town Hall Level Required 4* 200 200 1,100 7 5* 225 225 1,200 9 6* 250 250 1,300 10 7* 275 275 1,400 11 8 300 300 1,500 12 9 325 325 1,600 13 10 350 350 1,700 14 11 360 360 1,800 15 12 370 370 1,900 16 13 385 385 2,100 17 14 400 400 2,300 18 *Levels 4 through 7 are only accessible in the March 2025 Mini Spotlight event. History Patch Type Description October 11, 2020 Sneak Peek Announced the Super Minion, with two distinct levels. October 12, 2020 Update Added the Super Minion. April 12, 2021 Update Added the level 10 Super Minion. Reduced damage at levels 8 and 9: Level 8: 350 -> 300 Level 9: 375 -> 325 Increased hitpoints at levels 8 and 9: Level 8: 1,400 -> 1,500 Level 9: 1,500 -> 1,600 October 10, 2022 Update Added the level 11 Super Minion. Reduced number of Long Shot attacks when on defense from 5 to 3. January 23, 2023 Balance Changes Increased number of Long Shot attacks when on offense from 5 to 6. February 27, 2024 Update Added the level 12 Super Minion. November 25, 2024 Town Hall 17 Update Added the level 13 Super Minion. February 10, 2025 Update Reduced training time from 1m 48s to 1m 36s. March 27, 2025 Clash Anytime Update Removed training time. June 30, 2025 Balance Changes Increased number of Long Shot attacks when on offense from 6 to 7. November 17, 2025 Town Hall 18 Update Added the level 14 Super Minion. Increased damage at level 13 from 380 to 385. Increased hitpoint at level 13 from 2,000 to 2,100. January 28, 2026 Balance Changes Increased number of Long Shot attacks when on offense from 7 to 8. Increased range of Long Shot attacks from 10 tiles to 10.25 tiles. Gallery Super Minion icon Concept designs of Super Minion. 3D model of Super Minion. Trivia You can have a maximum of 29 Super Minions at one time in a complete set of fully upgraded Army Camps . This number increases to 33 if you include 4 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 16 Super Minions with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 49 Super Minions. The Super Minion seems to be a Minion fused with the ability of a Beta Minion and the size of a Mega Minion from Clash Royale. According to an Autumn 2020 Dev Update , the Super Minion is inspired by concept sketches of the Yeti , where the Yeti was originally going to be a bigger, chunkier and beefier Minion called the \"Giant Minion\". The rockets the Super Minion carries have yellow color at the tip of the warheads in the picture, but none of the warheads have them in battle. The Super Minion's attack is similar to the Firecracker's attack from Clash Royale , except without the splash damage. The Firecracker would later come to Clash of Clans as an event troop, with a similar attack animation. Comparisons The Super Minion, along with the Super Barbarian , Sneaky Goblin , and Rocket Balloon are the only Super Troops to have abilities that are temporary. The Super Minion, along with the Super Archer , Sneaky Goblin, Rocket Balloon, and Super Bowler are the only Super Troops to have icons that are used from the info image. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

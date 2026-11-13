@@ -1,0 +1,129 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Number of Units per Army Camp": "1",
+        "Preferred Target": "Defenses",
+        "Attack Type": "Area Splash (Ground Only)",
+        "Movement Speed": "12",
+        "Builder Barracks Level Required": "9",
+        "Range": "0.5 tiles",
+        "Skeletons Summoned": "3 (max 9)",
+        "Skeletons Summon Cooldown": "3.5s",
+        "Special Ability": "Skeleton Bomb"
+      }
+    ],
+    [
+      {
+        "Level": "11",
+        "Hitpoints": "3,400",
+        "Damage when Destroyed": "300",
+        "Skeleton Bomb Damage": "600",
+        "Skeleton Bomb Spawned Skeletons": "5",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "12",
+        "Hitpoints": "3,400",
+        "Damage when Destroyed": "300",
+        "Skeleton Bomb Damage": "700",
+        "Skeleton Bomb Spawned Skeletons": "6",
+        "Research Cost": "2,400,000",
+        "Research Time": "2d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "13",
+        "Hitpoints": "3,740",
+        "Damage when Destroyed": "300",
+        "Skeleton Bomb Damage": "700",
+        "Skeleton Bomb Spawned Skeletons": "6",
+        "Research Cost": "2,600,000",
+        "Research Time": "3d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "14",
+        "Hitpoints": "3,740",
+        "Damage when Destroyed": "400",
+        "Skeleton Bomb Damage": "700",
+        "Skeleton Bomb Spawned Skeletons": "6",
+        "Research Cost": "2,800,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "15",
+        "Hitpoints": "4,114",
+        "Damage when Destroyed": "400",
+        "Skeleton Bomb Damage": "700",
+        "Skeleton Bomb Spawned Skeletons": "6",
+        "Research Cost": "3,600,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Hitpoints": "4,114",
+        "Damage when Destroyed": "400",
+        "Skeleton Bomb Damage": "800",
+        "Skeleton Bomb Spawned Skeletons": "7",
+        "Research Cost": "3,800,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Hitpoints": "4,525",
+        "Damage when Destroyed": "400",
+        "Skeleton Bomb Damage": "800",
+        "Skeleton Bomb Spawned Skeletons": "7",
+        "Research Cost": "4,300,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Hitpoints": "4,525",
+        "Damage when Destroyed": "500",
+        "Skeleton Bomb Damage": "800",
+        "Skeleton Bomb Spawned Skeletons": "7",
+        "Research Cost": "4,500,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Hitpoints": "4,978",
+        "Damage when Destroyed": "500",
+        "Skeleton Bomb Damage": "800",
+        "Skeleton Bomb Spawned Skeletons": "7",
+        "Research Cost": "5,500,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Hitpoints": "4,978",
+        "Damage when Destroyed": "500",
+        "Skeleton Bomb Damage": "900",
+        "Skeleton Bomb Spawned Skeletons": "8",
+        "Research Cost": "5,700,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For its Home Village counterpart, see Balloon . For the Super variant of its Home Village counterpart, see Rocket Balloon . \"Packed to the brim with bones instead of bombs. Skeletons leap out of these balloons directly next to the enemy!\" Level 11-12 Level 13-14 Level 15-16 Level 17-18 Level 19-20 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 Trivia Summary The Drop Ship is a balloon that flies in the air and drops Skeletons on its target. It is unlocked at Builder Barracks level 9, which requires Builder Hall level 7. Its activated ability is Skeleton Bomb , usable once per battle. When used, the Drop Ship drops a large explosive barrel beneath it, which on impact with the ground, deals damage to its surroundings (instantly destroying Walls ) and spawns several Skeletons . Drop Ships prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Guard Post troops or Zappies . Although the Guard Post is considered a defense, it will not be targeted by them. Once all defenses are destroyed, Drop Ships become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby. Strategies Offensive Strategies Make sure you bring support troops like the Baby Dragons and Beta Minions to support the Drop Ship, as it and its Skeletons don't do much damage by itself and will get taken out easily. Consider the Drop Ship as a Lava Hound in builder base: It tanks for other troops, drops skeletons that don't deal much damage and has a bomb, a bit like the death explosion of the Lava Hound . Drop Ships can pair well with Beta Minions . They can distract air defenses, allowing the Beta Minions to survive for longer amounts of time. The Drop Ship can trigger Mines and Mega Mines without taking much damage and protecting the troops behind it. Although it has a lot of hitpoints, the Drop Ship can still be quickly worn down by multiple Firecrackers targeting them. The Mega Tesla can greatly damage two Drop Ships at once. It is recommended to destroy distracting buildings first before deploying them as they are easily distracted due to its slow movement speed. Try to avoid the Crushers as they will crush all the Skeletons. Even though the Skeletons will get one hit each before getting crushed, the Drop Ship will stay there for a very long time dropping Skeletons, rendering them useless. However, if you use the ability, it could kill the crusher and thus not do much damage. Spreading your Drop Ships out or delaying the deploy of some of them can prevent them clustering up and being killed quickly by splash defenses. Defensive Strategies Space out your Firecrackers and your Air Bombs so there are high-hitpoint buildings between them but still within each other's range to protect each other. The Roaster can target both the Drop Ship and the Skeletons it drops as long as they are close together. The Multi Mortar and Giant Cannon are both effective tools at wiping out Skeletons. Be sure to consider their location when attacking, as allowing either or both of these defenses to stand will greatly hinder the Drop Ship's damage potential. The Drop Ship is weak against the Guard Post . As Drop Ships deal no damage themselves (with the exception of the ability), the Skeletons are left to kill the defending troops, which can be wiped out easily. Placing the Mega Tesla near the Guard Post with several Firecrackers will make a good combination against them. The defensive troops can also cause multiple Drop Ships to group together, which makes splash damage (from the Air Bombs, for example) more effective against them, and may also make other air troops (like Beta Minions ) more vulnerable to the defenses. Upgrade Differences Initially, the Drop Ship appears to be a heliotrope Balloon with a large horned skull in front and three compartments carrying Skeletons. At level 5, the places where the ropes intersect are tied up with more ropes. At level 9, the horns on the skull which is at the front of the balloon become golden. At level 13, the balloon gains wooden armor plates on the side similar to the level 3-4 Balloon. At level 19, the compartments receive iron lining and bolts, and the balloon becomes slightly lighter. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Number of Units per Army Camp Preferred Target Attack Type Movement Speed Builder Barracks Level Required Range Skeletons Summoned Skeletons Summon Cooldown Special Ability 1 Defenses Area Splash (Ground Only) 12 9 0.5 tiles 3 (max 9) 3.5s Skeleton Bomb Level Hitpoints Damage when Destroyed Skeleton Bomb Damage Skeleton Bomb Spawned Skeletons Research Cost Research Time Star Laboratory Level Required 11 3,400 300 600 5 N/A N/A N/A 12 3,400 300 700 6 2,400,000 2d 12h 7 13 3,740 300 700 6 2,600,000 3d 12h 7 14 3,740 400 700 6 2,800,000 4d 12h 7 15 4,114 400 700 6 3,600,000 5d 12h 8 16 4,114 400 800 7 3,800,000 5d 12h 8 17 4,525 400 800 7 4,300,000 6d 9 18 4,525 500 800 7 4,500,000 6d 9 19 4,978 500 800 7 5,500,000 6d 12h 10 20 4,978 500 900 8 5,700,000 6d 12h 10 Trivia The skull on the Drop Ship resembles the skull on a Witch's staff, referencing its skeleton spawning abilities. If you view the Drop Ship image in the Builder Barracks , the balloon appears to be royal blue and feature wooden boards, while in combat, the balloon appears to be heliotrope, and lacks wooden boards until it is at a higher level. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

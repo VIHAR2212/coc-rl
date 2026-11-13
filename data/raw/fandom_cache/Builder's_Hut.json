@@ -1,0 +1,421 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "5",
+        "2": "5",
+        "3": "5",
+        "4": "5",
+        "5": "5",
+        "6": "5",
+        "7": "5",
+        "8": "5",
+        "9": "5"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "5",
+        "2": "5",
+        "3": "5",
+        "4": "5",
+        "5": "5*",
+        "6": "5*",
+        "7": "5*",
+        "8": "5*",
+        "9": "5*"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "N/A",
+        "Damage per Shot": "N/A",
+        "Repair per Second": "N/A",
+        "Repair per Hit": "N/A",
+        "Hitpoints": "250",
+        "Build Cost": "Varies**",
+        "Build Time": "None",
+        "Experience Gained": "0",
+        "Town Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "80",
+        "Damage per Shot": "32",
+        "Repair per Second": "50",
+        "Repair per Hit": "37.5",
+        "Hitpoints": "1,000",
+        "Build Cost": "3,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "100",
+        "Damage per Shot": "40",
+        "Repair per Second": "60",
+        "Repair per Hit": "45",
+        "Hitpoints": "1,300",
+        "Build Cost": "4,000,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "120",
+        "Damage per Shot": "48",
+        "Repair per Second": "70",
+        "Repair per Hit": "52.5",
+        "Hitpoints": "1,600",
+        "Build Cost": "6,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "135",
+        "Damage per Shot": "54",
+        "Repair per Second": "80",
+        "Repair per Hit": "60",
+        "Hitpoints": "1,800",
+        "Build Cost": "7,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "150",
+        "Damage per Shot": "60",
+        "Repair per Second": "85",
+        "Repair per Hit": "63.75",
+        "Hitpoints": "1,900",
+        "Build Cost": "8,000,000",
+        "Build Time": "5d 12h",
+        "Experience Gained": "689",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "165",
+        "Damage per Shot": "66",
+        "Repair per Second": "90",
+        "Repair per Hit": "67.5",
+        "Hitpoints": "2,000",
+        "Build Cost": "15,500,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "180",
+        "Damage per Shot": "72",
+        "Repair per Second": "95",
+        "Repair per Hit": "71.25",
+        "Hitpoints": "2,100",
+        "Build Cost": "24,000,000",
+        "Build Time": "13d",
+        "Experience Gained": "1,059",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "187",
+        "Damage per Shot": "74.8",
+        "Repair per Second": "95",
+        "Repair per Hit": "71.25",
+        "Hitpoints": "2,100",
+        "Build Cost": "4,000,000",
+        "Build Time": "1d 14h",
+        "Experience Gained": "369",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "187",
+        "Damage per Shot": "74.8",
+        "Repair per Second": "95",
+        "Repair per Hit": "71.25",
+        "Hitpoints": "2,150",
+        "Build Cost": "3,250,000",
+        "Build Time": "2d 10h",
+        "Experience Gained": "456",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Attack Speed": "0.4s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "Range": "7",
+        "Repair Speed": "0.75s",
+        "Movement Speed": "20",
+        "Unit Type Targeted": "Buildings"
+      }
+    ],
+    [
+      {
+        "Builder's Hut": "First",
+        "Build Cost": "N/A"
+      },
+      {
+        "Builder's Hut": "Second",
+        "Build Cost": "Free"
+      },
+      {
+        "Builder's Hut": "Third",
+        "Build Cost": "500"
+      },
+      {
+        "Builder's Hut": "Fourth",
+        "Build Cost": "1,000"
+      },
+      {
+        "Builder's Hut": "Fifth",
+        "Build Cost": "2,000"
+      }
+    ],
+    [
+      {
+        "Total Number of Builders": "1",
+        "Effectiveness of Additional Builder": "100%",
+        "Overall Efficiency": "100%"
+      },
+      {
+        "Total Number of Builders": "2",
+        "Effectiveness of Additional Builder": "100%",
+        "Overall Efficiency": "100%"
+      },
+      {
+        "Total Number of Builders": "3",
+        "Effectiveness of Additional Builder": "90%",
+        "Overall Efficiency": "96.7%"
+      },
+      {
+        "Total Number of Builders": "4",
+        "Effectiveness of Additional Builder": "90%",
+        "Overall Efficiency": "95%"
+      },
+      {
+        "Total Number of Builders": "5",
+        "Effectiveness of Additional Builder": "70%",
+        "Overall Efficiency": "90%"
+      }
+    ],
+    [
+      {
+        "Union Buster": "Description"
+      },
+      {
+        "Union Buster": "Destroy 25 Builder's Huts in Multiplayer battles"
+      },
+      {
+        "Union Buster": "Destroy 250 Builder's Huts in Multiplayer battles"
+      },
+      {
+        "Union Buster": "Destroy 2,500 Builder's Huts in Multiplayer battles"
+      },
+      {
+        "Union Buster": "Bust This!"
+      },
+      {
+        "Union Buster": "Description"
+      },
+      {
+        "Union Buster": "Destroy 25 weaponized Builder's Huts in Multiplayer battles"
+      },
+      {
+        "Union Buster": "Destroy 250 weaponized Builder's Huts in Multiplayer battles"
+      },
+      {
+        "Union Buster": "Destroy 2,500 weaponized Builder's Huts in Multiplayer battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Builder's Hut to the next level, if you have enough resources and a free Builder (or B.O.B ). If the Town Hall is level 13 or below, this icon is not shown. When the Builder's Hut is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed Builder's Hut to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Builder's Hut is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Builder's Hut to the next level, at the cost of one Hammer of Building if you have one. When the Builder's Hut is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Description": "The Builder's Hut was present in the original release, with 1 level."
+      },
+      {
+        "Date": "August 4, 2017",
+        "Description": "The Builder's Hut gained a new temporary appearance (shown to the right) owing to the departure of the Builders from the Home Village. The saw on the top of the hut is replaced by a sword and there is a rack of swords signifying that Barbarians have taken over the Builders' job while they are away. There is also a signpost placed on one corner."
+      },
+      {
+        "Date": "August 11, 2017",
+        "Description": "The Builder's Hut had changed appearance again as Giants replaced the Barbarians in the role of building. The hammer seems to have been smashed into the roof of the hut and the saw has been displaced from its original position; additionally part of the hut's perimeter has a flower garden what seems to be a Cornflower Bed . This version of the Builder's Hut has a special distinction in the sense that it will unleash a defensive Giant when destroyed in a raid ."
+      },
+      {
+        "Date": "August 18, 2017",
+        "Description": "The Builder's Hut changed its appearance yet again as Witches replaced Giants. The damage done to the roof of the hut had been fixed, and the hammer replaced to its original position, but the saw once again becomes absent, having been replaced by the Witch's staff. Stones line the perimeter of the Builder's Hut instead of the flower garden. A purple glow emanating from the inside of the hut can be seen."
+      },
+      {
+        "Date": "August 25, 2017",
+        "Description": "The Builder's Hut changed its appearance once more as Wizards replaced the Witches. This time around, the tools have been restored to their original positions, but the perimeter of the hut is now lined by purple crystals and rocks, similar to the base of the level 4 Wizard Tower , the purple glow still remains."
+      },
+      {
+        "Date": "August 31, 2017",
+        "Description": "The Builder's Hut reverted to its normal appearance as the regular Builders returned. However, for one more week, the Builder's Hut once again spawned a defensive Giant after it was destroyed."
+      },
+      {
+        "Date": "February 2019",
+        "Description": "For the 2019 Lunar New Year, the Builder's Hut was changed to sport a red roof, along with \"春联\"-\"Spring Festival Couplets\" on each side of the doorway, usually saying something good such as New Year's wish."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added levels 2 to 4 Builder's Hut as it has been weaponized. Added the achievement associated with the weaponized Builder's Hut, \"Bust This!\"."
+      },
+      {
+        "Date": "April 29, 2021",
+        "Description": "Increased range from 6 to 7 tiles."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Description": "Make the defending Builders stick to their target until it is fully repaired. This also fixes the problem of getting no repair done inside a high level Poison Spell. Builders will now properly retreat to their ruined Hut when it is destroyed instead of just vanishing. Added new Season Challenges and Clan Games Tasks called \"Builder Basher\" - where the player has to destroy a number of Builder's Huts in Multiplayer Battles. Use correct graphics for level 3 Builder's Hut in the 12 o'clock position. Do not show the range indicator when placing a new Builder's Hut since it is not yet weaponized. Show boost effect for Builder's Huts and Town Hall when they are under upgrade if the boost is active anyway."
+      },
+      {
+        "Date": "September 27, 2021",
+        "Description": "Fixed a bug that caused Builders to get stuck in Walls during Clan Wars , Legend League battles , or Friendly Challenges ."
+      },
+      {
+        "Date": "May 2, 2022",
+        "Description": "Increased repair per second at levels 3 and 4: Level 3: 55 -> 60 Level 4: 60 -> 70"
+      },
+      {
+        "Date": "December 12, 2022",
+        "Description": "Added a golden range indicator to the Builder's Hut when weaponized, highlighting all buildings that the Builder can repair during battle."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the level 5 Builder's Hut."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Reduced the upgrade time at level 5 from 14d 12h to 14d 6h. Reduced upgrade costs at levels 2 to 4: Level 2: 9,000,000 -> 8,000,000 Level 3: 12,000,000 -> 10,000,000 Level 4: 14,500,000 -> 12,000,000"
+      },
+      {
+        "Date": "April 17, 2024",
+        "Description": "Added the level 6 Builder's Hut."
+      },
+      {
+        "Date": "June 20, 2024",
+        "Description": "Reduced upgrade cost at level 5 from 17,000,000 to 15,000,000. Reduced upgrade times at levels 2 to 5: Level 2: 9d 12h -> 8d Level 3: 11d 12h -> 9d Level 4: 13d 6h -> 9d 12h Level 5: 14d 6h -> 11d"
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Added 2 Supercharge levels to the Builder's Hut."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced upgrade times at all charges: Charge 1: 4d -> 2d 6h Charge 2: 6d -> 3d 18h Reduced upgrade costs at all charges: Charge 2: 10,000,000 -> 6,000,000 Charge 2: 6,000,000 -> 3,000,000"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Added the level 7 Builder's Hut. Removed the Supercharges at level 6 and replaced them at level 7: Charge 1: Damage per second: 157 -> 172 Cost: 6,000,000 -> 10,000,000 Time: 2d 6h -> 4d Charge 2: Hitpoints: 1,950 -> 2,050 Cost: 3,000,000 -> 5,000,000 Time: 3d 18h -> 6d"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade time at level 7 from 14d 6h to 9d 12h. Reduced upgrade cost at level 7 from 21,000,000 to 15,500,000."
+      },
+      {
+        "Date": "January 28, 2025",
+        "Description": "Reduced Builder movement speed from 28 to 20."
+      },
+      {
+        "Date": "June 16, 2026",
+        "Description": "Added the level 8 Builder's Hut. Removed the Supercharges at level 7."
+      },
+      {
+        "Date": "August 31, 2026",
+        "Description": "Added 2 Supercharge levels to the Builder's Hut."
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Reduced charge times at all charges: Charge 1: 4d -> 1d 14h Charge 2: 6d -> 2d 10h Reduced charge costs at all charges: Charge 1: 10,000,000 -> 4,000,000 Charge 2: 8,000,000 -> 3,250,000"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the other Huts, see Master Builder's Hut and B.O.B's Hut . \"Nothing gets done around here without Builders ! You can hire more Builders to start multiple construction projects, or speed up their work by using green gems .\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Contents 1 Summary 2 Acquiring Builders 3 As a Defensive Building 4 Strategies 4.1 Defensive Strategies 4.2 Offensive Strategies 5 Upgrade Differences 6 Statistics 6.1 Supercharges 6.2 Builder Statistics 6.3 Effectiveness of Multiple Builders 7 Achievements 8 Icon Descriptions 9 History 10 Gallery 10.1 Short Animations 10.2 Images 11 Trivia 11.1 Comparisons Summary The Builder's Hut is the building used to store Builders when they are not upgrading anything. Each Builder's Hut can only hold one Builder at a time. You obtain two Builder's Huts from completing the tutorial, with another three available for purchase by using Gems . You need Builders to construct and upgrade Buildings and Walls . They are also required to place and upgrade Heroes . However, you do not need a Builder to place Decorations or Traps . As upgrade timers skyrocket in length later on, it is always helpful to have additional Builders. A player has two Builder's Huts by default. Your first Builder's Hut is already constructed when you begin playing the game for the first time. The second Builder's Hut is built during the tutorial. It is possible to save up enough Gems to build all five Builder's Huts eventually, as there are a total of 19,142 Gems available via Achievements which means collecting all the Achievements will give you enough Gems. Also, there is an unlimited amount obtainable by clearing Obstacles such as plants and rocks (plants regrow every 8 hours). Gem Boxes appear every 1 to 2 weeks, and yield 25 Gems when cleared. Disregarding Achievements, as long you do not waste Gems on anything else, it would take 542 days to acquire enough Gems by clearing Obstacles to buy the three remaining Builder Huts. This figure reduces to about 388 days if the Gem Box interval is estimated at 1.5 weeks (10.5 days). However, if there are more than 44 obstacles in your Village, (most likely due to seasonal obstacles), bushes, trees, trunks and mushrooms will not spawn (with the exception of the Gem Box). Acquiring Builders The first Builder's Hut is free and given to players at the beginning of the game. The second Builder's Hut is bought during the tutorial. The third Builder's Hut costs 500 Gems. There are many ways to get it. Remove obstacles (especially the Gem Boxes) until you reach 500 Gems and collect small achievements. You can also get it in the Builder Pack for USD $4.99 that includes the Builder and 500 Gems. The fourth Builder's Hut costs 1,000 Gems. You can get this through the Builder Pack which costs $9.99 USD (£4.49 GBP) and includes the fourth Builder and 1,000 Gems. The fifth Builder's Hut costs 2,000 Gems. You can get this through the Builder Pack for $19.99 USD (£8.99 GBP) and includes the Builder as well as an additional 2,000 Gems. Purchasing Builder's Huts is not the only way to acquire extra Builders; if you construct the B.O.B's Hut you will be able to use B.O.B as an extra Builder in the Home Village. This requires a max-level B.O.B Control in the Builder Base, and is consequently only available at Builder Hall 9 and above. The total cost of all 5 builders is 3,500 gems. You start off with 250 gems, meaning you need to accumulate 3250 gems to get the other builders, assuming you don't spend your gems on anything else. As a Defensive Building Once the Town Hall is upgraded to level 14, the Builder's Hut can be upgraded to add a short-range turret that fires at enemies. Once this is done, the corresponding Builder will also be able to participate in the battle by repairing buildings around his hut instead of running to the Town Hall. When weaponized, the Builder's Hut will be treated as a defensive building and will be targeted by defense-targeting troops such as Giants . The Builder will repair any buildings that become damaged during the battle while his Builder's Hut is intact. He is not considered a defensive troop in that attacking units cannot attack or damage him. However, he may be affected by Spells: A defensive Rage Spell , whether dropped by a Spell Tower , Smasher or a defending Super Valkyrie , will increase the amount of health he repairs with every hit and makes him move faster. An attacker's Poison Spell slows his rate of repair. An attacker's Freeze Spell stops him from repairing at all. An attacker's Lightning Spell or Totem Spell will briefly stun him and force him to re-target. An Invisibility Spell (whether dropped by a Spell Tower or by an attacker) or Overgrowth Spell will make buildings around him invisible, preventing him from repairing the affected buildings. The Builder cannot repair Walls or any buildings that are completely destroyed. If his Builder's Hut is destroyed, he will retreat into the bunker hidden underneath and take no further part in the battle. If multiple Builders are repairing the same building, their total repair per second will be slightly less than all of the Builders' individual repair output combined, just like how multiple Healers or Druids on a single target have their healing output reduced. This effect is somewhat subtle even in the most extreme scenario where all five Builders are working on the same building, where it constitutes a 10% loss in repair per second. In situations where Builder's Hut levels are unequal, the effective repair per second may not be necessarily equal to 90% of the sum of repairs per second, depending on which Builders get the repair reduction. Despite the rule of thumb that most Buildings and defenses must be built before the game allowing the player to move on to the next Town Hall , it does not require building all of the Builder's Huts or even weaponizing existing ones to at least level 2 for future Town Halls. This exception likely stems from Builder's Huts are bought with Gems . Locking progression behind 3,250 of the premium currency, no matter how unlikely a soon-to-be maxed Town Hall 14 only having two Builder's Hut with few gems left, and are pressured to buy more with real money to progress is not ideal. Strategies Defensive Strategies You can put your Builder's Huts in the very corners of your village , in the hopes of wasting opponents' time when attacking - which might mean the difference between a 2-star 99% victory and a 3-star. This building-placement strategy is useful at base designs that are confined to a small area at the center of the base (common at lower Town Halls). However, the drawback of doing so is they will be easy pickings for a single Archer or Barbarian , and each building (regardless of purchase price or hitpoints) counts the same amount toward 50% destruction. This also provides an easy way to lure Clan Castle troops out of the range of your defenses where they can be killed much more easily. This can even work if the Builder's Huts are weaponized, though the small units will get taken out due to the defense. So, tanks such as Ice Golems can easily lure the Clan Castle troops to the corner, so long as it targets that building. Builder's Huts can be used like Walls or other buildings to push back the no-spawn zone of troops . They can also be used to lead enemy troops a more desirable direction (for the defender). Because units with no preferred target simply attack the next closest building once they have destroyed their current target, you can strategically place Builder's Huts to ensure that these troops find a string of closer buildings leading away from high-value targets such as Mortars and Air Defenses . Once weaponized, Builder's Huts can be used to counter early Earthquake Spells placed before deployment of the main army, as they are able to mitigate some if not all of the damage caused to buildings by the Earthquake. In a few cases, the Battle Builders will be able to repair the major defenses from their destruction if the Fireball + Earthquake Spells are not executed correctly, especially on Warden Charge Super Witches. When weaponized, it is no longer recommended to hide one in the corner of the base. While weaponized Builder's Huts are significantly sturdier as they have higher hit-points and can defend themselves, on their own. One Weaponized Builder Hut is too weak to handle a full army in the beginning of the raid, or even a single strong funneling troop like a Baby Dragon . If a Builder corresponding to a weaponized Builder's Hut is working on a building (or Hero), he will start the battle working on that building, and will have to run to his hut before he can start repairing things. He will not repair buildings along the way, not even the building that he was working on if that is out of range of his hut. This only holds true in Multiplayer Battles outside of Legend League , as in other scenarios (Clan Wars, Friendly Challenges, Legend League), the building will not appear upgraded. Consequently, it can be beneficial (in Multiplayer only) to keep the hut as close as possible to the construction site to minimize travel time, though when multiple Builders are working, it is not possible to tell at a glance which Builder corresponds to which hut without first viewing a defensive replay. While the idea of grouping all the Builder's Hut together to maximize repairing buildings in an area for them to last the longest might be a tempting idea, the Builder's Hut is not the most durable and damaging defense. They can all be overwhelmed easily and can be devastated by chain lightning from Electro Dragon or Electro Owl as the repair per second does not amount to much when the building is under heavy fire anyway. It is best to spread them out so they can focus on healing a single building from a stray troop or the Barbarian King cleaning up the outside of the base, rendering them less effective. Offensive Strategies Attackers should look for Builder's Huts or other buildings in corners and may combat this by placing one or two Barbarians or Archers at each building at the start of a battle. Also, before an attack, one should tap on a weaponized Builder Hut to show all other Builder Huts to view their range and which buildings the Battle Builders will repair in that area. Doing so will help you know which areas are more vulnerable, and will increase the chances of getting three stars on a base. Do not use spells when tapping a Builder Hut while planning an attack, otherwise, it would lead to accidentally starting an attack or waste the spell. The attacker can also use those corners to lure Clan Castle troops without being attacked by defenses . When doing a Fireball Warden Charge, make sure to place your Earthquake Spells early so that the Fireball will be able to destroy major defenses such as the Eagle Artillery and Multi-Archer Towers . Additionally, be mindful of any nearby Hidden Teslas that would otherwise mess up your attack. Otherwise, the Builders will repair these major defenses, which can be detrimental to strategies like Super Witches, and may result in a one-star. However, this will not happen if the Builder's Huts are also destroyed from the Fireball's radius. One Lightning Spell can destroy a non-weaponized Builder's Hut. Once weaponized, its hitpoints are greatly increased and up to three maxed Lightning Spells are required to destroy one(at maxed level). The relatively low hitpoints of the weaponized Builder's Hut means that a Royal Champion is able to destroy them in one hit with her Seeking Shield ability if equipped and is sufficiently upgraded. Once a Battle Builder starts repairing a building, he will keep repairing that building until it is destroyed or restored to full health. It may be beneficial to significantly damage a non-defensive building in his radius first (or a less important defense) so that the Builder will not commit to repairing more important defensive buildings. Upgrade Differences The Builder's Hut undergoes significant visual changes at levels 2, 3, 4, 5, 6, 7 and 8. When initially constructed, the Builder's Hut is a small hut with four wooden pillars at its corners. Between the pillars, there is a stone wall with a hole as the window. The side that has no wall is the door. The floor is made of smooth gray stone. The roof is wooden, painted in a very dark brown color and is decorated with a giant saw and a hammer forming a cross. At level 2, the wooden pillars are thicker. The building also gains a stone foundation covering the base of the pillars. A layer of wood painted green is underneath the roof, with a crossbow hidden inside. At level 3, the foundation of the building becomes much thicker. The roof is completely painted green and the corners of the roof gain some black metal spikes. At level 4, the foundation gets another layer. The wooden pillars are also painted green. The spikes on the roof are golden. The layer underneath the roof is now golden as well. At level 5, the green parts of the building are painted blue. The stone foundation becomes smoother, and the stone floor has been replaced with gold arrows that point out of the building. The yellow corners are replaced with upside-down hollow equilateral triangles similar to the symbol on Town Hall 15. At level 6, the foundation is reinforced with smoother and thicker stone, and the stone wall becomes darker. The building itself is painted red, and the golden metal corners now have knobs protruding from them. The interior of the building becomes a dark, plated golden metal. The hammer and the saw on the roof receive a polished texture. At level 7, all the colored parts are now painted cobalt, the roof is now flattened down, and the corner pieces become smoother, and their bolts change into cobalt eagle wings. The stone wall lightens up and the thick stone that holds the walls is now split into two layers: a taller cobalt one, and a flatter, dark gray one. The golden metal plates at the entrance along with the hammer and the saw on the roof become shinier. At level 8, TBA. During the start of a raid, the turret springs out and changes the Builder's Hut appearance: At level 2, a spring and an axis connects the Builder's Hut with the roof and a mini crossbow. The green wooden part underneath the roof is fully shown and is nailed down. The mini crossbow has a green limb, wooden barrel, and a metallic arrow loaded. At level 4, the golden part underneath the roof is shown fully and it is a swirly golden pattern. The loaded arrow is golden. At level 5, the golden pattern is replaced with bolted golden plating on each of the four corners. The mini crossbow is also colored blue to match the rest of the building's theme. At level 6, the mini crossbow is colored red to match the rest of the building. Additionally, the spikes on top of the gold plating is reinforced with larger spikes made of gold. At level 7, the mini crossbow's arms become bluish-gray and the rivets turn golden, matching the rest of the building's theme. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 5 5 5 5 5 5 5 5 5 10 11 12 13 14 15 16 17 18 5 5 5 5 5* 5* 5* 5* 5* Size 2x2 Level Damage per Second Damage per Shot Repair per Second Repair per Hit Hitpoints Build Cost Build Time Experience Gained Town Hall Level Required 1 N/A N/A N/A N/A 250 Varies** None 0 1 2 80 32 50 37.5 1,000 3,000,000 2d 415 14 3 100 40 60 45 1,300 4,000,000 3d 509 14 4 120 48 70 52.5 1,600 6,000,000 4d 587 14 5 135 54 80 60 1,800 7,000,000 5d 657 15 6 150 60 85 63.75 1,900 8,000,000 5d 12h 689 16 7 165 66 90 67.5 2,000 15,500,000 7d 777 17 8 180 72 95 71.25 2,100 24,000,000 13d 1,059 18 Supercharges These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added. New Level Coming! This Supercharge lasts until a new level becomes available. Depletes Soon! Charge Level Damage per Second Damage per Shot Repair per Second Repair per Hit Hitpoints Build Cost Build Time Experience Gained Town Hall Level Required 1 187 74.8 95 71.25 2,100 4,000,000 1d 14h 369 18 2 187 74.8 95 71.25 2,150 3,250,000 2d 10h 456 18 Range Attack Speed Damage Type Unit Type Targeted 7 0.4s Single Target Ground & Air Builder Statistics Range Repair Speed Movement Speed Unit Type Targeted 7 0.75s 20 Buildings *Available to be upgraded to be a defense. **The cost for building a level 1 Builder's Hut is as follows: Builder's Hut Build Cost First N/A Second Free Third 500 Fourth 1,000 Fifth 2,000 Effectiveness of Multiple Builders The table below shows the effectiveness of adding another Builder when multiple are repairing the same target. Total Number of Builders Effectiveness of Additional Builder Overall Efficiency 1 100% 100% 2 100% 100% 3 90% 96.7% 4 90% 95% 5 70% 90% Achievements Union Buster Description Rewards Rewards Destroy 25 Builder's Huts in Multiplayer battles 10 5 Destroy 250 Builder's Huts in Multiplayer battles 100 10 Destroy 2,500 Builder's Huts in Multiplayer battles 1,000 30 Bust This! Description Rewards Rewards Destroy 25 weaponized Builder's Huts in Multiplayer battles 10 10 Destroy 250 weaponized Builder's Huts in Multiplayer battles 100 30 Destroy 2,500 weaponized Builder's Huts in Multiplayer battles 1,000 100 Icon Descriptions Tapping this icon displays information about the Builder's Hut, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets. Tapping this icon begins upgrading the Builder's Hut to the next level, if you have enough resources and a free Builder (or B.O.B ). If the Town Hall is level 13 or below, this icon is not shown. When the Builder's Hut is at maximum level, this icon is replaced by the Supercharge! icon. Tapping this icon begins Supercharging the maxed Builder's Hut to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Builder's Hut is at maximum charge, this icon is not shown. Tapping this icon instantly upgrades the Builder's Hut to the next level, at the cost of one Hammer of Building if you have one. When the Builder's Hut is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. History Date Description August 2, 2012 The Builder's Hut was present in the original release, with 1 level. August 4, 2017 The Builder's Hut gained a new temporary appearance (shown to the right) owing to the departure of the Builders from the Home Village. The saw on the top of the hut is replaced by a sword and there is a rack of swords signifying that Barbarians have taken over the Builders' job while they are away. There is also a signpost placed on one corner. August 11, 2017 The Builder's Hut had changed appearance again as Giants replaced the Barbarians in the role of building. The hammer seems to have been smashed into the roof of the hut and the saw has been displaced from its original position; additionally part of the hut's perimeter has a flower garden what seems to be a Cornflower Bed . This version of the Builder's Hut has a special distinction in the sense that it will unleash a defensive Giant when destroyed in a raid . August 18, 2017 The Builder's Hut changed its appearance yet again as Witches replaced Giants. The damage done to the roof of the hut had been fixed, and the hammer replaced to its original position, but the saw once again becomes absent, having been replaced by the Witch's staff. Stones line the perimeter of the Builder's Hut instead of the flower garden. A purple glow emanating from the inside of the hut can be seen. August 25, 2017 The Builder's Hut changed its appearance once more as Wizards replaced the Witches. This time around, the tools have been restored to their original positions, but the perimeter of the hut is now lined by purple crystals and rocks, similar to the base of the level 4 Wizard Tower , the purple glow still remains. August 31, 2017 The Builder's Hut reverted to its normal appearance as the regular Builders returned. However, for one more week, the Builder's Hut once again spawned a defensive Giant after it was destroyed. February 2019 For the 2019 Lunar New Year, the Builder's Hut was changed to sport a red roof, along with \"春联\"-\"Spring Festival Couplets\" on each side of the doorway, usually saying something good such as New Year's wish. April 12, 2021 Added levels 2 to 4 Builder's Hut as it has been weaponized. Added the achievement associated with the weaponized Builder's Hut, \"Bust This!\". April 29, 2021 Increased range from 6 to 7 tiles. June 15, 2021 Make the defending Builders stick to their target until it is fully repaired. This also fixes the problem of getting no repair done inside a high level Poison Spell. Builders will now properly retreat to their ruined Hut when it is destroyed instead of just vanishing. Added new Season Challenges and Clan Games Tasks called \"Builder Basher\" - where the player has to destroy a number of Builder's Huts in Multiplayer Battles. Use correct graphics for level 3 Builder's Hut in the 12 o'clock position. Do not show the range indicator when placing a new Builder's Hut since it is not yet weaponized. Show boost effect for Builder's Huts and Town Hall when they are under upgrade if the boost is active anyway. September 27, 2021 Fixed a bug that caused Builders to get stuck in Walls during Clan Wars , Legend League battles , or Friendly Challenges . May 2, 2022 Increased repair per second at levels 3 and 4: Level 3: 55 -> 60 Level 4: 60 -> 70 December 12, 2022 Added a golden range indicator to the Builder's Hut when weaponized, highlighting all buildings that the Builder can repair during battle. June 12, 2023 Added the level 5 Builder's Hut. December 12, 2023 Reduced the upgrade time at level 5 from 14d 12h to 14d 6h. Reduced upgrade costs at levels 2 to 4: Level 2: 9,000,000 -> 8,000,000 Level 3: 12,000,000 -> 10,000,000 Level 4: 14,500,000 -> 12,000,000 April 17, 2024 Added the level 6 Builder's Hut. June 20, 2024 Reduced upgrade cost at level 5 from 17,000,000 to 15,000,000. Reduced upgrade times at levels 2 to 5: Level 2: 9d 12h -> 8d Level 3: 11d 12h -> 9d Level 4: 13d 6h -> 9d 12h Level 5: 14d 6h -> 11d September 9, 2024 Added 2 Supercharge levels to the Builder's Hut. February 10, 2025 Reduced upgrade times at all charges: Charge 1: 4d -> 2d 6h Charge 2: 6d -> 3d 18h Reduced upgrade costs at all charges: Charge 2: 10,000,000 -> 6,000,000 Charge 2: 6,000,000 -> 3,000,000 March 24, 2025 Added the level 7 Builder's Hut. Removed the Supercharges at level 6 and replaced them at level 7: Charge 1: Damage per second: 157 -> 172 Cost: 6,000,000 -> 10,000,000 Time: 2d 6h -> 4d Charge 2: Hitpoints: 1,950 -> 2,050 Cost: 3,000,000 -> 5,000,000 Time: 3d 18h -> 6d November 17, 2025 Reduced upgrade time at level 7 from 14d 6h to 9d 12h. Reduced upgrade cost at level 7 from 21,000,000 to 15,500,000. January 28, 2025 Reduced Builder movement speed from 28 to 20. June 16, 2026 Added the level 8 Builder's Hut. Removed the Supercharges at level 7. August 31, 2026 Added 2 Supercharge levels to the Builder's Hut. October 20, 2026 Reduced charge times at all charges: Charge 1: 4d -> 1d 14h Charge 2: 6d -> 2d 10h Reduced charge costs at all charges: Charge 1: 10,000,000 -> 4,000,000 Charge 2: 8,000,000 -> 3,250,000 Gallery Short Animations https://clashofclans.fandom.com/wiki/File:Builder_Hut_InAction.mp4 The Builder's Hut attacking while the Builder is repairs a building. Images Builder's Hut level 4 image from Chief's Journey Front view Middle view Top view Trivia A Builder's Hut does not require a free Builder to build. The Builder's Hut does not appear to have a door, or any form of resting comforts such as a bed. Resting Builder If you drag an idle Builder's Hut, you will see the Builder resting on the ground. This does not apply to Clash-o-Ween 2023, as dragging the hut during that period would have the Builder repeatedly stare at the player (as he occasionally does when building). When the hut is placed, he will run into his hut in the new location. As soon as the three-minute raid timer begins counting down, all Builders not assigned to a weaponized Builder's Hut will run towards the Town Hall . Even if the Town Hall is destroyed before the Builders reach it, they will still \"enter\" it, disappearing upon doing so. Builders corresponding to weaponized Builder's Huts will run towards their hut instead. Unlike other buildings, if a player has not reached Town Hall 14, the upgrade button(s) do not appear, rather than button(s) that inform the player about the Town Hall requirement when tapped. Like with the Giga Weapons and Inferno Artillery on the Town Hall, an upgrading weaponized Builder's Hut will not be targeted by defense-targeting troops as they need to be \"activated\" at the start of the raid first, unlike other defenses. If an attack is conducted, the roof of the weaponized Builder's Hut briefly becomes a 3D model when it springs out, before reverting to 2D. Sometimes, in its info screen, the roof of the weaponized Builder's Hut may freeze while attacking a unit, and in most cases cause it to vibrate uncontrollably. This can also happen if the Builder's Hut is upgrading in its info screen, or if the player's device version is outdated, which can cause some lags. Comparisons The level 1 Builder's Hut has the lowest hitpoints of any building in the game, although it is tied with the B.O.B's Hut , and the level 1 Army Camp . Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

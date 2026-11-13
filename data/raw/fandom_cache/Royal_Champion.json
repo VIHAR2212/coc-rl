@@ -1,0 +1,1421 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Ranged (Ground & Air)",
+        "Attack Speed": "1.2s",
+        "Movement Speed": "24",
+        "Range": "3 tiles",
+        "Search Radius": "9 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "340",
+        "Damage per Hit": "408",
+        "Hitpoints": "2,508",
+        "Health Recovery": "400",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "350",
+        "Damage per Hit": "420",
+        "Hitpoints": "2,550",
+        "Health Recovery": "400",
+        "Upgrade Cost": "10,000",
+        "Upgrade Time": "4h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "360",
+        "Damage per Hit": "432",
+        "Hitpoints": "2,593",
+        "Health Recovery": "400",
+        "Upgrade Cost": "15,000",
+        "Upgrade Time": "10h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "370",
+        "Damage per Hit": "444",
+        "Hitpoints": "2,635",
+        "Health Recovery": "400",
+        "Upgrade Cost": "20,000",
+        "Upgrade Time": "12h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "375",
+        "Damage per Hit": "450",
+        "Hitpoints": "2,678",
+        "Health Recovery": "500",
+        "Upgrade Cost": "25,000",
+        "Upgrade Time": "20h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "380",
+        "Damage per Hit": "456",
+        "Hitpoints": "2,720",
+        "Health Recovery": "500",
+        "Upgrade Cost": "30,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "385",
+        "Damage per Hit": "462",
+        "Hitpoints": "2,763",
+        "Health Recovery": "500",
+        "Upgrade Cost": "35,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "390",
+        "Damage per Hit": "468",
+        "Hitpoints": "2,805",
+        "Health Recovery": "500",
+        "Upgrade Cost": "40,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "396",
+        "Damage per Hit": "475.2",
+        "Hitpoints": "2,848",
+        "Health Recovery": "500",
+        "Upgrade Cost": "45,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "402",
+        "Damage per Hit": "482.4",
+        "Hitpoints": "2,890",
+        "Health Recovery": "600",
+        "Upgrade Cost": "50,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "408",
+        "Damage per Hit": "489.6",
+        "Hitpoints": "2,933",
+        "Health Recovery": "600",
+        "Upgrade Cost": "53,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "414",
+        "Damage per Hit": "496.8",
+        "Hitpoints": "2,975",
+        "Health Recovery": "600",
+        "Upgrade Cost": "56,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "420",
+        "Damage per Hit": "504",
+        "Hitpoints": "3,018",
+        "Health Recovery": "600",
+        "Upgrade Cost": "59,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "426",
+        "Damage per Hit": "511.2",
+        "Hitpoints": "3,060",
+        "Health Recovery": "600",
+        "Upgrade Cost": "62,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "432",
+        "Damage per Hit": "518.4",
+        "Hitpoints": "3,103",
+        "Health Recovery": "700",
+        "Upgrade Cost": "65,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "438",
+        "Damage per Hit": "525.6",
+        "Hitpoints": "3,145",
+        "Health Recovery": "700",
+        "Upgrade Cost": "70,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "444",
+        "Damage per Hit": "532.8",
+        "Hitpoints": "3,188",
+        "Health Recovery": "700",
+        "Upgrade Cost": "75,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "448",
+        "Damage per Hit": "537.6",
+        "Hitpoints": "3,230",
+        "Health Recovery": "700",
+        "Upgrade Cost": "80,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "452",
+        "Damage per Hit": "542.4",
+        "Hitpoints": "3,273",
+        "Health Recovery": "700",
+        "Upgrade Cost": "85,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "456",
+        "Damage per Hit": "547.2",
+        "Hitpoints": "3,315",
+        "Health Recovery": "800",
+        "Upgrade Cost": "90,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "460",
+        "Damage per Hit": "552",
+        "Hitpoints": "3,349",
+        "Health Recovery": "800",
+        "Upgrade Cost": "95,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "22",
+        "Damage per Second": "465",
+        "Damage per Hit": "558",
+        "Hitpoints": "3,383",
+        "Health Recovery": "800",
+        "Upgrade Cost": "100,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "23",
+        "Damage per Second": "470",
+        "Damage per Hit": "564",
+        "Hitpoints": "3,417",
+        "Health Recovery": "800",
+        "Upgrade Cost": "105,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "24",
+        "Damage per Second": "474",
+        "Damage per Hit": "568.8",
+        "Hitpoints": "3,451",
+        "Health Recovery": "800",
+        "Upgrade Cost": "110,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "25",
+        "Damage per Second": "477",
+        "Damage per Hit": "572.4",
+        "Hitpoints": "3,485",
+        "Health Recovery": "900",
+        "Upgrade Cost": "115,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "26",
+        "Damage per Second": "480",
+        "Damage per Hit": "576",
+        "Hitpoints": "3,519",
+        "Health Recovery": "900",
+        "Upgrade Cost": "120,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "27",
+        "Damage per Second": "483",
+        "Damage per Hit": "579.6",
+        "Hitpoints": "3,553",
+        "Health Recovery": "900",
+        "Upgrade Cost": "125,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "28",
+        "Damage per Second": "486",
+        "Damage per Hit": "583.2",
+        "Hitpoints": "3,587",
+        "Health Recovery": "900",
+        "Upgrade Cost": "130,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "29",
+        "Damage per Second": "489",
+        "Damage per Hit": "586.8",
+        "Hitpoints": "3,621",
+        "Health Recovery": "900",
+        "Upgrade Cost": "135,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "30",
+        "Damage per Second": "492",
+        "Damage per Hit": "590.4",
+        "Hitpoints": "3,655",
+        "Health Recovery": "1,000",
+        "Upgrade Cost": "140,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "31",
+        "Damage per Second": "495",
+        "Damage per Hit": "594",
+        "Hitpoints": "3,681",
+        "Health Recovery": "1,000",
+        "Upgrade Cost": "145,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "32",
+        "Damage per Second": "498",
+        "Damage per Hit": "597.6",
+        "Hitpoints": "3,706",
+        "Health Recovery": "1,000",
+        "Upgrade Cost": "150,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "33",
+        "Damage per Second": "502",
+        "Damage per Hit": "602.4",
+        "Hitpoints": "3,732",
+        "Health Recovery": "1,000",
+        "Upgrade Cost": "155,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "34",
+        "Damage per Second": "506",
+        "Damage per Hit": "607.2",
+        "Hitpoints": "3,757",
+        "Health Recovery": "1,000",
+        "Upgrade Cost": "160,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "35",
+        "Damage per Second": "510",
+        "Damage per Hit": "612",
+        "Hitpoints": "3,783",
+        "Health Recovery": "1,100",
+        "Upgrade Cost": "165,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "36",
+        "Damage per Second": "514",
+        "Damage per Hit": "616.8",
+        "Hitpoints": "3,808",
+        "Health Recovery": "1,100",
+        "Upgrade Cost": "170,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "37",
+        "Damage per Second": "518",
+        "Damage per Hit": "621.6",
+        "Hitpoints": "3,834",
+        "Health Recovery": "1,100",
+        "Upgrade Cost": "175,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "38",
+        "Damage per Second": "522",
+        "Damage per Hit": "626.4",
+        "Hitpoints": "3,859",
+        "Health Recovery": "1,100",
+        "Upgrade Cost": "180,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "39",
+        "Damage per Second": "526",
+        "Damage per Hit": "631.2",
+        "Hitpoints": "3,885",
+        "Health Recovery": "1,100",
+        "Upgrade Cost": "200,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "40",
+        "Damage per Second": "530",
+        "Damage per Hit": "636",
+        "Hitpoints": "3,910",
+        "Health Recovery": "1,200",
+        "Upgrade Cost": "220,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "41",
+        "Damage per Second": "533",
+        "Damage per Hit": "639.6",
+        "Hitpoints": "3,936",
+        "Health Recovery": "1,200",
+        "Upgrade Cost": "240,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "42",
+        "Damage per Second": "536",
+        "Damage per Hit": "643.2",
+        "Hitpoints": "3,961",
+        "Health Recovery": "1,200",
+        "Upgrade Cost": "260,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "43",
+        "Damage per Second": "539",
+        "Damage per Hit": "646.8",
+        "Hitpoints": "3,987",
+        "Health Recovery": "1,200",
+        "Upgrade Cost": "280,000",
+        "Upgrade Time": "6d 12h",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "44",
+        "Damage per Second": "542",
+        "Damage per Hit": "650.4",
+        "Hitpoints": "4,012",
+        "Health Recovery": "1,200",
+        "Upgrade Cost": "300,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "45",
+        "Damage per Second": "545",
+        "Damage per Hit": "654",
+        "Hitpoints": "4,038",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "320,000",
+        "Upgrade Time": "7d 12h",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "46",
+        "Damage per Second": "548",
+        "Damage per Hit": "657.6",
+        "Hitpoints": "4,064",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "340,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "47",
+        "Damage per Second": "551",
+        "Damage per Hit": "661.2",
+        "Hitpoints": "4,090",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "350,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "48",
+        "Damage per Second": "554",
+        "Damage per Hit": "664.8",
+        "Hitpoints": "4,116",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "360,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "49",
+        "Damage per Second": "557",
+        "Damage per Hit": "668.4",
+        "Hitpoints": "4,142",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "370,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "50",
+        "Damage per Second": "560",
+        "Damage per Hit": "672",
+        "Hitpoints": "4,168",
+        "Health Recovery": "1,400",
+        "Upgrade Cost": "380,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "51",
+        "Damage per Second": "563",
+        "Damage per Hit": "675.6",
+        "Hitpoints": "4,194",
+        "Health Recovery": "1,400",
+        "Upgrade Cost": "400,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "52",
+        "Damage per Second": "566",
+        "Damage per Hit": "679.2",
+        "Hitpoints": "4,220",
+        "Health Recovery": "1,400",
+        "Upgrade Cost": "410,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "53",
+        "Damage per Second": "569",
+        "Damage per Hit": "682.8",
+        "Hitpoints": "4,246",
+        "Health Recovery": "1,400",
+        "Upgrade Cost": "420,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "54",
+        "Damage per Second": "572",
+        "Damage per Hit": "686.4",
+        "Hitpoints": "4,272",
+        "Health Recovery": "1,400",
+        "Upgrade Cost": "430,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "55",
+        "Damage per Second": "575",
+        "Damage per Hit": "690",
+        "Hitpoints": "4,298",
+        "Health Recovery": "1,500",
+        "Upgrade Cost": "450,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Town Hall 13 Update",
+        "Description": "Added the Royal Champion. with 20 levels."
+      },
+      {
+        "Patch": "December 8, 2020",
+        "Type": "Logmas Update",
+        "Description": "Added levels 21 to 25 Royal Champion."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Town Hall 14 Update",
+        "Description": "Added levels 26 to 30 Royal Champion."
+      },
+      {
+        "Patch": "September 13, 2022",
+        "Type": "Update",
+        "Description": "Reduced Seeking Shield health regenerations at levels 5 and 6: Level 5: 2,900 -> 2,800 Level 6: 3,200 -> 3,000"
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Town Hall 15 Update",
+        "Description": "Added levels 31 to 35 Royal Champion."
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Summer Update",
+        "Description": "Added levels 36 to 40 Royal Champion."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Town Hall 16 Update",
+        "Description": "Added levels 41 to 45 Royal Champion. Replaced the Seeking Shield ability with Hero Equipment of Seeking Shield and Royal Gem ."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Added levels 46 to 50 Royal Champion. The Royal Champion is no longer unlocked by placing down her Altar , but from upgrading Hero Hall to level 6. Her Altar is replaced by the Hero Banner obstacle."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed Regeneration Time."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added levels 51 to 55 Royal Champion."
+      }
+    ],
+    [
+      {
+        "Skin": "Winter Champion",
+        "Class": "Gold",
+        "Season Available": "December 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Rogue Champion",
+        "Class": "Gold",
+        "Season Available": "April 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jungle Champion",
+        "Class": "Standard",
+        "Season Available": "April 2021",
+        "Notes": "The Jungle Champion was available in a special offer after the Town Hall 14 update."
+      },
+      {
+        "Skin": "Gladiator Champion",
+        "Class": "Gold",
+        "Season Available": "September 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Shadow Champion",
+        "Class": "Gold",
+        "Season Available": "March 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Primal Champion",
+        "Class": "Legendary",
+        "Season Available": "March 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Summer Champion",
+        "Class": "Standard",
+        "Season Available": "June 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Party Champion",
+        "Class": "Gold",
+        "Season Available": "August 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Pixel Champion",
+        "Class": "Legendary",
+        "Season Available": "August 2022",
+        "Notes": "The Pixel Champion was available in a 10th Clashiversary offer in August 2022; costing $4.99 USD (or equivalent), half of the usual price for Legendary skins."
+      },
+      {
+        "Skin": "Magic Champion",
+        "Class": "Legendary",
+        "Season Available": "October 2022",
+        "Notes": "The Magic Champion was available in a special offer for the release of Town Hall 15."
+      },
+      {
+        "Skin": "Pirate Champion",
+        "Class": "Gold",
+        "Season Available": "November 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jolly Champion",
+        "Class": "Legendary",
+        "Season Available": "December 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Warrior Champion",
+        "Class": "Gold",
+        "Season Available": "January 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Painter Champion",
+        "Class": "Legendary",
+        "Season Available": "March 2023",
+        "Notes": "The Painter Champion was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD."
+      },
+      {
+        "Skin": "Dark Ages Champion",
+        "Class": "Legendary",
+        "Season Available": "May 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "League Champion",
+        "Class": "Legendary",
+        "Season Available": "June 2023",
+        "Notes": "The League Champion is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 ."
+      },
+      {
+        "Skin": "Goblin Champion",
+        "Class": "Legendary",
+        "Season Available": "July 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Future Champion",
+        "Class": "Legendary",
+        "Season Available": "August 2023",
+        "Notes": "The Future Champion skin was available in a special offer for the 11th Clashiversary in August 2023."
+      },
+      {
+        "Skin": "Ghost Champion",
+        "Class": "Gold",
+        "Season Available": "October 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Champions' Champion",
+        "Class": "Gold",
+        "Season Available": "November 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Gingerbread Champion",
+        "Class": "Legendary",
+        "Season Available": "December 2023",
+        "Notes": "The Gingerbread Champion skin was available in a special Clashmas offer in December 2023."
+      },
+      {
+        "Skin": "Dragon Champion",
+        "Class": "Gold",
+        "Season Available": "February 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Space Champion",
+        "Class": "Legendary",
+        "Season Available": "March 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Egypt Champion",
+        "Class": "Legendary",
+        "Season Available": "April 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Football Champion",
+        "Class": "Gold",
+        "Season Available": "May 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Wild West Champion",
+        "Class": "Legendary",
+        "Season Available": "June 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Champion",
+        "Class": "Gold",
+        "Season Available": "August 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Paladin Champion",
+        "Class": "Legendary",
+        "Season Available": "September 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Ice Champion",
+        "Class": "Gold",
+        "Season Available": "January 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Snake Champion",
+        "Class": "Legendary",
+        "Season Available": "February 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Sniper Champion",
+        "Class": "Legendary",
+        "Season Available": "March 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "The RoyalEST",
+        "Class": "Legendary",
+        "Season Available": "April 2025",
+        "Notes": "Based on the WWE wrestler Bianca Belair , as part of the Clashamania collaboration season."
+      },
+      {
+        "Skin": "Royal Ninja",
+        "Class": "Legendary",
+        "Season Available": "May 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Showtime Champion",
+        "Class": "Gold",
+        "Season Available": "June 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Royal Officer",
+        "Class": "Legendary",
+        "Season Available": "July 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash-A-Rama Champion",
+        "Class": "Gold",
+        "Season Available": "August 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Yeti Champion",
+        "Class": "Legendary",
+        "Season Available": "September 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Cursed Champion",
+        "Class": "Legendary",
+        "Season Available": "October 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Nomad Champion",
+        "Class": "Legendary",
+        "Season Available": "November 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Explorer Champion",
+        "Class": "Legendary",
+        "Season Available": "December 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Mirage Champion",
+        "Class": "Legendary",
+        "Season Available": "January 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Red Champion",
+        "Class": "Gold",
+        "Season Available": "February 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dragonscale Champion",
+        "Class": "Legendary",
+        "Season Available": "March 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Royal Screamstress",
+        "Class": "Legendary",
+        "Season Available": "April 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Skeleton Champion",
+        "Class": "Legendary",
+        "Season Available": "May 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Fury Champion",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Majestic Royal Champion",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "Available as a reward from Hero's Journey once a cumulative total of 400 Hero levels is attained."
+      },
+      {
+        "Skin": "Amber Half-Time Champion",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Hades Champion",
+        "Class": "Legendary",
+        "Season Available": "July 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Tempest Champion",
+        "Class": "Gold",
+        "Season Available": "August 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Royal Enchantress",
+        "Class": "Legendary",
+        "Season Available": "August 2026",
+        "Notes": "Available as a reward after completing all 5 Clashiversary Quests in Supercell Store."
+      },
+      {
+        "Skin": "Sky Champion",
+        "Class": "Legendary",
+        "Season Available": "September 2026",
+        "Notes": "Based on the WWE wrestler Iyo Sky , as part of the Search for Cena collaboration season."
+      },
+      {
+        "Skin": "Terror Champion",
+        "Class": "Legendary",
+        "Season Available": "October 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Titan Champion",
+        "Class": "Legendary",
+        "Season Available": "November 2026",
+        "Notes": ""
+      }
+    ],
+    [
+      {
+        "Skin": "Winter Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "No",
+        "Attacking Animation": "No",
+        "Ability Animation": "No",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Rogue Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "No",
+        "Ability Animation": "No",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jungle Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "No",
+        "Ability Animation": "No",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Gladiator Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "No",
+        "Ability Animation": "No",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Shadow Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "No",
+        "Ability Animation": "No",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Primal Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "No",
+        "Ability Animation": "No",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Summer Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Ability Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Party Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Ability Animation": "Partial",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Pixel Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Ability Animation": "Partial",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Magic Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Partial",
+        "Ability Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Pirate Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "Partial",
+        "Ability Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jolly Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "Partial",
+        "Ability Animation": "Partial",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "Yes",
+        "Resting Effects": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warrior Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Partial",
+        "Ability Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Painter Champion",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Ability Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Over the Wall and at them! The Royal Champion is only afraid of four things, and the enemy isn't one of them. Her short range is perfect for stabbing defenses up close and personal.\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 2.3 Against a Royal Champion 3 Statistics 4 Hero Equipment 5 History 6 Hero Skins 6.1 Skin Availability 6.2 Royal Champion Skins 6.3 Royal Champion Skin Features 6.4 Notes 7 Trivia 7.1 General 7.2 Comparisons Summary The Royal Champion is the fifth Hero unlocked once the Hero Hall reaches Level 7, which is available at Town Hall level 13. She has moderately high damage per second, moderate health, and targets defenses . She can also jump over Walls , much like the Hog Rider and Headhunter . On her default skin, she is a tan-skinned woman with long, braided blue hair with a pointed end held by a golden headband, a scar on her left eye, and blue eyes and eyebrows. She wears a black robe that reaches to her knees held by a blue waistband, a blue cape, navy-colored breeches, and black shoes with dark gray straps that form an \"x\" symbol. She also wears a golden tiara on her forehead with a \"v\" symbol. She wields a long spear with a wooden shaft, a diamond-shaped, pointed iron end and a has blue band holding both parts, on which she uses it to throw at her opponents when attacking, and wields an octagonal wooden shield with a rounded square metal piece at the center and encased metal at the edges to help her defend from attacks. She throws her spear from a distance to attack enemy buildings , troops and defending Heroes. As a Hero, the Royal Champion can participate in both attack and defense, but will not be available to use if she is being upgraded. Like other Heroes, she is not upgraded in the Laboratory but upgraded with a Builder . Like with other Heroes, the Royal Champion will defend the village when assigned to a Hero Banner . Royal Champion only defends her territory around her banner and will retreat if lured too far out. The Royal Champion has moderately high health, but high damage so she is best used as a ranged damage dealer just like the Archer Queen . Most likely, you want to protect your Royal Champion so that she can destroy defenses. As a Hero, the Royal Champion has an ability that can be used once per battle which allows her to recover some of her health, and the amount increases at every fifth level. The Hero Equipment that she wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase. When unlocked, she starts with the Royal Gem and Seeking Shield. The Royal Gem grants the ability a vastly increased health recovery. It gives a passive increase to damage and max health. The Seeking Shield allows her to throw a shield with her ability. It seeks out up to four targets - prioritizing defenses - regardless of distance, dealing a large amount of damage to each. It gives a passive increase to max health. Upgrading the Blacksmith to level 7 and 8 unlocks the Hog Rider Puppet and Haste Vial respectively. The Hog Rider Puppet summons Hog Riders, provides a brief invisibility, and grants an increased health recovery with her ability. It gives a passive increase to max health. The Haste Vial greatly increases her movement speed and attack speed for a short duration with her ability. It gives a passive increase to damage and attack speed. Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or gems with the Trader . The Rocket Spear massively increases her attack range and damage and grants a small splash radius for a few attacks with her ability. It gives a passive increase to damage and max health. The Electro Boots passively create an electric aura similar to that of the Electro Titan's , dealing damage to nearby enemy units and buildings. It gives a passive increase to max health and grant her self healing. The Frost Flake shoots multiple snow flakes at the closest defense, freezes them for a short while, and deals a small amount of damage. It gives a passive increase to max health. If the ability has not been used before the Royal Champion is about to be defeated, it will by default automatically activate. However, this feature can be toggled off in the settings (by turning off \"Automatically use Hero Abilities on KO\"). She will prioritize defenses, and will bypass any other buildings to the nearest defense, if there are any remaining. She will not consider the Clan Castle as a defense regardless of whether or not it contains enemy troops, but will consider the activated Town Hall weapon (if any) to be a defense. However, unlike other defense-targeting troops, if she becomes aware of a defending hero, Clan Castle troops, or Skeleton Trap Skeletons (either by being attacked by the troops and/or heroes herself, or by being near a friendly troop under attack by those troops and heroes), she will leave her previously targeted defense (or building if there are no defenses) and instead engage with the troops and/or heroes. Once all of the engaged troops and/or heroes are defeated, she will attack the nearest defense, or building, if there are no remaining defenses. Strategies Offensive Strategies The six Home Village Heroes serve different roles in raids. The Barbarian King is the strength specialist, the Minion Prince is the air specialist, the Archer Queen is the speed specialist, the Grand Warden is the support specialist, the Royal Champion is the offense specialist, and the Dragon Duke is the solo specialist. Deploy her behind the Barbarian King as he tanks and deals the damage while the Royal Champion destroys defenses which are distracted by the King, improving both of their offensive potential and survivabilities. The Seeking Shield, when equipped, can destroy weak isolated defenses such as the Mortar and Hidden Tesla in one hit. This allows the Royal Champion to set up funnels. Sending her like this without much backup is known as a suicide (or sui) Champion. Similar to the Archer Queen Walk, the Royal Champion can be assisted by multiple Healers in a Royal Champion Walk. However, due to the shorter range of the Royal Champion, the Healers can easily get in range of Air Defenses . As with the Archer Queen, this is useful for taking out outer buildings before the main attack. A variation of this uses Druids instead of Healers, since the former are ground units, but they only heal her for a limited time. Another version of the Royal Champion Walk is to use Invisibility Spells instead of Healers to destroy important defenses, known as the Royal Champion Charge. Send her in with the main pack of a Hybrid ( Hog Riders and Miners ) as they will tank for her and she will deal massive damage to the defenses. She also can attack defending Heroes that are attacking the pack, and then will also follow the pack due to also targeting defenses. She will also protect the pack from defending aerial Clan Castle troops. Often it is better to send her later in the attack, where the main army is starting to lose power getting to the backend defenses to take out said defenses. Deploy her when some of the defenses are attacking the main army. Sending her in too early may result in her quick death. One way to do this is when you have a Siege Barracks in your army, fill that with Hog Riders and then when they deploy, place the Royal Champion with them. When at a sufficiently high level, she can single-handedly take on and destroy the Town Hall 's Giga Tesla / Giga Inferno if it is alone in a compartment, provided that she does not get distracted by anything else in doing so. Keeping a Rage Spell on hand can help ensure that the Town Hall gets taken down in this manner, and can be used if the Royal Champion is low-leveled. Hero Equipments such as the Haste Vial can finish off the Town Hall weapon quickly, or snipe it from afar using the Rocket Spear . Her Seeking Shield ability can also get rid of any Hidden Teslas that might appear to protect the Town Hall in such compartments. However, if the ability is used before the Hidden Teslas appear, it will not target them, so time it wisely. If a single-target Inferno Tower is preventing a great placement, bring one Earthquake Spell and two Lightning Spells . This will allow her ability to one shot the Inferno Tower at not that much of a costly investment if you can use them properly. If you do not need to use her ability during battle, you do not always need to. If the battle ends and she does not use her ability, after battle she will recover health equal to the ability recovery. Before the Town Hall 16 update, if you allow her hitpoints to deplete in order to automatically activate her ability, be wary that her shield throwing animation takes a few seconds to complete. If she is taking very heavy damage during this animation (which most often occurs when under fire from a single-target Inferno Tower), she will be defeated before being able to throw the shield to do damage, effectively wasting the ability. However, since the Town Hall 16 update, this no longer happens, as the Seeking Shield will be released instantly if she is about to get taken out by defenses. There are many good Hero Equipment options for the Royal Champion. The Haste Vial and Hog Rider Puppet combo is universally good at most attack strategies, allowing Royal Champion to briefly be invisible while the Hog Riders tank for her, and massively increases the damage she can do in total with the increased attack speed and Hog Riders and charges into the core of the base. However, this combo is weak to traps such as Giant Bombs, as they will be destroyed with the help of splash damage defenses, allowing the Royal Champion to be targeted, and defeat her. The Seeking Shield and Rocket Spear allows her to pick up a few close by defenses then use her extra range to target defense deep within a base, making her functionally similar to a Flame Flinger for a while. The Hog Rider Puppet and Royal Gem is useful for the Royal Champion Charge, allowing her to survive for much longer with the Hog Riders tanking for her and the massive health recovery from the ability as both Equipments provide more of it. The Electro Boots and the Hog Rider Puppet can be a very useful combination because it allows her to deal with swarms, allowing the Hog Riders to tank for her and deal more damage, as well as to recover some health. The Electro Boots and the Haste Vial can be helpful to destroy defenses quickly in a Royal Charge, supported by the Spirit Fox and Invisibility Spells . However, this leaves the Royal Champion with no extra healing, meaning that she is more vulnerable to major defenses. Defensive Strategies Defend possible places where a Champion may be used with lots of high DPS defenses, as she has low health. Defend your outer defenses with splash defenses and traps, as the Royal Champion is commonly teamed up with Hogs from a Siege Barracks or the Hog Rider Puppet. Place minor defenses such as the Cannon , Mortar , or the Archer Tower to soak up possible Seeking Shields, as they will protect higher value defenses. They can also stall the Royal Champion herself. However, this will only apply if the Royal Champion equips the Seeking Shield. The Royal Champion throws her spear very slowly, so use Skeleton Traps to distract her for a long time. The best place to use this is near a single-target Inferno Tower. That is, unless if the Royal Champion has the Rocket Spear, on which most cases will outrange the Inferno Tower and prevent her from triggering Skeleton Traps. In the case if Skeletons manage to distract the Royal Champion, the explosive spear will destroy all of them, due to its splash damage, if they are too close enough to be caught in the explosion. However, if the defensive Skeletons are well-spread, it will waste two or three Rocket Spears, reducing the Royal Champion's value which in turn increases the chances of a successful defense. The best way to defend against a troop or Hero is to defend the strategies they are used, for instance, the Hybrid and LaLo. Those strategies are also common, but the ways the Royal Champion is used in them are quite different. Against a Royal Champion Use several troops or troops with high damage, as she attacks pretty slowly and has low hitpoints compared to relative troops. Dropping a Poison Spell decreases her attack speed further, giving your troops the upper hand. Using several Lightning Spells to take her down can also be viable, but it is best used if there are other buildings of value nearby (such as the Eagle Artillery , Scattershot , and/or the Firespitter ). For defense-targeting troops, trying to speed past a Royal Champion is a very viable strategy but may be risky if you fail or if they slow down while still in the radius of a Royal Champion. A sufficiently-upgraded Fireball from the Grand Warden can take down the Royal Champion, if she is within the blast radius, but the minimum levels for her to survive a maximum level Fireball can vary depending on the difficulty modifiers, as well being affected by the maximum level for the Hero Bell 's hero health boost module. Normally, the Fireball can take down the Royal Champion up to level 47, on which a Totem Spell is able to finish her off; below that level she will get knocked out from defending. If boosted by the maximum Hero Bell, this is reduced to level 14, leaving her with exactly 31 hitpoints remaining. In Expert Mode, a level 37 Royal Champion will survive with 2-3 hitpoints remaining. If also boosted by the Hero Bell, this is reduced to at least level 9, leaving her about 14 hitpoints remaining. In Master Mode, a level 29 Royal Champion will survive with about 28 hitpoints remaining. If also boosted by the Hero Bell, this is reduced to at least level 5, where she survives with 21 hitpoints remaining. In Legend Mode, a level 23 or 24 Champion will survive with either 1 or 41 hitpoints remaining, respectively. If also boosted by the Hero Bell, this is reduced to at least level 2, where she survives with exactly 31 hitpoints remaining. In ESports Mode, due to the 6-level reduction, the Royal Champion can survive a level 21 Fireball (maximum level for Epic Equipment) when she is at least level 14. If also boosted by the Hero Bell, she will survive Fireballs, even at level 1, and can be taken out with a Lightning Spell afterwards. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Attack Speed Movement Speed Range Search Radius Defenses Ranged (Ground & Air) 1.2s 24 3 tiles 9 tiles Level Damage per Second Damage per Hit Hitpoints Health Recovery Upgrade Cost Upgrade Time Hero Hall Level Required Town Hall Level Required 1 340 408 2,508 400 N/A N/A 7 13 2 350 420 2,550 400 10,000 4h 7 13 3 360 432 2,593 400 15,000 10h 7 13 4 370 444 2,635 400 20,000 12h 7 13 5 375 450 2,678 500 25,000 20h 7 13 6 380 456 2,720 500 30,000 1d 7 13 7 385 462 2,763 500 35,000 1d 7 13 8 390 468 2,805 500 40,000 1d 7 13 9 396 475.2 2,848 500 45,000 1d 7 13 10 402 482.4 2,890 600 50,000 1d 7 13 11 408 489.6 2,933 600 53,000 1d 7 13 12 414 496.8 2,975 600 56,000 1d 7 13 13 420 504 3,018 600 59,000 1d 7 13 14 426 511.2 3,060 600 62,000 1d 7 13 15 432 518.4 3,103 700 65,000 1d 7 13 16 438 525.6 3,145 700 70,000 1d 12h 7 13 17 444 532.8 3,188 700 75,000 1d 12h 7 13 18 448 537.6 3,230 700 80,000 1d 12h 7 13 19 452 542.4 3,273 700 85,000 1d 12h 7 13 20 456 547.2 3,315 800 90,000 1d 12h 7 13 21 460 552 3,349 800 95,000 2d 7 13 22 465 558 3,383 800 100,000 2d 7 13 23 470 564 3,417 800 105,000 2d 7 13 24 474 568.8 3,451 800 110,000 2d 7 13 25 477 572.4 3,485 900 115,000 2d 7 13 26 480 576 3,519 900 120,000 3d 8 14 27 483 579.6 3,553 900 125,000 3d 8 14 28 486 583.2 3,587 900 130,000 3d 8 14 29 489 586.8 3,621 900 135,000 3d 8 14 30 492 590.4 3,655 1,000 140,000 3d 8 14 31 495 594 3,681 1,000 145,000 4d 9 15 32 498 597.6 3,706 1,000 150,000 4d 9 15 33 502 602.4 3,732 1,000 155,000 4d 9 15 34 506 607.2 3,757 1,000 160,000 4d 9 15 35 510 612 3,783 1,100 165,000 4d 9 15 36 514 616.8 3,808 1,100 170,000 5d 9 15 37 518 621.6 3,834 1,100 175,000 5d 9 15 38 522 626.4 3,859 1,100 180,000 5d 9 15 39 526 631.2 3,885 1,100 200,000 5d 9 15 40 530 636 3,910 1,200 220,000 5d 9 15 41 533 639.6 3,936 1,200 240,000 5d 10 16 42 536 643.2 3,961 1,200 260,000 6d 10 16 43 539 646.8 3,987 1,200 280,000 6d 12h 10 16 44 542 650.4 4,012 1,200 300,000 7d 10 16 45 545 654 4,038 1,300 320,000 7d 12h 10 16 46 548 657.6 4,064 1,300 340,000 8d 11 17 47 551 661.2 4,090 1,300 350,000 8d 11 17 48 554 664.8 4,116 1,300 360,000 8d 11 17 49 557 668.4 4,142 1,300 370,000 8d 11 17 50 560 672 4,168 1,400 380,000 8d 11 17 51 563 675.6 4,194 1,400 400,000 8d 12 18 52 566 679.2 4,220 1,400 410,000 8d 12 18 53 569 682.8 4,246 1,400 420,000 8d 12 18 54 572 686.4 4,272 1,400 430,000 8d 12 18 55 575 690 4,298 1,500 450,000 8d 12 18 Hero Equipment When attacking, the Royal Champion can use two of the below pieces of Hero Equipment, which change the abilities she has and grants additional stat bonuses. The Royal Champion does not use any Hero Equipment when defending. Select the equipment below to learn more about the abilities and stat bonuses that each piece gives. Royal Gem Seeking Shield Hog Rider Puppet Haste Vial Rocket Spear Electro Boots Frost Flake History Patch Type Description December 9, 2019 Town Hall 13 Update Added the Royal Champion. with 20 levels. December 8, 2020 Logmas Update Added levels 21 to 25 Royal Champion. April 12, 2021 Town Hall 14 Update Added levels 26 to 30 Royal Champion. September 13, 2022 Update Reduced Seeking Shield health regenerations at levels 5 and 6: Level 5: 2,900 -> 2,800 Level 6: 3,200 -> 3,000 October 10, 2022 Town Hall 15 Update Added levels 31 to 35 Royal Champion. June 12, 2023 Summer Update Added levels 36 to 40 Royal Champion. December 12, 2023 Town Hall 16 Update Added levels 41 to 45 Royal Champion. Replaced the Seeking Shield ability with Hero Equipment of Seeking Shield and Royal Gem . November 25, 2024 Town Hall 17 Update Added levels 46 to 50 Royal Champion. The Royal Champion is no longer unlocked by placing down her Altar , but from upgrading Hero Hall to level 6. Her Altar is replaced by the Hero Banner obstacle. March 27, 2025 Clash Anytime Update Removed Regeneration Time. November 17, 2025 Town Hall 18 Update Added levels 51 to 55 Royal Champion. Hero Skins Skin Availability Below is a table that lists all Hero skins for the Royal Champion and the month in which they were available, in chronological order. Skins are divided into three classes: Gold denotes a skin that was featured as a Gold Pass skin in Season Challenges . All Hero Skins from the Gold Pass since April 2023 have been available as the first reward on the Gold track. Prior to this, they have all been the last reward on the Gold track unless specified. All Gold skins are available permanently for purchase at a price of 1,500 Gems exactly a year after the skin was originally offered in the Gold Pass. Once available in the Shop, they may also be found in Legendary-rated Treasure Chests after the loot pool is refreshed in game updates. Standard and Legendary denotes skins not available from the Gold Pass that were available only through a special offer or event. Unless otherwise stated in the notes, these skins' special offers were available in the season listed, and cost the equivalent of $3.99 USD for Standard skins, or $9.99 USD for Legendary skins. The notes section may also include additional context of an offer. Skin from collaboration are not available for re-purchase in the Cosmetics tab. Key for highlighted entries: Entries that are highlighted denote that the skin is available in the current Season Challenges season. Entries marked with a Coathanger denote a Standard or Legendary skin that is permanently available for re-purchase in the cosmetics tab at the original price when the skin was originally offered. Entries marked with a Gem denote that the skin is purchasable with Gems; all skins currently purchasable in this manner cost 1,500 . Entries marked with a Yellow Star denote that the skin is exclusive; these skins will not be available for re-purchase in the future. Skin Class Season Available Notes Winter Champion Gold December 2020 Rogue Champion Gold April 2021 Jungle Champion Standard April 2021 The Jungle Champion was available in a special offer after the Town Hall 14 update. Gladiator Champion Gold September 2021 Shadow Champion Gold March 2022 Primal Champion Legendary March 2022 Summer Champion Standard June 2022 Party Champion Gold August 2022 Pixel Champion Legendary August 2022 The Pixel Champion was available in a 10th Clashiversary offer in August 2022; costing $4.99 USD (or equivalent), half of the usual price for Legendary skins. Magic Champion Legendary October 2022 The Magic Champion was available in a special offer for the release of Town Hall 15. Pirate Champion Gold November 2022 Jolly Champion Legendary December 2022 Warrior Champion Gold January 2023 Painter Champion Legendary March 2023 The Painter Champion was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD. Dark Ages Champion Legendary May 2023 League Champion Legendary June 2023 The League Champion is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 . Goblin Champion Legendary July 2023 Future Champion Legendary August 2023 The Future Champion skin was available in a special offer for the 11th Clashiversary in August 2023. Ghost Champion Gold October 2023 Champions' Champion Gold November 2023 Gingerbread Champion Legendary December 2023 The Gingerbread Champion skin was available in a special Clashmas offer in December 2023. Dragon Champion Gold February 2024 Space Champion Legendary March 2024 Egypt Champion Legendary April 2024 Football Champion Gold May 2024 Wild West Champion Legendary June 2024 Anime Champion Gold August 2024 Paladin Champion Legendary September 2024 Ice Champion Gold January 2025 Snake Champion Legendary February 2025 Sniper Champion Legendary March 2025 The RoyalEST Legendary April 2025 Based on the WWE wrestler Bianca Belair , as part of the Clashamania collaboration season. Royal Ninja Legendary May 2025 Showtime Champion Gold June 2025 Royal Officer Legendary July 2025 Clash-A-Rama Champion Gold August 2025 Yeti Champion Legendary September 2025 Cursed Champion Legendary October 2025 Nomad Champion Legendary November 2025 Explorer Champion Legendary December 2025 Mirage Champion Legendary January 2026 Red Champion Gold February 2026 Dragonscale Champion Legendary March 2026 Royal Screamstress Legendary April 2026 Skeleton Champion Legendary May 2026 Anime Fury Champion Legendary June 2026 Majestic Royal Champion Legendary June 2026 Available as a reward from Hero's Journey once a cumulative total of 400 Hero levels is attained. Amber Half-Time Champion Legendary June 2026 Hades Champion Legendary July 2026 Tempest Champion Gold August 2026 Royal Enchantress Legendary August 2026 Available as a reward after completing all 5 Clashiversary Quests in Supercell Store. Sky Champion Legendary September 2026 Based on the WWE wrestler Iyo Sky , as part of the Search for Cena collaboration season. Terror Champion Legendary October 2026 Titan Champion Legendary November 2026 Royal Champion Skins Anniversary Skin 2022 World Championship Skin 2023 Royal Champion Initializing Skin Menu... To view the skin wardrobe, please reload the page on the desktop skin . Created by E12Dragon Alternatively, see Royal Champion/Skins for a gallery. Royal Champion Skin Features Yes: Feature is fully customized from the original Partial: Feature is subtly customized from the original No: Feature is not customized from the original Skin Preview Animation Pose Animation Selection Animation Walking Animation Attacking Animation Ability Animation Knockout Animation Resting Animation Constant Effects Preview Effects Pose Effects Selection Effects Deployment Effects Walking Effects Attacking Effects Ability Effects Knockout Effects Resting Effects Preview Sounds Pose Sounds Selection Sounds Deployment Sounds Attacking Sounds Ability Sounds Knockout Sounds Winter Champion Yes Yes Yes No No No Yes Yes No No No No No No No No No No No No No No No No No Rogue Champion Yes Yes Yes Yes No No Yes Yes No No No No No No No No No No No No No No No No No Jungle Champion Yes Yes Yes Partial No No Yes Yes No No No No No No No No No No No No No No No No No Gladiator Champion Yes Yes Yes Yes No No Yes Yes No No No No No No No No No No No No No No No No No Shadow Champion Yes Yes Yes Yes No No Yes Yes No No No No No No No No No No Yes Yes Yes No Yes No No Primal Champion Yes Yes Yes Yes No No Yes Yes No No No No Yes No No No No No Yes Yes Yes No Yes Yes No Summer Champion Yes Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No Yes Yes Yes No Yes Yes No Party Champion Yes Yes Yes Yes Yes Partial Yes Yes No No No No No No No No No No Yes Yes Yes Yes Yes Yes Yes Pixel Champion Yes Yes Yes Yes Yes Partial Yes Yes No No No No Yes No No No No No Yes Yes Yes Yes Yes Yes Yes Magic Champion Yes Yes Yes Yes Partial Yes Yes Yes Yes No No No No No No No No No Yes Yes Yes Yes Yes Yes Yes Pirate Champion Yes Yes Yes Partial Partial Yes Yes Yes No No No No No No No No No No Yes Yes Yes No Yes Yes No Jolly Champion Yes Yes Yes Partial Partial Partial Yes Yes No No Yes Yes No No No No Yes Yes Yes Yes Yes Yes Yes Yes No Warrior Champion Yes Yes Yes Yes Partial Yes Yes Yes No No No No No No No No No No Yes Yes Yes No Yes Yes No Painter Champion Yes Yes Yes Yes Yes Yes Yes Yes No No No No Yes No No No No No Yes Yes Yes No Yes No No Notes Some of the Royal Champion's skins feature her holding different objects instead of a spear and shield: With the Gladiator Champion, she holds a lightning bolt and a dipylon, a Greek shield. With the Shadow Champion, she holds a shovel and a skull lantern. With the Primal Champion skin, she holds a turtle in her left hand. With the Summer Champion skin, she holds a harpoon and a basket full of pearls. With the Party Champion skin, she holds a jukebox. With the Magic Champion skin, she has a crow perched on her left hand. With the Pirate Champion skin, she holds a boat wheel. With the Painter Champion skin, she holds a a paintbrush and a bucket. With the Jolly Champion skin, she holds a candy cane and a cookie. With the Dragon Champion Skin, she holds a trident. With the Space Champion skin, she holds a staff with a ball and floating rings. With the Egypt Skin, she holds a cobra. With the Football Skin, she uses a football. With the Wild West Champion, her spear has dynamite attached to it, and her shield is a wooden barrel lid with rope wrapped around it. With The RoyalEST skin, her spear is made of a red ring post with leftover blue ring ropes attached to it, and her shield has a red kiss symbol. With the Royal Ninja skin, her shield is replaced by giant shuriken and her spear is replaced with the Jumonji Yari , which is a bit similar to Corporal/Lieutenant 's weapon from Shadow Fight 2 . With the Showtime Champion, she uses a microphone and her shield is a vinyl record . The Champion's Champion skin is the only skin for the Royal Champion to wield a glowing spear. The Space Champion skin uses a unique jumping sound when she pphops over Walls while idle in the Home Village. Her thrown spears also use a laser beam sound effect. Trivia General The Royal Champion was revealed with the Town Hall 13 teaser trailer, but only her chin and her waist are visible. Another teaser picture showed her blue hair and her golden headband, both times with other heroes in their full portrait, and the Royal Champion's photo being torn. Her \"Seeking Shield\" ability is very similar to Captain America 's shield throw. She could be named after a Clash Royale league of the same name. Her name is labeled as 'warriorprincess' in the game's files. The Royal Champion is voiced by Bonnie Bogovich, an actress and composer known for I Expect You to Die , Pathfinder: Kingmaker , and Free Fire . According to The Making of a Hero , the Royal Champion was originally going to be a \"Valkyrie Queen\". Her design was also inspired by Xena: Warrior Princess and the Wakanda warriors. According to The Art of Supercell , the team was looking for a Wonder Woman or Amazonian type character as the game's fourth hero. Unlike the other Heroes, she can take out Builder's Huts (while not weaponized) in one hit at any level. The Royal Champion is the first Hero/unit to be 3D at the original release. Because of this, the Royal Champion does not have any upgrade differences, and the same thing applies to the Minion Prince who is also a 3D Hero. In promotional artwork, the Winter Champion carries her shield in her left hand and her spear in her right hand, which is the opposite of how the skin appears in the game. The ability sound of the Royal Champion is identical to the last charging sound made by the Eagle Artillery before activating, but with a 50% increase in pitch and a 20% increase in tempo. When the Royal Champion is paired with the Seeking Shield equipment, some unique interactions occur: Once the Royal Champion uses her ability and throws her shield, she will continue fighting without it (this is only a visual detail and has no effect on her stats). If she is defeated after using the ability, the shield will also be absent from her knockout animation. If the Seeking Shield is activated when the last building on the map is invisible or untargetable , the shield will fly towards the top corner of the base, effectively wasting the ability. Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the \"regeneration time\" statistic is still visible in Hero info screens, although it does not have an effect on gameplay. The regeneration time starts at 30 minutes and increases by 2 minutes at every fifth level to a maximum of 48 minutes at level 45 onwards. This has been fixed in a later update. [please specify what update] Comparisons The Royal Champion and the Grand Warden are the only ground Heroes that can bypass Walls . The Royal Champion is the only Hero in the game that specifically targets defenses. She is also the only Hero in the game to have a preferred target. The Royal Champion, alongside the Battle Machine and the Battle Copter , are the only Heroes not to be based on a specific troop. However, she behaves similarly to a ranged Hog Rider . When Hero Equipment was added, she can also summon them with the Hog Rider Puppet , much like the Barbarian King with the Barbarian Puppet , the Archer Queen with the Archer Puppet and the Healer Puppet , and the Lavaloon Puppet from the Grand Warden. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

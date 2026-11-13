@@ -1,0 +1,160 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground & Air)",
+        "Housing Space": "32",
+        "Movement Speed": "16",
+        "Attack Speed": "1.5s",
+        "Aura Attack Speed": "0.4s",
+        "Range": "1.25 tiles",
+        "Aura Radius": "3.5 tiles",
+        "Barracks Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "180",
+        "Damage per Hit": "270",
+        "Aura Damage per Second": "75",
+        "Aura Damage per Hit": "30",
+        "Hitpoints": "7,200",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "200",
+        "Damage per Hit": "300",
+        "Aura Damage per Second": "100",
+        "Aura Damage per Hit": "40",
+        "Hitpoints": "7,700",
+        "Research Cost": "14,000,000",
+        "Research Time": "8d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "220",
+        "Damage per Hit": "330",
+        "Aura Damage per Second": "125",
+        "Aura Damage per Hit": "50",
+        "Hitpoints": "8,200",
+        "Research Cost": "16,000,000",
+        "Research Time": "9d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "240",
+        "Damage per Hit": "360",
+        "Aura Damage per Second": "137.5",
+        "Aura Damage per Hit": "55",
+        "Hitpoints": "8,700",
+        "Research Cost": "18,500,000",
+        "Research Time": "11d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "270",
+        "Damage per Hit": "405",
+        "Aura Damage per Second": "150",
+        "Aura Damage per Hit": "60",
+        "Hitpoints": "9,200",
+        "Research Cost": "30,000,000",
+        "Research Time": "16d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Date": "October 9, 2022",
+        "Description": "Announced the Electro Titan."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "The Electro Titan was added with 3 levels."
+      },
+      {
+        "Date": "May 15, 2023",
+        "Description": "Increased \"Warden weight\" of Electro Titans so that the Grand Warden is more likely to follow them."
+      },
+      {
+        "Date": "April 17, 2024",
+        "Description": "Added the level 4 Electro Titan."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced training time from 6m to 4m 30s."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "January 28, 2026",
+        "Description": "Increased hitpoints at level 4 from 8,400 to 8,700."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 5 Electro Titan."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Golem_atk_hit.ogg",
+        "Captions": "Electro Titan hits*",
+        "Description": "When the Electro Titan is succesfully hits a unit or building"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Electro_Titan_deploy.ogg",
+        "Captions": "Electro Titan roars",
+        "Description": "When the Electro Titan is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Electro_Titan_attack.ogg",
+        "Captions": "Electro Titan attacks",
+        "Description": "When the Electro Titan is attacking something"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Electro_Titan_die.ogg",
+        "Captions": "Electro Titan dies",
+        "Description": "When the Electro Titan dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Barely controlling her raw magical power, the Electro Titan is a formidable force on the battlefield. She channels some of her magic into a powerful electro whip while the rest spills out to damage everything around her.\" Level 1 Level 2 Level 3 Level 4 Level 5 Summary The Electro Titan is the sixteenth Elixir Troop unlocked at Barracks level 16, which requires Town Hall 14. She is a ground troop with very high hitpoints, moderate damage, and attacks both ground and air targets with a short-range whip attack. In addition, the aura around her causes all buildings (save for Walls ) and troops near her to take constant damage per second. Electro Titans have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Electro Titans will proceed to attack the nearest structure. Strategies Offensive Strategies The Electro Titan can soak up a lot of damage and is a great tanker that can damage buildings and troops over Walls. However, as strong as she might be, her very short range does not allow her to zap buildings that are 1 tile away from a Wall. She can easily kill low-health enemy Clan Castle troops due to her aura, making her ideal against swarms of Skeletons and the like. Her aura is also excellent for whittling down groups of buildings, though it cannot be buffed by Rage Spells . If placed into the fray by a Siege Machine , her aura can do significant work given enough time. Since she has no preferred target, try to set up a funnel beforehand. However, she is very vulnerable to high-damage defenses like the single-target Inferno Tower , Multi-Archer Tower and the Monolith . Always try to bring some low HP troops (e.g. Bat Spell Bats , Archers , etc.) to distract these defenses, or use Freeze Spells to shut them down. Multiple Electro Titans' auras can stack, damaging units and buildings in the intersection faster than a single Electro Titan will. To demonstrate her power, a single Electro Titan can actually take on a defending Lava Hound and Balloons all by herself. However, a Poison Spell is still highly recommended to deal with them, as she would take significant damage because of the Balloon's very high damage. The Invisibility Spell will not negate her aura damage. This is something to keep in mind when using a Blizzard or Super Archer Blimp attack, as a defending Electro Titan will wipe out your troops if your Battle Blimp lands near the Clan Castle. The Electro Titan is usually better than a regular P.E.K.K.A , given their similarities of high hitpoints and slow but powerful attacks, because her unique aura damage and range attack, allowing her to attack air troops if needed. Defensive Strategies The Electro Titan can be a formidable defender in a Clan Castle, whose most threatening aspect on defense is her aura, which cannot be shut down by any means; Poison Spells and Freeze Spells will do nothing to stop her aura. She can prove to be an effective counter to strategies that utilise loads of low-health troops such as Bowlers and Witches . However, at lower Town Hall levels, where Mass Dragons is common, the aura will do little to the troops, and unlike the Lava Hound , it does not spawn anything after death. Since this unit takes up too much space, it also leaves you with fewer options if you could actually request for one in the first place (the lowest-level Clan Castle that can hold one is level 6, requiring Town Hall 10). It will also prove useless against big troops and will do nothing but stall them and deal little damage. Upgrade Differences The Electro Titan undergoes significant visual changes at levels 3, 4 and 5. Initially, the Electro Titan takes the appearance of a giant, dark-skinned woman with white hair, glowing white eyes, and wears a prussian-colored dress with white outlines. She also wears a purple belt, which sports a silver, triangular rune on it, which corresponds to the magical theme of Town Hall 15 (despite her being available at Town Hall 14, which is jungle-themed). At level 2, the triangular rune on her belt turns from silver to blue. She gains a golden bracelet on one of her arms. At level 3, the triangular rune on her belt turns from blue to gold. She gains a second golden bracelet, this time on her leg. At level 4, the white outlines of her dress are now golden in color. At level 5, the golden outlines of her dress and her belt turn charcoal, with the rune also turning the same color and emitting a blue glow at the center. The bracelets on her left arm and leg also turn charcoal and gain spikes on them. Her dress turns darker, her arms gain blue markings, and her hair and the aura on her forearm and legs become blue. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Aura Attack Speed Range Aura Radius Barracks Level Required None Ranged (Ground & Air) 32 16 1.5s 0.4s 1.25 tiles 3.5 tiles 16 Level Damage per Second Damage per Hit Aura Damage per Second Aura Damage per Hit Hitpoints Research Cost Research Time Laboratory Level Required 1 180 270 75 30 7,200 N/A N/A N/A 2 200 300 100 40 7,700 14,000,000 8d 12 3 220 330 125 50 8,200 16,000,000 9d 13 4 240 360 137.5 55 8,700 18,500,000 11d 14 5 270 405 150 60 9,200 30,000,000 16d 16 History Date Description October 9, 2022 Announced the Electro Titan. October 10, 2022 The Electro Titan was added with 3 levels. May 15, 2023 Increased \"Warden weight\" of Electro Titans so that the Grand Warden is more likely to follow them. April 17, 2024 Added the level 4 Electro Titan. February 10, 2025 Reduced training time from 6m to 4m 30s. March 27, 2025 Removed training time. January 28, 2026 Increased hitpoints at level 4 from 8,400 to 8,700. February 23, 2026 Added the level 5 Electro Titan. Audio Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Golem_atk_hit.ogg Electro Titan hits* When the Electro Titan is succesfully hits a unit or building Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Electro_Titan_deploy.ogg Electro Titan roars When the Electro Titan is deployed https://clashofclans.fandom.com/wiki/File:Electro_Titan_attack.ogg Electro Titan attacks When the Electro Titan is attacking something https://clashofclans.fandom.com/wiki/File:Electro_Titan_die.ogg Electro Titan dies When the Electro Titan dies * Reuses the hit sound effect of the Golem Gallery Avatar Info image Pose Full body Trivia You can have a maximum of 11 Electro Titans at one time in a complete set of fully upgraded Army Camps . This number increases to 12 if you include 1 that can fit into a level 6 or higher Clan Castle . On the battlefield, you can clone an additional 4 Electro Titans with four level 6 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 16 Electro Titans. The Electro Titan's aura is very similar to that of the Electro Giant in Clash Royale , although the Electro Titan passively attacks targets around her, whereas the Electro Giant only attacks in retaliation if a unit attacks him within a certain range. She harbors some resemblance to Storm from X-Men of Marvel Comics. The Electro Titan is the 6th unit in the Clash Universe to have \"Electro\" in her name. The other six are the Electro Dragon, Electro Owl, Electro Giant, Electro Wizard, and the Electro Spirit. Electro Titans will fist bump if an Army Camp with them is interacted with. This is actually a recycled animation that was once used by the Giant . Comparisons The Electro Titan is one of the troops to be associated with electricity, the others being the Electro Dragon , Super Wizard , Electro Owl , Power P.E.K.K.A , Battle Machine (when activating his ability), and Electrofire Wizard . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

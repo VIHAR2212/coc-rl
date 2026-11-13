@@ -1,0 +1,137 @@
+{
+  "tables": [
+    [
+      [
+        "Level",
+        "Damage per second",
+        "Damage per hit",
+        "",
+        "",
+        "",
+        "",
+        "Laboratory"
+      ],
+      [
+        "1",
+        "80",
+        "136",
+        "550",
+        "None",
+        "None",
+        "0",
+        "None"
+      ],
+      [
+        "2",
+        "88",
+        "149.6",
+        "610",
+        "2,500,000",
+        "1 d",
+        "293",
+        "8"
+      ],
+      [
+        "3",
+        "96",
+        "163.2",
+        "670",
+        "3,200,000",
+        "2 d",
+        "415",
+        "8"
+      ],
+      [
+        "4",
+        "104",
+        "176.8",
+        "730",
+        "3,800,000",
+        "3 d",
+        "509",
+        "9"
+      ],
+      [
+        "5",
+        "112",
+        "190.4",
+        "800",
+        "4,000,000",
+        "3 d 12 h",
+        "549",
+        "9"
+      ],
+      [
+        "6",
+        "120",
+        "204",
+        "900",
+        "5,500,000",
+        "4 d 12 h",
+        "623",
+        "10"
+      ],
+      [
+        "7",
+        "128",
+        "217.6",
+        "1,000",
+        "6,500,000",
+        "5 d",
+        "657",
+        "11"
+      ],
+      [
+        "8",
+        "136",
+        "231.2",
+        "1,100",
+        "9,000,000",
+        "8 d",
+        "831",
+        "12"
+      ],
+      [
+        "9",
+        "144",
+        "244.8",
+        "1,250",
+        "14,000,000",
+        "9 d",
+        "881",
+        "13"
+      ],
+      [
+        "10",
+        "152",
+        "258.4",
+        "1,400",
+        "16,400,000",
+        "12 d",
+        "1018",
+        "14"
+      ]
+    ],
+    [
+      [
+        "Upgrade",
+        "",
+        "Range",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Super Miner",
+        "30 s",
+        "0.6 Tiles",
+        "6",
+        "1.7 s",
+        "Single Target",
+        "Ground"
+      ]
+    ]
+  ],
+  "raw_text": "Miner - Clash of Clans Guide CoC Season Challenges Clan Games Defenses Resources Army Traps Other Heroes Troops Spells Obstacles العربية 简体中文 繁體中文 Deutsch English Español فارسی Suomalainen Français Bahasa Indonesia Italiano 日本語 한국어 Bahasa Melayu Nederlands Norsk Português Русский Türkçe, Tiếng Việt Cost Discount: 0% 10% 15% 20% Miner Level 12 Barracks Required These sneaky shovelers burrow underground, pass beneath Walls and pop up right next to their targets. While underground, Miners cannot be damaged and will not trigger Traps, but still gain bonuses from Spells. Any values listed below are subject to change before update releases. Level Damage per second Damage per hit Laboratory 1 80 136 550 None None 0 None 2 88 149.6 610 2,500,000 1 d 293 8 3 96 163.2 670 3,200,000 2 d 415 8 4 104 176.8 730 3,800,000 3 d 509 9 5 112 190.4 800 4,000,000 3 d 12 h 549 9 6 120 204 900 5,500,000 4 d 12 h 623 10 7 128 217.6 1,000 6,500,000 5 d 657 11 8 136 231.2 1,100 9,000,000 8 d 831 12 9 144 244.8 1,250 14,000,000 9 d 881 13 10 152 258.4 1,400 16,400,000 12 d 1018 14 Upgrade Range Super Miner 30 s 0.6 Tiles 6 1.7 s Single Target Ground This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. Enter creator code: spAnser"
+}

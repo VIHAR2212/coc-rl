@@ -1,0 +1,261 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Minion Prince",
+        "Ability Type": "Active",
+        "Rarity": "Epic",
+        "Unlock Requirement": "Buy in Portal Panic event for 3,100"
+      }
+    ],
+    [
+      {
+        "Level": "Portal Tile Radius",
+        "Ability Attributes": "Healing on Redeploy",
+        "Hero Boost": "Haste on Redeploy",
+        "Upgrade Cost": "Recall Capacity",
+        "Blacksmith Level Required": "HP Recovery Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "7",
+        "Hero Boost": "+22%",
+        "Upgrade Cost": "3.5s",
+        "Blacksmith Level Required": "160"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "7",
+        "Hero Boost": "+22%",
+        "Upgrade Cost": "3.5s",
+        "Blacksmith Level Required": "160"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "7.2",
+        "Hero Boost": "+24%",
+        "Upgrade Cost": "4s",
+        "Blacksmith Level Required": "175"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "7.2",
+        "Hero Boost": "+24%",
+        "Upgrade Cost": "4s",
+        "Blacksmith Level Required": "175"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "7.2",
+        "Hero Boost": "+24%",
+        "Upgrade Cost": "4s",
+        "Blacksmith Level Required": "175"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "7.4",
+        "Hero Boost": "+26%",
+        "Upgrade Cost": "4.5s",
+        "Blacksmith Level Required": "190"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "7.4",
+        "Hero Boost": "+26%",
+        "Upgrade Cost": "4.5s",
+        "Blacksmith Level Required": "190"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "7.4",
+        "Hero Boost": "+26%",
+        "Upgrade Cost": "4.5s",
+        "Blacksmith Level Required": "190"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "7.6",
+        "Hero Boost": "+28%",
+        "Upgrade Cost": "5s",
+        "Blacksmith Level Required": "205"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "7.6",
+        "Hero Boost": "+28%",
+        "Upgrade Cost": "5s",
+        "Blacksmith Level Required": "205"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "7.6",
+        "Hero Boost": "+28%",
+        "Upgrade Cost": "5s",
+        "Blacksmith Level Required": "205"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "7.8",
+        "Hero Boost": "+30%",
+        "Upgrade Cost": "5.5s",
+        "Blacksmith Level Required": "220"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "7.8",
+        "Hero Boost": "+30%",
+        "Upgrade Cost": "5.5s",
+        "Blacksmith Level Required": "220"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "7.8",
+        "Hero Boost": "+30%",
+        "Upgrade Cost": "5.5s",
+        "Blacksmith Level Required": "220"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "8",
+        "Hero Boost": "+31%",
+        "Upgrade Cost": "6s",
+        "Blacksmith Level Required": "280"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "8",
+        "Hero Boost": "+31%",
+        "Upgrade Cost": "6s",
+        "Blacksmith Level Required": "280"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "8",
+        "Hero Boost": "+31%",
+        "Upgrade Cost": "6s",
+        "Blacksmith Level Required": "280"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "8.5",
+        "Hero Boost": "+32%",
+        "Upgrade Cost": "6.5s",
+        "Blacksmith Level Required": "340"
+      },
+      {
+        "Level": "19",
+        "Ability Attributes": "8.5",
+        "Hero Boost": "+32%",
+        "Upgrade Cost": "6.5s",
+        "Blacksmith Level Required": "340"
+      },
+      {
+        "Level": "20",
+        "Ability Attributes": "8.5",
+        "Hero Boost": "+32%",
+        "Upgrade Cost": "6.5s",
+        "Blacksmith Level Required": "340"
+      },
+      {
+        "Level": "21",
+        "Ability Attributes": "9",
+        "Hero Boost": "+33%",
+        "Upgrade Cost": "7s",
+        "Blacksmith Level Required": "360"
+      },
+      {
+        "Level": "22",
+        "Ability Attributes": "9",
+        "Hero Boost": "+33%",
+        "Upgrade Cost": "7s",
+        "Blacksmith Level Required": "360"
+      },
+      {
+        "Level": "23",
+        "Ability Attributes": "9",
+        "Hero Boost": "+33%",
+        "Upgrade Cost": "7s",
+        "Blacksmith Level Required": "360"
+      },
+      {
+        "Level": "24",
+        "Ability Attributes": "9.5",
+        "Hero Boost": "+34%",
+        "Upgrade Cost": "7.5s",
+        "Blacksmith Level Required": "380"
+      },
+      {
+        "Level": "25",
+        "Ability Attributes": "9.5",
+        "Hero Boost": "+34%",
+        "Upgrade Cost": "7.5s",
+        "Blacksmith Level Required": "380"
+      },
+      {
+        "Level": "26",
+        "Ability Attributes": "9.5",
+        "Hero Boost": "+34%",
+        "Upgrade Cost": "7.5s",
+        "Blacksmith Level Required": "380"
+      },
+      {
+        "Level": "27",
+        "Ability Attributes": "10",
+        "Hero Boost": "+35%",
+        "Upgrade Cost": "8s",
+        "Blacksmith Level Required": "400"
+      }
+    ],
+    [
+      {
+        "Redeploy Speed Increase": "56"
+      }
+    ],
+    [
+      {
+        "Date": "August 31, 2026",
+        "Description": "The Portal Pendant was added to the game files."
+      },
+      {
+        "Date": "September 22, 2026",
+        "Description": "Reduced healing on redeploy at levels 15 to 27: Level 15-17: 32% -> 31% Level 18-20: 34% -> 32% Level 21-23: 36% -> 33% Level 24-26: 38% -> 34% Level 27: 40% -> 35%"
+      },
+      {
+        "Date": "October 8, 2026",
+        "Description": "Made the Portal Pendant available in the Portal Panic Medal Event."
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Added passive hitpoint increase to Portal Pendant."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Pulls Minion Prince and nearby ally units back to the deployment bar to be summoned elsewhere with extra health and Haste \" Contents 1 Summary 2 Strategies 3 Statistics 4 History 5 Trivia Summary [ ] The Portal Pendant is an Epic piece of Hero Equipment for the Minion Prince that was released on October 8, 2026, within the Portal Panic Event. The Portal Pendant appears as a metal piece with two gold corners at the opposite ends with a pointed end, with a glowing emerald center. When activated, the Minion Prince pulls the nearby ally Troops , Heroes , and Pets in its area of effect back onto the Minion Prince deployment bar, allowing them to be re-deployed elsewhere (subject to the deployment zones of the village). Upon being redeployed, units gain extra health and a haste effect. Siege Machines cannot be recalled. In case the Portal Pendant cannot recall all units in its area of effect, Heroes take priority, followed by units with the highest housing space. The Minion Prince himself is exception from taking up any recall capacity, though any Pet equipped to him will still count toward the limit. Between units with the same housing space, units that were deployed first will be prioritized. For this purpose, Heroes and Pets are considered to take up 25 and 20 housing space respectively, the latter with some exceptions: If the Phoenix is still in her egg form, she will be recalled if and only if her Hero is recalled, without taking up any extra housing space. If the Angry Jelly is currently brainwashing its Hero, it will be recalled alongside its Hero without taking up housing space. Note that the Hero priority does not extend to Pets, which may be separated from their Hero if other high-housing space troops are recalled. When units are redeployed, units with the highest housing space are deployed first, with time of initial deployment being a tiebreaker between units with the same housing space. The units that are deployed also deploy in the same order as they were manually deployed. Units that are recalled will retain their current status effects that were afflicted on them when they are recalled, but prior spell effects will generally wear off since they may be redeployed outside the spell radius, and most status timers will count down while the unit is pending redeployment. Exceptions to this rule include clone lifetimes (for clones from the Clone Spell ), the Angry effect from the Angry Jelly and Angry Spell , active Hero Equipment effect timers (such as Rage Vial and Eternal Tome ), and revival timers (for Heroes being temporarily revived by Phoenix), all of which are paused while pending redeployment. In addition to the ability, it grants additional hitpoints to the Minion Prince, and also increases the amount of health he recovers when using the ability. Strategies [ ] Statistics [ ] User Ability Type Rarity Unlock Requirement Minion Prince Active Epic Buy in Portal Panic event for 3,100 Level Ability Attributes Hero Boost Upgrade Cost Blacksmith Level Required Portal Tile Radius Healing on Redeploy Haste on Redeploy Recall Capacity HP Recovery Increase Hitpoints Increase Shiny Ore Glowy Ore Starry Ore 1 7 +22% 3.5s 160 558 550 N/A N/A N/A 1 2 7 +22% 3.5s 160 587 575 120 - - 1 3 7.2 +24% 4s 175 615 600 240 20 - 1 4 7.2 +24% 4s 175 644 625 400 - - 1 5 7.2 +24% 4s 175 673 650 600 - - 1 6 7.4 +26% 4.5s 190 704 675 840 100 - 1 7 7.4 +26% 4.5s 190 730 700 1,120 - - 1 8 7.4 +26% 4.5s 190 759 725 1,440 - - 1 9 7.6 +28% 5s 205 788 750 1,800 200 10 1 10 7.6 +28% 5s 205 817 775 1,900 - - 1 11 7.6 +28% 5s 205 845 800 2,000 - - 1 12 7.8 +30% 5.5s 220 874 825 2,100 400 20 1 13 7.8 +30% 5.5s 220 903 850 2,200 - - 3 14 7.8 +30% 5.5s 220 932 875 2,300 - - 3 15 8 +31% 6s 280 960 900 2,400 600 30 3 16 8 +31% 6s 280 989 925 2,500 - - 5 17 8 +31% 6s 280 1,018 950 2,600 - - 5 18 8.5 +32% 6.5s 340 1,047 975 2,700 600 50 5 19 8.5 +32% 6.5s 340 1,107 1,000 2,800 - - 7 20 8.5 +32% 6.5s 340 1,139 1,025 2,900 - - 7 21 9 +33% 7s 360 1,171 1,050 3,000 600 100 7 22 9 +33% 7s 360 1,205 1,075 3,100 - - 8 23 9 +33% 7s 360 1,239 1,100 3,200 - - 8 24 9.5 +34% 7.5s 380 1,273 1,125 3,300 600 120 8 25 9.5 +34% 7.5s 380 1,309 1,150 3,400 - - 9 26 9.5 +34% 7.5s 380 1,345 1,175 3,500 - - 9 27 10 +35% 8s 400 1,381 1,200 3,600 600 150 9 Redeploy Speed Increase 56 History [ ] Date Description August 31, 2026 The Portal Pendant was added to the game files. September 22, 2026 Reduced healing on redeploy at levels 15 to 27: Level 15-17: 32% -> 31% Level 18-20: 34% -> 32% Level 21-23: 36% -> 33% Level 24-26: 38% -> 34% Level 27: 40% -> 35% October 8, 2026 Made the Portal Pendant available in the Portal Panic Medal Event. October 20, 2026 Added passive hitpoint increase to Portal Pendant. Trivia [ ] The Portal Pendant was teased by Supercell in the Equipment Boost post on 16th September. The Portal Pendant icon is the only Hero Equipment without a colored outer glow or outline around its edges. The Portal Pendant features a unique wind effect animates around the Minion Prince deployment bar icon after being recalled. Unlike the Recall Spell , holding down the Minion Prince deployment bar doesn't reveal the specific troops stored inside the Portal Pendant Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

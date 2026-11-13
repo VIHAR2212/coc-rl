@@ -1,0 +1,2791 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Unit": "Barbarian",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Archer",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Giant",
+        "Housing Space": "5",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Goblin",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Wall Breaker",
+        "Housing Space": "2",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Balloon",
+        "Housing Space": "5",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Wizard",
+        "Housing Space": "4",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Healer",
+        "Housing Space": "14",
+        "Weight": "2"
+      },
+      {
+        "Unit": "Dragon",
+        "Housing Space": "20",
+        "Weight": "20"
+      },
+      {
+        "Unit": "P.E.K.K.A",
+        "Housing Space": "25",
+        "Weight": "25"
+      },
+      {
+        "Unit": "Baby Dragon",
+        "Housing Space": "10",
+        "Weight": "10"
+      },
+      {
+        "Unit": "Miner",
+        "Housing Space": "6",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Electro Dragon",
+        "Housing Space": "30",
+        "Weight": "30"
+      },
+      {
+        "Unit": "Yeti",
+        "Housing Space": "18",
+        "Weight": "18"
+      },
+      {
+        "Unit": "Yetimite",
+        "Housing Space": "2",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Dragon Rider",
+        "Housing Space": "25",
+        "Weight": "25"
+      },
+      {
+        "Unit": "Electro Titan",
+        "Housing Space": "32",
+        "Weight": "30"
+      },
+      {
+        "Unit": "Root Rider",
+        "Housing Space": "20",
+        "Weight": "20"
+      },
+      {
+        "Unit": "Thrower",
+        "Housing Space": "16",
+        "Weight": "14"
+      },
+      {
+        "Unit": "Meteor Golem",
+        "Housing Space": "40",
+        "Weight": "30"
+      },
+      {
+        "Unit": "Meteormite",
+        "Housing Space": "20",
+        "Weight": "15"
+      },
+      {
+        "Unit": "Minion",
+        "Housing Space": "2",
+        "Weight": "1.5"
+      },
+      {
+        "Unit": "Hog Rider",
+        "Housing Space": "5",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Valkyrie",
+        "Housing Space": "8",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Golem",
+        "Housing Space": "30",
+        "Weight": "10"
+      },
+      {
+        "Unit": "Golemite",
+        "Housing Space": "6",
+        "Weight": "2"
+      },
+      {
+        "Unit": "Witch",
+        "Housing Space": "12",
+        "Weight": "12"
+      },
+      {
+        "Unit": "Skeleton",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Lava Hound",
+        "Housing Space": "30",
+        "Weight": "9.5"
+      },
+      {
+        "Unit": "Lava Pup",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Bowler",
+        "Housing Space": "6",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Ice Golem",
+        "Housing Space": "15",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Headhunter",
+        "Housing Space": "6",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Apprentice Warden",
+        "Housing Space": "20",
+        "Weight": "0"
+      },
+      {
+        "Unit": "Druid",
+        "Housing Space": "16",
+        "Weight": "2"
+      },
+      {
+        "Unit": "Bear",
+        "Housing Space": "16",
+        "Weight": "10"
+      },
+      {
+        "Unit": "Furnace",
+        "Housing Space": "18",
+        "Weight": "0"
+      },
+      {
+        "Unit": "Firemite",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Ruin Witch",
+        "Housing Space": "26",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Ruin Knight",
+        "Housing Space": "20",
+        "Weight": "3"
+      },
+      {
+        "Unit": "Bat Spell/Bat",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Henchmen",
+        "Housing Space": "10",
+        "Weight": "8"
+      },
+      {
+        "Unit": "Snake Bracelet/Snake",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Giant Giant",
+        "Housing Space": "50",
+        "Weight": "38.25"
+      },
+      {
+        "Unit": "Lavaloon Puppet/Lavaloon",
+        "Housing Space": "21",
+        "Weight": "15"
+      },
+      {
+        "Unit": "Lavaloon Pup",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Super Barbarian",
+        "Housing Space": "5",
+        "Weight": "5"
+      },
+      {
+        "Unit": "Super Archer",
+        "Housing Space": "12",
+        "Weight": "12"
+      },
+      {
+        "Unit": "Super Giant",
+        "Housing Space": "10",
+        "Weight": "9"
+      },
+      {
+        "Unit": "Sneaky Goblin",
+        "Housing Space": "3",
+        "Weight": "3"
+      },
+      {
+        "Unit": "Super Wall Breaker",
+        "Housing Space": "8",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Rocket Balloon",
+        "Housing Space": "8",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Super Wizard",
+        "Housing Space": "10",
+        "Weight": "10"
+      },
+      {
+        "Unit": "Super Dragon",
+        "Housing Space": "40",
+        "Weight": "40"
+      },
+      {
+        "Unit": "Inferno Dragon",
+        "Housing Space": "15",
+        "Weight": "15"
+      },
+      {
+        "Unit": "Super Miner",
+        "Housing Space": "24",
+        "Weight": "24"
+      },
+      {
+        "Unit": "Super Yeti",
+        "Housing Space": "35",
+        "Weight": "30"
+      },
+      {
+        "Unit": "Electromite",
+        "Housing Space": "3",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Super Minion",
+        "Housing Space": "12",
+        "Weight": "12"
+      },
+      {
+        "Unit": "Super Hog Rider",
+        "Housing Space": "12",
+        "Weight": "12"
+      },
+      {
+        "Unit": "Super Hog",
+        "Housing Space": "5",
+        "Weight": "6"
+      },
+      {
+        "Unit": "Super Rider",
+        "Housing Space": "5",
+        "Weight": "2"
+      },
+      {
+        "Unit": "Super Valkyrie",
+        "Housing Space": "20",
+        "Weight": "18"
+      },
+      {
+        "Unit": "Super Witch",
+        "Housing Space": "40",
+        "Weight": "35"
+      },
+      {
+        "Unit": "Big Boy",
+        "Housing Space": "20",
+        "Weight": "8"
+      },
+      {
+        "Unit": "Ice Hound",
+        "Housing Space": "40",
+        "Weight": "9.5"
+      },
+      {
+        "Unit": "Ice Pup",
+        "Housing Space": "1",
+        "Weight": "0.5"
+      },
+      {
+        "Unit": "Super Bowler",
+        "Housing Space": "30",
+        "Weight": "25"
+      },
+      {
+        "Unit": "Wall Wrecker",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Battle Blimp",
+        "Housing Space": "1",
+        "Weight": "0"
+      },
+      {
+        "Unit": "Stone Slammer",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Siege Barracks",
+        "Housing Space": "1",
+        "Weight": "0"
+      },
+      {
+        "Unit": "Log Launcher",
+        "Housing Space": "1",
+        "Weight": "0"
+      },
+      {
+        "Unit": "Flame Flinger",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Battle Drill",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Troop Launcher",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Sky Wagon",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Heroes",
+        "Housing Space": "25",
+        "Weight": "21"
+      },
+      {
+        "Unit": "Pets",
+        "Housing Space": "20",
+        "Weight": "3"
+      },
+      {
+        "Unit": "Frostmite",
+        "Housing Space": "1",
+        "Weight": "1"
+      },
+      {
+        "Unit": "Booger",
+        "Housing Space": "4",
+        "Weight": "0.5"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "Any",
+        "Attack Type": "Ranged Single Target (Any target)",
+        "Movement Speed": "16",
+        "Attack Speed": "1.8s",
+        "Range": "7",
+        "Search Radius": "10"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "43",
+        "Damage per Hit": "77.4",
+        "Hitpoints": "850",
+        "Health Recovery": "90",
+        "Upgrade Cost": "1,000,000",
+        "Upgrade Time": "N/A",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "44",
+        "Damage per Hit": "79.2",
+        "Hitpoints": "868",
+        "Health Recovery": "90",
+        "Upgrade Cost": "1,000,000",
+        "Upgrade Time": "2h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "46",
+        "Damage per Hit": "82.8",
+        "Hitpoints": "886",
+        "Health Recovery": "90",
+        "Upgrade Cost": "1,100,000",
+        "Upgrade Time": "4h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "48",
+        "Damage per Hit": "86.4",
+        "Hitpoints": "904",
+        "Health Recovery": "90",
+        "Upgrade Cost": "1,200,000",
+        "Upgrade Time": "8h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "49",
+        "Damage per Hit": "88.2",
+        "Hitpoints": "923",
+        "Health Recovery": "97",
+        "Upgrade Cost": "1,400,000",
+        "Upgrade Time": "10h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "51",
+        "Damage per Hit": "91.8",
+        "Hitpoints": "942",
+        "Health Recovery": "97",
+        "Upgrade Cost": "1,500,000",
+        "Upgrade Time": "12h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "54",
+        "Damage per Hit": "97.2",
+        "Hitpoints": "961",
+        "Health Recovery": "97",
+        "Upgrade Cost": "1,700,000",
+        "Upgrade Time": "14h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "56",
+        "Damage per Hit": "100.8",
+        "Hitpoints": "982",
+        "Health Recovery": "97",
+        "Upgrade Cost": "1,800,000",
+        "Upgrade Time": "16h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "59",
+        "Damage per Hit": "106.2",
+        "Hitpoints": "1,003",
+        "Health Recovery": "97",
+        "Upgrade Cost": "2,000,000",
+        "Upgrade Time": "18h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "61",
+        "Damage per Hit": "109.8",
+        "Hitpoints": "1,025",
+        "Health Recovery": "109",
+        "Upgrade Cost": "2,300,000",
+        "Upgrade Time": "20h",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "64",
+        "Damage per Hit": "115.2",
+        "Hitpoints": "1,048",
+        "Health Recovery": "109",
+        "Upgrade Cost": "2,700,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "66",
+        "Damage per Hit": "118.8",
+        "Hitpoints": "1,072",
+        "Health Recovery": "109",
+        "Upgrade Cost": "3,000,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "70",
+        "Damage per Hit": "126",
+        "Hitpoints": "1,097",
+        "Health Recovery": "109",
+        "Upgrade Cost": "3,400,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "73",
+        "Damage per Hit": "131.4",
+        "Hitpoints": "1,122",
+        "Health Recovery": "109",
+        "Upgrade Cost": "3,700,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "77",
+        "Damage per Hit": "138.6",
+        "Hitpoints": "1,148",
+        "Health Recovery": "122",
+        "Upgrade Cost": "4,100,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "80",
+        "Damage per Hit": "144",
+        "Hitpoints": "1,173",
+        "Health Recovery": "122",
+        "Upgrade Cost": "4,400,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "83",
+        "Damage per Hit": "149.4",
+        "Hitpoints": "1,199",
+        "Health Recovery": "122",
+        "Upgrade Cost": "4,800,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "87",
+        "Damage per Hit": "156.6",
+        "Hitpoints": "1,224",
+        "Health Recovery": "122",
+        "Upgrade Cost": "5,100,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "90",
+        "Damage per Hit": "162",
+        "Hitpoints": "1,250",
+        "Health Recovery": "122",
+        "Upgrade Cost": "5,500,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "94",
+        "Damage per Hit": "169.2",
+        "Hitpoints": "1,275",
+        "Health Recovery": "135",
+        "Upgrade Cost": "6,000,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "98",
+        "Damage per Hit": "176.4",
+        "Hitpoints": "1,301",
+        "Health Recovery": "135",
+        "Upgrade Cost": "6,100,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "22",
+        "Damage per Second": "102",
+        "Damage per Hit": "183.6",
+        "Hitpoints": "1,327",
+        "Health Recovery": "135",
+        "Upgrade Cost": "6,200,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "23",
+        "Damage per Second": "106",
+        "Damage per Hit": "190.8",
+        "Hitpoints": "1,354",
+        "Health Recovery": "135",
+        "Upgrade Cost": "6,300,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "24",
+        "Damage per Second": "111",
+        "Damage per Hit": "199.8",
+        "Hitpoints": "1,381",
+        "Health Recovery": "135",
+        "Upgrade Cost": "6,400,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "25",
+        "Damage per Second": "116",
+        "Damage per Hit": "208.8",
+        "Hitpoints": "1,409",
+        "Health Recovery": "149",
+        "Upgrade Cost": "6,500,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "26",
+        "Damage per Second": "121",
+        "Damage per Hit": "217.8",
+        "Hitpoints": "1,438",
+        "Health Recovery": "149",
+        "Upgrade Cost": "6,600,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "27",
+        "Damage per Second": "126",
+        "Damage per Hit": "226.8",
+        "Hitpoints": "1,467",
+        "Health Recovery": "149",
+        "Upgrade Cost": "6,700,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "28",
+        "Damage per Second": "131",
+        "Damage per Hit": "235.8",
+        "Hitpoints": "1,497",
+        "Health Recovery": "149",
+        "Upgrade Cost": "6,800,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "29",
+        "Damage per Second": "137",
+        "Damage per Hit": "246.6",
+        "Hitpoints": "1,527",
+        "Health Recovery": "149",
+        "Upgrade Cost": "6,900,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "30",
+        "Damage per Second": "143",
+        "Damage per Hit": "257.4",
+        "Hitpoints": "1,558",
+        "Health Recovery": "165",
+        "Upgrade Cost": "7,000,000",
+        "Upgrade Time": "1d 12h",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "31",
+        "Damage per Second": "149",
+        "Damage per Hit": "268.2",
+        "Hitpoints": "1,590",
+        "Health Recovery": "165",
+        "Upgrade Cost": "7,100,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "32",
+        "Damage per Second": "155",
+        "Damage per Hit": "279",
+        "Hitpoints": "1,622",
+        "Health Recovery": "165",
+        "Upgrade Cost": "7,200,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "33",
+        "Damage per Second": "162",
+        "Damage per Hit": "291.6",
+        "Hitpoints": "1,655",
+        "Health Recovery": "165",
+        "Upgrade Cost": "7,300,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "34",
+        "Damage per Second": "168",
+        "Damage per Hit": "302.4",
+        "Hitpoints": "1,688",
+        "Health Recovery": "165",
+        "Upgrade Cost": "7,400,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "35",
+        "Damage per Second": "175",
+        "Damage per Hit": "315",
+        "Hitpoints": "1,722",
+        "Health Recovery": "182",
+        "Upgrade Cost": "7,500,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "36",
+        "Damage per Second": "183",
+        "Damage per Hit": "329.4",
+        "Hitpoints": "1,757",
+        "Health Recovery": "182",
+        "Upgrade Cost": "7,600,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "37",
+        "Damage per Second": "190",
+        "Damage per Hit": "342",
+        "Hitpoints": "1,793",
+        "Health Recovery": "182",
+        "Upgrade Cost": "7,700,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "38",
+        "Damage per Second": "198",
+        "Damage per Hit": "356.4",
+        "Hitpoints": "1,829",
+        "Health Recovery": "182",
+        "Upgrade Cost": "7,800,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "39",
+        "Damage per Second": "207",
+        "Damage per Hit": "372.6",
+        "Hitpoints": "1,867",
+        "Health Recovery": "182",
+        "Upgrade Cost": "7,900,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "40",
+        "Damage per Second": "215",
+        "Damage per Hit": "387",
+        "Hitpoints": "1,904",
+        "Health Recovery": "202",
+        "Upgrade Cost": "8,000,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "41",
+        "Damage per Second": "221",
+        "Damage per Hit": "397.8",
+        "Hitpoints": "1,921",
+        "Health Recovery": "202",
+        "Upgrade Cost": "8,300,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "42",
+        "Damage per Second": "226",
+        "Damage per Hit": "406.8",
+        "Hitpoints": "1,938",
+        "Health Recovery": "202",
+        "Upgrade Cost": "8,600,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "43",
+        "Damage per Second": "230",
+        "Damage per Hit": "414",
+        "Hitpoints": "1,955",
+        "Health Recovery": "202",
+        "Upgrade Cost": "8,900,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "44",
+        "Damage per Second": "234",
+        "Damage per Hit": "421.2",
+        "Hitpoints": "1,972",
+        "Health Recovery": "202",
+        "Upgrade Cost": "9,200,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "45",
+        "Damage per Second": "237",
+        "Damage per Hit": "426.6",
+        "Hitpoints": "1,989",
+        "Health Recovery": "211",
+        "Upgrade Cost": "9,500,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "46",
+        "Damage per Second": "241",
+        "Damage per Hit": "433.8",
+        "Hitpoints": "2,006",
+        "Health Recovery": "211",
+        "Upgrade Cost": "9,800,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "47",
+        "Damage per Second": "244",
+        "Damage per Hit": "439.2",
+        "Hitpoints": "2,023",
+        "Health Recovery": "211",
+        "Upgrade Cost": "10,100,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "48",
+        "Damage per Second": "247",
+        "Damage per Hit": "444.6",
+        "Hitpoints": "2,040",
+        "Health Recovery": "211",
+        "Upgrade Cost": "10,400,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "49",
+        "Damage per Second": "251",
+        "Damage per Hit": "451.8",
+        "Hitpoints": "2,057",
+        "Health Recovery": "211",
+        "Upgrade Cost": "10,700,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "50",
+        "Damage per Second": "254",
+        "Damage per Hit": "457.2",
+        "Hitpoints": "2,074",
+        "Health Recovery": "220",
+        "Upgrade Cost": "11,000,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "51",
+        "Damage per Second": "258",
+        "Damage per Hit": "464.4",
+        "Hitpoints": "2,091",
+        "Health Recovery": "220",
+        "Upgrade Cost": "11,400,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "52",
+        "Damage per Second": "261",
+        "Damage per Hit": "469.8",
+        "Hitpoints": "2,108",
+        "Health Recovery": "220",
+        "Upgrade Cost": "11,800,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "53",
+        "Damage per Second": "264",
+        "Damage per Hit": "475.2",
+        "Hitpoints": "2,125",
+        "Health Recovery": "220",
+        "Upgrade Cost": "12,200,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "54",
+        "Damage per Second": "268",
+        "Damage per Hit": "482.4",
+        "Hitpoints": "2,142",
+        "Health Recovery": "220",
+        "Upgrade Cost": "12,600,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "55",
+        "Damage per Second": "271",
+        "Damage per Hit": "487.8",
+        "Hitpoints": "2,159",
+        "Health Recovery": "229",
+        "Upgrade Cost": "13,000,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "56",
+        "Damage per Second": "274",
+        "Damage per Hit": "493.2",
+        "Hitpoints": "2,176",
+        "Health Recovery": "229",
+        "Upgrade Cost": "13,400,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "57",
+        "Damage per Second": "276",
+        "Damage per Hit": "496.8",
+        "Hitpoints": "2,193",
+        "Health Recovery": "229",
+        "Upgrade Cost": "13,800,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "58",
+        "Damage per Second": "279",
+        "Damage per Hit": "502.2",
+        "Hitpoints": "2,210",
+        "Health Recovery": "229",
+        "Upgrade Cost": "14,200,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "59",
+        "Damage per Second": "281",
+        "Damage per Hit": "505.8",
+        "Hitpoints": "2,227",
+        "Health Recovery": "229",
+        "Upgrade Cost": "14,600,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "60",
+        "Damage per Second": "284",
+        "Damage per Hit": "511.2",
+        "Hitpoints": "2,244",
+        "Health Recovery": "238",
+        "Upgrade Cost": "15,000,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "61",
+        "Damage per Second": "286",
+        "Damage per Hit": "514.8",
+        "Hitpoints": "2,261",
+        "Health Recovery": "238",
+        "Upgrade Cost": "15,500,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "62",
+        "Damage per Second": "289",
+        "Damage per Hit": "520.2",
+        "Hitpoints": "2,278",
+        "Health Recovery": "238",
+        "Upgrade Cost": "16,000,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "63",
+        "Damage per Second": "292",
+        "Damage per Hit": "525.6",
+        "Hitpoints": "2,295",
+        "Health Recovery": "238",
+        "Upgrade Cost": "16,500,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "64",
+        "Damage per Second": "294",
+        "Damage per Hit": "529.2",
+        "Hitpoints": "2,312",
+        "Health Recovery": "238",
+        "Upgrade Cost": "17,000,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "65",
+        "Damage per Second": "297",
+        "Damage per Hit": "534.6",
+        "Hitpoints": "2,329",
+        "Health Recovery": "247",
+        "Upgrade Cost": "17,500,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "66",
+        "Damage per Second": "299",
+        "Damage per Hit": "538.2",
+        "Hitpoints": "2,346",
+        "Health Recovery": "247",
+        "Upgrade Cost": "18,000,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "67",
+        "Damage per Second": "302",
+        "Damage per Hit": "543.6",
+        "Hitpoints": "2,363",
+        "Health Recovery": "247",
+        "Upgrade Cost": "18,500,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "68",
+        "Damage per Second": "304",
+        "Damage per Hit": "547.2",
+        "Hitpoints": "2,380",
+        "Health Recovery": "247",
+        "Upgrade Cost": "19,000,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "69",
+        "Damage per Second": "307",
+        "Damage per Hit": "552.6",
+        "Hitpoints": "2,397",
+        "Health Recovery": "247",
+        "Upgrade Cost": "19,500,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "70",
+        "Damage per Second": "309",
+        "Damage per Hit": "556.2",
+        "Hitpoints": "2,414",
+        "Health Recovery": "256",
+        "Upgrade Cost": "20,000,000",
+        "Upgrade Time": "7d 12h",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "71",
+        "Damage per Second": "312",
+        "Damage per Hit": "561.6",
+        "Hitpoints": "2,431",
+        "Health Recovery": "256",
+        "Upgrade Cost": "20,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "72",
+        "Damage per Second": "315",
+        "Damage per Hit": "567",
+        "Hitpoints": "2,448",
+        "Health Recovery": "256",
+        "Upgrade Cost": "21,000,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "73",
+        "Damage per Second": "318",
+        "Damage per Hit": "572.4",
+        "Hitpoints": "2,465",
+        "Health Recovery": "256",
+        "Upgrade Cost": "21,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "74",
+        "Damage per Second": "321",
+        "Damage per Hit": "577.8",
+        "Hitpoints": "2,482",
+        "Health Recovery": "256",
+        "Upgrade Cost": "22,000,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "75",
+        "Damage per Second": "324",
+        "Damage per Hit": "583.2",
+        "Hitpoints": "2,499",
+        "Health Recovery": "265",
+        "Upgrade Cost": "22,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "76",
+        "Damage per Second": "327",
+        "Damage per Hit": "588.6",
+        "Hitpoints": "2,516",
+        "Health Recovery": "265",
+        "Upgrade Cost": "23,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "77",
+        "Damage per Second": "330",
+        "Damage per Hit": "594",
+        "Hitpoints": "2,533",
+        "Health Recovery": "265",
+        "Upgrade Cost": "24,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "78",
+        "Damage per Second": "333",
+        "Damage per Hit": "599.4",
+        "Hitpoints": "2,550",
+        "Health Recovery": "265",
+        "Upgrade Cost": "25,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "79",
+        "Damage per Second": "336",
+        "Damage per Hit": "604.8",
+        "Hitpoints": "2,567",
+        "Health Recovery": "265",
+        "Upgrade Cost": "26,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "80",
+        "Damage per Second": "339",
+        "Damage per Hit": "610.2",
+        "Hitpoints": "2,584",
+        "Health Recovery": "275",
+        "Upgrade Cost": "27,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "81",
+        "Damage per Second": "342",
+        "Damage per Hit": "615.6",
+        "Hitpoints": "2,601",
+        "Health Recovery": "275",
+        "Upgrade Cost": "28,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "82",
+        "Damage per Second": "345",
+        "Damage per Hit": "621",
+        "Hitpoints": "2,618",
+        "Health Recovery": "275",
+        "Upgrade Cost": "29,000,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "83",
+        "Damage per Second": "348",
+        "Damage per Hit": "626.4",
+        "Hitpoints": "2,635",
+        "Health Recovery": "275",
+        "Upgrade Cost": "29,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "84",
+        "Damage per Second": "351",
+        "Damage per Hit": "631.8",
+        "Hitpoints": "2,652",
+        "Health Recovery": "275",
+        "Upgrade Cost": "30,000,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "85",
+        "Damage per Second": "354",
+        "Damage per Hit": "637.2",
+        "Hitpoints": "2,669",
+        "Health Recovery": "285",
+        "Upgrade Cost": "30,500,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Date": "January 24, 2013",
+        "Type": "Concept",
+        "Description": "The Grand Warden was suggested by AbdulRauf on the forums ."
+      },
+      {
+        "Date": "October 25, 2015",
+        "Type": "Grand Reveal",
+        "Description": "The Grand Warden was initially revealed as the new hero for Town Hall 11 at Clash-Con 2015. However, only a silhouette of him was shown. In the sneak peeks showcasing him, his hitpoints at level 20 was 2,000; however it was changed to 1,500 in its release. His beta aura color was orange, but was later changed to yellow when released."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Type": "Town Hall 11 Update",
+        "Description": "Added the Grand Warden, with 20 levels."
+      },
+      {
+        "Date": "December 16, 2015",
+        "Type": "Maintenance Break",
+        "Description": "Fixed a bug that did not correctly save the Grand Warden's Ground or Air Mode."
+      },
+      {
+        "Date": "December 19, 2015",
+        "Type": "Optional Update",
+        "Description": "Fixed a player profile bug where the Level 1 Grand Warden could be incorrectly shown as unlocked."
+      },
+      {
+        "Date": "March 21, 2016",
+        "Type": "Update",
+        "Description": "Slightly reduced the Grand Warden's Life Aura and Eternal Tome range."
+      },
+      {
+        "Date": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Changed the Grand Warden's info image."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Town Hall 12 Update",
+        "Description": "Added levels 21 to 30 Grand Warden."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced Grand Warden's regeneration times at all levels."
+      },
+      {
+        "Date": "June 18, 2019",
+        "Type": "Update",
+        "Description": "Added levels 31 to 40 Grand Warden. Reduced regeneration time at all levels. Fixed the Grand Warden's AI for ground mode to no longer jumps into empty compartments for no reason. Converted the Grand Warden from 2D to 3D."
+      },
+      {
+        "Date": "October 16, 2019",
+        "Type": "Update",
+        "Description": "Improved the Grand Warden's AI to prevent him from easily abandoning a supported group."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Type": "Town Hall 13 Update",
+        "Description": "Added levels 41 to 50 Grand Warden. Added the KO option for Heroes. The Grand Warden's laser starts closer to the staff than stomach. Made it less likely for the Grand Warden to follow Lava Hounds. Forced him to retarget if he is attacking a wall and his group has died."
+      },
+      {
+        "Date": "December 19, 2019",
+        "Type": "Update",
+        "Description": "Fixed the Grand Warden's celebration animation clipping after changing mode."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero. All Heroes will display in their selected skin under the Player Profile tab. When acquiring a new skin, the UI to select the skin will automatically open. Some selected skins will be able to be purchased outside of the Gold Pass."
+      },
+      {
+        "Date": "May 20, 2020",
+        "Type": "Update",
+        "Description": "Made it less likely for the Grand Warden to follow Dragons and P.E.K.K.As."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Improved the Grand Warden's AI to follow the group more effectively and be less prone to drifting away while in Air Mode, and added the sound effect when toggling Grand Warden to air or ground mode."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Type": "Update",
+        "Description": "All Heroes now automatically heal after a raid. Removed guard toggle."
+      },
+      {
+        "Date": "October 26, 2020",
+        "Type": "Update",
+        "Description": "Fixed skin names not changing when changing Hero with the arrows (in the \"Change Skin\" menus)."
+      },
+      {
+        "Date": "December 7, 2020",
+        "Type": "Update",
+        "Description": "A new Cosmetics tab has been added to the in-game shop which can be browsed and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems. A \"View Skin\" option has been added when visiting. Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements. Fixed an issue with hitpoints rounding after the Grand Warden's aura ends. This issue would cause Heroes to lose their auto ability if they were left with 1 HP when the Warden's aura ended as it would round the HP down to 0. Increased the brightness of the Grand Warden's Eternal Tome ability to make it more visible."
+      },
+      {
+        "Date": "January 20, 2021",
+        "Type": "Update",
+        "Description": "Adjusted the Grand Warden's priority when following Battle Blimps and Log Launchers to reduce the chance of him following them in a deadly run towards the Town Hall."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Type": "Town Hall 14 Update",
+        "Description": "Added levels 51 to 55 Grand Warden. Boosts on Grand Warden or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background. Stopped the Grand Warden from attacking a Wall if nobody else in his group is attacking a Wall. Prevented the Grand Warden from dying while activating his ability if he is damaged at the exact same moment."
+      },
+      {
+        "Date": "April 29, 2021",
+        "Type": "Update",
+        "Description": "Made it less likely for the Grand Warden to follow Pets."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Type": "Update",
+        "Description": "Fixed the Grand Warden and other Heroes occasionally doing 360 turns during attacks."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 1 to 40. Reduced upgrade times at levels 2 to 15."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Town Hall 15 Update",
+        "Description": "Added levels 56 to 60 Grand Warden."
+      },
+      {
+        "Date": "May 15, 2023",
+        "Type": "Update",
+        "Description": "Made the Grand Warden recalculate his group when being redeployed by a Recall Spell."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added levels 61 to 65 Grand Warden."
+      },
+      {
+        "Date": "September 14, 2023",
+        "Type": "Maintenance Break",
+        "Description": "Made it less likely for the Grand Warden to follow Super Rider"
+      },
+      {
+        "Date": "December 12, 2023",
+        "Type": "Town Hall 16 Update",
+        "Description": "Added levels 66 to 70 Grand Warden. Removed the Life Aura from the defensive Grand Warden. Added health recovery for the Grand Warden. Reduced upgrade costs at levels 2 to 64. Reduced upgrade times at levels 8 to 55. Levels 2 to 7 and 56 to 65 received cost reductions. Added Hero Equipment for the Grand Warden, separating his abilities into the Life Gem and the Eternal Tome . The level of Life Gem and Eternal Tome given to players varied depending on the Grand Warden level they had at the time of the update. Reduced damage per second and hitpoints at all levels because of Hero Boost from Equipment."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Type": "Town Hall 17 Update",
+        "Description": "Added levels 71 to 75 Grand Warden. The Grand Warden is no longer unlocked by placing down his Altar, but is instead by upgrading the Hero Hall to level 5, or placing it down when it is at least level 5. His Altar is replaced by the Hero Banner obstacle. The nature of how he defends also changes from being a building to being a defensive Hero. This changes some of his interactions against units that only target defense, such as the Royal Champion, who can no longer target him unless all other defenses are gone. However, she might start attacking him if he is targeting nearby friendly units within her range or if she herself is being targeted by him. Headhunters are now able to target him. Changed his info description, which used to be \"The Grand Warden is a powerful master of magic who supports your attacking troops with blasts from his magic staff. He can walk over walls or fly high with air troops, so he can help any attacking army. On defense he turns into a powerful tower.\""
+      },
+      {
+        "Date": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed Regeneration Time."
+      },
+      {
+        "Date": "October 6, 2025",
+        "Type": "Update",
+        "Description": "Reduced Hero Hall level requirement for levels 56 to 60 from level 9 to level 8. Made it less likely for the Grand Warden to follow Booger. Reduced upgrade times at levels 10 and 26 to 70: Level 10: 1d -> 20h Level 26-30: 2d -> 1d 12h Level 31-35: 2d 12h -> 2d Level 36-40: 3d -> 2d 6h Level 41-45: 4d -> 3d Level 46-50: 5d -> 4d Level 51-55: 6d -> 4d 12h Level 56-60: 7d -> 5d Level 61-65: 8d -> 6d Level 66-69: 8d -> 7d Level 70: 8d -> 7d 12h"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added levels 76 to 80 Grand Warden."
+      },
+      {
+        "Date": "January 28, 2026",
+        "Type": "Maintenance Break",
+        "Description": "Made it less likely for the Grand Warden to follow Giant Giant ."
+      },
+      {
+        "Date": "June 15, 2026",
+        "Type": "Hero Journey Update",
+        "Description": "Added levels 81 to 85 Grand Warden. Reduced upgrade costs at levels 76 to 80."
+      }
+    ],
+    [
+      {
+        "Skin": "Party Warden",
+        "Class": "Gold",
+        "Season Available": "August 2019",
+        "Notes": "Available as the first reward on the Gold Pass track."
+      },
+      {
+        "Skin": "Primal Warden",
+        "Class": "Gold",
+        "Season Available": "January 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clockwork Warden",
+        "Class": "Gold",
+        "Season Available": "April 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Gladiator Warden",
+        "Class": "Gold",
+        "Season Available": "July 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Pirate Warden",
+        "Class": "Gold",
+        "Season Available": "October 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Warden of the North",
+        "Class": "Gold",
+        "Season Available": "January 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jungle Warden",
+        "Class": "Gold",
+        "Season Available": "May 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Warden Master",
+        "Class": "Gold",
+        "Season Available": "October 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jolly Warden",
+        "Class": "Gold",
+        "Season Available": "December 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Warrior Warden",
+        "Class": "Gold",
+        "Season Available": "February 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Shadow Warden",
+        "Class": "Legendary",
+        "Season Available": "April 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Summer Warden",
+        "Class": "Gold",
+        "Season Available": "June 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Pixel Warden",
+        "Class": "Legendary",
+        "Season Available": "August 2022",
+        "Notes": "The Pixel Warden was available in a 10th Clashiversary offer in August 2022; costing $4.99 USD (or equivalent), half of the usual price for Legendary skins."
+      },
+      {
+        "Skin": "Champion Warden",
+        "Class": "Legendary",
+        "Season Available": "September 2022, September 2024",
+        "Notes": "The Champion Warden skin was available in a special offer for the World Finals in 2022. In September 2024, it was purchasable in the Mini Spotlight medal event for 2,250 ."
+      },
+      {
+        "Skin": "Magic Warden",
+        "Class": "Legendary",
+        "Season Available": "October 2022",
+        "Notes": "The Magic Warden was available in a special offer for the release of Town Hall 15."
+      },
+      {
+        "Skin": "Painter Warden",
+        "Class": "Legendary",
+        "Season Available": "March 2023",
+        "Notes": "The Painter Warden was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD."
+      },
+      {
+        "Skin": "Dark Ages Warden",
+        "Class": "Gold",
+        "Season Available": "April 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Goblin Warden",
+        "Class": "Legendary",
+        "Season Available": "June 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "League Warden",
+        "Class": "Legendary",
+        "Season Available": "June 2023",
+        "Notes": "The League Warden is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 ."
+      },
+      {
+        "Skin": "Future Warden",
+        "Class": "Gold",
+        "Season Available": "August 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Ghost Warden",
+        "Class": "Legendary",
+        "Season Available": "October 2023",
+        "Notes": "The Ghost Warden skin was available in a special Clash-O-Ween offer in October 2023."
+      },
+      {
+        "Skin": "Gingerbread Warden",
+        "Class": "Gold",
+        "Season Available": "December 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dragon Warden",
+        "Class": "Legendary",
+        "Season Available": "February 2024",
+        "Notes": "The Dragon Warden skin was available as part of the Dragon Festival medal event in February 2024, where it could be bought for 4,650 ."
+      },
+      {
+        "Skin": "Space Warden",
+        "Class": "Legendary",
+        "Season Available": "March 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Egypt Warden",
+        "Class": "Gold",
+        "Season Available": "April 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Football Warden",
+        "Class": "Legendary",
+        "Season Available": "May 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Wild West Warden",
+        "Class": "Gold",
+        "Season Available": "June 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash Games Warden",
+        "Class": "Legendary",
+        "Season Available": "July 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Warden",
+        "Class": "Legendary",
+        "Season Available": "August 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Dwarf",
+        "Class": "Legendary",
+        "Season Available": "September 2024",
+        "Notes": "The Grand Dwarf was available in the September 2024 Gold Pass track at 2,601 from the 4th September. It is treated as Gold ."
+      },
+      {
+        "Skin": "Dark Minion Warden",
+        "Class": "Legendary",
+        "Season Available": "October 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Judge",
+        "Class": "Legendary",
+        "Season Available": "November 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Ice Warden",
+        "Class": "Legendary",
+        "Season Available": "January 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Snake Warden",
+        "Class": "Gold",
+        "Season Available": "February 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jetpack Warden",
+        "Class": "Legendary",
+        "Season Available": "March 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Darkness Warden",
+        "Class": "Legendary",
+        "Season Available": "April 2025",
+        "Notes": "Based on the WWE wrestler The Undertaker , as part of the Clashamania collaboration season."
+      },
+      {
+        "Skin": "Grand Monk",
+        "Class": "Legendary",
+        "Season Available": "May 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Godfather",
+        "Class": "Legendary",
+        "Season Available": "June 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Doctor",
+        "Class": "Gold",
+        "Season Available": "July 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash-A-Rama Warden",
+        "Class": "Legendary",
+        "Season Available": "August 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Ivan Warden",
+        "Class": "Legendary",
+        "Season Available": "September 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Eternal Warden",
+        "Class": "Legendary",
+        "Season Available": "October 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Shaman Warden",
+        "Class": "Legendary",
+        "Season Available": "November 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Warlock",
+        "Class": "Gold",
+        "Season Available": "December 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Sorcerer",
+        "Class": "Legendary",
+        "Season Available": "January 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "River Warden",
+        "Class": "Legendary",
+        "Season Available": "February 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dragonscale Warden",
+        "Class": "Legendary",
+        "Season Available": "March 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Keystriker Warden",
+        "Class": "Legendary",
+        "Season Available": "April 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Skeleton Warden",
+        "Class": "Gold",
+        "Season Available": "May 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Fury Warden",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Violet Half-Time Warden",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "The Violet Half-Time Warden is available in the Clan War Leagues Shop from June 15, 2026 to August 15, 2026. It costs 700 ."
+      },
+      {
+        "Skin": "Majestic Grand Warden",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "Available as a reward from Hero's Journey once a cumulative total of 330 Hero levels is attained."
+      },
+      {
+        "Skin": "Poseidon Warden",
+        "Class": "Legendary",
+        "Season Available": "July 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Mage",
+        "Class": "Legendary",
+        "Season Available": "August 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Undertaker Warden",
+        "Class": "Legendary",
+        "Season Available": "September 2026",
+        "Notes": "Based on the WWE wrestler The Undertaker , as part of the Search for Cena collaboration season."
+      },
+      {
+        "Skin": "Spider Warden",
+        "Class": "Legendary",
+        "Season Available": "October 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Grand Titan",
+        "Class": "Gold",
+        "Season Available": "November 2026",
+        "Notes": ""
+      }
+    ],
+    [
+      {
+        "Skin": "Party Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Primal Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Clockwork Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Gladiator Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pirate Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warden of the North",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Partial",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jungle Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warden Master",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jolly Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "Yes",
+        "Resting Effects": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warrior Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Shadow Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pixel Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Summer Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Champion Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Magic Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Painter Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      }
+    ],
+    [
+      {
+        "Skin": "Party Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Primal Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Clockwork Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Gladiator Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "Yes",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pirate Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warden of the North",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jungle Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warden Master",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jolly Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "Yes",
+        "Resting Effects": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warrior Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Shadow Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Summer Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pixel Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Champion Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Magic Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Painter Warden",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Flying Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Flying Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      }
+    ],
+    [
+      {
+        "Ground Mode": ""
+      },
+      {
+        "Ground Mode": "Level 1-9 (Old Sprite)"
+      }
+    ],
+    [
+      {
+        "Air Mode": ""
+      },
+      {
+        "Air Mode": "Level 1-9 (Old Sprite)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the troop, see Apprentice Warden . \"This powerful master of magic supports Troops by blasting enemies with his Staff! The Grand Warden can even walk or fly over Walls ! He'll make a majestic stand at his Hero Banner when defending.\" Contents 1 Summary 2 Mechanics 3 Strategies 3.1 Offensive Strategies 3.2 Defensive Strategies 4 Statistics 5 Hero Equipment 6 History 7 Hero Skins 7.1 Skin Availability 7.2 Grand Warden Skins 7.3 Grand Warden Skin Features 7.4 Notes 8 Trivia 8.1 General 8.2 Comparisons 9 References Summary The Grand Warden is the fourth Hero unlocked at Hero Hall level 5, which requires Town Hall 11. He is a single-target unit with low health and relatively low damage, but he makes up for it with his long range and supporting abilities. As a supporting Hero, the Grand Warden will attack the building being attacked by the highest number/troop space troop and will continue to attack that building until it is destroyed. In his default skin, he appears as a pale-skinned man with purple hair with a beard, mustache and eyebrows. He wears a long, light lavender-colored robe and cape with orchid-colored outlines, held by a purple belt with a Capital Gold badge from his waist, and wears pointed magenta sandals. He wields a staff with a light brown grip at the middle and a which appears to be the Life Gem on top located on his right hand and carries a book with a purple gem and has golden edges, handles and a gem-shaped centerpiece, representing the Eternal Tome on his left. Uniquely for Heroes in the Home Village, he is upgraded with Elixir instead of Dark Elixir . He can be set to Air or Ground mode; he flies in Air Mode and walks in Ground Mode. He can bypass Walls regardless of the mode he is set to; however, he will attack a Wall if the majority of your nearby housing space is doing so as well. As a Hero, the Grand Warden can participate in both attack and defense, but will not be available to use if he is being upgraded. Like other Heroes, he is not upgraded in the Laboratory but rather upgraded with a Builder . The Grand Warden will defend the village when assigned to a Hero Banner . The Grand Warden only defends his territory around his banner and will retreat if lured too far out. He does not need to be defeated for an attack to end in a 3-star. When defending, he will always do so in ground mode. As a Hero, the Grand Warden has an ability that can be used once per battle which allows him to recover some of his health, and the amount increases at every fifth level. The Hero Equipment that he wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase. When unlocked, he starts with the Eternal Tome and Life Gem. The Eternal Tome lets the Grand Warden make himself and all attacking units in his radius invincible for several seconds. It does not have any passive stat increase. The Life Gem passively increases the health and max health of other attacking units within his radius by a percentage of their max health up to a cap. It gives a passive increase to damage and max health. Upgrading the Blacksmith to level 4 and 6 unlocks the Rage Gem and Healing Tome respectively. The Rage Gem passively increases the damage or healing of other attacking units within his radius by a percentage. It gives a passive increase to damage and attack speed. The Healing Tome lets the Grand Warden heal himself and all units within his radius over time. It gives a passive increase to max health. Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or gems with the Trader . The Fireball has the Grand Warden throw a fireball at the nearest defense, dealing massive damage within a large radius. It gives a passive increase to his damage. The Lavaloon Puppet summons one to two Lavaloons. It gives a passive increase to damage and max health. The Heroic Torch lets the Grand Warden give all units within his radius damage resistance, increased movement speed, and the ability to walk through walls. It gives a passive increase to his damage, max health, and health recovery. If the ability has not been used before the Grand Warden is about to be defeated, it will by default automatically activate. However, this feature can be toggled off in the settings (by turning off \"Automatically use Hero Abilities on KO\"). This ability can still activate even if the Warden would be one-shot by an attack (such as by a Seeking Air Mine ); the Warden will activate his ability and survive with 1 hitpoint. Mechanics The Grand Warden has two AI modes during an attack based on a hidden attribute called Warden Weight. [ 1 ] If the total Warden Weight is under 20, he remains in regular target mode, where he targets the nearest building to him, ignoring nearby friendly troops. If the total Warden Weight reaches 20 or higher, he instantly switches to group target mode, where the Grand Warden locks onto whichever building is being targeted by the majority or heaviest concentration of nearby troops. The Grand Warden constantly scans a vision radius 13 tiles around himself and calculates the total Warden Weight of all valid friendly troops inside his area. During battle, when a main group destroys a building, those troops briefly enter a millisecond retargeting delay where they hold no active target. If the Grand Warden evaluates during this exact delay, he may temporarily lock onto a single unit that still has an active target. Unit Housing Space Weight Barbarian 1 0.5 Archer 1 0.5 Giant 5 6 Goblin 1 0.5 Wall Breaker 2 0.5 Balloon 5 6 Wizard 4 6 Healer 14 2 Dragon 20 20 P.E.K.K.A 25 25 Baby Dragon 10 10 Miner 6 6 Electro Dragon 30 30 Yeti 18 18 Yetimite 2 0.5 Dragon Rider 25 25 Electro Titan 32 30 Root Rider 20 20 Thrower 16 14 Meteor Golem 40 30 Meteormite 20 15 Minion 2 1.5 Hog Rider 5 6 Valkyrie 8 6 Golem 30 10 Golemite 6 2 Witch 12 12 Skeleton 1 0.5 Lava Hound 30 9.5 Lava Pup 1 0.5 Bowler 6 6 Ice Golem 15 6 Headhunter 6 1 Apprentice Warden 20 0 Druid 16 2 Bear 16 10 Furnace 18 0 Firemite 1 0.5 Ruin Witch 26 1 Ruin Knight 20 3 Bat Spell/Bat 1 0.5 Henchmen 10 8 Snake Bracelet/Snake 1 0.5 Giant Giant 50 38.25 Lavaloon Puppet/Lavaloon 21 15 Lavaloon Pup 1 0.5 Super Barbarian 5 5 Super Archer 12 12 Super Giant 10 9 Sneaky Goblin 3 3 Super Wall Breaker 8 0.5 Rocket Balloon 8 6 Super Wizard 10 10 Super Dragon 40 40 Inferno Dragon 15 15 Super Miner 24 24 Super Yeti 35 30 Electromite 3 0.5 Super Minion 12 12 Super Hog Rider 12 12 Super Hog 5 6 Super Rider 5 2 Super Valkyrie 20 18 Super Witch 40 35 Big Boy 20 8 Ice Hound 40 9.5 Ice Pup 1 0.5 Super Bowler 30 25 Wall Wrecker 1 1 Battle Blimp 1 0 Stone Slammer 1 1 Siege Barracks 1 0 Log Launcher 1 0 Flame Flinger 1 1 Battle Drill 1 1 Troop Launcher 1 1 Sky Wagon 1 1 Heroes 25 21 Pets 20 3 Frostmite 1 1 Booger 4 0.5 Strategies Offensive Strategies The six Home Village Heroes serve different roles in raids. The Barbarian King is the strength specialist, the Minion Prince is the air specialist, the Archer Queen is the speed specialist, the Grand Warden is the support specialist, the Royal Champion is the offense specialist, and the Dragon Duke is the solo specialist. Because of the Grand Warden's low health and damage, he is more suited to support than leading an attack. Have tank units such as Giants , Golems , or the Barbarian King to keep him safe from defenses. The Grand Warden can help them in return with his passive abilities. Use the Grand Warden in Air Mode if you are using an air attack so he does not take damage from ground defenses (as they are not distracted by other troops) and Ground Mode when using a ground army as he will not be targeted by Air Defenses . Only set him to Air Mode if you are using an air attack, as, without distraction troops , he can easily be taken out or otherwise heavily damaged by Air Defenses and Seeking Air Mines , as well as defending Clan Castle troops such as Headhunters. If using the Air Mode Warden alone (as a niche to evade heavy ground defenses, for example), it is recommended to deploy Balloons near the Warden to distract any Seeking Air Mines and make sure that none of the traps will hit the Warden. Relative level Seeking Air Mines will kill the Grand Warden, unless he is at least level 37 for Town Hall 12 when the Seeking Air Mine is at level 3, or level 49 for Town Hall 13 when the trap is level 4. However, be careful of level 5 or above Seeking Air Mines, as they will defeat him instantly at any level. However, a level 7 Seeking Air Mine leaves the level 48 Grand Warden with the maxed out Life Gem and Healing Tome with only 10 hitpoints remaining. Use the Eternal Tome ability near the core so your troops can get through the core, where the most damage usually is. Against a level 5 Giga Tesla , Giga Inferno , or the Giga Bomb at Town Hall 17, it may be useful to save the ability specifically for the explosion when the Town Hall is destroyed or when the trap is triggered, as these do severe damage to your army. Alternatively, it can be better to use it early, such as if high damaging defenses are situated nearer the outside of a base, or when your main army is able to split up. The Grand Warden goes where other troops go, so he does not need funneling. However, the other troops need to be funneled. He will follow the troop with the highest housing space or the largest mass of troops, so bunching up troops with the Grand Warden is crucial to getting the most out of his abilities. However, do not bunch them up too tightly, as his aura is large and the troops will take a lot of splash damage from other defenses if they are too bunched up. This also risks them being targeted by the Eagle Artillery . However, this is temporarily nullified with the Eternal Tome ability. When equipped, the Grand Warden's Life Gem is most effective on troops with moderate amounts of health, such as the Balloon , Hog Rider , or Miner . He will be able to grant a sizable health increase to these troops that is close to the maximum increase allowed by his ability (or if this increase is the maximum allowed, then the health increase is still significant on these troops). The Life Gem is significantly less effective on low-hitpoint troops such as Minions and Archers , as they only gain a tiny proportion of health from his Life Gem. It is also somewhat limiting to high-hitpoint troops such as the Golem , as its health increase is well over the maximum allowed. Additionally, since they already have high hitpoints themselves, the extra hitpoints are usually not necessary. When using high-hitpoint troops, it is best to use the Apprentice Warden instead of the Life Gem, since the Apprentice Warden does not have any health limit cap, which can increase bigger troops' health significantly, and the Life Gem will be replaced by either the Rage Gem, Healing Tome or Fireball to help support the attack. The Grand Warden has the longest range of any troop in the Home Village or all Heroes in the game. He can outrange the Wizard Tower , Bomb Tower , Archer Tower on Fast Attack mode, or the Hidden Tesla . The Super Archer has a projectile range of 12, but her targeting range is only 6. The Mortar Mode Cannon Cart in the Builder's Base has the longest range of any troop in the Builder Base, being 9 tiles. The Flame Flinger has the longest range out of all units in the game, being 10 tiles. If the Grand Warden is positioned correctly, he can defeat an enemy Barbarian King and even an Archer Queen without being attacked. In the case of an Archer Queen, it is substantially harder to pull off, as she has a larger attack radius, has a faster movement and attack speed, and can attack from far away unlike the King. When upgraded to a high level, the Grand Warden can be used with Healers or Druids to perform a Warden Walk, which is similar to a Queen Walk in terms of utility. Compared to a Queen Walk, his longer range allows him to snipe buildings from a longer distance, meaning that the Warden Walk is generally safer, but his lower damage output means it will take longer to create an effective funnel or destroy the targeted buildings. Druids, unlike Healers, are better to use than Healers due to being a ground unit, and you can bring at least 2 to support him. However, they last for a limited time. If the Grand Warden has the Rage Gem, he will be able to destroy buildings faster, making Warden Walks faster. This also allows the Healers and/or Druids heal more often. His AI (which makes him follow troops if they are close enough) can be exploited to help funnel him in a particular direction, which can be useful for the objectives of the Warden Walk. For example, deploying a few Balloons against a defense can coerce him to follow the Balloons in attacking that defense. You can also do this to convert a Warden Walk into a smash-style attack (which will be supported by the Warden and Healers) by simply deploying your main force in the path of the walk. When set to Air Mode, if you see a Seeking Air Mine coming towards the Grand Warden, activate his Eternal Tome ability if you still have it. If you react quickly enough, he will be able to avoid all damage; failing to do so will mean severe damage, and in most cases automatically trigger the ability anyway (if the \"Automatically use Hero Abilities on KO\" setting is turned on), but the Warden will be reduced to 1 HP and be extremely vulnerable, leaving you at a disadvantage, especially if he does not have the Eternal Tome equipped. The Grand Warden has many viable Pet choices that work well with him. The Electro Owl is an excellent fit for Grand Warden, especially if using Air Mode. Not only does the Owl provide additional damage that nearly matches his own, the Owl is the only aerial Pet that can accompany the Warden without him being knocked out, thus behaving like an extra troop to protect him. In ground mode, the Owl's additional damage can greatly speed up Warden Walks, and unlike grounded Pets, does not risk pulling the Healers away from the Warden, and can tank for Seeking Air Mines. The Poison Lizard is an alternative for damage at Town Hall 15, with its DPS being focused on a single target, as opposed to the Owl; it can also assist the Warden against enemy troops. For additional support utility, Frosty can be paired with the Warden to slow defenses down. The Warden often being in the backline combines with Frosty's targeting AI to keep Frosty himself in the backlines, which enhances his sustainability as compared to pairing him with other Heroes. The Unicorn can heal the Warden effectively, including during a Warden Walk, due to it being able to keep pace with the Warden easily. Although most often paired with the Archer Queen, the Unicorn's pairing with the Warden can be considered if the Queen should be unavailable or require a different Pet. Pets like Diggy or Frosty can be used to stun or slow down defenses when the army targets them, increasing the chances of a successful attack, but only if the main army he follows targets the defenses, especially Root Riders . The Angry Jelly will make the Grand Warden attack defenses, but will be vulnerable to high-damaging defenses. Thus, it is only used when you will perform a Warden Charge, where you will destroy a part of the base using the Fireball with the help of Invisibility or Overgrowth Spells. There are many good Hero Equipment options for the Grand Warden. The Eternal Tome and Healing Tome (or Double Tome) for some guaranteed healing during the invincibility, best used on most strategies, such as Super Hog Riders and Root Rider Smash. The Eternal Tome and Rage Gem allows lots of units to deal high damage against the core of the base, especially when using a Smash-style attack. The Eternal Tome and Fireball for high destruction and invincibility; used for Super Archer Blimps. The Rage Gem and Healing Tome can get high damage and healing at the same time, increasing sustainability and damage potential, but lacks the invincibility. The Rage Gem and Fireball to go all in for damage, and is used for Warden Charges. Defensive Strategies To defend against an enemy Grand Warden, make sure you set your Inferno Towers to multi-target, as he is often behind other troops so that a few defenses can hit him. At higher levels, Scattershots and Firespitters can be particularly effective due to their knack for damaging units behind the primary target. As a defending Hero, the Grand Warden has relatively poor stats compared to other defending Heroes. With the slowest attack speed of any Hero, he is also most vulnerable to swarms; he also cannot fly when defending unlike the Minion Prince . His redeeming factor is his range; like a defending Archer Queen , he can engage enemy troops from behind Walls , which can be problematic for ground attacks. He can also prevent attacking units from retargeting him, unless if they get closer to him. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Movement Speed Attack Speed Range Search Radius Any Ranged Single Target (Any target) 16 1.8s 7 10 Level Damage per Second Damage per Hit Hitpoints Health Recovery Upgrade Cost Upgrade Time Hero Hall Level Required Town Hall Level Required 1 43 77.4 850 90 1,000,000 N/A 5 11 2 44 79.2 868 90 1,000,000 2h 5 11 3 46 82.8 886 90 1,100,000 4h 5 11 4 48 86.4 904 90 1,200,000 8h 5 11 5 49 88.2 923 97 1,400,000 10h 5 11 6 51 91.8 942 97 1,500,000 12h 5 11 7 54 97.2 961 97 1,700,000 14h 5 11 8 56 100.8 982 97 1,800,000 16h 5 11 9 59 106.2 1,003 97 2,000,000 18h 5 11 10 61 109.8 1,025 109 2,300,000 20h 5 11 11 64 115.2 1,048 109 2,700,000 1d 5 11 12 66 118.8 1,072 109 3,000,000 1d 5 11 13 70 126 1,097 109 3,400,000 1d 5 11 14 73 131.4 1,122 109 3,700,000 1d 5 11 15 77 138.6 1,148 122 4,100,000 1d 5 11 16 80 144 1,173 122 4,400,000 1d 5 11 17 83 149.4 1,199 122 4,800,000 1d 5 11 18 87 156.6 1,224 122 5,100,000 1d 5 11 19 90 162 1,250 122 5,500,000 1d 5 11 20 94 169.2 1,275 135 6,000,000 1d 5 11 21 98 176.4 1,301 135 6,100,000 1d 6 12 22 102 183.6 1,327 135 6,200,000 1d 6 12 23 106 190.8 1,354 135 6,300,000 1d 6 12 24 111 199.8 1,381 135 6,400,000 1d 6 12 25 116 208.8 1,409 149 6,500,000 1d 6 12 26 121 217.8 1,438 149 6,600,000 1d 12h 6 12 27 126 226.8 1,467 149 6,700,000 1d 12h 6 12 28 131 235.8 1,497 149 6,800,000 1d 12h 6 12 29 137 246.6 1,527 149 6,900,000 1d 12h 6 12 30 143 257.4 1,558 165 7,000,000 1d 12h 6 12 31 149 268.2 1,590 165 7,100,000 2d 6 12 32 155 279 1,622 165 7,200,000 2d 6 12 33 162 291.6 1,655 165 7,300,000 2d 6 12 34 168 302.4 1,688 165 7,400,000 2d 6 12 35 175 315 1,722 182 7,500,000 2d 6 12 36 183 329.4 1,757 182 7,600,000 2d 6 12 37 190 342 1,793 182 7,700,000 2d 6 12 38 198 356.4 1,829 182 7,800,000 2d 6 12 39 207 372.6 1,867 182 7,900,000 2d 6 12 40 215 387 1,904 202 8,000,000 2d 6 12 41 221 397.8 1,921 202 8,300,000 3d 7 13 42 226 406.8 1,938 202 8,600,000 3d 7 13 43 230 414 1,955 202 8,900,000 3d 7 13 44 234 421.2 1,972 202 9,200,000 3d 7 13 45 237 426.6 1,989 211 9,500,000 3d 7 13 46 241 433.8 2,006 211 9,800,000 3d 7 13 47 244 439.2 2,023 211 10,100,000 3d 7 13 48 247 444.6 2,040 211 10,400,000 3d 7 13 49 251 451.8 2,057 211 10,700,000 3d 7 13 50 254 457.2 2,074 220 11,000,000 3d 7 13 51 258 464.4 2,091 220 11,400,000 4d 8 14 52 261 469.8 2,108 220 11,800,000 4d 8 14 53 264 475.2 2,125 220 12,200,000 4d 8 14 54 268 482.4 2,142 220 12,600,000 4d 8 14 55 271 487.8 2,159 229 13,000,000 4d 8 14 56 274 493.2 2,176 229 13,400,000 4d 8 14 57 276 496.8 2,193 229 13,800,000 4d 8 14 58 279 502.2 2,210 229 14,200,000 4d 8 14 59 281 505.8 2,227 229 14,600,000 4d 8 14 60 284 511.2 2,244 238 15,000,000 4d 8 14 61 286 514.8 2,261 238 15,500,000 6d 9 15 62 289 520.2 2,278 238 16,000,000 6d 9 15 63 292 525.6 2,295 238 16,500,000 6d 9 15 64 294 529.2 2,312 238 17,000,000 6d 9 15 65 297 534.6 2,329 247 17,500,000 6d 9 15 66 299 538.2 2,346 247 18,000,000 7d 10 16 67 302 543.6 2,363 247 18,500,000 7d 10 16 68 304 547.2 2,380 247 19,000,000 7d 10 16 69 307 552.6 2,397 247 19,500,000 7d 10 16 70 309 556.2 2,414 256 20,000,000 7d 12h 10 16 71 312 561.6 2,431 256 20,500,000 8d 11 17 72 315 567 2,448 256 21,000,000 8d 11 17 73 318 572.4 2,465 256 21,500,000 8d 11 17 74 321 577.8 2,482 256 22,000,000 8d 11 17 75 324 583.2 2,499 265 22,500,000 8d 11 17 76 327 588.6 2,516 265 23,500,000 8d 12 18 77 330 594 2,533 265 24,500,000 8d 12 18 78 333 599.4 2,550 265 25,500,000 8d 12 18 79 336 604.8 2,567 265 26,500,000 8d 12 18 80 339 610.2 2,584 275 27,500,000 8d 12 18 81 342 615.6 2,601 275 28,500,000 8d 12 18 82 345 621 2,618 275 29,000,000 8d 12 18 83 348 626.4 2,635 275 29,500,000 8d 12 18 84 351 631.8 2,652 275 30,000,000 8d 12 18 85 354 637.2 2,669 285 30,500,000 8d 12 18 Hero Equipment When attacking, the Grand Warden can use two of the below pieces of Hero Equipment, which change the abilities he has and grants additional stat bonuses. The Grand Warden does not use any Hero Equipment when defending. Select the equipment below to learn more about the abilities and stat bonuses that each piece gives. Eternal Tome Life Gem Rage Gem Healing Tome Fireball Lavaloon Puppet Heroic Torch History Date Type Description January 24, 2013 Concept The Grand Warden was suggested by AbdulRauf on the forums . October 25, 2015 Grand Reveal The Grand Warden was initially revealed as the new hero for Town Hall 11 at Clash-Con 2015. However, only a silhouette of him was shown. In the sneak peeks showcasing him, his hitpoints at level 20 was 2,000; however it was changed to 1,500 in its release. His beta aura color was orange, but was later changed to yellow when released. December 10, 2015 Town Hall 11 Update Added the Grand Warden, with 20 levels. December 16, 2015 Maintenance Break Fixed a bug that did not correctly save the Grand Warden's Ground or Air Mode. December 19, 2015 Optional Update Fixed a player profile bug where the Level 1 Grand Warden could be incorrectly shown as unlocked. March 21, 2016 Update Slightly reduced the Grand Warden's Life Aura and Eternal Tome range. December 19, 2016 Update Changed the Grand Warden's info image. June 11, 2018 Town Hall 12 Update Added levels 21 to 30 Grand Warden. June 26, 2018 Balance Changes Reduced Grand Warden's regeneration times at all levels. June 18, 2019 Update Added levels 31 to 40 Grand Warden. Reduced regeneration time at all levels. Fixed the Grand Warden's AI for ground mode to no longer jumps into empty compartments for no reason. Converted the Grand Warden from 2D to 3D. October 16, 2019 Update Improved the Grand Warden's AI to prevent him from easily abandoning a supported group. December 9, 2019 Town Hall 13 Update Added levels 41 to 50 Grand Warden. Added the KO option for Heroes. The Grand Warden's laser starts closer to the staff than stomach. Made it less likely for the Grand Warden to follow Lava Hounds. Forced him to retarget if he is attacking a wall and his group has died. December 19, 2019 Update Fixed the Grand Warden's celebration animation clipping after changing mode. March 30, 2020 Update New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero. All Heroes will display in their selected skin under the Player Profile tab. When acquiring a new skin, the UI to select the skin will automatically open. Some selected skins will be able to be purchased outside of the Gold Pass. May 20, 2020 Update Made it less likely for the Grand Warden to follow Dragons and P.E.K.K.As. June 22, 2020 Update Improved the Grand Warden's AI to follow the group more effectively and be less prone to drifting away while in Air Mode, and added the sound effect when toggling Grand Warden to air or ground mode. October 12, 2020 Update All Heroes now automatically heal after a raid. Removed guard toggle. October 26, 2020 Update Fixed skin names not changing when changing Hero with the arrows (in the \"Change Skin\" menus). December 7, 2020 Update A new Cosmetics tab has been added to the in-game shop which can be browsed and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems. A \"View Skin\" option has been added when visiting. Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements. Fixed an issue with hitpoints rounding after the Grand Warden's aura ends. This issue would cause Heroes to lose their auto ability if they were left with 1 HP when the Warden's aura ended as it would round the HP down to 0. Increased the brightness of the Grand Warden's Eternal Tome ability to make it more visible. January 20, 2021 Update Adjusted the Grand Warden's priority when following Battle Blimps and Log Launchers to reduce the chance of him following them in a deadly run towards the Town Hall. April 12, 2021 Town Hall 14 Update Added levels 51 to 55 Grand Warden. Boosts on Grand Warden or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background. Stopped the Grand Warden from attacking a Wall if nobody else in his group is attacking a Wall. Prevented the Grand Warden from dying while activating his ability if he is damaged at the exact same moment. April 29, 2021 Update Made it less likely for the Grand Warden to follow Pets. June 15, 2021 Update Fixed the Grand Warden and other Heroes occasionally doing 360 turns during attacks. December 9, 2021 Update Reduced upgrade costs at levels 1 to 40. Reduced upgrade times at levels 2 to 15. October 10, 2022 Town Hall 15 Update Added levels 56 to 60 Grand Warden. May 15, 2023 Update Made the Grand Warden recalculate his group when being redeployed by a Recall Spell. June 12, 2023 Update Added levels 61 to 65 Grand Warden. September 14, 2023 Maintenance Break Made it less likely for the Grand Warden to follow Super Rider December 12, 2023 Town Hall 16 Update Added levels 66 to 70 Grand Warden. Removed the Life Aura from the defensive Grand Warden. Added health recovery for the Grand Warden. Reduced upgrade costs at levels 2 to 64. Reduced upgrade times at levels 8 to 55. Levels 2 to 7 and 56 to 65 received cost reductions. Added Hero Equipment for the Grand Warden, separating his abilities into the Life Gem and the Eternal Tome . The level of Life Gem and Eternal Tome given to players varied depending on the Grand Warden level they had at the time of the update. Reduced damage per second and hitpoints at all levels because of Hero Boost from Equipment. November 25, 2024 Town Hall 17 Update Added levels 71 to 75 Grand Warden. The Grand Warden is no longer unlocked by placing down his Altar, but is instead by upgrading the Hero Hall to level 5, or placing it down when it is at least level 5. His Altar is replaced by the Hero Banner obstacle. The nature of how he defends also changes from being a building to being a defensive Hero. This changes some of his interactions against units that only target defense, such as the Royal Champion, who can no longer target him unless all other defenses are gone. However, she might start attacking him if he is targeting nearby friendly units within her range or if she herself is being targeted by him. Headhunters are now able to target him. Changed his info description, which used to be \"The Grand Warden is a powerful master of magic who supports your attacking troops with blasts from his magic staff. He can walk over walls or fly high with air troops, so he can help any attacking army. On defense he turns into a powerful tower.\" March 27, 2025 Clash Anytime Update Removed Regeneration Time. October 6, 2025 Update Reduced Hero Hall level requirement for levels 56 to 60 from level 9 to level 8. Made it less likely for the Grand Warden to follow Booger. Reduced upgrade times at levels 10 and 26 to 70: Level 10: 1d -> 20h Level 26-30: 2d -> 1d 12h Level 31-35: 2d 12h -> 2d Level 36-40: 3d -> 2d 6h Level 41-45: 4d -> 3d Level 46-50: 5d -> 4d Level 51-55: 6d -> 4d 12h Level 56-60: 7d -> 5d Level 61-65: 8d -> 6d Level 66-69: 8d -> 7d Level 70: 8d -> 7d 12h November 17, 2025 Town Hall 18 Update Added levels 76 to 80 Grand Warden. January 28, 2026 Maintenance Break Made it less likely for the Grand Warden to follow Giant Giant . June 15, 2026 Hero Journey Update Added levels 81 to 85 Grand Warden. Reduced upgrade costs at levels 76 to 80. Hero Skins Skin Availability Below is a table that lists all Hero skins for the Grand Warden and the month in which they were available, in chronological order. Skins are divided into three classes: Gold denotes a skin that was featured as a Gold Pass skin in Season Challenges . All Hero Skins from the Gold Pass since April 2023 have been available as the first reward on the Gold track. Prior to this, they have all been the last reward on the Gold track unless specified. All Gold skins are available permanently for purchase at a price of 1,500 Gems exactly a year after the skin was originally offered in the Gold Pass. Once available in the Shop, they may also be found in Legendary-rated Treasure Chests after the loot pool is refreshed in game updates. Standard and Legendary denotes skins not available from the Gold Pass that were available only through a special offer or event. Unless otherwise stated in the notes, these skins' special offers were available in the season listed, and cost the equivalent of $3.99 USD for Standard skins, or $9.99 USD for Legendary skins. The notes section may also include additional context of an offer. Skin from collaboration are not available for re-purchase in the Cosmetics tab. Key for highlighted entries: Entries that are highlighted denote that the skin is available in the current Season Challenges season. Entries marked with a Coathanger denote a Standard or Legendary skin that is permanently available for re-purchase in the cosmetics tab at the original price when the skin was originally offered. Entries marked with a Gem denote that the skin is purchasable with Gems; all skins currently purchasable in this manner cost 1,500 . Entries marked with a Yellow Star denote that the skin is exclusive; these skins will not be available for re-purchase in the future. Skin Class Season Available Notes Party Warden Gold August 2019 Available as the first reward on the Gold Pass track. Primal Warden Gold January 2020 Clockwork Warden Gold April 2020 Gladiator Warden Gold July 2020 Pirate Warden Gold October 2020 Warden of the North Gold January 2021 Jungle Warden Gold May 2021 Warden Master Gold October 2021 Jolly Warden Gold December 2021 Warrior Warden Gold February 2022 Shadow Warden Legendary April 2022 Summer Warden Gold June 2022 Pixel Warden Legendary August 2022 The Pixel Warden was available in a 10th Clashiversary offer in August 2022; costing $4.99 USD (or equivalent), half of the usual price for Legendary skins. Champion Warden Legendary September 2022, September 2024 The Champion Warden skin was available in a special offer for the World Finals in 2022. In September 2024, it was purchasable in the Mini Spotlight medal event for 2,250 . Magic Warden Legendary October 2022 The Magic Warden was available in a special offer for the release of Town Hall 15. Painter Warden Legendary March 2023 The Painter Warden was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD. Dark Ages Warden Gold April 2023 Goblin Warden Legendary June 2023 League Warden Legendary June 2023 The League Warden is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 . Future Warden Gold August 2023 Ghost Warden Legendary October 2023 The Ghost Warden skin was available in a special Clash-O-Ween offer in October 2023. Gingerbread Warden Gold December 2023 Dragon Warden Legendary February 2024 The Dragon Warden skin was available as part of the Dragon Festival medal event in February 2024, where it could be bought for 4,650 . Space Warden Legendary March 2024 Egypt Warden Gold April 2024 Football Warden Legendary May 2024 Wild West Warden Gold June 2024 Clash Games Warden Legendary July 2024 Anime Warden Legendary August 2024 Grand Dwarf Legendary September 2024 The Grand Dwarf was available in the September 2024 Gold Pass track at 2,601 from the 4th September. It is treated as Gold . Dark Minion Warden Legendary October 2024 Grand Judge Legendary November 2024 Ice Warden Legendary January 2025 Snake Warden Gold February 2025 Jetpack Warden Legendary March 2025 Darkness Warden Legendary April 2025 Based on the WWE wrestler The Undertaker , as part of the Clashamania collaboration season. Grand Monk Legendary May 2025 Grand Godfather Legendary June 2025 Grand Doctor Gold July 2025 Clash-A-Rama Warden Legendary August 2025 Ivan Warden Legendary September 2025 Eternal Warden Legendary October 2025 Shaman Warden Legendary November 2025 Grand Warlock Gold December 2025 Grand Sorcerer Legendary January 2026 River Warden Legendary February 2026 Dragonscale Warden Legendary March 2026 Keystriker Warden Legendary April 2026 Skeleton Warden Gold May 2026 Anime Fury Warden Legendary June 2026 Violet Half-Time Warden Legendary June 2026 The Violet Half-Time Warden is available in the Clan War Leagues Shop from June 15, 2026 to August 15, 2026. It costs 700 . Majestic Grand Warden Legendary June 2026 Available as a reward from Hero's Journey once a cumulative total of 330 Hero levels is attained. Poseidon Warden Legendary July 2026 Grand Mage Legendary August 2026 Undertaker Warden Legendary September 2026 Based on the WWE wrestler The Undertaker , as part of the Search for Cena collaboration season. Spider Warden Legendary October 2026 Grand Titan Gold November 2026 Grand Warden Skins Anniversary Skin 2019 World Championship Skin 2022 Grand Warden Initializing Skin Menu... To view the skin wardrobe, please reload the page on the desktop skin . Created by E12Dragon Alternatively, see Grand Warden/Skins for a gallery. Grand Warden Skin Features Yes: Feature is fully customized from the original Partial: Feature is subtly customized from the original No: Feature is not customized from the original Ground Mode Air Mode Ground Mode Skin Preview Animation Pose Animation Selection Animation Walking Animation Attacking Animation Knockout Animation Resting Animation Constant Effects Preview Effects Pose Effects Selection Effects Deployment Effects Walking Effects Attacking Effects Ability Effects Knockout Effects Resting Effects Preview Sounds Pose Sounds Selection Sounds Deployment Sounds Attacking Sounds Ability Sounds Knockout Sounds Party Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No Yes Yes Yes Yes Yes No Yes Primal Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No No Clockwork Warden Yes Yes Yes Yes Yes Yes Yes Yes No Yes Yes No No Yes No No No No No Yes Yes Yes No Yes Gladiator Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No No No No No Yes No No Pirate Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No No No No No Yes No No Warden of the North Yes Yes Yes Yes Partial Yes Yes Yes No No No No No No No No No No No No No No No No Jungle Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No No Warden Master Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No No No No No Yes No No Jolly Warden Yes Yes Yes Yes Yes Yes Yes No No Yes Yes No No Yes No Yes Yes Yes Yes Yes Yes Yes No No Warrior Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No Yes Yes Yes Yes Yes No No Shadow Warden Yes Yes Yes Yes Yes Yes Yes Yes No No No No No Yes Yes No No Yes Yes Yes No Yes No No Pixel Warden Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes Summer Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes Yes No No Yes Yes Yes No Yes No No Champion Warden Yes Yes Yes Yes Yes Yes Yes Yes No No No Yes No Yes Yes No No Yes Yes Yes Yes Yes No No Magic Warden Yes Yes Yes Yes Yes Yes Yes Yes No No No No No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes Painter Warden Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes Yes No No Yes Yes Yes No Yes No No Air Mode Skin Preview Animation Pose Animation Selection Animation Flying Animation Attacking Animation Knockout Animation Resting Animation Constant Effects Preview Effects Pose Effects Selection Effects Deployment Effects Flying Effects Attacking Effects Ability Effects Knockout Effects Resting Effects Preview Sounds Pose Sounds Selection Sounds Deployment Sounds Attacking Sounds Ability Sounds Knockout Sounds Party Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No Yes Yes Yes Yes Yes No Yes Primal Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No No Clockwork Warden Yes Yes Yes Yes Yes Yes Yes Yes No Yes Yes No No Yes No No No No No Yes Yes Yes No Yes Gladiator Warden Yes Yes Yes Yes Yes Yes Yes No No No No No Yes Yes No No No No No No No Yes No No Pirate Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No No No No No Yes No No Warden of the North Yes Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No Jungle Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No No Warden Master Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No No No No No Yes No No Jolly Warden Yes Yes Yes Yes Yes Yes Yes No No Yes Yes No No Yes No Yes Yes Yes Yes Yes Yes Yes No No Warrior Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No Yes Yes Yes Yes Yes No No Shadow Warden Yes Yes Yes Yes Yes Yes Yes Yes No No No No No Yes Yes No No Yes Yes Yes No Yes No No Summer Warden Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes Yes No No Yes Yes Yes No Yes No No Pixel Warden Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes Champion Warden Yes Yes Yes Yes Yes Yes Yes Yes No No No Yes No Yes Yes No No Yes Yes Yes Yes Yes No No Magic Warden Yes Yes Yes Yes Yes Yes Yes Yes No No No No No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes Painter Warden Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes Yes No No Yes Yes Yes No Yes No No Notes A few of the Grand Warden's skins feature him holding different objects instead of a staff and book: The Party Warden holds a large microphone and a jukebox. The Primal Warden holds a skeleton hand and a stone tablet. The Clockwork Warden holds an electric device with a tesla at the end, similar to a Hidden Tesla . The Gladiator Warden holds a staff with a lightning bolt symbol on top. The Pirate Warden wields a large musket and has a parrot on his shoulder. The Jungle Warden holds a staff with a skull on it and a Goblin -shaped doll in the other (possibly a voodoo doll ). The Warden Master holds a branch or staff made from bamboo and a scroll. The Jolly Warden holds a staff with mistletoe on top and a Christmas present. The Warrior Warden holds a dragon staff which he also levitates on. In his other hand, he carries a wooden chest. The Shadow Warden holds a staff that has a snake-like mouth with a floating eye inside of it. In his other hand, he carries a magic flying book. The Summer Warden holds a horn and a life preserver. The Champion Warden holds a glowing staff and a levitating purple ball. The Magic Warden uses a bolt of electricity from his hand to attack and carries no staff. The Painter Warden holds a hose filled with an Elixir -like fluid in a tank attached to his back. The Dark Ages Warden holds a flail-like weapon with a yellow glowing crystal and a scroll with rune-like symbols on it. The Goblin Warden carries a slingshot and is equipped with bombs. The Future Warden holds a staff made with levitating parts. A robot with a large eye follows him around. The Ghost Warden uses a floating skeletal staff. The Dragon Warden carries a shell with a pearl in it. The Space Warden holds a flag and a floating, glowing ball. The Egypt Warden holds a snake scepter and a golden ankh . The Football Warden has several footballs that float around him. The Wild West Warden holds a cane with his right hand, and a floating goat or cow's skull with rubies where the eye sockets are in the other. The Clash Games Warden holds a large glowing torch (based on the Olympic torch ). The Grand Dwarf skin holds a staff with a glowing blue flame and features a white Baby Dragon as a companion. The Snake Warden holds a wooden staff and has a snake as his companion. The Grand Judge holds a staff with an Elixir-colored crystal and has a flying ball-shaped owl as a companion. The Jetpack Warden uses a rocket launcher and he is equipped with a jetpack. The Darkness Warden holds a scythe with bone handle and golden urn. The Grand Godfather holds a book and use handgun when attacks. The Grand Doctor has a robotic body and only have mechanical arms. When attacks, he shoot blue beam from his body monitor. Some unique features in the skin: The Gladiator Warden skin looks to be based off of the Roman king of the gods and god of lightning, Jupiter . The Pirate Warden skin is based of off the Barbary pirates according to a post by Darian, the Supercell community manager. If the Grand Warden is defeated while wearing the Pirate skin, there will be parrots spinning on his head instead of stars like other Heroes. The Jungle Warden skin was added after the Epic Jungle Scenery was added that featured a Jungle Warden statue. The Clash Games Warden skin reuses some of the Egypt Warden skin's sounds. The Grand Warden is the last Hero to have a Winter-themed skin which is the Warden of the North skin. The Warden of the North skin is the only Hero skin which its Hero name (Warden) is on the front but not on the back (like \"Ice Queen\"). Although the Party Warden appears in the 9th Clashiverary loading screen, he does not seem to appear in the 9th Clashiversary Scenery. The Grand Warden's Jungle Warden skin appears to not have any hair, or even a face, whatsoever when viewed from behind. His mask resembles the one used by the Dart Goblin in Clash Royale . Ground Mode Level 1-9 (Old Sprite) Level 10-30 (Old Sprite) Air Mode Level 1-9 (Old Sprite) Level 10-30 (Old Sprite) Trivia General Before he had a 3D skin, his book resembled a Book of Everything . The tip of Clockwork Warden's staff looks similar to a level 7 Laboratory and level 7 Hidden Tesla from the top. Before Hero Skins were added, the Grand Warden had a different appearance as well as an upgrade difference. He had less facial hair, antlers and a different book cover. Initially, he had purple facial hair. He wore white and purple robes along with a short cape. His eyes were of different color; one was white with a little pupil and the other was a normal one with a blue iris. There was a gold trim on his collar at the neck, and he wore a white crown-like decoration on his head. He also held a thick book and a long wooden staff with a magical crystal held on top. At level 10, his white antler crown became golden. Before the Grand Warden was converted into a 3D model, the Grand Warden's book and staff switched arms when he changed direction. When the Grand Warden fell in battle, he dropped his staff but held on to his book. The Grand Warden of the versions before the update of June 2019 bore a great resemblance to the late television host, Li Yong . Because of this, he is commonly called \"(Li) Yong King\" among Chinese players. In January 2016, shortly after the Town Hall 11 update, a show \"Clash of Clans Players' Ceremony\" was held in Beijing, China, with Li Yong as the main host due to this resemblance. His book after the update After the update on June 2019, his book cover has a gem instead of the Book of Everything cover. A more rendered view of the Warden Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the \"regeneration time\" statistic is still visible in Hero info screens, although it does not have an effect on gameplay. The regeneration time starts at 20 minutes and increases by 2 minutes at every 5th level up to level 65, and by 1 minute at levels 70 and 75, to reach a maximum of 48 minutes. Comparisons He is the only unit in the game that can be changed to an air or ground unit. Prior the Town Hall 16 update, the Grand Warden was the only Hero whose ability did not recover any hitpoints. Additionally, he was the only one to not automatically use his ability if he still had it when the battle ended. He was also the only Hero who still had his ability, namely his Life Aura, on defense. Prior to the Town Hall 17 update, he was the only unit in the entire game that can behave as both a troop (attacking) and a building (defending). Thus, the following interactions occurred on defense: It was only possible to destroy his Altar with a single Lightning Spell only if he was not guarding (and thus his Altar will be empty.) Consequently, he was the only Hero to be damaged by Earthquake Spells and not by Poison Spells when defending. He was the only hero that could not be targeted by attacking Headhunters and defensive healing units from the Clan Castle since he was considered as a building. He was the only Hero to not display his Hero Skin whenever he was defending. He was only Hero that could be repaired mid-battle, provided that at least one weaponized Builder's Hut's healing range reached the Grand Warden Altar. The Grand Warden is one of the few units that can be healed by a Healer while attacking an Air Defense without the Air Defense being able to attack the Healer. The others units capable of doing this are the Archer Queen and the Super Archer . The Grand Warden is one of the five troops partly associated with Wizards , including the Super Wizard , Ice Wizard , Party Wizard , and Electrofire Wizard . The Grand Warden is one of the 13 units to appear in a Scenery, the others being the Barbarian , Goblin , Balloon , Hog Rider , Barbarian King , P.E.K.K.A , Baby Dragon , Skeleton , Archer Queen , Dragon Rider , Cannon Cart , and Party Wizard . In his case, he appears in the Pirate Scenery (as Clockwork Warden), and the Epic Jungle Scenery (as the Jungle Warden). He is the only Hero that appears to be based on more than one unit, particularly the Healer and the Wizard, because of his use of magic and ability to heal friendly units. The Grand Warden is one of the seven ground units that can bypass Walls , the other ones being the Miner , Royal Champion , Headhunter , Hog Rider , Super Hog Rider , and Apprentice Warden . The Grand Warden may still attack them directly (some air units, such as the Balloon , Dragon , and the Baby Dragon are able to damage Walls indirectly through splash damage when attacking another target). He is the second Hero to be added in Clash Royale , the first one being the Archer Queen . References ↑ https://youtube.com/watch?v=eMfNc5gwAKo Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

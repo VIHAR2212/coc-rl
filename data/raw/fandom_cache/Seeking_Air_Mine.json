@@ -1,0 +1,296 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "1",
+        "8": "2",
+        "9": "4"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "5",
+        "2": "5",
+        "3": "6",
+        "4": "7",
+        "5": "8",
+        "6": "8",
+        "7": "8",
+        "8": "9",
+        "9": "9"
+      }
+    ],
+    [
+      {
+        "Size": "1x1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage": "1,500",
+        "Cost": "12,000",
+        "Build Time": "N/A",
+        "Experience Gained": "N/A",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "2",
+        "Damage": "1,800",
+        "Cost": "600,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "3",
+        "Damage": "2,100",
+        "Cost": "1,200,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "4",
+        "Damage": "2,500",
+        "Cost": "2,500,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "5",
+        "Damage": "2,800",
+        "Cost": "5,000,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "6",
+        "Damage": "3,000",
+        "Cost": "6,500,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "7",
+        "Damage": "3,200",
+        "Cost": "12,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "8",
+        "Damage": "3,350",
+        "Cost": "19,000,000",
+        "Build Time": "11d 12h",
+        "Experience Gained": "996",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Trigger Radius": "4 tiles",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Air",
+        "Favorite Target": "None"
+      }
+    ],
+    [
+      {
+        "Unarmed Seeking Air Mine": ""
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon begins upgrading the Seeking Air Mine to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Seeking Air Mine is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon instantly upgrades the Seeking Air Mine to the next level, at the cost of one Hammer of Building if you have one. When the Seeking Air Mine is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "February 4, 2013",
+        "Description": "Announced the Seeking Air Mine."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "Added the Seeking Air Mine, with three levels and one is available at Town Hall 7, 8, and 9."
+      },
+      {
+        "Date": "April 17, 2013",
+        "Description": "Added the fourth Seeking Air Mine available at Town Hall 9."
+      },
+      {
+        "Date": "June 17, 2013",
+        "Description": "Added the fifth Seeking Air Mine available at Town Hall 10."
+      },
+      {
+        "Date": "November 6, 2013",
+        "Description": "Decreased trigger radius to 4 tiles. Seeking Air Mines now cost Gold instead of Dark Elixir. Seeking Air Mines can be re-armed instead of despawning upon activation."
+      },
+      {
+        "Date": "February 24, 2015",
+        "Description": "Seeking Air Mines can no longer be triggered by Healers."
+      },
+      {
+        "Date": "August 25, 2016",
+        "Description": "Seeking Air Mines can be triggered by Healers again."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the sixth Seeking Air Mine available at Town Hall 12."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Removed re-arm costs for the Seeking Air Mine entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the level 4 Seeking Air Mine. Added the seventh Seeking Air Mine available at Town Hall 13."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Reduced upgrade costs at levels 2 and 3: Level 2: 2,000,000 -> 1,500,000 Level 3: 4,000,000 -> 3,000,000"
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added the eighth Seeking Air Mine available at Town Hall 14. Reduced upgrade costs at levels 2 and 3: Level 2: 1,500,000 -> 1,000,000 Level 3: 3,000,000 -> 2,500,000"
+      },
+      {
+        "Date": "August 12, 2021",
+        "Description": "Increased speed from 2.5 tiles/s to 3.5 tiles/s."
+      },
+      {
+        "Date": "May 2, 2022",
+        "Description": "Increased damage at level 4 from 2,400 to 2,500."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Reduced upgrade costs at levels 3 and 4: Level 3: 2,500,000 -> 2,100,000 Level 4: 6,000,000 -> 4,500,000 Reduced upgrade time at level 4 from 7d to 5d 6h."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the level 5 Seeking Air Mine. Reduced upgrade cost at level 4 from 4,500,000 to 3,600,000. Reduced upgrade time at level 4 from 5d 6h to 4d 6h."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Reduced upgrade costs at levels 2 to 4: Level 2: 1,000,000 -> 900,000 Level 3: 2,100,000 -> 1,600,000 Level 4: 3,600,000 -> 3,100,000 Reduced upgrade times at levels 2 to 4: Level 2: 1d -> 12h Level 3: 3d -> 1d Level 4: 4d 6h -> 3d"
+      },
+      {
+        "Date": "February 27, 2024",
+        "Description": "Added the level 6 Seeking Air Mine."
+      },
+      {
+        "Date": "June 18, 2024",
+        "Description": "Reduced upgrade cost at level 5 from 10,000,000 to 8,000,000. Reduced upgrade time at level 5 from 10d to 6d 12h."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the level 7 Seeking Air Mine. Added the ninth Seeking Air Mine available at Town Hall 17. Reduced build costs at levels 1, 5, and 6: Level 1: 15,000 -> 12,000 Level 5: 8,000,000 -> 6,000,000 Level 6: 14,000,000 -> 10,500,000 Reduced upgrade times at levels 5 and 6: Level 5: 6d 12h -> 5d Level 6: 12d 12h -> 9d 6h"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Trigger housing space increased from 4 to 5. Reduced build costs at levels 2 to 6: Level 2: 900,000 -> 600,000 Level 3: 1,600,000 -> 1,200,000 Level 4: 3,100,000 -> 2,500,000 Level 5: 6,000,000 -> 5,000,000 Level 6: 10,500,000 -> 6,500,000 Reduced upgrade times at levels 4 to 6: Level 4: 3d -> 2d Level 5: 5d -> 4d Level 6: 9d 6h -> 5d"
+      },
+      {
+        "Date": "October 6, 2025",
+        "Description": "Reduced upgrade times at levels 4 to 6: Level 4: 2d -> 1d 12h Level 5: 4d -> 3d Level 6: 5d -> 4d 12h"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade cost at level 7 from 14,000,000 to 12,000,000. Reduced upgrade time at level 7 from 10d to 5d 12h."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 8 Seeking Air Mine."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Trap_activate.ogg",
+        "Captions": "Trap triggered",
+        "Description": "When an air unit triggers the Seeking Air Mine"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:AirBomb_activate.ogg",
+        "Captions": "Seeking Air Mine seeks",
+        "Description": "Plays when the Seeking Air Mine follows its target"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:CannonCart_impact.ogg",
+        "Captions": "Seeking Air Mine explodes",
+        "Description": "When the Seeking Air Mine hits an aerial unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Rearm_Trap.ogg",
+        "Captions": "Trap re-armed",
+        "Description": "Plays when the Seeking Air Mine is re-armed (became unused since the April 2, 2019 update)"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For a similar trap that deals moderate splash damage, see Air Bomb . For a similar defense in the Builder Base and Clan Capital that deals heavy splash damage, see Air Bombs . For a similar ground trap that deals massive splash damage, see Giga Bomb . \"Is it a bird? Is it a plane? Well, it makes no difference as the Seeking Air Mine will blow it sky high. This trap does devastating damage to a single air unit .\" Idle Level 1-2 Level 3-4 Level 5-6 Level 7-8 Targeting Levels 1-2 Levels 3-4 Levels 5-6 Level 7 Summary The Seeking Air Mine is a single-target air trap . It consists of a spiky metallic bomb attached to three black balloons with white skulls painted onto them. While the Air Bomb is considered as the aerial counterpart of the Bomb , the Seeking Air Mine is considered the aerial counterpart of the Spring Trap , both dealing huge damage to a single target and has the potential to instantly defeat a troop, though it has a larger trigger radius and lacks a stun. This trap will target air units with at least 5 housing spaces (including Healers , Siege Machines , Heroes and Pets ). The only air troops with fewer than 5 housing spaces are Minions , Lava Pups (and other Pup variations), Bats , and Boogers , none of which can trigger the Seeking Air Mine, or get affected by it. The Angry Jelly cannot be targeted by the Seeking Air Mine while it is still brainwashing a Hero. Since the Seeking Air Mine can only target a single unit, unlike the Giga Bomb and Spear Trap from Clan Capital , the Seeking Air Mine only counts housing spaces of single troops, rather than summing up. Like all traps, once it is activated, the Seeking Air Mine must be re-armed in order to be a part of the next defense (with the exception of Clan Wars and in Legend League , where all traps are active for every enemy attack). Doing so is free and occurs automatically once the player logs into the game. Strategies Defensive Strategies A good place for the Seeking Air Mine is next to an Air Defense . When the enemy destroys an Air Defense and then deploys powerful flying units in the vicinity, the Seeking Air Mine can cripple one quickly, if not destroying one. Its inability to be used against Minions can work out in favor of the defender. This means that only larger troops , where the Seeking Air Mine has more utility in, such as Balloons , can be hit. The player can place it near the outside of their base to quickly take down any Healers that are deployed. However, more skilled players can deploy Balloons to test for Seeking Air Mines and defuse them. Therefore, it might be more advisable to place them deeper in the base, such as behind a row of defenses. It is best used on Dragons or any other powerful flying unit. One can even use this to easily take out Baby Dragons as Baby Dragons are usually deployed without cover from air units. Placing it next to the Town Hall to stop lone Dragons from destroying it. It is an effective way to counter a Grand Warden in air mode. They can do devastating damage, or knock him out in one hit if he is lower-leveled. This can be used to either force the attacker to use the Eternal Tome early (at a point in the attack where it is not important), or if the attacker does not react in time, prevent the Eternal Tome from activating at all, reducing the risk of a defensive loss. The same applies to the Minion Prince , although he can tank up to two Seeking Air Mines because of his higher health, given that he is at a higher level. For the Dragon Duke however, while alone, he can resist Seeking Air Mines, although he can be damaged like normal if nearby aerial units are close enough to him. Even then, because of his extremely high health, it may require multiple Seeking Air Mines to defeat him unless he is already heavily damaged. If the player has the setting \"Automatically use Hero abilities on KO\" turned on, the Grand Warden will be able to endure a hit from the Seeking Air Mine regardless of the level provided his ability has not yet been used. If the Seeking Air Mine would defeat him, the Grand Warden will use his ability and survive with barely any health remaining. It can be used to take down a Battle Blimp that is being used to finish off the Town Hall after a ground or air attack, due to the speed of the Seeking Air Mine being faster. However, this may have adverse effects since the Battle Blimp may spawn the Clan Castle troops in an unfavorable location, such as the P.E.K.K.A right near a Wizard Tower or even the Town Hall itself. At higher Town Hall levels, Seeking Air Mines can greatly reduce the health of aerial Siege Machines , or even destroy them early. The player can spread out Seeking Air Mines in their base, so that they can cover as many possible Siege Machine directions as possible. It is usually not recommended to group together multiple Seeking Air Mines since they will all target the same unit, effectively wasting them. However, at Town Hall 9, where Lava Hounds are used often with Balloons, double Seeking Air Mines can be placed near two Air Defenses, to greatly damage Lava Hounds and make them more vulnerable to getting taken out early. Offensive Strategies The Balloon is the best choice against this trap, as it occupies only 5 housing space. It gains even more value if too many traps are set off against once since they will all just hit the Balloon for nothing. This is useful in some Single Player maps where a level can contain hundreds of them as a single Balloon will trigger dozens of Seeking Air Mines and waste them all. In the Mashup Mania event, the player could also use the Ice Minion , since it is more housing space-efficient. However, since an update, the Seeking Air Mine requires at least 5 housing space to trigger, which means that the Ice Minion can no longer trigger Seeking Air Mines. [what update?] Using the Grand Warden's Eternal Tome ability can negate the damage done by the Seeking Air Mine, but if wishing to do so, activate the ability quickly, otherwise, the troop will get heavily damaged, if not get taken out. Success on the attacker's may be advantageous as they will have negated a powerful trap, but usually, the Eternal Tome is better used to negate damage from more dangerous sources, such as a Town Hall's Giga Bomb . Upgrade Differences When initially constructed, the Seeking Air Mine is a spherical, explosive contact mine made of metal with spikes as triggers and a small red dot at the center, some of which parts are hidden under a trapdoor just like the Air Bomb . Inside the mine, there is an explosive material, most likely trinitrotoluene , and produces red smoke as it flies to the target. Three black balloons with white skulls are attached to the mine via a metal handle. When triggered, the mine leaves a red trail and its red dot blinks repeatedly as it intercepts its target, and explodes with a red vertical cloud will appear once it hits, dealing massive damage. At level 3, the spikes on the Seeking Air Mine become bigger and turn golden, and the Seeking Air Mine can be seen more easily within its compartment as it opens up slightly. At level 5, the mine's red dot becomes bigger, and some spikes are replaced in favor of larger ones with metal reinforcements that hold them. When it follows its target, the dot lights up repeatedly. At level 7, the amount of spikes of the mine increases to five at the top, and are bigger in size, with each one resembling a cactus with a spike at the end. The mine itself changes into a grey base with a golden circle at the top. The balloons are now shinier, making them look like a 3D model, in addition to the skulls being slightly changed. Statistics Gold Pass modifiers Input Gold Pass boosts to modify the statistics in the tables below accordingly Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 0 1 2 4 10 11 12 13 14 15 16 17 18 5 5 6 7 8 8 8 9 9 Size 1x1 Level Damage Cost Build Time Experience Gained Town Hall Level Required 1 1,500 12,000 N/A N/A 7 2 1,800 600,000 6h 146 9 3 2,100 1,200,000 1d 293 10 4 2,500 2,500,000 1d 12h 360 13 5 2,800 5,000,000 2d 415 15 6 3,000 6,500,000 3d 509 16 7 3,200 12,000,000 5d 657 17 8 3,350 19,000,000 11d 12h 996 18 Trigger Radius Damage Type Unit Type Targeted Favorite Target 4 tiles Single Target Air None Unarmed Seeking Air Mine Icon Descriptions Tapping this icon displays information about the Seeking Air Mine, such as Level, Damage Type and Targets. Tapping this icon begins upgrading the Seeking Air Mine to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Seeking Air Mine is at maximum level, this icon is not shown. Tapping this icon instantly upgrades the Seeking Air Mine to the next level, at the cost of one Hammer of Building if you have one. When the Seeking Air Mine is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. History Date Description February 4, 2013 Announced the Seeking Air Mine. February 5, 2013 Added the Seeking Air Mine, with three levels and one is available at Town Hall 7, 8, and 9. April 17, 2013 Added the fourth Seeking Air Mine available at Town Hall 9. June 17, 2013 Added the fifth Seeking Air Mine available at Town Hall 10. November 6, 2013 Decreased trigger radius to 4 tiles. Seeking Air Mines now cost Gold instead of Dark Elixir. Seeking Air Mines can be re-armed instead of despawning upon activation. February 24, 2015 Seeking Air Mines can no longer be triggered by Healers. August 25, 2016 Seeking Air Mines can be triggered by Healers again. June 11, 2018 Added the sixth Seeking Air Mine available at Town Hall 12. April 2, 2019 Removed re-arm costs for the Seeking Air Mine entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game. December 9, 2019 Added the level 4 Seeking Air Mine. Added the seventh Seeking Air Mine available at Town Hall 13. March 30, 2020 Reduced upgrade costs at levels 2 and 3: Level 2: 2,000,000 -> 1,500,000 Level 3: 4,000,000 -> 3,000,000 April 12, 2021 Added the eighth Seeking Air Mine available at Town Hall 14. Reduced upgrade costs at levels 2 and 3: Level 2: 1,500,000 -> 1,000,000 Level 3: 3,000,000 -> 2,500,000 August 12, 2021 Increased speed from 2.5 tiles/s to 3.5 tiles/s. May 2, 2022 Increased damage at level 4 from 2,400 to 2,500. October 10, 2022 Reduced upgrade costs at levels 3 and 4: Level 3: 2,500,000 -> 2,100,000 Level 4: 6,000,000 -> 4,500,000 Reduced upgrade time at level 4 from 7d to 5d 6h. June 12, 2023 Added the level 5 Seeking Air Mine. Reduced upgrade cost at level 4 from 4,500,000 to 3,600,000. Reduced upgrade time at level 4 from 5d 6h to 4d 6h. December 12, 2023 Reduced upgrade costs at levels 2 to 4: Level 2: 1,000,000 -> 900,000 Level 3: 2,100,000 -> 1,600,000 Level 4: 3,600,000 -> 3,100,000 Reduced upgrade times at levels 2 to 4: Level 2: 1d -> 12h Level 3: 3d -> 1d Level 4: 4d 6h -> 3d February 27, 2024 Added the level 6 Seeking Air Mine. June 18, 2024 Reduced upgrade cost at level 5 from 10,000,000 to 8,000,000. Reduced upgrade time at level 5 from 10d to 6d 12h. November 25, 2024 Added the level 7 Seeking Air Mine. Added the ninth Seeking Air Mine available at Town Hall 17. Reduced build costs at levels 1, 5, and 6: Level 1: 15,000 -> 12,000 Level 5: 8,000,000 -> 6,000,000 Level 6: 14,000,000 -> 10,500,000 Reduced upgrade times at levels 5 and 6: Level 5: 6d 12h -> 5d Level 6: 12d 12h -> 9d 6h March 24, 2025 Trigger housing space increased from 4 to 5. Reduced build costs at levels 2 to 6: Level 2: 900,000 -> 600,000 Level 3: 1,600,000 -> 1,200,000 Level 4: 3,100,000 -> 2,500,000 Level 5: 6,000,000 -> 5,000,000 Level 6: 10,500,000 -> 6,500,000 Reduced upgrade times at levels 4 to 6: Level 4: 3d -> 2d Level 5: 5d -> 4d Level 6: 9d 6h -> 5d October 6, 2025 Reduced upgrade times at levels 4 to 6: Level 4: 2d -> 1d 12h Level 5: 4d -> 3d Level 6: 5d -> 4d 12h November 17, 2025 Reduced upgrade cost at level 7 from 14,000,000 to 12,000,000. Reduced upgrade time at level 7 from 10d to 5d 12h. February 23, 2026 Added the level 8 Seeking Air Mine. Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Trap_activate.ogg Trap triggered When an air unit triggers the Seeking Air Mine https://clashofclans.fandom.com/wiki/File:AirBomb_activate.ogg Seeking Air Mine seeks Plays when the Seeking Air Mine follows its target https://clashofclans.fandom.com/wiki/File:CannonCart_impact.ogg Seeking Air Mine explodes When the Seeking Air Mine hits an aerial unit https://clashofclans.fandom.com/wiki/File:Rearm_Trap.ogg Trap re-armed Plays when the Seeking Air Mine is re-armed (became unused since the April 2, 2019 update) Gallery Short Animations Images SeekingMineChinese.png Seeking Air Mine in the Chinese version (note that this version has the skulls removed) Trivia The Seeking Air Mine appears to come out of its compartment and then hits an air troop, causing a small, red vertical flash. The Seeking Air Mine is heavier than an Air Bomb , as it needs three balloons to carry it, which is most likely that the spiky metal ball has more weight than a wooden barrel. The Seeking Air Mine shares its initials with the Surface-to-Air Missile. Both are powerful, grounded explosives that devastate singular aerial units but are ineffective when enemies come in larger numbers, and are not used against weak aerial threats. After hitting an aerial unit, the bomb the balloons hold disappears, leaving deflated black balloons instead of an exploded one when triggered and viewed after a battle or when upgrading the trap. The same applies to the Air Bomb, but the colors are red. The Seeking Air Mine's description is a reference to the musical \"It's a Bird, It's a Plane, It's Superman\". Comparisons The Seeking Air Mine is the only trap that can knock out the Grand Warden set to air mode in one hit, provided that the Seeking Air Mine is max-leveled and the Grand Warden is not equipped with Equipment that increases his max health. The Seeking Air Mine has the highest damage out of all the traps. The Seeking Air Mine, the Spring Trap, and the Skeleton Trap are the only traps that do not do splash damage. Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

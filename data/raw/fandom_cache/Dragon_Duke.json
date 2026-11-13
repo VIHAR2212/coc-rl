@@ -1,0 +1,465 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Single Target",
+        "Movement Speed": "20",
+        "Attack Speed": "1.2s",
+        "Range": "0.3 tiles",
+        "Search Radius": "10 tiles",
+        "Passive Ability": "Royal Rampage",
+        "Ability Damage Increase": "100%",
+        "Ability Attack Speed Increase": "50%"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "304",
+        "Damage per Hit": "364.8",
+        "Hitpoints": "9,100",
+        "Health Recovery": "3,500",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "308",
+        "Damage per Hit": "369.6",
+        "Hitpoints": "9,175",
+        "Health Recovery": "3,500",
+        "Upgrade Cost": "50,000",
+        "Upgrade Time": "6h",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "312",
+        "Damage per Hit": "374.4",
+        "Hitpoints": "9,250",
+        "Health Recovery": "3,500",
+        "Upgrade Cost": "60,000",
+        "Upgrade Time": "12h",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "316",
+        "Damage per Hit": "379.2",
+        "Hitpoints": "9,325",
+        "Health Recovery": "3,500",
+        "Upgrade Cost": "70,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "320",
+        "Damage per Hit": "384",
+        "Hitpoints": "9,400",
+        "Health Recovery": "3,750",
+        "Upgrade Cost": "80,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "324",
+        "Damage per Hit": "388.8",
+        "Hitpoints": "9,475",
+        "Health Recovery": "3,750",
+        "Upgrade Cost": "90,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "328",
+        "Damage per Hit": "393.6",
+        "Hitpoints": "9,550",
+        "Health Recovery": "3,750",
+        "Upgrade Cost": "100,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "332",
+        "Damage per Hit": "398.4",
+        "Hitpoints": "9,625",
+        "Health Recovery": "3,750",
+        "Upgrade Cost": "110,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "336",
+        "Damage per Hit": "403.2",
+        "Hitpoints": "9,700",
+        "Health Recovery": "3,750",
+        "Upgrade Cost": "120,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "340",
+        "Damage per Hit": "408",
+        "Hitpoints": "9,775",
+        "Health Recovery": "4,000",
+        "Upgrade Cost": "130,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "344",
+        "Damage per Hit": "412.8",
+        "Hitpoints": "9,850",
+        "Health Recovery": "4,000",
+        "Upgrade Cost": "150,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "348",
+        "Damage per Hit": "417.6",
+        "Hitpoints": "9,925",
+        "Health Recovery": "4,000",
+        "Upgrade Cost": "175,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "352",
+        "Damage per Hit": "422.4",
+        "Hitpoints": "10,000",
+        "Health Recovery": "4,000",
+        "Upgrade Cost": "200,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "356",
+        "Damage per Hit": "427.2",
+        "Hitpoints": "10,075",
+        "Health Recovery": "4,000",
+        "Upgrade Cost": "225,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "360",
+        "Damage per Hit": "432",
+        "Hitpoints": "10,150",
+        "Health Recovery": "4,250",
+        "Upgrade Cost": "250,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "364",
+        "Damage per Hit": "436.8",
+        "Hitpoints": "10,225",
+        "Health Recovery": "4,250",
+        "Upgrade Cost": "275,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "368",
+        "Damage per Hit": "441.6",
+        "Hitpoints": "10,300",
+        "Health Recovery": "4,250",
+        "Upgrade Cost": "300,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "372",
+        "Damage per Hit": "446.4",
+        "Hitpoints": "10,375",
+        "Health Recovery": "4,250",
+        "Upgrade Cost": "325,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "376",
+        "Damage per Hit": "451.2",
+        "Hitpoints": "10,450",
+        "Health Recovery": "4,250",
+        "Upgrade Cost": "350,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "380",
+        "Damage per Hit": "456",
+        "Hitpoints": "10,525",
+        "Health Recovery": "4,500",
+        "Upgrade Cost": "375,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "384",
+        "Damage per Hit": "460.8",
+        "Hitpoints": "10,600",
+        "Health Recovery": "4,500",
+        "Upgrade Cost": "400,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "22",
+        "Damage per Second": "388",
+        "Damage per Hit": "465.6",
+        "Hitpoints": "10,675",
+        "Health Recovery": "4,500",
+        "Upgrade Cost": "420,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "23",
+        "Damage per Second": "392",
+        "Damage per Hit": "470.4",
+        "Hitpoints": "10,750",
+        "Health Recovery": "4,500",
+        "Upgrade Cost": "440,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "24",
+        "Damage per Second": "396",
+        "Damage per Hit": "475.2",
+        "Hitpoints": "10,825",
+        "Health Recovery": "4,500",
+        "Upgrade Cost": "460,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "25",
+        "Damage per Second": "400",
+        "Damage per Hit": "480",
+        "Hitpoints": "10,900",
+        "Health Recovery": "4,750",
+        "Upgrade Cost": "480,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Date": "February 19-21, 2026",
+        "Description": "Teased the Dragon Duke on various social media posts being chained up, dragon, roaring, grunting and chain clinking sounds, and lots of dragons flying around a volcano. In the \"Clash On\" video, more information is coming."
+      },
+      {
+        "Date": "February 22, 2026",
+        "Description": "Officially announced the Dragon Duke."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the Dragon Duke to the game, but it is not immediately available yet. The community has to free it by collecting Dark Elixir and opening doors for rewards. Announced the Unleash the Duke event."
+      },
+      {
+        "Date": "February 27, 2026",
+        "Description": "Explained how the Dragon Duke works."
+      },
+      {
+        "Date": "March 1, 2026",
+        "Description": "The Dragon Duke has been freed from his imprisonment, along with new event challenges that involves him."
+      },
+      {
+        "Date": "May 26, 2026",
+        "Description": "Decreased trap damage reduction from 50% to 40%"
+      },
+      {
+        "Date": "July 14, 2026",
+        "Description": "Decreased trap damage reduction from 40% to 20%"
+      }
+    ],
+    [
+      {
+        "Skin": "Imprisoned Duke",
+        "Class": "Legendary",
+        "Season Available": "March 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Showmaster Duke",
+        "Class": "Legendary",
+        "Season Available": "April 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Skeleton Duke",
+        "Class": "Legendary",
+        "Season Available": "May 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Fury Duke",
+        "Class": "Gold",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Majestic Dragon Duke",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "Available as a reward from Hero's Journey once a cumulative total of 480 Hero levels is attained."
+      },
+      {
+        "Skin": "Hydra Duke",
+        "Class": "Legendary",
+        "Season Available": "July 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Drakan Duke",
+        "Class": "Legendary",
+        "Season Available": "August 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Kane Duke",
+        "Class": "Legendary",
+        "Season Available": "September 2026",
+        "Notes": "Based on the WWE wrestler Kane , as part of the Search for Cena collaboration season."
+      },
+      {
+        "Skin": "Behemoth Duke",
+        "Class": "Legendary",
+        "Season Available": "October 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Titan Duke",
+        "Class": "Legendary",
+        "Season Available": "November 2026",
+        "Notes": ""
+      }
+    ],
+    [
+      {
+        "Sound Effects": "https://clashofclans.fandom.com/wiki/File:DragonDuke_interact.mp3",
+        "Captions": "Dragon Duke flexes and breathes fire",
+        "Description": "When tapping the Dragon Duke in the village"
+      },
+      {
+        "Sound Effects": "https://clashofclans.fandom.com/wiki/File:DragonDuke_Summon.mp3",
+        "Captions": "Dragon Duke deploys",
+        "Description": "When the Dragon Duke is deployed"
+      },
+      {
+        "Sound Effects": "https://clashofclans.fandom.com/wiki/File:DragonDuke_Rage.mp3",
+        "Captions": "Dragon Duke roars",
+        "Description": "Plays when the Dragon Duke is not within 6 units of every air unit (except for aerial Pets; only as an offense hero)"
+      },
+      {
+        "Sound Effects": "https://clashofclans.fandom.com/wiki/File:DragonDuke_slash1.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_slash2.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_slash3.mp3",
+        "Captions": "Dragon Duke slashes",
+        "Description": "Plays when the Dragon Duke attacks when there are aerial units nearby"
+      },
+      {
+        "Sound Effects": "https://clashofclans.fandom.com/wiki/File:DragonDuke_breath1.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_breath2.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_breath3.mp3",
+        "Captions": "Dragon Duke breathes fire",
+        "Description": "Ditto, but without air units near the Dragon Duke"
+      },
+      {
+        "Sound Effects": "https://clashofclans.fandom.com/wiki/File:DragonDuke_knockout.mp3",
+        "Captions": "Dragon Duke grunts while being chained up",
+        "Description": "When the Dragon Duke is defeated"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Neutral1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Neutral2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Neutral3.mp3",
+        "Caption": "Dragon Duke talks",
+        "Description": "When the Dragon Duke is talking during a dialogue"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Happy1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Happy2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Happy3.mp3",
+        "Caption": "Dragon Duke talks confidently"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Angry1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Angry2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Angry3.mp3",
+        "Caption": "Dragon Duke growls"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Scared1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Scared2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Scared3.mp3",
+        "Caption": "Dragon Duke hesitates"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the troops, see Baby Dragon and Dragon . \"Locked away for his anger issues, this tanky Flying Hero gets madder and mightier when separated from Friendly Flying units . His royal rampage boosts damage by 100%, attack speed by 50%, and reduces damage taken from traps . When defending, he can only be attacked by air-targeting enemies.\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 Hero Equipments 5 History 6 Hero Skins 6.1 Skin Availability 6.2 Dragon Duke Skins 6.3 Dragon Duke Skin Features 6.4 Notes 7 Audio 7.1 General 7.2 Dialogue 8 Gallery 8.1 Images 8.2 Concept Art 9 Trivia 9.1 General 9.2 Comparisons Summary [ ] The Dragon Duke is the second aerial Hero and the sixth overall in terms of release who attacks all targets from melee range, introduced on March 1, 2026. He is unlocked by upgrading the Hero Hall to level 9, which requires Town Hall 15. As a Hero, the Dragon Duke can participate in both attack and defense, but will not be available to use if he is being upgraded. Like other Heroes, he is not upgraded in the Laboratory but rather upgraded with a Builder . On his default skin, the Dragon Duke otherwise appears similar to a Dragon , except he is larger and bulkier, with a crimson body and a thistle-colored underside. He has orange eyes, thistle eyebrows, three short, thick yellow horns on top of his head (two of them being curved and parallelepiped and the center being shorter and flatter), and yellow rectangular plates on his back. The bottom part of his mouth is also thistle-colored, with a similar layout to the Electro Dragon but with spikes on some parts. He also has a pair of handcuffs tied on his wrists and metal chains held by a golden lock in the center. Like the Minion Prince , the Dragon Duke will defend the village when assigned to a Hero Banner . The Dragon Duke only defends his territory around his banner and will retreat if lured too far out. He does not need to be defeated for an attack to end in a 3-star. When defending, the Dragon Duke will fly, making him unreachable by units that only target ground such as the Barbarian King . He can neither use his passive ability nor use his Hero Equipment during this time. As a Hero, the Dragon Duke has an ability that can be used once per battle which allows him to recover some of his health, with the amount increasing every fifth level. The Hero Equipment that he wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase. When unlocked, the Dragon Duke starts with the Fire Heart and Flame Blower. The Fire Heart allows the Dragon Duke to create a large death explosion. It gives a passive increase to damage and max health, and grants him self healing. The Flame Blower creates a cone of fire forward from the Dragon Duke and deals significant damage, similar to the Baby Dragon in the Builder Base, and grants an increased health recovery. It gives a passive increase to maximum health. Upgrading the Blacksmith to level 9 and 10 unlocks the Stun Blaster and Electro Fangs, respectively. The Stun Blaster creates a stunning shockwave around the Dragon Duke that stuns and damages buildings and defending troops except resource buildings and Walls , and grants an increased health recovery. It gives a passive increase to damage and maximumm health. The Electro Fangs allows the Dragon Duke's regular attacks to gain the chain lightning effect, jumping to additional targets beyond the Duke's original target. It gives a passive increase to maximum health. The Dragon Duke has a passive ability known as the Royal Rampage, that allows him to deal twice the damage and attack 1.5 times faster when he is by himself without other air units within 6 tiles, effectively dealing thrice the normal damage per second, the same as the Baby Dragon , but also reduces the damage from traps by 20%. He attacks by either clawing the target when aerial units are within 6 tiles of him, or breathing fire on it when rampaging. This ability is not disabled by the Dragon Duke's Pet if it is flying, like the Angry Jelly , but flying Pets from other Heroes will disable this ability. Summoned units from Pets (like Boogers from Sneezy ) can disable this ability. If the Dragon Duke is defeated while his Pet survives, that Pet will no longer be considered his own for this particular interaction; if the Dragon Duke is revived later by a Revive Spell , his Pet can disable the ability. The Phoenix does not disable the Royal Rampage ability when she hatches and revives the Dragon Duke, but only while her ability is active. Strategies [ ] Offensive Strategies [ ] The six Home Village Heroes serve different roles in raids. The Barbarian King is the strength specialist, the Minion Prince is the air specialist, the Archer Queen is the speed specialist, the Grand Warden is the support specialist, the Royal Champion is the offense specialist, and the Dragon Duke is the solo specialist. When alone, the Dragon Duke can prove to be a very powerful Hero, able to destroy a compartment by himself with the help of his Flame Blower or Stun Blaster and Fire Heart , depending on the strategy. He is also resistant to trap damage, allowing him to endure Seeking Air Mines with ease. Be careful, as a single air unit (like Minions and Balloons ) can disable this ability, so keep in mind. By far the most common Pets to use with the Dragon Duke are the Phoenix and the Angry Jelly . The former allows the Dragon Duke to resurrect him temporarily, especially when he is equipped with the Fire Heart's ability to deal huge amounts of damage, especially when sent alone. The latter pet allows the Dragon Duke to specifically target defenses temporarily, which can be a viable option for destroying major defenses, and can sometimes be paired with Lightning and Earthquake Spells . These aerial Pets will not disable the Dragon Duke's passive ability. Other aerial Pets can be used, like the Greedy Raven and the Electro Owl , but the former only targets resource buildings while the latter cannot keep up with the Dragon Duke. Do not use Sneezy with him, as this will disable his Royal Rampage, rendering him vulnerable to aerial traps via her Boogers . In air attacks involving Dragons , Dragon Riders , Electro Dragons , or a combination of these, he is treated as a tank for those units (similar to the Lava Hound ), usually paired with the Minion Prince and the Grand Warden set to Air mode. Their high hitpoints can protect him from taking too much damage, but due to his shorter range, he may be exposed to aerial traps , but he can also protect them in return. He may not use his Royal Rampage ability, but with the Stun Blaster , he can prevent major defenses from dealing damage to the army, especially single-target Inferno Towers , Monoliths , and Revenge Towers from taking them down, provided if used correctly. Be mindful of the defending Dragon Duke, as he is untargetable by units which target ground. Use Dragons, Baby Dragons, the Archer Queen , the Royal Champion , or other units that target air to knock him out of battle, owing to his extremely high hitpoints. As the Dragon Duke is one of the Heroes with the highest hitpoints, using Revive Spells when he is knocked out can be extremely powerful as they allow him to continually wreak havoc onto the base, increasing the chances of a successful attack. He can become overwhelmed by swarms like Skeletons from Witches and Skeleton Traps , as he attacks one target at a time, even when using his fiery breath. However, this does not happen if he still has his Ability. The Flame Blower is able to take out all the Skeletons in front of him. The Stun Blaster deals enough damage to take out the Skeletons in a huge radius. And the Rocket Backpack not only takes out the Skeletons, but also causes the Dragon Duke to fly to the other side of the map. Defensive Strategies [ ] Aerial traps like Seeking Air Mines are not as effective when the Dragon Duke is alone. However, if the attacker accidentally places an aerial unit near him, this disables his Royal Rampage ability, allowing the Seeking Air Mines to significantly damage him if not knock him out of battle. Clan Castle troops like Super Minions and Inferno Dragons can deal significant damage to the Dragon Duke, allowing them to eventually defeat him. However, this would take a while to do so, which means that they will eventually get taken out by him. Since the Dragon Duke is a single-target Hero, Witches can summon Skeletons that distract and eventually overwhelm him, buying time for defenses to quickly deal damage to him before he does too much damage to the base. However, if he has the Flame Blower ability still active, the attacker can use it to destroy the Witches and damage any nearby buildings, rendering it useless. It is only when it was already used does the strategy work on him. The Stun Blaster can also work in this regard, because it also stuns the Witches, allowing the Dragon Duke to take them out. The Barbarian King and the Dragon Duke work together in defending against ground and air units. While the Barbarian King may not target air units, he can tank the damage while the Dragon Duke deals with them. Against ground targets, the Dragon Duke can deal with them without being damaged, unless if units that target air are in the main army, where he would tank the damage. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Movement Speed Attack Speed Range Search Radius Passive Ability Ability Damage Increase Ability Attack Speed Increase None Single Target 20 1.2s 0.3 tiles 10 tiles Royal Rampage 100% 50% Level Damage per Second Damage per Hit Hitpoints Health Recovery Upgrade Cost Upgrade Time Hero Hall Level Required Town Hall Level Required 1 304 364.8 9,100 3,500 N/A N/A 9 15 2 308 369.6 9,175 3,500 50,000 6h 9 15 3 312 374.4 9,250 3,500 60,000 12h 9 15 4 316 379.2 9,325 3,500 70,000 1d 9 15 5 320 384 9,400 3,750 80,000 1d 9 15 6 324 388.8 9,475 3,750 90,000 2d 9 15 7 328 393.6 9,550 3,750 100,000 2d 9 15 8 332 398.4 9,625 3,750 110,000 2d 9 15 9 336 403.2 9,700 3,750 120,000 3d 9 15 10 340 408 9,775 4,000 130,000 3d 9 15 11 344 412.8 9,850 4,000 150,000 4d 10 16 12 348 417.6 9,925 4,000 175,000 5d 10 16 13 352 422.4 10,000 4,000 200,000 5d 10 16 14 356 427.2 10,075 4,000 225,000 6d 10 16 15 360 432 10,150 4,250 250,000 6d 10 16 16 364 436.8 10,225 4,250 275,000 7d 11 17 17 368 441.6 10,300 4,250 300,000 7d 11 17 18 372 446.4 10,375 4,250 325,000 8d 11 17 19 376 451.2 10,450 4,250 350,000 8d 11 17 20 380 456 10,525 4,500 375,000 8d 11 17 21 384 460.8 10,600 4,500 400,000 8d 12 18 22 388 465.6 10,675 4,500 420,000 8d 12 18 23 392 470.4 10,750 4,500 440,000 8d 12 18 24 396 475.2 10,825 4,500 460,000 8d 12 18 25 400 480 10,900 4,750 480,000 8d 12 18 Hero Equipments [ ] When attacking, the Dragon Duke can use two of the below pieces of Hero Equipment, which change the abilities he has and grants additional stat bonuses. The Dragon Duke does not use any Hero Equipment when defending. Select the equipment below to learn more about the abilities and stat bonuses that each piece gives. Fire Heart Flame Blower Stun Blaster Electro Fangs Rocket Backpack Revenge Deck History [ ] Date Description February 19-21, 2026 Teased the Dragon Duke on various social media posts being chained up, dragon, roaring, grunting and chain clinking sounds, and lots of dragons flying around a volcano. In the \"Clash On\" video, more information is coming. February 22, 2026 Officially announced the Dragon Duke. February 23, 2026 Added the Dragon Duke to the game, but it is not immediately available yet. The community has to free it by collecting Dark Elixir and opening doors for rewards. Announced the Unleash the Duke event. February 27, 2026 Explained how the Dragon Duke works. March 1, 2026 The Dragon Duke has been freed from his imprisonment, along with new event challenges that involves him. May 26, 2026 Decreased trap damage reduction from 50% to 40% July 14, 2026 Decreased trap damage reduction from 40% to 20% Hero Skins [ ] Skin Availability [ ] Below is a table that lists all Hero skins for the Dragon Duke  and the month in which they were available, in chronological order. Skins are divided into three classes: Gold denotes a skin that was featured as a Gold Pass skin in Season Challenges . All Hero Skins from the Gold Pass since April 2023 have been available as the first reward on the Gold track. Prior to this, they have all been the last reward on the Gold track unless specified. All Gold skins are available permanently for purchase at a price of 1,500 Gems exactly a year after the skin was originally offered in the Gold Pass. Once available in the Shop, they may also be found in Legendary-rated Treasure Chests after the loot pool is refreshed in game updates. Standard and Legendary denotes skins not available from the Gold Pass that were available only through a special offer or event. Unless otherwise stated in the notes, these skins' special offers were available in the season listed, and cost the equivalent of $3.99 USD for Standard skins, or $9.99 USD for Legendary skins. The notes section may also include additional context of an offer. Skin from collaboration are not available for re-purchase in the Cosmetics tab. Key for highlighted entries: Entries that are highlighted denote that the skin is available in the current Season Challenges season. Entries marked with a Coathanger denote a Standard or Legendary skin that is permanently available for re-purchase in the cosmetics tab at the original price when the skin was originally offered. Entries marked with a Gem denote that the skin is purchasable with Gems; all skins currently purchasable in this manner cost 1,500 . Entries marked with a Yellow Star denote that the skin is exclusive; these skins will not be available for re-purchase in the future. Skin Class Season Available Notes Imprisoned Duke Legendary March 2026 Showmaster Duke Legendary April 2026 Skeleton Duke Legendary May 2026 Anime Fury Duke Gold June 2026 Majestic Dragon Duke Legendary June 2026 Available as a reward from Hero's Journey once a cumulative total of 480 Hero levels is attained. Hydra Duke Legendary July 2026 Drakan Duke Legendary August 2026 Kane Duke Legendary September 2026 Based on the WWE wrestler Kane , as part of the Search for Cena collaboration season. Behemoth Duke Legendary October 2026 Titan Duke Legendary November 2026 Dragon Duke Skins [ ] Dragon Duke Skin Features [ ] Notes [ ] Audio [ ] General [ ] These are the sound effects that are used for the Dragon Duke in his default skin. Sound Effects Captions Description https://clashofclans.fandom.com/wiki/File:DragonDuke_interact.mp3 Dragon Duke flexes and breathes fire When tapping the Dragon Duke in the village https://clashofclans.fandom.com/wiki/File:DragonDuke_Summon.mp3 Dragon Duke deploys When the Dragon Duke is deployed https://clashofclans.fandom.com/wiki/File:DragonDuke_Rage.mp3 Dragon Duke roars Plays when the Dragon Duke is not within 6 units of every air unit (except for aerial Pets; only as an offense hero) https://clashofclans.fandom.com/wiki/File:DragonDuke_slash1.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_slash2.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_slash3.mp3 Dragon Duke slashes Plays when the Dragon Duke attacks when there are aerial units nearby https://clashofclans.fandom.com/wiki/File:DragonDuke_breath1.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_breath2.mp3 https://clashofclans.fandom.com/wiki/File:DragonDuke_breath3.mp3 Dragon Duke breathes fire Ditto, but without air units near the Dragon Duke https://clashofclans.fandom.com/wiki/File:DragonDuke_knockout.mp3 Dragon Duke grunts while being chained up When the Dragon Duke is defeated Dialogue [ ] Sound Effect Caption Description https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Neutral1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Neutral2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Neutral3.mp3 Dragon Duke talks When the Dragon Duke is talking during a dialogue https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Happy1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Happy2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Happy3.mp3 Dragon Duke talks confidently https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Angry1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Angry2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Angry3.mp3 Dragon Duke growls https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Scared1.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Scared2.mp3 https://clashofclans.fandom.com/wiki/File:Dragon_Duke_Scared3.mp3 Dragon Duke hesitates Gallery [ ] Images [ ] Info image Concept Art [ ] Concepts design of Dragon Duke Concepts for the Equipment Trivia [ ] General [ ] At the end of the February Wise Warriors medal event, a lock and some chains are shown, teasing the existence of the Dragon Duke, similar to previous medal event having an object that teases the theme of the next one. Before the Dragon Duke is released, most of the UI that for it is grayed out. When tapping on buttons that leads to more information about the Hero, it will show a red warning message like \" Breaking loose soon! \" and \" Imprisoned! Coming to Hero Hall Level 9 soon! \". The only information released on the February 22, 2026 sneak peek is his appearance, the look of his Equipment, which Town Hall and Hero Hall he is unlocked at, and a description in the Chief's Journey (\"A tough and fiery Hero who fights better alone.\"). Strangely, despite being based on the Dragon , the Dragon Duke's attacks seems to lack splash damage as opposed to the regular Dragon, whose attacks deal splash damage in a small radius. Comparisons [ ] The Dragon Duke is one of the Heroes that can fly, the others being the Grand Warden , Minion Prince , and Battle Copter . Despite being a Dragon, his passive ability is the same as the Baby Dragon , with an extra bonus of trap damage reduction. His equipment is same as the other Dragons' abilities. The Fire Heart provides a lethal death damage explosion when the Duke is defeated, functioning similarly to the Dragon Rider damage upon death, although with a much bigger radius. The Flame Blower is an exact copy of the Fiery Sneeze ability from the Baby Dragon in Builder Base, although with much more range and damage. The Electro Fangs grants a chain lightning effect on every strike, similiar to Electro Dragon . The Dragon Duke is the second non-human Hero in the game, the first being the Minion Prince. The Dragon Duke is the only Hero in the game which he is maxed out for the first week alongside his Equipment when released to all players before the update. In addition, his Hero Skin, the Imprisoned Duke skin, was released at the same time he was released. The Dragon Duke is the first and currently the only Hero in the game to have a passive ability of his own, that activates when he is on offense if there are no other aerial units nearby. The Dragon Duke is the Hero with the least amount of levels in the Home Village, with 25. The Dragon Duke is the first Hero in the game with an alliterated name. Unlike other Heroes, the Dragon Duke does not have any Equipment that summons troops (eg: puppets). This is most likely due to his ability being disabled when summoned aerial troops are nearby, effectively reducing his overall power. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

@@ -1,0 +1,239 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "": "Level 20"
+      }
+    ],
+    [
+      {
+        "Spring Weight": "18",
+        "Preferred Target": "Defenses",
+        "Attack Type": "Single Target",
+        "Movement Speed": "14",
+        "Attack Speed": "2s",
+        "Builder Barracks Level Required": "3",
+        "Number of Units per Army Camp": "1",
+        "Range": "1 tile"
+      }
+    ],
+    [
+      {
+        "Special Abilities": "Boxer Block (Activated Ability)"
+      },
+      {
+        "Special Abilities": "Blocks all damage for a duration when activated"
+      }
+    ],
+    [
+      {
+        "Level": "3",
+        "Damage per Second": "65",
+        "Damage per Attack": "130",
+        "Hitpoints": "2,530",
+        "Boxer Block Duration": "N/A",
+        "Power Punch Damage": "550",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "65",
+        "Damage per Attack": "130",
+        "Hitpoints": "2,530",
+        "Boxer Block Duration": "5s",
+        "Power Punch Damage": "550",
+        "Research Cost": "60,000",
+        "Research Time": "5h",
+        "Star Laboratory Level Required": "3"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "70",
+        "Damage per Attack": "140",
+        "Hitpoints": "2,783",
+        "Boxer Block Duration": "5s",
+        "Power Punch Damage": "550",
+        "Research Cost": "120,000",
+        "Research Time": "10h",
+        "Star Laboratory Level Required": "3"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "70",
+        "Damage per Attack": "140",
+        "Hitpoints": "2,783",
+        "Boxer Block Duration": "5s",
+        "Power Punch Damage": "700",
+        "Research Cost": "240,000",
+        "Research Time": "16h",
+        "Star Laboratory Level Required": "3"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "76",
+        "Damage per Attack": "152",
+        "Hitpoints": "3,061",
+        "Boxer Block Duration": "5s",
+        "Power Punch Damage": "700",
+        "Research Cost": "350,000",
+        "Research Time": "20h",
+        "Star Laboratory Level Required": "4"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "76",
+        "Damage per Attack": "152",
+        "Hitpoints": "3,061",
+        "Boxer Block Duration": "6s",
+        "Power Punch Damage": "700",
+        "Research Cost": "380,000",
+        "Research Time": "1d",
+        "Star Laboratory Level Required": "4"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "83",
+        "Damage per Attack": "166",
+        "Hitpoints": "3,367",
+        "Boxer Block Duration": "6s",
+        "Power Punch Damage": "700",
+        "Research Cost": "1,000,000",
+        "Research Time": "1d 12h",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "83",
+        "Damage per Attack": "166",
+        "Hitpoints": "3,367",
+        "Boxer Block Duration": "6s",
+        "Power Punch Damage": "950",
+        "Research Cost": "1,200,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "91",
+        "Damage per Attack": "182",
+        "Hitpoints": "3,704",
+        "Boxer Block Duration": "6s",
+        "Power Punch Damage": "950",
+        "Research Cost": "1,300,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "91",
+        "Damage per Attack": "182",
+        "Hitpoints": "3,704",
+        "Boxer Block Duration": "7s",
+        "Power Punch Damage": "950",
+        "Research Cost": "1,500,000",
+        "Research Time": "2d 12h",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "100",
+        "Damage per Attack": "200",
+        "Hitpoints": "4,075",
+        "Boxer Block Duration": "7s",
+        "Power Punch Damage": "950",
+        "Research Cost": "2,300,000",
+        "Research Time": "3d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "100",
+        "Damage per Attack": "200",
+        "Hitpoints": "4,075",
+        "Boxer Block Duration": "7s",
+        "Power Punch Damage": "1,150",
+        "Research Cost": "2,500,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "109",
+        "Damage per Attack": "218",
+        "Hitpoints": "4,482",
+        "Boxer Block Duration": "7s",
+        "Power Punch Damage": "1,150",
+        "Research Cost": "3,300,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "109",
+        "Damage per Attack": "218",
+        "Hitpoints": "4,482",
+        "Boxer Block Duration": "7.5s",
+        "Power Punch Damage": "1,150",
+        "Research Cost": "3,500,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "119",
+        "Damage per Attack": "238",
+        "Hitpoints": "4,930",
+        "Boxer Block Duration": "7.5s",
+        "Power Punch Damage": "1,150",
+        "Research Cost": "4,000,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "119",
+        "Damage per Attack": "238",
+        "Hitpoints": "4,930",
+        "Boxer Block Duration": "7.5s",
+        "Power Punch Damage": "1,400",
+        "Research Cost": "4,200,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "129",
+        "Damage per Attack": "258",
+        "Hitpoints": "5,423",
+        "Boxer Block Duration": "7.5s",
+        "Power Punch Damage": "1,400",
+        "Research Cost": "4,800,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "129",
+        "Damage per Attack": "258",
+        "Hitpoints": "5,423",
+        "Boxer Block Duration": "8s",
+        "Power Punch Damage": "1,400",
+        "Research Cost": "5,400,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Home Village counterpart, see Giant . For his larger version, see Giant Giant . \"Heavy-handed and built like an ox, these Giants have been practicing their haymaker punch!\" Level 3-7 Level 8-11 Level 12-15 Level 16-19 Level 20 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 Gallery 6 Trivia Summary The Boxer Giant is the third Builder Base Troop unlocked in the Builder Barracks of the Builder Base. He is the Builder Base troop version of the Giant . Like regular Giants, Boxer Giants are ground melee units with high hitpoints but low attack damage. Boxer Giants prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Guard Post troops or Zappies . Once all defenses are destroyed, Boxer Giants become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby. They resemble regular Giants but have no tunics; instead, they wear boxing gloves, and are bare-chested. The Boxer Giant has two abilities: Power Punch and Boxer Block . The Power Punch ability is a passive ability that allows the Boxer Giant to deal a set amount of damage on the first punch (higher than what the Giant would normally do), and is activated when the Giant attacks for the first time. The Boxer Block ability, unlocked at level 4, is an activated ability that allows the Boxer Giant to be invulnerable to damage during a short amount of time. It can be activated once per battle. Strategies Offensive Strategies They can serve as a meat shield for weaker units like Cannon Carts , taking hits from defenses and triggering any Mine or Mega Mine traps. A good strategy is to use 2-3 Army Camps worth of Boxer Giants with the remainder being used for Cannon Carts . If the Battle Machine is available, you can use 2 Army Camps of Boxer Giants and 4 Army Camps of Cannon Carts . If it is upgrading, you can use 3 Army Camps of Boxer Giants and 3 Army Camps of Cannon Carts . Their Power Punch ability can be used to take out unprotected air-targeting defenses, allowing the attacker to clear off the rest of the base using Air Troops. As they primarily target defenses, they can be used to reach defenses behind a layer of other buildings. However, these should not be high hitpoint buildings that will stall any support troops. The Boxer Block ability can be used on high-damage areas, which is which can be useful to make him immune to damage from defenses such as Crushers and Mega Teslas. Defensive Strategies Boxer Giants have a low DPS after their initial hit, so surrounding your defenses with Walls is effective. Using a Push Trap to push Boxer Giants behind weaker support can be devastating when done correctly. They can also be used to push Boxer Giants into the center of the base, ahead of support troops. High hitpoint Buildings placed before defenses can allow support troops for Boxer Giants to get distracted, leaving the Boxer Giants to get taken out. Note: Engineered gaps in Walls are needed for this strategy. The Crusher is effective against a Boxer Giant, as its melee range means that he will be hit by the Crusher as they engage. The high damage per hit enables the Crusher to destroy a relative-level Boxer Giant in a few hits, unless if he activates his Boxer Block ability, although for a limited time. Upgrade Differences The Boxer Giant undergoes significant visual changes at levels 4, 8, 16 and 20. Initially, the Boxer Giant resembles the normal Giant, but is bare-chested and wears a red belt with a rectangular buckle, vandyke-colored pants, and a white band around his wrists and arms. He attacks by punching or slamming the target much like his Home Village counterpart. At level 4 and above, he gains a bottle filled with yellow liquid inside at the front of his buckle. When he activates his active ability, he briefly stops and drinks the bottle to become invincible for a short duration. At level 8, he starts wearing deep livid boxing gloves in addition to his previous outfit. At level 12, he gains gold knuckles around his fingers and the color of the gloves get slightly darker. At level 16, his gloves and most of his belt buckle turn black. At level 20, he gets gold plates on the back of his palms. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Spring Weight Preferred Target Attack Type Movement Speed Attack Speed Builder Barracks Level Required Number of Units per Army Camp Range 18 Defenses Single Target 14 2s 3 1 1 tile Special Abilities Boxer Block (Activated Ability) Power Punch (Passive Ability) Blocks all damage for a duration when activated First attack deals set damage Level Damage per Second Damage per Attack Hitpoints Boxer Block Duration Power Punch Damage Research Cost Research Time Star Laboratory Level Required 3 65 130 2,530 N/A 550 N/A N/A N/A 4 65 130 2,530 5s 550 60,000 5h 3 5 70 140 2,783 5s 550 120,000 10h 3 6 70 140 2,783 5s 700 240,000 16h 3 7 76 152 3,061 5s 700 350,000 20h 4 8 76 152 3,061 6s 700 380,000 1d 4 9 83 166 3,367 6s 700 1,000,000 1d 12h 5 10 83 166 3,367 6s 950 1,200,000 2d 5 11 91 182 3,704 6s 950 1,300,000 2d 6 12 91 182 3,704 7s 950 1,500,000 2d 12h 6 13 100 200 4,075 7s 950 2,300,000 3d 12h 7 14 100 200 4,075 7s 1,150 2,500,000 4d 12h 7 15 109 218 4,482 7s 1,150 3,300,000 5d 12h 8 16 109 218 4,482 7.5s 1,150 3,500,000 5d 12h 8 17 119 238 4,930 7.5s 1,150 4,000,000 6d 9 18 119 238 4,930 7.5s 1,400 4,200,000 6d 9 19 129 258 5,423 7.5s 1,400 4,800,000 6d 12h 10 20 129 258 5,423 8s 1,400 5,400,000 6d 12h 10 Gallery Trivia The design of the Boxer Giant is very similar to Lou the Giant from Clash-A-Rama Episode 1 when he was fighting against a Level 10 Cannon. This video was made before the Builder Base was announced. Without his ability, the Boxer Giant is one of the four Builder Base Troops not to have unique sounds when deployed, attacking, and dying, the others being the Raged Barbarian , Baby Dragon , and the Power P.E.K.K.A (without her ability). In the picture, his belt buckle is square, but in battle, the buckle is rectangle. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

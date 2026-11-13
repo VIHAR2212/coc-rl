@@ -1,0 +1,257 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "0",
+        "8": "0",
+        "9": "0"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "2",
+        "7": "2",
+        "8": "2",
+        "9": "2"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Unlocks": "Rage Spell",
+        "Hitpoints": "2,500",
+        "Cost": "9,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "2",
+        "Unlocks": "Poison Spell",
+        "Hitpoints": "2,800",
+        "Cost": "11,000,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "3",
+        "Unlocks": "Invisibility Spell",
+        "Hitpoints": "3,100",
+        "Cost": "12,000,000",
+        "Build Time": "8d 12h",
+        "Experience Gained": "856",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "4",
+        "Unlocks": "Earthquake Spell",
+        "Hitpoints": "3,200",
+        "Cost": "27,000,000",
+        "Build Time": "10d",
+        "Experience Gained": "929",
+        "Town Hall Level Required": "17"
+      }
+    ],
+    [
+      {
+        "Range": "9 tiles",
+        "Spell Radius": "5 tiles",
+        "Spell Duration": "18s",
+        "Damage Increase": "60%",
+        "Recharge Time": "70s",
+        "Trigger": "Target in range",
+        "Targets": "Ground & Air",
+        "Deploy Position": "Spell Tower"
+      }
+    ],
+    [
+      {
+        "Range": "9 tiles",
+        "Spell Radius": "5 tiles",
+        "Spell Duration": "12s",
+        "Max Damage per Second": "60",
+        "Speed Decrease": "35%",
+        "Attack Rate Decrease": "25%",
+        "Recharge Time": "70s",
+        "Trigger": "Target in range",
+        "Targets": "Ground & Air",
+        "Deploy Position": "Target"
+      }
+    ],
+    [
+      {
+        "Range": "4.5 tiles",
+        "Spell Radius": "4.5 tiles",
+        "Spell Duration": "4.5s",
+        "Recharge Time": "50s",
+        "Trigger": "Building in range is hit",
+        "Targets": "Ground & Air",
+        "Deploy Position": "Spell Tower"
+      }
+    ],
+    [
+      {
+        "Range": "9 tiles",
+        "Spell Radius": "4.7 tiles",
+        "Troop Damage %": "30%",
+        "Recharge Time": "50s",
+        "Trigger": "Target in range",
+        "Targets": "Ground",
+        "Deploy Position": "Target"
+      }
+    ],
+    [
+      {
+        "Counterspell": "Description"
+      },
+      {
+        "Counterspell": "Destroy 40 Spell Towers in Multiplayer Battles"
+      },
+      {
+        "Counterspell": "Destroy 400 Spell Towers in Multiplayer Battles"
+      },
+      {
+        "Counterspell": "Destroy 4,000 Spell Towers in Multiplayer Battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon begins upgrading the Spell Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Spell Tower is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon instantly upgrades the Spell Tower to the next level, at the cost of one Hammer of Building if you have one. When the Spell Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets.": "Tapping this icon allows the user to change the spell loaded onto the Spell Tower, subject to the spells available for use by the tower."
+      }
+    ],
+    [
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added the Spell Tower, with three levels."
+      },
+      {
+        "Date": "December 12, 2022",
+        "Description": "Reduced the Poison Spell Tower's attack speed reduction from 35% to 25% (the movement speed reduction is unchanged)."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Reload time for Rage Spell Tower is increased by 20 seconds. Reload time for Poison and Invisibility Spell Towers is increased by 10 seconds. Rage Spell Tower damage buff is reduced from 100% to 90%"
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Rage Spell Tower's radius decreased from 6 tiles to 5 tiles. Rage Spell Tower's damage buff reduced from 90% to 60%."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 4 Spell Tower, the Earthquake Spell Tower."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Rage_Spell.ogg",
+        "Captions": "Defensive Rage Spell roars",
+        "Description": "When the Rage Spell Tower enrages defenses"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Poison_Spell.ogg",
+        "Captions": "Defensive Poison Spell impacts ground",
+        "Description": "When the Poison Spell Tower's flask hits the ground"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Invisibilty_Spell.ogg",
+        "Captions": "Defensive Invisibility Spell impacts ground",
+        "Description": "When the Invisibility Spell Tower turns defending units and buildings invisible"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Earthquake_Spell.ogg",
+        "Captions": "Large explosion Ground cracks",
+        "Description": "When the Earthquake Spell Tower's vial impacts the ground"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Spell_Tower_pickup.ogg",
+        "Captions": "Spell Tower selected",
+        "Description": "When the Spell Tower is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Spell_Tower_place.ogg",
+        "Captions": "Spell Tower placed",
+        "Description": "When the Spell Tower is placed"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the spells, see Rage Spell , Invisibility Spell , Poison Spell , and Earthquake Spell . \"For years, Wizards alone brought magic to the battlefield one fireball at a time. Now they've developed a fully automated way to give your village more ways to mess up attackers with magic!\" Rage Spell Tower Level 1 Level 2 Level 3 Level 4 Poison Spell Tower Level 2 Level 3 Level 4 Invisibility Spell Tower Level 3 Level 4 Earthquake Spell Tower Level 4 Level 1 Level 2 Level 3 Level 4 Contents 1 Summary 2 Strategies 2.1 Defensive Strategies 2.2 Offensive Strategies 3 Upgrade Differences 4 Spell Appearances 5 Statistics 6 Achievements 7 Icon Descriptions 8 History 9 Audio 9.1 Generic 9.2 Unique 10 Trivia Summary The Spell Tower is a defensive building unlocked at Town Hall level 15. As opposed to the conventional defensive structures, the Spell Tower does not shoot projectiles at enemies; instead, it activates a spell - similar to ones players use for offense - into its surrounding radius. The Spell Tower can be loaded with one of four spells, which have different effects on both defenses and attacking troops alike: When initially constructed, the Spell Tower can only be loaded with Rage Spells . When an attacking unit comes into range of the tower in this mode, the Spell Tower will launch a Rage Spell onto itself, increasing the damage of defenses and defending units within its radius. The movement speeds of defending units are also increased. At level 2, the Spell Tower can be set to launch Poison Spells . When an attacking unit comes into range of the tower in this mode, the Spell Tower will launch a poison bomb at that unit, creating an area that does moderate damage over time and that slows down attacking troops. At level 3, the Spell Tower can be set to launch Invisibility Spells . When a building in its range is attacked by attacking units, the Spell Tower will launch an Invisibility Spell onto itself, making attacking units, defending units, and buildings in its range invisible, with the duration equal to the max-level offensive Invisibility Spell. At level 4, the Spell Tower can be set to launch Earthquake Spells . When an attacking ground unit comes into range of the tower in this mode, the Spell Tower will launch a earthquake bomb at the unit, creating an area that does percentage damage to all ground troops in its radius over a short period of time. Successive Earthquake Spells on the same target will deal progressively less damage, no matter where the target takes the Earthquake damage. The second Earthquake Spell does 1/3rd the damage, the third Earthquake Spell does 1/5th the damage, and so on. In general, the n {\\displaystyle n} -th Earthquake Spell deals 1 / ( 2 n − 1 ) {\\displaystyle 1/(2n-1)} th of the damage. The Rage Spell Tower will work as expected on most defenses, but it does not buff secondary damage or defenses that already do no damage. This includes: Air Sweeper's knockback; Bomb Tower and Giga Weapons's death damage; Poison damage per second from the Giga Inferno's death bomb and Poison Spell Tower; Monolith's percentage bonus damage; Trap damage, except for the Skeleton Trap , whose Skeletons may be affected by the spell effect; Defending Heroes are affected, but they only gain half of the damage and speed increase (+30% damage and +15 speed), similar to how they are less affected by buffing spells when used on attack. The Spell Tower works via an Activation Radius and an Area-of-Effect Radius . However, this differs among the four modes: The Rage Spell Tower has both an Activation Radius and Area of Effect Radius. The Poison and Earthquake Spell Tower only has an Activation Radius. The Invisibility Spell Tower only has an Area of Effect Radius. The Activation Radius is denoted by a white radius - the loaded spell will activate once enemy troops step into this boundary. For the Rage, Poison, and Earthquake Spell Towers to trigger, a unit must remain in its activation radius for 1.2 seconds (the time it takes for the spell to deploy). The Area of Effect Radius refers to the area where the spell will take effect once activated, and is denoted by the respective color of the spell and shield symbols rotating around the circumference to differentiate from offensive spells. For the Rage Spell Tower, the area color is purple, the Poison Spell Tower's color is orange, the Invisibility Spell Tower's color is turquoise, and the Earthquake Spell Tower's color is brown. Do note that only buildings blinking in the said color within the Area of Effect Radius will be affected by the spell. The Invisibility Spell Tower does not trigger under the following circumstances: If buildings in its radius are damaged by damaging Spell attacks, unless said spells destroy the Spell Tower; If a defending troop or Hero in its radius is damaged with other buildings unharmed; If all of the enemy troops attacking the buildings in its Area of Effect radius are defeated within 1.2 seconds - one can think of the Invisibility Spell Tower's activation radius as being infinite, with a unit only being considered within its radius if they damaged a building in the Area of Effect radius, even if the troops in its range are invisible. This is evident on Sneaky Goblin attacks, as when the Town Hall is damaged by a Sneaky Goblin and is in the range of the Invisibility Spell Tower, the Spell Tower will be triggered even if that said troop is invisible when the Town Hall is damaged, so long as the troop stays alive. If the building has not been destroyed, the Spell Tower will reload and redeploy its spell again after a sizable cooldown period. When the Spell Tower is destroyed, any set spell loaded on it will activate regardless of whether any enemies has entered its activation radius. If the Poison or Earthquake Spell Tower is destroyed without a troop nearby, it will launch the spell straight up (i.e. centering the spell on itself). As of now, upgrading the Spell Tower only unlocks new defensive Spells - it does not improve the power of the existing spells. Strategies Defensive Strategies The Rage Spell Tower is best used to enhance the damage output of high-damage defenses such as the X-Bow , Firespitter , the Giga Weapons , and other major defenses, as its damage increase works percentage-wise rather than giving a flat damage increase. Do note that the Rage Spell has no effect on attack speed, so single-target defenses like the Monolith may still have issues dealing with swarms of troops. A good choice for buffing is the Builder's Hut ; although the hut only provides middling damage, the Builder is also affected and repairs buildings twice as fast (in addition to moving around much faster). For buffing defenses having mid-high range (about 10 tiles or so) such as Multi-Archer Towers , X-Bows and Revenge Towers , one can choose to place the Rage Spell Tower in front of these defenses. In this way, the Rage Spell will activate at around the same time units get in range of the defense, allowing the defense to destroy units as quickly as possible. Conversely, placing the Rage Spell Tower behind defenses may allow for better positioning of the Rage Spell Tower, and is also better for buffing defenses with short range (6-7 tiles), especially if there are weaponized Builder Huts to help their respective Builders repair damaged defenses and other buildings quickly. They also buff Clan Castle troops, so try and put them at a place near the Clan Castle . The Poison Spell Tower creates an Area-of-Effect which stifles enemies and which quickly destroys low-health units like Barbarians , Skeletons and Bats , in addition to being an effective counter to swarm strategies such as Witches and Bowlers. It can be used to slow down enemy units as they attack crucial targets. The Poison Spell Tower's poison radius is larger than the Giga Inferno's death poison, being 5 tiles, centered to its target. Do note that the Poison Spell Tower's poison ramps to its maximum damage almost instantly, just like with the Giga Inferno's death poison effect. Thus multiple Poison Spell Towers launching on the same area essentially do not stack their damage. Also, the poison effect does not stack with the Giga Inferno's Poison Bomb. Keep some distance between them and put it at a place where the enemy is likely to funnel in to slow the attacker. Swap out Poison Spell Tower when facing lots of higher health ground troops, like the Thrower , Meteor Golem , Super Bowler , Super Witch , Super Yeti , or most Heroes . Do note that it does not affect air troops. The Invisibility Spell Tower can be used to cover valuable targets, preventing them from being quickly destroyed. It is effective against strategies that have a limited time to achieve objectives, such as Sneaky Goblin attacks on the Town Hall, or against an Archer Queen ability activation. It can also help turn defending troops invisible, which enables them to deal damage while not taking damage themselves. The Earthquake Spell Tower creates an Area-of-Effect which deals damage to 30% of the units' maximum health within a large radius. This makes it powerful against tanks, but weaker on smaller units. If the ground troops (even ground Heroes) have low enough health, they will either be knocked out or destroyed. However, the drawback is that it cannot attack air units, which means anti-air defenses are needed to defend it. Successive Earthquake Spells against the same units will deal less damage, similar to the ones used in attack (1/3 of its full damage after the initial spell, then 1/5, and so on). Offensive Strategies Freeze Spells and Overgrowth Spells can be used to stop the Spell Tower from activating its spell when it would otherwise trigger. However, if the spell is atop the tower when the Spell Tower is destroyed, it will drop the spell anyway, conferring benefits to the defense. Thus, this strategy is best used against Invisibility Spell Towers, allowing your units to attack buildings protected by the tower without it turning invisible. Both of these aforementioned spells have no effect against other offensive spells if the defensive spell is already activated, though it will pause the Spell Tower's recharge timer. The frost effect inflicted by Ice Golems and various other units also slow down the recharge timer, though in many cases the recharge is long enough to prevent the Spell Tower getting a second spell off before being destroyed. Of course, Freeze Spells can still be used conventionally to completely stop defenses that are buffed by the Rage Spell. Against a Poison Spell Tower, one can deflect the Poison Spell by using a small force to trigger the tower (such as a sui Hero, a lone Siege Machine , or a Skeleton Spell , if the layout allows Skeletons to live long enough). If placed well, the Poison Spell will be out of place to deal with the attacker's main force. Similar principles can be employed to trigger a Rage Spell Tower early, in a way that renders the tower offline when the main force attacks defenses that would have been buffed by the Rage Spell. The Invisibility Spell Tower can be triggered remotely by very long ranged attacks, allowing an opportunity for one's forces to attack while the tower is offline, so long as the main source of damage is alive, such as: The Log Launcher's logs are particularly effective at doing this, with the added bonus that the logs are still able to damage buildings while invisible. The Seeking Shield can trigger the Invisibility Spell Tower in theory, though it may be difficult to ensure that one of the buildings it hits will be one covered by the tower. The Rocket Spear may trigger the Invisibility Spell Tower if it has not activated after the Seeking Shield has been thrown, and if it hits a defensive building within its activation range. The Giant Arrow can be used to trigger an Invisibility Spell Tower from afar, however aligning the Queen to get the Giant Arrow to trigger the tower may not be easy if the ability is not used immediately on deployment - poor timing on the ability use may cause a miss of the triggering buildings and fail to activate the Spell Tower. If the attacker wants to destroy it more effectively, if sufficiently leveled, the Fireball can one-shot this defense from a long range due to its high damage in one shot, and its large radius means that it is easier to hit. There are numerous ways of damaging invisible buildings, mostly through indirect or chain damage. Bowlers , Super Bowlers , and Super Archers can all hit invisible buildings behind any visible targets they hit. Electro Dragons and Super Wizards can chain their attacks through invisible buildings, provided they first hit a visible target. The Electro Titans' and/or the Electro Boots' auras are capable of damaging invisible buildings around them, even if there are no visible buildings nearby to take advantage of. Freeze Spells still work through the defensive Invisibility Spell, so they can still be used to stop defenses made invisible. The Earthquake Spell Tower can be dangerous for ground armies with high hitpoints, like Meteor Golems , Super Yetis , and other tanks, but are much less effective on troops with low hitpoints like Barbarians , Archers , and even Skeletons. The player can trigger it away from the main army by having a single troop nearer to its range so that the main army will not be affected, therefore wasting the spell. Since it cannot target aerial units, the Earthquake Spell Tower is rendered useless for air attacks. Upgrade Differences The Spell Tower undergoes significant visual changes at levels 2, 3 and 4. When initially constructed, the Spell Tower has a big Spring Trap in the middle of it holding a giant spell potion, the front left wall and its opposite side are made of gray bricks, with a silver Town Hall 15 symbol (inverted hollow equilateral triangle) on it. The gray stone corner pillars at that side also has a fitting holding a metal ring on it, the wall and pillar have a purple metal foundation and the foundation around the pillar has silver lining. The front right wall and its opposite side are wooden, it has a metal crank with wooden handle, a metal gear with a wooden center on top, and a stone foundation. At level 2, the corner pillar uses purplish stone and the left walls use purple bricks, the foundations that feature a raspberry skirt with silver lining turn into gold, and an extra gold piece along the corner. At level 3, the wooden wall turns golden and the raspberry cloth covers the side, with an inverted purple triangle sticking out replacing the circular metal base of the crank, which also becomes gold, which does not affect its opposite wall. The triangle on the left wall is also changed to gold. At level 4, the appearance of the building completely changes. The Spring Trap changes into a livid platform with golden rims and edges. All of the walls and pillars have a blue metal foundation and the foundation around the pillar has its golden lining made duller. Two of the walls gain blue battlements on top, the upside-down triangle changes to a diamond with two layers of gold underneath. The other two walls are now made of stone bricks in a stack bind pattern, and have metal gears instead of golden and red wood at the top, and the upside-down triangle where the crank, which was reverted to that of level 1, except darker, disappears. The pillars are also made of blue metal, but grows wider the further it goes downward to the wide two-layered stone foundation, with a slanted slope at the edge which connects to the topmost later of said foundation. The upper half of each pillar have blue eagle wings on top, held by a golden plate. The lower half gains a dark gray metal band with studs, replacing the rings at levels 1 to 3. The big Spring Trap pops up when the tower is activated, exposing the springs beneath. Once its spell has been triggered, the crank rotates automatically, lowering the spring to reload the next spell, and stops when the spring reaches its lowest. After that, a brew can be seen bubbling within the Spell Tower, whose color corresponds to the spell being prepared. Once it is finished, the readied spell potion is then slowly raised with the spring. Only when the movement completely stops is the spell ready to be deployed. The Poison Spell Tower has curved metal protrusions on the spring, which is holding the potion in place due to it having a round bottom compared to the flat bottoms of the other spells. Spell Appearances The spell potion on top changes depends on the chosen spell for the Spell Tower. The Rage Spell potion has purple liquid in a bottle with a square base, widens then slanted into a smaller flat square with the circular neck and corked. The Poison Spell potion has a poisonous orange liquid in a corked spherical flask, with a skull symbol on the front. The Invisibility Spell potion has spring green liquid in a corked, long thin square tube (similar to spells with 1 housing space). The Earthquake Spell potion has brown liquid in a corked. It uses the same vial as the Invisibility Spell. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Gold Pass modifiers ⓘ Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 0 0 0 0 10 11 12 13 14 15 16 17 18 0 0 0 0 0 2 2 2 2 Size 2x2 Level Unlocks Hitpoints Cost Build Time Experience Gained Town Hall Level Required 1 Rage Spell 2,500 9,000,000 7d 777 15 2 Poison Spell 2,800 11,000,000 8d 831 15 3 Invisibility Spell 3,100 12,000,000 8d 12h 856 15 4 Earthquake Spell 3,200 27,000,000 10d 929 17 Rage Spell Tower Statistics Range Spell Radius Spell Duration Damage Increase Recharge Time Trigger Targets Deploy Position 9 tiles 5 tiles 18s 60% 70s Target in range Ground & Air Spell Tower Poison Spell Tower Statistics Range Spell Radius Spell Duration Max Damage per Second Speed Decrease Attack Rate Decrease Recharge Time Trigger Targets Deploy Position 9 tiles 5 tiles 12s 60 35% 25% 70s Target in range Ground & Air Target Invisibility Spell Tower Statistics Range Spell Radius Spell Duration Recharge Time Trigger Targets Deploy Position 4.5 tiles 4.5 tiles 4.5s 50s Building in range is hit Ground & Air Spell Tower Earthquake Spell Tower Statistics Range Spell Radius Troop Damage % Recharge Time Trigger Targets Deploy Position 9 tiles 4.7 tiles 30% 50s Target in range Ground Target Achievements Counterspell Description Rewards Rewards Destroy 40 Spell Towers in Multiplayer Battles 100 100 Destroy 400 Spell Towers in Multiplayer Battles 800 250 Destroy 4,000 Spell Towers in Multiplayer Battles 5,000 500 Icon Descriptions Tapping this icon displays information about the Spell Tower, such as Level, Hitpoints, Range, and Targets. Tapping this icon begins upgrading the Spell Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Spell Tower is at maximum level, this icon is not shown. Tapping this icon instantly upgrades the Spell Tower to the next level, at the cost of one Hammer of Building if you have one. When the Spell Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. Tapping this icon allows the user to change the spell loaded onto the Spell Tower, subject to the spells available for use by the tower. History Date Description October 10, 2022 Added the Spell Tower, with three levels. December 12, 2022 Reduced the Poison Spell Tower's attack speed reduction from 35% to 25% (the movement speed reduction is unchanged). June 12, 2023 Reload time for Rage Spell Tower is increased by 20 seconds. Reload time for Poison and Invisibility Spell Towers is increased by 10 seconds. Rage Spell Tower damage buff is reduced from 100% to 90% December 12, 2023 Rage Spell Tower's radius decreased from 6 tiles to 5 tiles. Rage Spell Tower's damage buff reduced from 90% to 60%. February 23, 2026 Added the level 4 Spell Tower, the Earthquake Spell Tower. Audio Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Rage_Spell.ogg Defensive Rage Spell roars When the Rage Spell Tower enrages defenses https://clashofclans.fandom.com/wiki/File:Poison_Spell.ogg Defensive Poison Spell impacts ground When the Poison Spell Tower's flask hits the ground https://clashofclans.fandom.com/wiki/File:Invisibilty_Spell.ogg Defensive Invisibility Spell impacts ground When the Invisibility Spell Tower turns defending units and buildings invisible https://clashofclans.fandom.com/wiki/File:Earthquake_Spell.ogg Large explosion Ground cracks When the Earthquake Spell Tower's vial impacts the ground Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Spell_Tower_pickup.ogg Spell Tower selected When the Spell Tower is picked https://clashofclans.fandom.com/wiki/File:Spell_Tower_place.ogg Spell Tower placed When the Spell Tower is placed Trivia If the Spell Tower cancels deploying its spell at the last moment, which may happen if the troop that would trigger it is destroyed, its spell deployment animation will be paused and will not get reset properly until the conditions for triggering it are met again. This may result in the spell and spring being suspended in a frozen state (the spell's bottle may also be deformed). The achievement \"Counterspell\" may be a reference to a spell in Dungeons & Dragons which can nullify an opposing spell effect. At level 3, there is a visual error on the rear gear not matching with the front one, which is made out of gold. Unused level for Spell Tower There is an unused level for the Spell Tower where it can use the Skeleton Spell . This is most likely scrapped because having a large amount of extra defensive units are very disruptive, causing the attacker to time fail, especially if the main army struggles to destroy them. According to former Community Manager Darian Vorlick in a Discord message , the development team was actively working on this setting for the June 2023 update, but didn't have enough time to finish it. Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

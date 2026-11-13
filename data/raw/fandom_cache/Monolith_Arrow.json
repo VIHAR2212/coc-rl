@@ -1,0 +1,286 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "": "",
+        "ⓘ": "ⓘ"
+      }
+    ],
+    [
+      {
+        "User": "Archer Queen",
+        "Ability Type": "Passive",
+        "Rarity": "Epic",
+        "Unlock Requirement": "Buy in Anime Fury Medal Event for 3,100 or purchasable from the Trader for 1,500"
+      }
+    ],
+    [
+      {
+        "Level": "Highest Extra Damage (Below 180 Housing Space)",
+        "Ability Attributes": "Extra Damage (181-250 Housing Space)",
+        "Hero Boosts": "Extra Damage (251+ Housing Space)",
+        "Upgrade Cost": "Incoming Damage Reduction",
+        "Blacksmith Level Required": "Hitpoint Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "9.5%",
+        "Hero Boosts": "7%",
+        "Upgrade Cost": "4%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "9.5%",
+        "Hero Boosts": "7%",
+        "Upgrade Cost": "4%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "10%",
+        "Hero Boosts": "7.5%",
+        "Upgrade Cost": "4.1%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "10%",
+        "Hero Boosts": "7.5%",
+        "Upgrade Cost": "4.1%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "10%",
+        "Hero Boosts": "7.5%",
+        "Upgrade Cost": "4.1%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "10.5%",
+        "Hero Boosts": "8%",
+        "Upgrade Cost": "4.2%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "10.5%",
+        "Hero Boosts": "8%",
+        "Upgrade Cost": "4.2%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "10.5%",
+        "Hero Boosts": "8%",
+        "Upgrade Cost": "4.2%",
+        "Blacksmith Level Required": "3%"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "11%",
+        "Hero Boosts": "8.5%",
+        "Upgrade Cost": "4.3%",
+        "Blacksmith Level Required": "4%"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "11%",
+        "Hero Boosts": "8.5%",
+        "Upgrade Cost": "4.3%",
+        "Blacksmith Level Required": "4%"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "11%",
+        "Hero Boosts": "8.5%",
+        "Upgrade Cost": "4.3%",
+        "Blacksmith Level Required": "4%"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "11.5%",
+        "Hero Boosts": "9%",
+        "Upgrade Cost": "4.4%",
+        "Blacksmith Level Required": "5%"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "11.5%",
+        "Hero Boosts": "9%",
+        "Upgrade Cost": "4.4%",
+        "Blacksmith Level Required": "5%"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "11.5%",
+        "Hero Boosts": "9%",
+        "Upgrade Cost": "4.4%",
+        "Blacksmith Level Required": "5%"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "12%",
+        "Hero Boosts": "9.2%",
+        "Upgrade Cost": "4.5%",
+        "Blacksmith Level Required": "6%"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "12%",
+        "Hero Boosts": "9.2%",
+        "Upgrade Cost": "4.5%",
+        "Blacksmith Level Required": "6%"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "12%",
+        "Hero Boosts": "9.2%",
+        "Upgrade Cost": "4.5%",
+        "Blacksmith Level Required": "6%"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "12.5%",
+        "Hero Boosts": "9.4%",
+        "Upgrade Cost": "4.6%",
+        "Blacksmith Level Required": "7%"
+      },
+      {
+        "Level": "19",
+        "Ability Attributes": "12.5%",
+        "Hero Boosts": "9.4%",
+        "Upgrade Cost": "4.6%",
+        "Blacksmith Level Required": "7%"
+      },
+      {
+        "Level": "20",
+        "Ability Attributes": "12.5%",
+        "Hero Boosts": "9.4%",
+        "Upgrade Cost": "4.6%",
+        "Blacksmith Level Required": "7%"
+      },
+      {
+        "Level": "21",
+        "Ability Attributes": "13%",
+        "Hero Boosts": "9.6%",
+        "Upgrade Cost": "4.7%",
+        "Blacksmith Level Required": "8%"
+      },
+      {
+        "Level": "22",
+        "Ability Attributes": "13%",
+        "Hero Boosts": "9.6%",
+        "Upgrade Cost": "4.7%",
+        "Blacksmith Level Required": "8%"
+      },
+      {
+        "Level": "23",
+        "Ability Attributes": "13%",
+        "Hero Boosts": "9.6%",
+        "Upgrade Cost": "4.7%",
+        "Blacksmith Level Required": "8%"
+      },
+      {
+        "Level": "24",
+        "Ability Attributes": "13.5%",
+        "Hero Boosts": "9.8%",
+        "Upgrade Cost": "4.8%",
+        "Blacksmith Level Required": "9%"
+      },
+      {
+        "Level": "25",
+        "Ability Attributes": "13.5%",
+        "Hero Boosts": "9.8%",
+        "Upgrade Cost": "4.8%",
+        "Blacksmith Level Required": "9%"
+      },
+      {
+        "Level": "26",
+        "Ability Attributes": "13.5%",
+        "Hero Boosts": "9.8%",
+        "Upgrade Cost": "4.8%",
+        "Blacksmith Level Required": "9%"
+      },
+      {
+        "Level": "27",
+        "Ability Attributes": "14%",
+        "Hero Boosts": "10%",
+        "Upgrade Cost": "5%",
+        "Blacksmith Level Required": "10%"
+      }
+    ],
+    [
+      {
+        "Date": "June 4, 2026",
+        "Description": "Made the Monolith Arrow available in the Anime Fury Medal Event."
+      },
+      {
+        "Date": "June 16, 2026",
+        "Description": "Removed the Monolith Arrow deactivation limit after 460 housing space was deployed. Added an option to toggle cosmetic effects between Monolith Arrow or Hero Skin custom projectiles."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg",
+        "Caption": "Hero Equipment equipped¹",
+        "Description": "When the Monolith Arrow is equipped"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg",
+        "Caption": "Hero Equipment upgraded²",
+        "Description": "When the Monolith Arrow is upgraded"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_shoot1.ogg https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_shoot2.ogg https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_shoot3.ogg",
+        "Captions": "Monolith Arrow readies",
+        "Description": "When the Archer Queen is deployed while the Monolith Arrow is equipped"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_hit_lvl3.ogg",
+        "Captions": "Monolith Arrow hits (maximum damage)",
+        "Description": "When the Monolith Arrow hits a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_hit_lvl2.ogg",
+        "Captions": "Monolith Arrow hits (medium damage)"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_hit_lvl1.ogg",
+        "Captions": "Monolith Arrow hits (minimum damage)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Monolith Arrow's extra damage decreases when more than 180 and 250 housing spaces of units are deployed\" Contents 1 Summary 2 Mechanics 3 Strategies 3.1 Offensive Strategies 3.2 Defensive Strategies 4 Statistics 5 History 6 Audio 6.1 Generic 6.2 Unique 7 Trivia 7.1 General Summary [ ] The Monolith Arrow is an Epic piece of Equipment for the Archer Queen . It was first seen in the Anime Fury Medal Event , which made its debut in June 4, 2026. The Monolith Arrow resembles a large arrow with a diamond-shaped purple tip with a glowing pink aura in the center and a light yellow base near the top of the handle. When the Monolith Arrow is equipped, the Archer Queen's attacks will deal extra damage proportional to the target's maximum hitpoints, similar to the Monolith . However, this bonus damage decreases twice, once when 181 housing space of units are deployed and once when 251 housing space is deployed. While active, the Archer Queen also takes slightly reduced damage from incoming attacks. Note that the ability damage decreases only once the described thresholds of 180 and 250 are surpassed, not when they are equalled. Thus the Monolith Arrow will still have maximum damage when exactly 180 housing space has been deployed, and will remain in its second damage stage with exactly 250 housing space deployed. Extra damage from the ability cannot be modified by damage modifications such as Rage Spells or difficulty modifiers. Every three levels, the bonus damage percentage for all three tiers is increased (by anywhere between 0.1% and 0.5%, depending on the tier); starting at level 9, the damage reduction is also increased (by 1% each time). In addition to the ability, the Monolith Arrow grants extra hitpoints to the Archer Queen. Mechanics [ ] The Monolith Arrow calculates the total amount of housing space deployed to determine its damage output, regardless of whether the Archer Queen has been deployed. This counter acts similar to the Eagle Artillery 's mechanic of activation by housing space. Attacking Heroes including the Archer Queen herself count, adding 25 housing space when they are deployed in a battle. Pets and Spells do not count. Siege Machines count as 1 housing space, however donated Siege Machines from the Clan Castle do not. Clan Castle reinforcements do not count. Subtroops such as the Witch's Skeletons , the Super Witch 's Big Boy , and the Siege Barracks ' Wizards and P.E.K.K.A (s) do not count. The Monolith Arrow counter continues to accumulate even while the Archer Queen is defeated, which may be relevant if the Queen is revived later by a Revive Spell . Strategies [ ] Offensive Strategies [ ] The Monolith Arrow is effective against high-health targets, such as the Town Hall , defending Guardians , and Walls . It can be used to trivialize battles against the Giant Dragon and M.O.M.M.A in the Single Player Campaign similarly, because it affects all units regardless of hitpoints. Upgrading it allows the Archer Queen to deal with higher-hitpoint units, therefore increasing its effectiveness. The Monolith Arrow is suited to Queen Walks and Charges, which are usually used at the start of the attack to funnel or eliminate objectives important for the rest of the attack. Such strategies do not deploy much housing space at the start, allowing the Monolith Arrow to attain its maximum potential. The Monolith Arrow is less suitable to equip if the player deploys their entire army at the start, as the maximum damage boost will be reduced significantly after deploying all of the housing spaces of the army. Defensive Strategies [ ] Most strategies from the Archer Queen, more specifically in Queen Charges, apply to this Equipment. Because the Archer Queen is commonly overwhelmed by small troops like Skeletons , the Monolith Arrow will be wasted on them, giving more time for defenses to quickly take her out before she does too much damage. Ice Golems can also do the same, as their death freeze will impede her progress in a Queen Charge, and possibly cause a time fail if the base is well-designed. Since the Archer Queen can deal bonus damage to Walls with the Monolith Arrow, so placing too few compartments can easily allow her to break through, even when the Hero Equipment is at its lowest bonus damage. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Archer Queen Passive Epic Buy in Anime Fury Medal Event for 3,100 or purchasable from the Trader for 1,500 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Highest Extra Damage (Below 180 Housing Space) Extra Damage (181-250 Housing Space) Extra Damage (251+ Housing Space) Incoming Damage Reduction Hitpoint Increase Shiny Ore Glowy Ore Starry Ore 1 9.5% 7% 4% 3% 100 N/A N/A N/A 1 2 9.5% 7% 4% 3% 140 120 - - 1 3 10% 7.5% 4.1% 3% 180 240 20 - 1 4 10% 7.5% 4.1% 3% 220 400 - - 1 5 10% 7.5% 4.1% 3% 260 600 - - 1 6 10.5% 8% 4.2% 3% 300 840 100 - 1 7 10.5% 8% 4.2% 3% 340 1,120 - - 1 8 10.5% 8% 4.2% 3% 380 1,440 - - 1 9 11% 8.5% 4.3% 4% 420 1,800 200 10 1 10 11% 8.5% 4.3% 4% 460 1,900 - - 1 11 11% 8.5% 4.3% 4% 500 2,000 - - 1 12 11.5% 9% 4.4% 5% 540 2,100 400 20 1 13 11.5% 9% 4.4% 5% 580 2,200 - - 3 14 11.5% 9% 4.4% 5% 620 2,300 - - 3 15 12% 9.2% 4.5% 6% 680 2,400 600 30 3 16 12% 9.2% 4.5% 6% 700 2,500 - - 5 17 12% 9.2% 4.5% 6% 740 2,600 - - 5 18 12.5% 9.4% 4.6% 7% 780 2,700 600 50 5 19 12.5% 9.4% 4.6% 7% 820 2,800 - - 7 20 12.5% 9.4% 4.6% 7% 860 2,900 - - 7 21 13% 9.6% 4.7% 8% 900 3,000 600 100 7 22 13% 9.6% 4.7% 8% 940 3,100 - - 8 23 13% 9.6% 4.7% 8% 980 3,200 - - 8 24 13.5% 9.8% 4.8% 9% 1,020 3,300 600 120 8 25 13.5% 9.8% 4.8% 9% 1,080 3,400 - - 9 26 13.5% 9.8% 4.8% 9% 1,120 3,500 - - 9 27 14% 10% 5% 10% 1,160 3,600 600 150 9 History [ ] Date Description June 4, 2026 Made the Monolith Arrow available in the Anime Fury Medal Event. June 16, 2026 Removed the Monolith Arrow deactivation limit after 460 housing space was deployed. Added an option to toggle cosmetic effects between Monolith Arrow or Hero Skin custom projectiles. Audio [ ] Generic [ ] Sound Effect Caption Description https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg Hero Equipment equipped¹ When the Monolith Arrow is equipped https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg Hero Equipment upgraded² When the Monolith Arrow is upgraded ¹ Reuses the sound effects of the X-Bow ² Generic Hero Equipment upgrade sound effect reused Unique [ ] Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_shoot1.ogg https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_shoot2.ogg https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_shoot3.ogg Monolith Arrow readies When the Archer Queen is deployed while the Monolith Arrow is equipped https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_hit_lvl3.ogg Monolith Arrow hits (maximum damage) When the Monolith Arrow hits a unit or building https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_hit_lvl2.ogg Monolith Arrow hits (medium damage) https://clashofclans.fandom.com/wiki/File:Monolith_Arrow_hit_lvl1.ogg Monolith Arrow hits (minimum damage) Trivia [ ] General [ ] Prior to the June 2026 update, the Monolith Arrow can be disabled if at least 460 housing space of units are deployed, though this was not achievable in regular gameplay as a full army only constitutes 453 housing space. However, this threshold can be potentially surpassed in troop injection events. Disabling the Monolith Arrow in this manner also removes the Monolith Arrow's passive damage reduction effect. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

@@ -1,0 +1,284 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Single Target",
+        "Housing Space": "6",
+        "Movement Speed": "32",
+        "Attack Speed": "1.7s",
+        "Barracks Level Required": "12",
+        "Range": "0.5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "80",
+        "Damage per Attack": "136",
+        "Hitpoints": "550",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "88",
+        "Damage per Attack": "149.6",
+        "Hitpoints": "610",
+        "Research Cost": "1,500,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "96",
+        "Damage per Attack": "163.2",
+        "Hitpoints": "670",
+        "Research Cost": "2,600,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "104",
+        "Damage per Attack": "176.8",
+        "Hitpoints": "730",
+        "Research Cost": "3,000,000",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "112",
+        "Damage per Attack": "190.4",
+        "Hitpoints": "800",
+        "Research Cost": "4,000,000",
+        "Research Time": "2d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "120",
+        "Damage per Attack": "204",
+        "Hitpoints": "900",
+        "Research Cost": "4,800,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "128",
+        "Damage per Attack": "217.6",
+        "Hitpoints": "1,000",
+        "Research Cost": "6,000,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "136",
+        "Damage per Attack": "231.2",
+        "Hitpoints": "1,150",
+        "Research Cost": "8,600,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "144",
+        "Damage per Attack": "244.8",
+        "Hitpoints": "1,350",
+        "Research Cost": "10,500,000",
+        "Research Time": "6d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "160",
+        "Damage per Attack": "272",
+        "Hitpoints": "1,550",
+        "Research Cost": "12,500,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "175",
+        "Damage per Attack": "297.5",
+        "Hitpoints": "1,850",
+        "Research Cost": "16,500,000",
+        "Research Time": "9d 12h",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "195",
+        "Damage per Attack": "331.5",
+        "Hitpoints": "2,150",
+        "Research Cost": "28,000,000",
+        "Research Time": "14d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Miner",
+        "Boost Cost": "25,000",
+        "Miner Level Required": "7"
+      }
+    ],
+    [
+      {
+        "May 3, 2016": "Patch",
+        "The Miner first originated from Clash Royale .": "Type"
+      },
+      {
+        "May 3, 2016": "May 24, 2016",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "June 8, 2016",
+        "The Miner first originated from Clash Royale .": "Maintenance Break"
+      },
+      {
+        "May 3, 2016": "August 2016",
+        "The Miner first originated from Clash Royale .": "Balance Changes"
+      },
+      {
+        "May 3, 2016": "October 12, 2016",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "November 2016",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "March 2017",
+        "The Miner first originated from Clash Royale .": "Balance Update"
+      },
+      {
+        "May 3, 2016": "June 2017",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "December 18, 2017",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "June 11, 2018",
+        "The Miner first originated from Clash Royale .": "Town Hall 12 Update"
+      },
+      {
+        "May 3, 2016": "June 26, 2018",
+        "The Miner first originated from Clash Royale .": "Balance Update"
+      },
+      {
+        "May 3, 2016": "December 2019",
+        "The Miner first originated from Clash Royale .": "Town Hall 13 Update"
+      },
+      {
+        "May 3, 2016": "March 30, 2020",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "October 12, 2020",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "April 2021",
+        "The Miner first originated from Clash Royale .": "Town Hall 14 Update"
+      },
+      {
+        "May 3, 2016": "September 2021",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "December 9, 2021",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "October 10, 2022",
+        "The Miner first originated from Clash Royale .": "Town Hall 15 Update"
+      },
+      {
+        "May 3, 2016": "December 12, 2023",
+        "The Miner first originated from Clash Royale .": "Town Hall 16 Update"
+      },
+      {
+        "May 3, 2016": "February 10, 2025",
+        "The Miner first originated from Clash Royale .": "Update"
+      },
+      {
+        "May 3, 2016": "March 27, 2025",
+        "The Miner first originated from Clash Royale .": "Clash Anytime Update"
+      },
+      {
+        "May 3, 2016": "June 30, 2025",
+        "The Miner first originated from Clash Royale .": "Balance Changes"
+      },
+      {
+        "May 3, 2016": "November 17, 2025",
+        "The Miner first originated from Clash Royale .": "Town Hall 18 Update"
+      },
+      {
+        "May 3, 2016": "October 20, 2026",
+        "The Miner first originated from Clash Royale .": "Balance Changes"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Miner_dig_down.ogg",
+        "Captions": "Miner deploys",
+        "Description": "When the Miner is deployed"
+      },
+      {
+        "Sound Effect": "Miner digs down",
+        "Captions": "When the Miner digs down"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Miner_dig_up.ogg",
+        "Captions": "Miner digs up",
+        "Description": "When the Miner comes out from underground to attack"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Miner_attack.ogg",
+        "Captions": "Shovel hits",
+        "Description": "When the Miner attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Miner_die.ogg",
+        "Captions": "Miner dies",
+        "Description": "When the Miner dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Super variant, see Super Miner . \"These sneaky shovelers burrow underground, pass beneath Walls and pop up right next to their targets . While underground, Miners cannot be damaged and will not trigger Traps , but still gain bonuses from Spells .\" Level 1-2 Level 3-4 Level 5-6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 7 Gallery 8 Trivia 8.1 General 8.2 Comparisons Summary The Miner is the twelfth Elixir troop unlocked at Barracks level 12, which requires Town Hall level 10. The Miner is a single-target troop that burrows underground when not engaged with enemy troops or buildings. This allows him to have the useful ability of not being affected by walls and bypassing all traps, but can still receive effects from spells. Miners have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Miners will proceed to attack the nearest structure. Strategies Offensive Strategies The Miner is similar to the Hog Rider before he would attack defenses; a troop that can bypass Walls that attacks anything. However, the Miner's mechanics are better as he is invincible when underground. However, at Town Halls 14 and above, Miners can get damaged and will also get destroyed from the Poison damage from the Town Hall's destruction. Miners synergize well with Hog Riders, and the two types of troops can be combined together in a combination known as the Hybrid. The Miners can deal with defending Heroes and Skeleton Traps , while Hog Riders are more powerful against defenses because they prioritize defenses and have better DPS. If the Grand Warden and Royal Champion are unlocked, they can also be sent in with a hybrid attack to support the pack, as both these heroes are also able to bypass walls and can thus follow them easily. However, the combination has a weakness to aerial Clan Castle troops, as neither are able to target them. It can be useful to trigger and destroy the Clan Castle troops before attacking, if possible. Therefore, the Archer Queen and Healers will be used to take care of the Clan Castle troops. At Town Halls 13 and above, the Royal Champion can be very useful if there are any Clan Castle troops which the Queen Charge has not yet taken care of. Miners can be used to trigger traps and lure out Clan Castle troops. They can also be used as a small distraction. E.g.: You are using a GoWiPe ( Golems , Wizards , and P.E.K.K.As ), but the Inferno Towers and Clan Castle troops are going to take out your Golems in seconds once in range. You can quickly place a Miner to pop up and distract the defenses . The Miner cannot be placed anywhere on the map, unlike his Clash Royale counterpart . He must be placed outside the red area like any other unit. Miners in large numbers are great for attacking bases with Inferno Towers that are set to single-target mode as each time the Miners burrow underground the Inferno Towers have to heat up again. Take advantage of the Miners' ability to burrow underground. The more Miners you have, the quicker they will destroy the buildings or troops they were targeting, allowing them to go back underground quickly. This gives the defenses less time to target them and can be assisted by Rage Spells to increase their damage or Healing Spells to keep them at full health when Miners are attacking super-high HP buildings like storages. It is advisable to have enough Miners in a squad that they one-shot any building they come into contact with, except for super-high HP buildings like Storages , Town Hall, and Eagle Artillery . However, other troops behind will be vulnerable to be taken out by defenses, especially those with splash damage, so be careful! Miners are vulnerable when they are spread out, in small numbers, or attacking high HP buildings because they have relatively low damage and HP. Miners are useful when they are in the middle of the base. Trim off outside buildings with other troops like Bowlers and your Heroes to keep them in the middle. Miners also cannot be pulled by the Tornado Trap , so he is a good troop to trigger this trap without being pulled by it. Defensive Strategies Miners are decently tanky Clan Castle troops that deal decent damage, but they do not burrow underground when defending. Instead, they move above ground at a reduced pace. Combined with their relatively slow hit speed, this means that swarming a defensive Miner with massed troops can be helpful. Since Miners do not trigger Traps while burrowing, you will need to place Traps near a building so that they will be triggered when the Miners pop up. You can keep your base compact and your storages close to your defenses to combat Miners. By doing this, you are giving the Miners less time to be healed while they are traveling underground, helping your defenses do the maximum amount of damage while they are above ground and keeping them above ground for longer periods of time when they attack the storages. Skeleton Traps set to ground and massed defensive Clan Castle troops (such as massed Archers ) can stall the Miners for some time, as they have a slow attack rate. It is possible that the Miners may burrow underground for only a short distance to continue attacking these distractions, taking more time than necessary. Giant Bombs can deal significant damage to Miners and can surprise the opponent. However, since Miners only trigger traps when above ground, they cannot be damaged when underground, place them right next to a defense in the direction of another defense so the Miners can trigger them. Upgrade Differences The Miner undergoes significant visual changes at levels 3, 5, 7, 8, 9, 10, 11 and 12. Initially, the Miner is a man wearing a red shirt, a dark gray hard hat with a melting candle on it, and a brown leather belt around his waist with a golden handle in the center. He carries a brown backpack filled with gold and rocks and wields a large metal shovel with a wooden handle. At level 3, the Miner's shovel is made of brass instead of metal. At level 5, the Miner's light source changes from a candle to a headlight. At level 7, the Miner's helmet becomes gold-colored, the headlight becomes slightly bigger. The shovel also appears to be cleaner and slightly darker and has a dark metal handle. At level 8, the Miner's shovel is made of purple metal instead of brass, and the handle turns into brass. At level 9, the handle of the shovel glows white. The Miner's headlight becomes triangular with a white light and a purple rim. The studs on the helmet change from gray to purple. At level 10, the triangle on his helmet gets replaced by a leaf symbol with golden outlines. His shirt becomes green, his shovel becomes brass again and lightens up, while his helmet is given a brighter appearance with the studs on it also turning gold as well. A small tree branch with a single leaf is attached to his backpack, and the handle of his shovel no longer glows white. At level 11, the Miner's shirt and helmet revert back to their original color, his shovel becomes fully gold and appears shinier, and his helmet gains a pentagonal symbol with a bright yellow glow which replaces the leaf symbol. The tree branch on his backpack is also removed, and the rocks inside his backpack also turn gold. At level 12, the Miner's shirt is now sky blue, which appears similar to the color of his shirt in the info image. His helmet gains a pair of goggles on the front and a glowing, blue-white triangle on top, replacing the pentagonal symbol. He carries a large meteor shell in his backpack that glows blue. His shovel is replaced with a larger pickaxe. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Barracks Level Required Range None Single Target 6 32 1.7s 12 0.5 tiles Level Damage per Second Damage per Attack Hitpoints Research Cost Research Time Laboratory Level Required 1 80 136 550 N/A N/A N/A 2 88 149.6 610 1,500,000 1d 8 3 96 163.2 670 2,600,000 2d 8 4 104 176.8 730 3,000,000 2d 6h 9 5 112 190.4 800 4,000,000 2d 12h 9 6 120 204 900 4,800,000 3d 10 7 128 217.6 1,000 6,000,000 4d 11 8 136 231.2 1,150 8,600,000 6d 12 9 144 244.8 1,350 10,500,000 6d 12h 13 10 160 272 1,550 12,500,000 7d 14 11 175 297.5 1,850 16,500,000 9d 12h 15 12 195 331.5 2,150 28,000,000 14d 12h 16 *Movement speed above is when burrowing underground during attacks. The Miner has 20 movement speed when defending as Clan Castle troops. Super Troop Boost Super Troop Boost Cost Miner Level Required Super Miner 25,000 7 History May 3, 2016 The Miner first originated from Clash Royale . Patch Type Description May 24, 2016 Update Added Miner with 4 levels. June 8, 2016 Maintenance Break The Defensive Miners can now pass the Walls . August 2016 Balance Changes Reduced the Miner's movement speed from 24 to 20. October 12, 2016 Update Forced defenses to retarget if they are targeting Miners as they went underground. Previously, such defenses would continue to target the Miners, but doing no damage. November 2016 Update The training time of the Miner was reduced from 5 minutes to 2 minutes. March 2017 Balance Update Increased the Miner's hitpoints by 50 at all levels. June 2017 Update Added the level 5 Miner. Increased the hitpoints at level 2 to 4. The upgrade costs and times were reduced at all levels. The level 3 Miner's Laboratory requirement was moved down to level 8 (allowing Town Hall 10 players to get them). December 18, 2017 Update Increased the Miner's housing space from 5 to 6. June 11, 2018 Town Hall 12 Update Added the level 6 Miner. June 26, 2018 Balance Update Reduced the upgrade times at level 2 to 5. December 2019 Town Hall 13 Update Added the level 7 Miner. Increased the hitpoints at level 6. March 30, 2020 Update Reduced the upgrade costs ta level 2 and 3. October 12, 2020 Update Fixed Miner 's attack animation so he does damage simultaneously when the shovel hits the target. April 2021 Town Hall 14 Update Reduced the upgrade costs and times at level 2 to 6. September 2021 Update Added the level 8 Miner. December 9, 2021 Update Reduced the upgrade costs and times at level 2 to 7. October 10, 2022 Town Hall 15 Update Added the level 9 Miner. December 12, 2023 Town Hall 16 Update Added the level 10 Miner. February 10, 2025 Update Added the level 11 Miner. March 27, 2025 Clash Anytime Update Removed training time. June 30, 2025 Balance Changes Increased hitpoints at levels 8 to 11: Level 8: 1,100 -> 1,150 Level 9: 1,250 -> 1,350 Level 10: 1,400 -> 1,550 Level 11: 1,600 -> 1,750 Increased damages at levels 10 and 11: Level 10: 152 -> 160 Level 11: 160 -> 175 November 17, 2025 Town Hall 18 Update Added the level 12 Miner. Reduced upgrade time at level 11 from 14d 12h to 9d 20h. Reduced upgrade cost at level 11 from 21,500,000 to 16,500,000. October 20, 2026 Balance Changes Increased hitpoints at levels 11 and 12: Level 11: 1,750 -> 1,850 Level 12: 2,050 -> 2,150 Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Miner_dig_down.ogg Miner deploys When the Miner is deployed Miner digs down When the Miner digs down https://clashofclans.fandom.com/wiki/File:Miner_dig_up.ogg Miner digs up When the Miner comes out from underground to attack https://clashofclans.fandom.com/wiki/File:Miner_attack.ogg Shovel hits When the Miner attacks https://clashofclans.fandom.com/wiki/File:Miner_die.ogg Miner dies When the Miner dies Gallery Miner's icon. Promotional image of the Miner. Trivia General You can have a maximum of 58 Miners at one time in a complete set of fully upgraded Army Camps . This number increases to 67 if you include 9 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 32 Miners with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 99 Miners. When the Miner's housing spaces was increased from 5 to 6, it was possible for Army Camps and Clan Castles to overflow, or to hold more housing spaces than they would be able to fit, resulting in 288 out of 240 Army Camp capacity, and 42 out of 35 Clan Castle capacity, respectively. The word \" Mine \" and by extention \" Miner \" come from the Celtic \" meinis \", meaning ore. Mining was invented from the beginning of civilization, with the oldest mine being the Ngwenya Mine in Eswatini, which radiocarbon dating shows to be about 43,000 years old. At this site Paleolithic humans mined hematite to make the red pigment ochre . Mining is still done to this day, for the extraction of rare-earth minerals for industrial use. The appearance of the Miner is similar to that of a Builder . The icon and picture of the Miner shows him wearing a blue shirt, whereas in battle, he appears with a red shirt. However, if the Miner is upgraded to Level 10, he appears to wear a green shirt instead. The Miner, along with the Barbarian , Archer , Goblin , Wizard , Hog Rider , Witch , Ice Wizard , and Trader , are featured as a Squaddie in Squad Busters . Despite the Miner burrowing underground when attacking, he will not burrow when moving inside the Army Camps. When the Miner disappears upon death or at the end of a battle, he does not disintegrate to regular Elixir nor Dark Elixir. The Miner is featured as an skin for the Archer Queen . He is one of five troops to be featured as a Hero skin, the others being the Goblin, P.E.K.K.A , Valkyrie , and the Golem . Comparisons The Miner is 1 of 3 troops in the Home Village which first existed in Clash Royale , the others being the Baby Dragon and Ice Golem . Unlike his Clash Royale counterpart, he cannot be deployed in opposing territory but has the ability to burrow again after surfacing. His Barracks image in Clash of Clans is likely based off of his card image from Clash Royale . The Miner is the only ground troop that are able to bypass Walls without a Jump Spell through burrowing. He is one of the two troops to have different stats when used defensively rather than offensively, the other being the Ice Golem. In the case of the Miner, he does not burrow underground and instead walk at a slower pace. The Miner, Super Miner , Diggy , and the Battle Drill are currently the only units that do not trigger any traps while moving, because of them going underground in battle. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

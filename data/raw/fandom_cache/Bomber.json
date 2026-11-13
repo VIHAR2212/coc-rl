@@ -1,0 +1,286 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Spring Weight": "12",
+        "Preferred Target": "Walls (Damage x15)",
+        "Attack Type": "Area Splash (Ground only)",
+        "Movement Speed": "19",
+        "Attack Speed": "2s",
+        "Units per Army Camp": "1",
+        "Builder Barracks Level Required": "5",
+        "Range": "3.5 tiles",
+        "Exploding Range": "1.6 tiles",
+        "Special Ability": "Bouncing Bomb/Big Bomb"
+      }
+    ],
+    [
+      {
+        "Level": "Normal",
+        "Damage per Second": "vs. Walls"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "80",
+        "Damage per Attack": "160",
+        "Damage vs. Walls": "2,400",
+        "Hitpoints": "605",
+        "Bouncing Bomb Damage": "80",
+        "Research Cost": "1,200",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "80",
+        "Damage per Attack": "160",
+        "Damage vs. Walls": "2,400",
+        "Hitpoints": "605",
+        "Bouncing Bomb Damage": "100",
+        "Research Cost": "1,500",
+        "Research Time": "320,000",
+        "Star Laboratory Level Required": "16h"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "90",
+        "Damage per Attack": "180",
+        "Damage vs. Walls": "2,700",
+        "Hitpoints": "666",
+        "Bouncing Bomb Damage": "100",
+        "Research Cost": "1,500",
+        "Research Time": "340,000",
+        "Star Laboratory Level Required": "20h"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "90",
+        "Damage per Attack": "180",
+        "Damage vs. Walls": "2,700",
+        "Hitpoints": "666",
+        "Bouncing Bomb Damage": "120",
+        "Research Cost": "1,800",
+        "Research Time": "360,000",
+        "Star Laboratory Level Required": "1d"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "100",
+        "Damage per Attack": "200",
+        "Damage vs. Walls": "3,000",
+        "Hitpoints": "732",
+        "Bouncing Bomb Damage": "120",
+        "Research Cost": "1,800",
+        "Research Time": "900,000",
+        "Star Laboratory Level Required": "1d 12h"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "100",
+        "Damage per Attack": "200",
+        "Damage vs. Walls": "3,000",
+        "Hitpoints": "732",
+        "Bouncing Bomb Damage": "140",
+        "Research Cost": "2,100",
+        "Research Time": "1,000,000",
+        "Star Laboratory Level Required": "2d"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "110",
+        "Damage per Attack": "220",
+        "Damage vs. Walls": "3,300",
+        "Hitpoints": "805",
+        "Bouncing Bomb Damage": "140",
+        "Research Cost": "2,100",
+        "Research Time": "1,200,000",
+        "Star Laboratory Level Required": "2d"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "110",
+        "Damage per Attack": "220",
+        "Damage vs. Walls": "3,300",
+        "Hitpoints": "805",
+        "Bouncing Bomb Damage": "160",
+        "Research Cost": "2,400",
+        "Research Time": "1,400,000",
+        "Star Laboratory Level Required": "2d 12h"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "120",
+        "Damage per Attack": "240",
+        "Damage vs. Walls": "3,600",
+        "Hitpoints": "886",
+        "Bouncing Bomb Damage": "160",
+        "Research Cost": "2,400",
+        "Research Time": "2,200,000",
+        "Star Laboratory Level Required": "3d 12h"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "120",
+        "Damage per Attack": "240",
+        "Damage vs. Walls": "3,600",
+        "Hitpoints": "886",
+        "Bouncing Bomb Damage": "180",
+        "Research Cost": "2,700",
+        "Research Time": "2,400,000",
+        "Star Laboratory Level Required": "4d 12h"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "130",
+        "Damage per Attack": "260",
+        "Damage vs. Walls": "3,900",
+        "Hitpoints": "974",
+        "Bouncing Bomb Damage": "180",
+        "Research Cost": "2,700",
+        "Research Time": "3,200,000",
+        "Star Laboratory Level Required": "5d 12h"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "130",
+        "Damage per Attack": "260",
+        "Damage vs. Walls": "3,900",
+        "Hitpoints": "974",
+        "Bouncing Bomb Damage": "200",
+        "Research Cost": "3,000",
+        "Research Time": "3,400,000",
+        "Star Laboratory Level Required": "5d 12h"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "140",
+        "Damage per Attack": "280",
+        "Damage vs. Walls": "4,200",
+        "Hitpoints": "1,072",
+        "Bouncing Bomb Damage": "200",
+        "Research Cost": "3,000",
+        "Research Time": "3,900,000",
+        "Star Laboratory Level Required": "6d"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "140",
+        "Damage per Attack": "280",
+        "Damage vs. Walls": "4,200",
+        "Hitpoints": "1,072",
+        "Bouncing Bomb Damage": "220",
+        "Research Cost": "3,300",
+        "Research Time": "4,100,000",
+        "Star Laboratory Level Required": "6d"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "150",
+        "Damage per Attack": "300",
+        "Damage vs. Walls": "4,500",
+        "Hitpoints": "1,179",
+        "Bouncing Bomb Damage": "220",
+        "Research Cost": "3,300",
+        "Research Time": "4,700,000",
+        "Star Laboratory Level Required": "6d 12h"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "150",
+        "Damage per Attack": "300",
+        "Damage vs. Walls": "4,500",
+        "Hitpoints": "1,179",
+        "Bouncing Bomb Damage": "240",
+        "Research Cost": "3,600",
+        "Research Time": "5,300,000",
+        "Star Laboratory Level Required": "6d 12h"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Wall Level": ""
+      },
+      {
+        "": "",
+        "Wall Level": "1"
+      },
+      {
+        "": "5-6",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Wall Level": ""
+      },
+      {
+        "": "",
+        "Wall Level": "1"
+      },
+      {
+        "": "5",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      },
+      {
+        "": "1",
+        "Wall Level": "1"
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Home Village counterpart, see Wall Breaker . For the Super form of his Home Village variant, see Super Wall Breaker . \"With an appetite for destruction and high quality special effects, Bombers blow up anything in sight with bonus damage to Walls !\" Level 5-7 Level 8-9 Level 10-11 Level 12-13 Level 14-17 Level 18-19 Level 20 Contents 1 Summary 2 Offensive Strategies 3 Upgrade Differences 4 Statistics 4.1 Number of Bomber hits required to break through Walls 5 Gallery 6 Trivia 6.1 Comparisons Summary The Bomber is a Builder Base Troop unlocked once the Builder Barracks has been upgraded to level 5. He throws explosives at foes from range with a large AOE, inflicting 15x damage to Walls . He is the Builder Base troop version of the Wall Breaker . Bombers have no preferred target when attacking; however unlike other troops with no preferred target, Bombers treat walls just like any other building, and will target and attack both walls and buildings, whichever is closest. Bombers are able to do extra damage to Walls . If they become aware of enemy Guard Post troops or Zappies (either by being attacked themselves or being near another friendly troop under attack), they will leave their previously targeted structure and engage the enemy troops instead. Once all the nearby enemy troops are defeated, they will proceed to attack the nearest building (or wall) from their current location. His ability, Bouncing Bomb , enables him to throw a large bomb that bounces forward similar to a Bowler 's boulder, dealing damage twice, once for each time it hits the ground. The ability can be re-used once every 22 seconds. Offensive Strategies Since Bombers are fragile and do not offer much output due to their limited quantity, it is recommended to place them behind a ground tank, such as Boxer Giants , Battle Machine or Super P.E.K.K.As so they can safely shatter walls. Bombers at above level 13 or above can in fact destroy any level of walls. Otherwise, a Double Cannon , Mega Mine , or multiple Mines will instantly kill the Bomber before he can throw his bomb. A single Army Camp of Bombers will pair well with Raged Barbarians especially when the Raged Barbarians are level 10 or higher, as the Raged Barbarians can temporarily distract enemy defenses, allowing Bombers to safely destroy Walls , making the base vulnerable to attack. Unlike the Wall Breaker and the Super Wall Breaker , Bombers are not kamikaze units, and do not actually prefer to target walls, so you need to clear out nearby buildings to make use of their abilities. They are effective at destroying Walls to let the Battle Machine and high level troops in, as players typically use walls to funnel troops. Bombers eliminate the risk of them being lured within range of something dangerous, such as a Crusher or Mega Mine. The Bomber can also easily take out Guard Post troops with his area damage splash, preventing them from distracting your other units. The Bomber's bomb can destroy a Wall behind a 3x3 or smaller building touching the Walls so find a building that is touching the Walls such as an Army Camp or Firecrackers and deploy a Bomber behind it to use the Big Bomb ability to destroy both the Building and the Walls but as the gap is not big, funneling may still be needed. When attacking a building (or wall) that is 3x3 or smaller, any wall or building located next to it without any space between will also be damaged. This will in effect increase the range of the bomber to be able to destroy short range towers without being attacked back. Example of this is if the Bomber targets a storage building, and a Double Cannon is behind it. Upgrade Differences The Bomber undergoes significant visual changes at levels 8, 10, 12, 14, 18 and 20. Initially, the Bomber appears as a Wall Breaker wearing copper gloves, a blue aviator helmet, and gold-rimmed goggles. At level 8, the bomb that the Bomber carries is now larger. At level 10, the Bomber's gloves are now steel blue instead of copper. At level 12, the Bomber now wears a face shield, but retains his goggles. At level 14, the Bomber's face shield gains a visor in place of his goggles. His gloves are now golden. At level 18, the Bomber's bomb turns beige, and it has a black band with gold spikes around it. At level 20, the Bomber's bomb becomes golden. The black band is covered with gold plates with spikes on them. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Spring Weight Preferred Target Attack Type Movement Speed Attack Speed Units per Army Camp Builder Barracks Level Required Range Exploding Range Special Ability 12 Walls (Damage x15) Area Splash (Ground only) 19 2s 1 5 3.5 tiles 1.6 tiles Bouncing Bomb/Big Bomb Level Damage per Second Damage per Attack Damage vs. Walls Hitpoints Bouncing Bomb Damage Research Cost Research Time Star Laboratory Level Required Normal vs. Walls 5 80 160 2,400 605 80 1,200 N/A N/A N/A 6 80 160 2,400 605 100 1,500 320,000 16h 4 7 90 180 2,700 666 100 1,500 340,000 20h 4 8 90 180 2,700 666 120 1,800 360,000 1d 4 9 100 200 3,000 732 120 1,800 900,000 1d 12h 5 10 100 200 3,000 732 140 2,100 1,000,000 2d 5 11 110 220 3,300 805 140 2,100 1,200,000 2d 6 12 110 220 3,300 805 160 2,400 1,400,000 2d 12h 6 13 120 240 3,600 886 160 2,400 2,200,000 3d 12h 7 14 120 240 3,600 886 180 2,700 2,400,000 4d 12h 7 15 130 260 3,900 974 180 2,700 3,200,000 5d 12h 8 16 130 260 3,900 974 200 3,000 3,400,000 5d 12h 8 17 140 280 4,200 1,072 200 3,000 3,900,000 6d 9 18 140 280 4,200 1,072 220 3,300 4,100,000 6d 9 19 150 300 4,500 1,179 220 3,300 4,700,000 6d 12h 10 20 150 300 4,500 1,179 240 3,600 5,300,000 6d 12h 10 Number of Bomber hits required to break through Walls Normal Attacks Bouncing Bomb Hits Wall Level 1 2 3 4 5 6 7 8 9 10 Bomber Level 5-6 1 1 1 1 1 1 2 2 2 2 7-8 1 1 1 1 1 1 1 2 2 2 9-10 1 1 1 1 1 1 1 1 2 2 11-12 1 1 1 1 1 1 1 1 1 2 13+ 1 1 1 1 1 1 1 1 1 1 Wall Level 1 2 3 4 5 6 7 8 9 10 Bomber Level 5 1 1 2 2 2 2 3 3 3 3 6-7 1 1 1 2 2 2 2 2 2 3 8-9 1 1 1 1 2 2 2 2 2 2 10-11 1 1 1 1 1 2 2 2 2 2 12-13 1 1 1 1 1 1 2 2 2 2 14-15 1 1 1 1 1 1 1 2 2 2 16-17 1 1 1 1 1 1 1 1 2 2 18-19 1 1 1 1 1 1 1 1 1 2 20 1 1 1 1 1 1 1 1 1 1 Gallery Bomber icon Bomber BlowEmUp task (Season Challenges) Bomber Blow EmUp task (Clan Games) Bomber, as shown in the 2017 loading screen from the Halloween update. Trivia The Bomb Tower appears to house a Bomber, despite the fact that Bomber is never available in the Home Village . Additionally, the Bomber it holds attacks faster. In the 2017 loading screen from the Halloween update, the Bomber is shown with red hat instead of blue. Interestingly, much like how the Wall Breaker's aviator cap corresponds to the Builder, Bombers appear to be fallen Master Builders now serving a demolition role. Despite the Bomber's description states that his preferred target is \"Walls\", Bombers actually target the closest buildings within their range, dealing damage to them, whilst dealing x15 times damage to Walls near them. The only difference is that Bombers treat Walls like any other buildings, whereas other troops with no favorite target will ignore Walls unless it is the fastest way to their target. It's possible to three-star a base with all the Walls destroyed as well if you include Bombers in your army, as they are the only units treating walls as normal buildings. Comparisons The Bomber is one of several units that originated from Clash Royale ; along with the Baby Dragon , Miner , Bomb Tower , Night Witch (and her Bats ), Inferno Dragon , Ice Golem , Ice Wizard , Battle Ram , Giant Skeleton , Skeleton Barrel , and the Royal Ghost . The Bomber, along with the Cannon Cart and Night Witch are the only Builder Base Troops that appear in Clash Royale . The Bomber has the most level upgrade differences of all the Builder Base Troops. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

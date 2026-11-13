@@ -1,0 +1,194 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Royal Champion",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Blacksmith level 7"
+      }
+    ],
+    [
+      {
+        "Level": "Summoned Hog Riders",
+        "Ability Attributes": "Hog Rider Level",
+        "Hero Boosts": "Hitpoint Increase",
+        "Upgrade Cost": "HP Recovery Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "8",
+        "Hero Boosts": "5",
+        "Upgrade Cost": "60",
+        "Blacksmith Level Required": "180"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "8",
+        "Hero Boosts": "5",
+        "Upgrade Cost": "90",
+        "Blacksmith Level Required": "220"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "8",
+        "Hero Boosts": "6",
+        "Upgrade Cost": "120",
+        "Blacksmith Level Required": "270"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "8",
+        "Hero Boosts": "6",
+        "Upgrade Cost": "150",
+        "Blacksmith Level Required": "320"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "8",
+        "Hero Boosts": "6",
+        "Upgrade Cost": "180",
+        "Blacksmith Level Required": "370"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "9",
+        "Hero Boosts": "7",
+        "Upgrade Cost": "210",
+        "Blacksmith Level Required": "420"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "9",
+        "Hero Boosts": "7",
+        "Upgrade Cost": "240",
+        "Blacksmith Level Required": "470"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "9",
+        "Hero Boosts": "7",
+        "Upgrade Cost": "270",
+        "Blacksmith Level Required": "520"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "9",
+        "Hero Boosts": "8",
+        "Upgrade Cost": "300",
+        "Blacksmith Level Required": "560"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "9",
+        "Hero Boosts": "8",
+        "Upgrade Cost": "330",
+        "Blacksmith Level Required": "610"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "9",
+        "Hero Boosts": "8",
+        "Upgrade Cost": "360",
+        "Blacksmith Level Required": "660"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "9",
+        "Hero Boosts": "9",
+        "Upgrade Cost": "390",
+        "Blacksmith Level Required": "700"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "9",
+        "Hero Boosts": "9",
+        "Upgrade Cost": "420",
+        "Blacksmith Level Required": "750"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "9",
+        "Hero Boosts": "9",
+        "Upgrade Cost": "450",
+        "Blacksmith Level Required": "800"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "10",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "480",
+        "Blacksmith Level Required": "850"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "10",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "510",
+        "Blacksmith Level Required": "900"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "10",
+        "Hero Boosts": "10",
+        "Upgrade Cost": "540",
+        "Blacksmith Level Required": "950"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "10",
+        "Hero Boosts": "12",
+        "Upgrade Cost": "570",
+        "Blacksmith Level Required": "1,000"
+      }
+    ],
+    [
+      {
+        "Invisibility": "1s"
+      }
+    ],
+    [
+      {
+        "Date": "February 27, 2024",
+        "Description": "Added the Hog Rider Puppet."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Reduced the summoned Hog Rider level at level 3 to 18: Level 3-5: 6 -> 5 Level 6-8: 7 -> 6 Level 9-11: 9 -> 7 Level 12-14: 11 -> 8 Level 15-17: 11 -> 9 Level 18: 13 -> 11"
+      },
+      {
+        "Date": "January 12, 2026",
+        "Description": "Increased the summoned Hog Rider level by 1 at all levels: Level 1-2: 4 -> 5 Level 3-5: 5 -> 6 Level 6-8: 6 -> 7 Level 9-11: 7 -> 8 Level 12-14: 8 -> 9 Level 15-17: 9 -> 10 Level 18: 11 -> 12 Increased the summoned Hog Rider count by 1 at all levels: Level 1-5: 7 -> 8 Level 6-14: 8 -> 9 Level 15-18: 9 -> 10"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Summons a stampede of Hog Riders \" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Trivia Summary The Hog Rider Puppet is a piece of Common Hero Equipment for the Royal Champion . It is unlocked when the Blacksmith is upgraded to level 7, which requires Town Hall level 14 to do so. The Hog Rider Puppet enables the Royal Champion to summon a number of Hog Riders when using her ability. Additionally, upon activation, she turns invisible for a short duration, which, among other things, allows these Hog Riders to tank for her, all while distracting defenses from targeting her. Similar to the Healer Puppet and unlike the Barbarian and Archer Puppets , the level of Hog Riders depends on the level of the Hog Rider Puppet and not on the level of Hog Riders the player has researched in the Laboratory . In addition to the ability, the Hog Rider Puppet grants additional hitpoints to the Royal Champion and also increases the amount of health she recovers when using the ability. Strategies Offensive Strategies The Hog Rider Puppet can be used to add some extra punch to a solo Royal Champion. The summoned Hogs can assist her in clearing out entire compartments, in addition to tanking for her. Because the Hogs target defenses, they can help destroy them, especially if the Champion is distracted by defending troops or Heroes in said compartment. However, compartments with a lot of splash defenses can counter said ability, and compartments that you think might contain a lot of traps are also not good, as the Hogs will be destroyed quickly. If you have leveled up other equipment to a high level and would like to use this, it might be better to level up this equipment to a similar level and then use it, as a low-level Puppet might spawn weak Hog Riders that are not as effective as a high-level one, and they will probably be destroyed by the high number of splash defenses inside the base. In Hybrid attacks featuring combinations of Hog Riders, Miners , and/or Super Hog Riders , one can use the ability immediately to summon more Hogs to start the main hybrid phase, freeing up space in Army Camps for additional support. This would waste the health regeneration of the ability, which is significant on the Royal Champion, but generally you will not generally use it until you get into the core of the base. Alternatively, you may want to use this in the center of the base or tackling a key compartment, as then the Royal Champion will have taken some damage, and some of the Hog Riders will have been destroyed by defenses, so it will add more Hog Riders into the attack, potentially making the attack more effective, and also the Royal Champion will also negate some of the damage from the core defenses. However, if the damage is over 50% or if the Town Hall weapon has been activated beforehand, the Town Hall will activate and this could direct some Hog Riders over, which can make this late ability a double-edged sword. On one hand, the Hog Riders can take out the Town Hall and trigger the devastating Poison Bomb early, but if they do not, you will get another strong defense for your main army to tackle. It can also be used to stop defenses from targeting her, such as single-target Inferno Towers, as this ability turns her invisible for one second. The Hog Riders can also be used to destroy said defense quickly due to their speed, as well as to distract other defenses. It can be paired with the Seeking Shield , since the Shield can take out or cripple some defenses, which the Hog Riders will take out in quick succession. Despite the risk of the low health regeneration making her easily get taken out if defenses manage to target her, the Hog Rider can tank for her. It is very useful to use it alongside the Royal Gem , as combined with the Hog Rider Puppet, she will be able to regenerate most of her health, if not her entire health bar, in battle, and prevent her from being taken down prematurely. The Hog Rider Puppet pairs well with the Haste Vial , as the Royal Champion turns invisible for a short while, allowing the Hog Riders to tank damage for her while she dashes in to damage the defenses in the core. Defensive Strategies Use what you would normally use to counter Hog Riders: Giant Bombs and Bomb Towers work very well to defend this ability and make it not as effective. Try to put the traps where the Hog Riders would go after the ability has been activated. Alternatively, using Spell Towers set to Poison mode will also help negate some of the damage done by the Hog Riders, and this might even cripple the Royal Champion, assuming it is going to the direction of the Spell Tower. If the Super Minions fire or Headhunters throw their cards at the Royal Champion, they can still hit her because their projectiles can still pierce through the ability, so be careful. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Royal Champion Active Common Blacksmith level 7 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Summoned Hog Riders Hog Rider Level Hitpoint Increase HP Recovery Increase Shiny Ore Glowy Ore 1 8 5 60 180 N/A N/A 7 2 8 5 90 220 120 - 7 3 8 6 120 270 240 20 7 4 8 6 150 320 400 - 7 5 8 6 180 370 600 - 7 6 9 7 210 420 840 100 7 7 9 7 240 470 1,120 - 7 8 9 7 270 520 1,440 - 7 9 9 8 300 560 1,800 200 7 10 9 8 330 610 1,900 - 7 11 9 8 360 660 2,000 - 7 12 9 9 390 700 2,100 400 7 13 9 9 420 750 2,200 - 7 14 9 9 450 800 2,300 - 7 15 10 10 480 850 2,400 600 7 16 10 10 510 900 2,500 - 7 17 10 10 540 950 2,600 - 7 18 10 12 570 1,000 2,700 600 7 Invisibility 1s History Date Description February 27, 2024 Added the Hog Rider Puppet. September 9, 2024 Reduced the summoned Hog Rider level at level 3 to 18: Level 3-5: 6 -> 5 Level 6-8: 7 -> 6 Level 9-11: 9 -> 7 Level 12-14: 11 -> 8 Level 15-17: 11 -> 9 Level 18: 13 -> 11 January 12, 2026 Increased the summoned Hog Rider level by 1 at all levels: Level 1-2: 4 -> 5 Level 3-5: 5 -> 6 Level 6-8: 6 -> 7 Level 9-11: 7 -> 8 Level 12-14: 8 -> 9 Level 15-17: 9 -> 10 Level 18: 11 -> 12 Increased the summoned Hog Rider count by 1 at all levels: Level 1-5: 7 -> 8 Level 6-14: 8 -> 9 Level 15-18: 9 -> 10 Trivia The Hog Rider Puppet resembles a voodoo doll of a Hog Rider . A voodoo doll is an effigy that is typically used for the insertion of pins. Such practices are found in various forms in the magical traditions of many cultures around the world. The Hog Rider Puppet is one of the equipment that spawn additional troops when activated, the others being Barbarian Puppet , Archer Puppet , Healer Puppet , Action Figure , Henchmen Puppet , and Lavaloon Puppet . Along with the Action Figure and Henchmen Puppet, the Hog Rider Puppet also grants invisibility to the Hero using it. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

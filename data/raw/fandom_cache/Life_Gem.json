@@ -1,0 +1,255 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Grand Warden",
+        "Ability Type": "Passive",
+        "Rarity": "Common",
+        "Unlock Requirement": "Available by default"
+      }
+    ],
+    [
+      {
+        "Level": "% HP Increase",
+        "Ability Attributes": "Max HP Increase",
+        "Hero Boosts": "Damage per Second Increase",
+        "Upgrade Cost": "Hitpoint Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "50%",
+        "Hero Boosts": "640",
+        "Upgrade Cost": "11",
+        "Blacksmith Level Required": "170"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "50%",
+        "Hero Boosts": "640",
+        "Upgrade Cost": "13",
+        "Blacksmith Level Required": "184"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "60%",
+        "Hero Boosts": "750",
+        "Upgrade Cost": "16",
+        "Blacksmith Level Required": "195"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "60%",
+        "Hero Boosts": "750",
+        "Upgrade Cost": "19",
+        "Blacksmith Level Required": "205"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "60%",
+        "Hero Boosts": "750",
+        "Upgrade Cost": "21",
+        "Blacksmith Level Required": "217"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "75%",
+        "Hero Boosts": "830",
+        "Upgrade Cost": "23",
+        "Blacksmith Level Required": "230"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "75%",
+        "Hero Boosts": "830",
+        "Upgrade Cost": "25",
+        "Blacksmith Level Required": "255"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "75%",
+        "Hero Boosts": "830",
+        "Upgrade Cost": "27",
+        "Blacksmith Level Required": "282"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "90%",
+        "Hero Boosts": "930",
+        "Upgrade Cost": "32",
+        "Blacksmith Level Required": "311"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "90%",
+        "Hero Boosts": "930",
+        "Upgrade Cost": "36",
+        "Blacksmith Level Required": "344"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "90%",
+        "Hero Boosts": "930",
+        "Upgrade Cost": "43",
+        "Blacksmith Level Required": "381"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "100%",
+        "Hero Boosts": "1,010",
+        "Upgrade Cost": "47",
+        "Blacksmith Level Required": "398"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "100%",
+        "Hero Boosts": "1,010",
+        "Upgrade Cost": "53",
+        "Blacksmith Level Required": "415"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "100%",
+        "Hero Boosts": "1,010",
+        "Upgrade Cost": "57",
+        "Blacksmith Level Required": "432"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "110%",
+        "Hero Boosts": "1,120",
+        "Upgrade Cost": "61",
+        "Blacksmith Level Required": "449"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "110%",
+        "Hero Boosts": "1,120",
+        "Upgrade Cost": "66",
+        "Blacksmith Level Required": "466"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "110%",
+        "Hero Boosts": "1,120",
+        "Upgrade Cost": "70",
+        "Blacksmith Level Required": "483"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "120%",
+        "Hero Boosts": "1,200",
+        "Upgrade Cost": "75",
+        "Blacksmith Level Required": "500"
+      }
+    ],
+    [
+      {
+        "Grand Warden Level": "1-3",
+        "Life Gem Level": "1"
+      },
+      {
+        "Grand Warden Level": "4-5",
+        "Life Gem Level": "2"
+      },
+      {
+        "Grand Warden Level": "6-7",
+        "Life Gem Level": "3"
+      },
+      {
+        "Grand Warden Level": "8-9",
+        "Life Gem Level": "4"
+      },
+      {
+        "Grand Warden Level": "10-11",
+        "Life Gem Level": "5"
+      },
+      {
+        "Grand Warden Level": "12-13",
+        "Life Gem Level": "6"
+      },
+      {
+        "Grand Warden Level": "14-15",
+        "Life Gem Level": "7"
+      },
+      {
+        "Grand Warden Level": "16-20",
+        "Life Gem Level": "8"
+      },
+      {
+        "Grand Warden Level": "21-30",
+        "Life Gem Level": "9"
+      },
+      {
+        "Grand Warden Level": "31-35",
+        "Life Gem Level": "10"
+      },
+      {
+        "Grand Warden Level": "36-40",
+        "Life Gem Level": "11"
+      },
+      {
+        "Grand Warden Level": "41-45",
+        "Life Gem Level": "12"
+      },
+      {
+        "Grand Warden Level": "46-50",
+        "Life Gem Level": "13"
+      },
+      {
+        "Grand Warden Level": "51-55",
+        "Life Gem Level": "14"
+      },
+      {
+        "Grand Warden Level": "56-65",
+        "Life Gem Level": "15"
+      }
+    ],
+    [
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the Life Gem, separated from the pre-existing abilities of the Grand Warden."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Increased maximum hitpoint gained by other troops at all levels by 20%: Level 1-2: 275 -> 330 Level 3-5: 350 -> 420 Level 6-8: 425 -> 510 Level 9-11: 500 -> 600 Level 12-14: 575 -> 690 Level 15-17: 650 -> 780 Level 18: 725 -> 870"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Increased maximum hitpoint gained by other troops at all levels by 180: Level 1-2: 330 -> 510 Level 3-5: 420 -> 600 Level 6-8: 510 -> 690 Level 9-11: 600 -> 780 Level 12-14: 690 -> 870 Level 15-17: 780 -> 960 Level 18: 870 -> 1,050 Increased passive damage increase at all levels by 10%: Level 1: 10 -> 11 Level 2: 12 -> 13 Level 3: 14 -> 16 Level 4: 16 -> 18 Level 5: 18 -> 20 Level 6: 20 -> 22 Level 7: 22 -> 24 Level 8: 24 -> 26 Level 9: 28 -> 31 Level 10: 32 -> 35 Level 11: 38 -> 42 Level 12: 42 -> 46 Level 13: 46 -> 51 Level 14: 50 -> 55 Level 15: 54 -> 59 Level 16: 58 -> 64 Level 17: 62 -> 68 Level 18: 66 -> 73 Increased passive hitpoint increase at all levels by 10%: Level 1: 150 -> 165 Level 2: 163 -> 179 Level 3: 172 -> 189 Level 4: 181 -> 199 Level 5: 192 -> 211 Level 6: 203 -> 223 Level 7: 225 -> 248 Level 8: 249 -> 274 Level 9: 275 -> 303 Level 10: 304 -> 334 Level 11: 336 -> 370 Level 12: 351 -> 386 Level 13: 366 -> 403 Level 14: 381 -> 419 Level 15: 396 -> 436 Level 16: 411 -> 452 Level 17: 426 -> 469 Level 18: 441 -> 485"
+      },
+      {
+        "Date": "January 12, 2026",
+        "Description": "Increased percentage of extra hitpoint of other troops at all levels: Level 1-2: 40% -> 50% Level 3-5: 50% -> 60% Level 6-8: 60% -> 75% Level 9-11: 70% -> 90% Level 12-14: 80% -> 100% Level 15-17: 90% -> 110% Level 18: 100% -> 120% Increased maximum hitpoint gained by other troops at all levels: Level 1-2: 510 -> 640 Level 3-5: 600 -> 750 Level 6-8: 690 -> 830 Level 9-11: 780 -> 930 Level 12-14: 870 -> 1,010 Level 15-17: 960 -> 1,120 Level 18: 1,050 -> 1,200 Increased passive damage increase at levels 4 to 18: Level 4: 18 -> 19 Level 5: 20 -> 21 Level 6: 22 -> 23 Level 7: 24 -> 25 Level 8: 26 -> 27 Level 9: 31 -> 32 Level 10: 35 -> 36 Level 11: 42 -> 43 Level 12: 46 -> 47 Level 13: 51 -> 53 Level 14: 55 -> 57 Level 15: 59 -> 61 Level 16: 64 -> 66 Level 17: 68 -> 70 Level 18: 73 -> 75 Increased passive hitpoint increase at all levels: Level 1: 165 -> 170 Level 2: 179 -> 184 Level 3: 189 -> 195 Level 4: 199 -> 205 Level 5: 211 -> 217 Level 6: 223 -> 230 Level 7: 248 -> 255 Level 8: 274 -> 282 Level 9: 303 -> 311 Level 10: 334 -> 344 Level 11: 370 -> 381 Level 12: 386 -> 398 Level 13: 403 -> 415 Level 14: 419 -> 432 Level 15: 436 -> 449 Level 16: 452 -> 466 Level 17: 469 -> 483 Level 18: 485 -> 500"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Nearby friendly units gain extra hitpoints\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 3.1 Equipment Migration 4 History Summary The Life Gem is a piece of Common Hero Equipment for the Grand Warden . It is one of two pieces of Hero Equipment that the Grand Warden starts with, the other being the Eternal Tome . The Life Gem appears as an amber gem in a scarlet gemstone held by a brown rope with cracks and has amber color at the bottom right. When equipped, the Grand Warden casts a magical aura around him that grants additional hitpoints to units while they stay within his radius, up to a maximum dictated by the level of the Life Gem. The area of effect is denoted by a circular ring centered around the Warden. The Life Gem's effects has no effect on the Grand Warden himself, however he does gain increased damage and hitpoints by having it equipped. The Life Gem also has no effect on Siege Machines . The aura of the Life Gem does not stack with the Apprentice Warden's own life aura, the stronger aura takes precedence. Strategies Offensive Strategies It is the best at boosting medium troops' health, since large troops do not benefit much because of the cap, while small troops will not get the maximum health increase. Thus making it a good choice in Hybrid attacks (especially the Super Hog Rider ), Lavaloon, GoWiPe, Witch spam, or basically any attack that requires a lot of small or medium troops to make them survive for longer. Since it is not as effective on troops with high hitpoints on a per capacity basis, it is better to use an Apprentice Warden for their health increase and use a different equipment such as the Rage Gem instead as the aura from him does not have a cap. When a troop that does not have full HP enters the range of the aura, the amount of health increase is calculated using the amount of HP that the troop currently has, not based on its maximum HP, and the same caps apply for health increase. Note that the troop in the aura will first take the damage from the extra HP from the warden, and then exhaust its normal hitpoints from the damage. The HP bar will also scale accordingly. Defensive Strategies High damage defenses, such as single-target Inferno Towers , Scattershots , or Monolith can partly ignore this ability. Giant Bombs, if sufficiently leveled, and on pairs of 2-3, can wipe out ground low-hitpoint troops such as Hog Riders and Miners. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Grand Warden Passive Common Available by default Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required % HP Increase Max HP Increase Damage per Second Increase Hitpoint Increase Shiny Ore Glowy Ore 1 50% 640 11 170 N/A N/A N/A 2 50% 640 13 184 120 - 1 3 60% 750 16 195 240 20 1 4 60% 750 19 205 400 - 1 5 60% 750 21 217 600 - 1 6 75% 830 23 230 840 100 1 7 75% 830 25 255 1,120 - 1 8 75% 830 27 282 1,440 - 1 9 90% 930 32 311 1,800 200 1 10 90% 930 36 344 1,900 - 3 11 90% 930 43 381 2,000 - 3 12 100% 1,010 47 398 2,100 400 3 13 100% 1,010 53 415 2,200 - 5 14 100% 1,010 57 432 2,300 - 5 15 110% 1,120 61 449 2,400 600 5 16 110% 1,120 66 466 2,500 - 7 17 110% 1,120 70 483 2,600 - 7 18 120% 1,200 75 500 2,700 600 7 Equipment Migration When the Hero Equipment update was released, players' starting Hero Equipment was leveled up for free, without requiring the appropriate Blacksmith level, so that Heroes' capabilities remained roughly the same before and after the update. The level of Hero Equipment obtained from this process depended on the player's Hero level, and is archived in this table below. Grand Warden Level Life Gem Level 1-3 1 4-5 2 6-7 3 8-9 4 10-11 5 12-13 6 14-15 7 16-20 8 21-30 9 31-35 10 36-40 11 41-45 12 46-50 13 51-55 14 56-65 15 History Date Description December 12, 2023 Added the Life Gem, separated from the pre-existing abilities of the Grand Warden. September 9, 2024 Increased maximum hitpoint gained by other troops at all levels by 20%: Level 1-2: 275 -> 330 Level 3-5: 350 -> 420 Level 6-8: 425 -> 510 Level 9-11: 500 -> 600 Level 12-14: 575 -> 690 Level 15-17: 650 -> 780 Level 18: 725 -> 870 February 10, 2025 Increased maximum hitpoint gained by other troops at all levels by 180: Level 1-2: 330 -> 510 Level 3-5: 420 -> 600 Level 6-8: 510 -> 690 Level 9-11: 600 -> 780 Level 12-14: 690 -> 870 Level 15-17: 780 -> 960 Level 18: 870 -> 1,050 Increased passive damage increase at all levels by 10%: Level 1: 10 -> 11 Level 2: 12 -> 13 Level 3: 14 -> 16 Level 4: 16 -> 18 Level 5: 18 -> 20 Level 6: 20 -> 22 Level 7: 22 -> 24 Level 8: 24 -> 26 Level 9: 28 -> 31 Level 10: 32 -> 35 Level 11: 38 -> 42 Level 12: 42 -> 46 Level 13: 46 -> 51 Level 14: 50 -> 55 Level 15: 54 -> 59 Level 16: 58 -> 64 Level 17: 62 -> 68 Level 18: 66 -> 73 Increased passive hitpoint increase at all levels by 10%: Level 1: 150 -> 165 Level 2: 163 -> 179 Level 3: 172 -> 189 Level 4: 181 -> 199 Level 5: 192 -> 211 Level 6: 203 -> 223 Level 7: 225 -> 248 Level 8: 249 -> 274 Level 9: 275 -> 303 Level 10: 304 -> 334 Level 11: 336 -> 370 Level 12: 351 -> 386 Level 13: 366 -> 403 Level 14: 381 -> 419 Level 15: 396 -> 436 Level 16: 411 -> 452 Level 17: 426 -> 469 Level 18: 441 -> 485 January 12, 2026 Increased percentage of extra hitpoint of other troops at all levels: Level 1-2: 40% -> 50% Level 3-5: 50% -> 60% Level 6-8: 60% -> 75% Level 9-11: 70% -> 90% Level 12-14: 80% -> 100% Level 15-17: 90% -> 110% Level 18: 100% -> 120% Increased maximum hitpoint gained by other troops at all levels: Level 1-2: 510 -> 640 Level 3-5: 600 -> 750 Level 6-8: 690 -> 830 Level 9-11: 780 -> 930 Level 12-14: 870 -> 1,010 Level 15-17: 960 -> 1,120 Level 18: 1,050 -> 1,200 Increased passive damage increase at levels 4 to 18: Level 4: 18 -> 19 Level 5: 20 -> 21 Level 6: 22 -> 23 Level 7: 24 -> 25 Level 8: 26 -> 27 Level 9: 31 -> 32 Level 10: 35 -> 36 Level 11: 42 -> 43 Level 12: 46 -> 47 Level 13: 51 -> 53 Level 14: 55 -> 57 Level 15: 59 -> 61 Level 16: 64 -> 66 Level 17: 68 -> 70 Level 18: 73 -> 75 Increased passive hitpoint increase at all levels: Level 1: 165 -> 170 Level 2: 179 -> 184 Level 3: 189 -> 195 Level 4: 199 -> 205 Level 5: 211 -> 217 Level 6: 223 -> 230 Level 7: 248 -> 255 Level 8: 274 -> 282 Level 9: 303 -> 311 Level 10: 334 -> 344 Level 11: 370 -> 381 Level 12: 386 -> 398 Level 13: 403 -> 415 Level 14: 419 -> 432 Level 15: 436 -> 449 Level 16: 452 -> 466 Level 17: 469 -> 483 Level 18: 485 -> 500 Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

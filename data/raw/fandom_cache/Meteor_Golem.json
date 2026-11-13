@@ -1,0 +1,250 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Target Multiplier": "Walls (5x Damage)",
+        "Attack Type": "Area Splash (Ground & Air)",
+        "Housing Space": "40",
+        "Movement Speed": "12",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "19",
+        "Range": "5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage": "480",
+        "Hitpoints": "15,300",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage": "530",
+        "Hitpoints": "16,900",
+        "Upgrade Cost": "28,000,000",
+        "Upgrade Time": "14d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "3",
+        "Damage": "580",
+        "Hitpoints": "18,500",
+        "Upgrade Cost": "30,000,000",
+        "Upgrade Time": "16d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage": "170",
+        "Hitpoints": "4,000",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "2",
+        "Damage": "198",
+        "Hitpoints": "5,000",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "3",
+        "Damage": "226",
+        "Hitpoints": "6,000",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "4",
+        "Damage": "254",
+        "Hitpoints": "7,000",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "5",
+        "Damage": "282",
+        "Hitpoints": "8,000",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "6",
+        "Damage": "310",
+        "Hitpoints": "8,500",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "7",
+        "Damage": "338",
+        "Hitpoints": "9,000",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "8",
+        "Damage": "366",
+        "Hitpoints": "10,000",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "9",
+        "Damage": "394",
+        "Hitpoints": "11,000",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "10",
+        "Damage": "430",
+        "Hitpoints": "12,000",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "11",
+        "Damage": "465",
+        "Hitpoints": "13,000",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "12",
+        "Damage": "500",
+        "Hitpoints": "14,500",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "13",
+        "Damage": "550",
+        "Hitpoints": "16,000",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Date": "October 10, 2025",
+        "Type": "Cosmic Rock Event",
+        "Description": "Added the Meteor Golem as a temporary troop to the game, with 12 levels."
+      },
+      {
+        "Date": "November 1, 2025",
+        "Type": "End of the Cosmic Rock event",
+        "Description": "Removed the Meteor Golem from all existing Army Camps."
+      },
+      {
+        "Date": "November 16, 2025",
+        "Type": "Sneak Peek",
+        "Description": "Announced the Meteor Golem, becoming a permanent troop, with three levels."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Readded the Meteor Golem as a permanent troop."
+      },
+      {
+        "Date": "January 12, 2026",
+        "Type": "Balance Changes",
+        "Description": "Reduced Wall damage multiplier from 10x to 5x."
+      },
+      {
+        "Date": "January 28, 2026",
+        "Type": "Balance Changes",
+        "Description": "Reduced hitpoint at all levels: Level 1: 15,000 -> 13,000 Level 2: 17,000 -> 14,500 Level 3: 19,000 -> 16,000 Reduced damage at all levels: Level 1: 550 -> 450 Level 2: 600 -> 500 Level 3: 650 -> 550"
+      },
+      {
+        "Date": "July 14, 2026",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoint at all levels: Level 1: 13,000 -> 14,500 Level 2: 14,500 -> 16,000 Level 3: 16,000 -> 17,500 Increased damage at all levels: Level 1: 450 -> 480 Level 2: 500 -> 530 Level 3: 550 -> 580"
+      },
+      {
+        "Date": "October 20, 2026",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoints at all levels: Level 1: 14,500 -> 15,300 Level 2: 16,000 -> 16,900 Level 3: 17,500 -> 18,500"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:MeteorGolem_Deploy1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Deploy2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Deploy3.ogg",
+        "Captions": "Meteor Golem deploys",
+        "Description": "When the Meteor Golem is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:MeteorGolem_Split1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Split2.ogg",
+        "Captions": "Meteor Golem splits",
+        "Description": "When the Meteor Golem is about to attack"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:MeteorGolem_Throw1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Throw2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Throw3.ogg",
+        "Captions": "Meteor Golem throws",
+        "Description": "When the Meteor Golem is attacking something"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:MeteorGolem_ThrowHit1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_ThrowHit2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_ThrowHit3.ogg",
+        "Captions": "Meteormite impacts",
+        "Description": "When the thrown Meteormite succesfully hits a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:MeteorGolem_ReForm.ogg",
+        "Captions": "Meteormites merge",
+        "Description": "When the Meteormites merge back into the Meteor Golem"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:MeteorGolem_Die1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Die2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Die3.ogg",
+        "Captions": "Meteor Golem crumbles",
+        "Description": "When the Meteor Golem dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ],
+    [
+      {
+        "Temporary Contents": "Medal Events"
+      },
+      {
+        "Temporary Contents": "Other Events"
+      },
+      {
+        "Temporary Contents": "Crafted Defenses"
+      },
+      {
+        "Temporary Contents": "Temporary Troops"
+      },
+      {
+        "Temporary Contents": "Temporary Spells"
+      },
+      {
+        "Temporary Contents": "Temporary Traps"
+      },
+      {
+        "Temporary Contents": "Temporary Resource Buildings"
+      },
+      {
+        "Temporary Contents": "Other Temporary Contents"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"From the cosmos, to your army ! This lob-loving duo will throw themselves at anything for up-close damage. When separated, Meteormites will attack nearby targets or find a friend to form a Meteor Golem!\" Level 1 Level 2 Level 3 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 4.1 As Temporary Troop 5 History 6 Audio 7 Gallery 8 Trivia 8.1 General 8.2 Comparisons Summary [ ] The Meteor Golem is the nineteeth Elixir Troop and currently the last one unlocked by upgrading the Barracks to level 19. Originally, the Meteor Golem was a Temporary Troop introduced in the Cosmic Rock event. They were unlocked after accumulating 100 Cosmic Shards in the event. The Meteor Golem comprises of two Meteormites stacked on top of each other. As a Meteor Golem, the method of attack is to have one Meteormite throw the other at their target, causing damage. This attack also splits the pair apart, but they can combine together again, either with each other, or with another Meteormite, to form a Meteor Golem and repeat the attack. Each Meteormite spawned through this attack starts with half the current health of the Meteor Golem, rounded down to the nearest 1% of Meteormite health. Thus a damaged Meteor Golem will spawn damaged Meteormites upon splitting up. Cloned Meteor Golems, when separated, cannot be merged back into the original unit. The same is true of Meteor Golems put into a defensive Clan Castle . Each time they recombine, they will become immune to damage for a short time. The total health of the Meteor Golem is determined by the health of both Meteormites, and will be subtracted if one or both of them take (s) damage. For example, if the Meteor Golem launches a Meteormite and takes another one from the other Meteor Golem, the total health of that merged unit may be higher or lower, even the level will either be lower or higher. As mentioned before, when they throw again, the hitpoints of the Meteor Golem will equally be split in half, even if the Meteormites were damaged previously before merging in the first place. Its Meteormites can jump over Walls without the use of Jump Spells , but Meteor Golems themselves cannot. Meteor Golems have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Meteor Golems will proceed to attack the nearest structure. Strategies [ ] Offensive Strategies [ ] Using Meteor Golems is considered to be one of the best attack strategies in the game, especially at Town Halls 17-18, in tandem with the Warden Charge ( Fireball and Rage Gem equipped). Once the funnel is set, the Meteor Golems will wreak havoc on to the base, provided if they are supported by units that target air, like the Archer Queen . However, since they are slow-moving, it may lead to a time fail if the attack is not fast enough, so use cleanup troops like Archers , Minions , and Wizards . An alternative to this strategy is to use the Royal Champion Charge to destroy defenses, but this is often risky because it may result in a time fail. Beware of high-damage defenses like single-target Inferno Towers , Monoliths , and Revenge Towers , as they can deal heavy damage to them. Use Freeze Spells or Overgrowth Spells to disable them, and Ice Block Spells or Totem Spells to tank the damage. Using the Overgrowth Spell can be risky however, because if the Revenge Tower was not on its full power and is trapped, it will eventually transform to its final state once the effect expires. Conversely, the Totem Spell can redirect the attacks and away from the army, in addition to defeating any Skeletons that would distract the Meteor Golems, which can be an advantage in attacking. The throw damage can be boosted by the Rage Spell, dealing more damage. If paired with Healers, the Meteor Golems themselves can also be regenerated significantly which also recovers both of the Meteormites' health, but when seperated, the Healers can heal the resulting Meteor Golem more effectively than when it is alone. Ice Golems can prove effective against Meteor Golems as they can freeze them for a short time, and results in a time fail. When they are deployed from the Clan Castle, use a Totem Spell to distract the Ice Golem from attacking them. Skeleton Spells can also work in this regard. Defensive Strategies [ ] Defending against Meteor Golems can be quite tricky, especially since their Meteormites can jump over Walls . Defending Heroes such as the Barbarian King can be very effective when countering Meteormites, as he has a lot of hitpoints, giving more time for defenses to defeat them, and can even disable their merging mechanics if they get to close, forcing them to attack him. Similarly, Ice Golems prove to be a valuable counter to Meteor Golems and their Meteormites, as they can also freeze them for a short time. Other units can also distract them for a short time, as they have a slow attack speed, like Skeletons from Skeleton Traps . Spell Towers , if placed correctly, can either do the following: When paired with defenses as the Rage Spell Tower, they can quickly ramp up damage to the Meteor Golems and Meteormites, eventually destroying them; If it is a Poison Spell Tower, it can help to slow down the advance of Meteor Golems, allowing more time for defenses to defeat them; or If it is an Invisibility Spell Tower, when a building is hit, it turns invisible along with the main defenses inside, forcing the Meteor Golems to retarget somewhere else that deals less damage while those inside can easily deal with them while defenses stay invisible. Make sure to place main defenses at the center, especially in ring bases, so that the Meteor Golems and its Meteormites will have a hard time going to the core. Upgrade Differences [ ] The Meteor Golem undergoes significant visual changes at all levels. Initially, the Meteor Golem appears to be two Meteormites stacked on one another. Each Meteormite is essentially a body/head of glowing blue eyes with cracks on its body/head. Each has thick, dark, aggressive, and expressive eyebrows, with arms attached to its body/head. The bottom Meteorite uses its arms to crawl and walk, while the top Meteorite has its arms raised. When it attacks, they split by throwing a Meteormite onto the nearest target, while the other will begin either walking towards another Meteormite to merge back into a Meteor Golem or to its target. At level 2, its body becomes orange and gains five yellow spikes on its head, with the center spike being larger. The eyes and cracks on its body are changed from blue to white. At level 3, its body turns blue, and the spikes on its head become white and start to glow. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Target Multiplier Attack Type Housing Space Movement Speed Attack Speed Barracks Level Required Range None Walls (5x Damage) Area Splash (Ground & Air) 40 12 1s 19 5 tiles Level Damage Hitpoints Upgrade Cost Upgrade Time Laboratory Level Required 1 480 15,300 N/A N/A N/A 2 530 16,900 28,000,000 14d 15 3 580 18,500 30,000,000 16d 16 As Temporary Troop [ ] The statistics of Meteor Golem as a temporary troop are archived in the below table. Level Damage Hitpoints Town Hall Level Required 1 170 4,000 6 2 198 5,000 7 3 226 6,000 8 4 254 7,000 9 5 282 8,000 10 6 310 8,500 11 7 338 9,000 12 8 366 10,000 13 9 394 11,000 14 10 430 12,000 15 11 465 13,000 16 12 500 14,500 17 13 550 16,000 18 History [ ] Date Type Description October 10, 2025 Cosmic Rock Event Added the Meteor Golem as a temporary troop to the game, with 12 levels. November 1, 2025 End of the Cosmic Rock event Removed the Meteor Golem from all existing Army Camps. November 16, 2025 Sneak Peek Announced the Meteor Golem, becoming a permanent troop, with three levels. November 17, 2025 Town Hall 18 Update Readded the Meteor Golem as a permanent troop. January 12, 2026 Balance Changes Reduced Wall damage multiplier from 10x to 5x. January 28, 2026 Balance Changes Reduced hitpoint at all levels: Level 1: 15,000 -> 13,000 Level 2: 17,000 -> 14,500 Level 3: 19,000 -> 16,000 Reduced damage at all levels: Level 1: 550 -> 450 Level 2: 600 -> 500 Level 3: 650 -> 550 July 14, 2026 Balance Changes Increased hitpoint at all levels: Level 1: 13,000 -> 14,500 Level 2: 14,500 -> 16,000 Level 3: 16,000 -> 17,500 Increased damage at all levels: Level 1: 450 -> 480 Level 2: 500 -> 530 Level 3: 550 -> 580 October 20, 2026 Balance Changes Increased hitpoints at all levels: Level 1: 14,500 -> 15,300 Level 2: 16,000 -> 16,900 Level 3: 17,500 -> 18,500 Audio [ ] Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:MeteorGolem_Deploy1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Deploy2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Deploy3.ogg Meteor Golem deploys When the Meteor Golem is deployed https://clashofclans.fandom.com/wiki/File:MeteorGolem_Split1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Split2.ogg Meteor Golem splits When the Meteor Golem is about to attack https://clashofclans.fandom.com/wiki/File:MeteorGolem_Throw1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Throw2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Throw3.ogg Meteor Golem throws When the Meteor Golem is attacking something https://clashofclans.fandom.com/wiki/File:MeteorGolem_ThrowHit1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_ThrowHit2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_ThrowHit3.ogg Meteormite impacts When the thrown Meteormite succesfully hits a unit or building https://clashofclans.fandom.com/wiki/File:MeteorGolem_ReForm.ogg Meteormites merge When the Meteormites merge back into the Meteor Golem https://clashofclans.fandom.com/wiki/File:MeteorGolem_Die1.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Die2.ogg https://clashofclans.fandom.com/wiki/File:MeteorGolem_Die3.ogg Meteor Golem crumbles When the Meteor Golem dies Gallery [ ] Trivia [ ] General [ ] You can have a maximum of 8 Meteor Golems at one time in a complete set of fully upgraded Army Camps . This number increases to 9 if you include 1 that can fit into a level 8 or higher Clan Castle . On the battlefield, you can clone an additional 4 Meteor Golems with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 13 Meteor Golems. The Meteor Golem is likely inspired by Geodude from Pokemon, except they are unable to levitate. According to the animation, The Cosmic Curse Awakens , Eternal Warden (Grand Warden's skin) is their creator as Eternal Warden learned a type of magic and fires a meteor and becoming a pair of meteormites. If a Meteor Golem performs their throwing attack while at less than 1% HP, only one Meteormite will spawn (where the throw lands), and it will spawn with 1 HP, and the one that throws it will just despawn, as it is presumably crumbled from using its ability. Comparisons [ ] Unlike other types of Golems, the Meteor Golem is an Elixir troop. The Meteor Golem is the first troop that can split into two subtroops and merge back into one. The Meteor Golem is one of the few Temporary Troops to later become a permanent part of the game. Unlike the others, it is the only one to return as a standard troop in the Home Village. However, in July 13-14, 2026, there was also an additional 60 temporary Meteor Golems added to the army only in Multiplayer and Revenge attacks, and the player can also use up to 8 of these permanent units as well. This created some interactions where two distinct Meteormite types do not fuse with each other (see Meteormite's trivia page ). The Meteor Golem has the most HP of any troop in the Home Village, even exceeding the Barbarian King at maximum level. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven Temporary Contents Medal Events Mashup Madness • Cookie Rumble • Dragon Festival • Super Troop Spotlight • Clash with Haaland • Anime Clash • Mashup Mania • Toyshop Throwdown • Snake Festival • Friend or Foe • Dark Deal • Splash Bash • Cosmic Rock • Meltdown Mayhem • Equipment Blast • Wise Warriors • Dragon Dash • Sound of Clash • Anime Fury Medal Event • Awesome Medal Event • Portal Panic Other Events Work for Hire! • Streak Event • Treasure Hunt • Gold Rush • Hero Rush • Money in the Bank Rush • Clan Rush • Clash of Cards • Community Events Crafted Defenses Current Season : Hot Candle • Hero Hunter • Cake-A-Pult Previous Seasons : Hook Tower • Flame Spinner • Crusher Mortar • Hero Bell • Bomb Hive • Light Beam • Roaster • Air Bombs • Lava Launcher Temporary Troops Ice Wizard • Battle Ram • Pumpkin Barbarian • Giant Skeleton • Skeleton Barrel • El Primo • Party Wizard • Royal Ghost • Ram Rider • Barcher • Hog Wizard • Lavaloon ( Lavaloon Pup ) • Witch Golem ( Skeleton • Big Boy ) • C.O.O.K.I.E • Firecracker • Azure Dragon • Barbarian Kicker • Giant Thrower • M.E.C.H.A • Broom Witch ( Witch Spirit ) • Ice Minion • Snake Barrel ( Snake ) • YEETer ( Tribal Tag Team ) • Giant Giant • K.A.N.E • The Disarmer • Debt Collector • Meteor Golem ( Meteormite ) • Golden Dragon • Elephant Rider ( Elephant • Rider ) • Yeti Undertaker ( Skeletons of Darkness ) • Totem Thrower • M.O.M.M.A Temporary Spells Santa's Surprise • Birthday Boom • Bag of Frostmites • Yellow Card Temporary Traps Pumpkin Bomb • Santa Strike • Freeze Trap • Shrink Trap Temporary Resource Buildings Sour Elixir Cauldron • Gingerbread Bakery • Dragon Pinata • Super Ice Bath • Football Camp • Wizard Vendor • Hydra Headstone • Rocking Reindeer • Snake Shrine • Rumbling Goblins • Looter Wagon • Party Bench • Boom Box • Smoky Stove • Prospector's Plunger • Handsome Scroll • Dragon Fountain • Mech Bull • Lucky Cat • Awesome Orb • Bro Force • Sour Elixir Fountain Other Temporary Contents Arcade Cabinet • Meteor Observer • Supercharges"
+}

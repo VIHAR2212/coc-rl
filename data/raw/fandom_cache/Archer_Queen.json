@@ -1,0 +1,2397 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground & Air)",
+        "Movement Speed": "24",
+        "Attack Speed": "0.75s",
+        "Range": "5 tiles",
+        "Search Radius": "10 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "136",
+        "Damage per Hit": "102",
+        "Hitpoints": "580",
+        "Health Recovery": "115",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "139",
+        "Damage per Hit": "104.25",
+        "Hitpoints": "592",
+        "Health Recovery": "115",
+        "Upgrade Cost": "5,000",
+        "Upgrade Time": "2h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "143",
+        "Damage per Hit": "107.25",
+        "Hitpoints": "604",
+        "Health Recovery": "115",
+        "Upgrade Cost": "5,500",
+        "Upgrade Time": "4h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "146",
+        "Damage per Hit": "109.5",
+        "Hitpoints": "617",
+        "Health Recovery": "115",
+        "Upgrade Cost": "6,000",
+        "Upgrade Time": "8h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "150",
+        "Damage per Hit": "112.5",
+        "Hitpoints": "630",
+        "Health Recovery": "130",
+        "Upgrade Cost": "6,500",
+        "Upgrade Time": "10h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "154",
+        "Damage per Hit": "115.5",
+        "Hitpoints": "643",
+        "Health Recovery": "130",
+        "Upgrade Cost": "7,000",
+        "Upgrade Time": "12h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "157",
+        "Damage per Hit": "117.75",
+        "Hitpoints": "657",
+        "Health Recovery": "130",
+        "Upgrade Cost": "7,500",
+        "Upgrade Time": "14h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "162",
+        "Damage per Hit": "121.5",
+        "Hitpoints": "670",
+        "Health Recovery": "130",
+        "Upgrade Cost": "8,000",
+        "Upgrade Time": "16h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "165",
+        "Damage per Hit": "123.75",
+        "Hitpoints": "685",
+        "Health Recovery": "130",
+        "Upgrade Cost": "8,500",
+        "Upgrade Time": "18h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "169",
+        "Damage per Hit": "126.75",
+        "Hitpoints": "699",
+        "Health Recovery": "145",
+        "Upgrade Cost": "10,000",
+        "Upgrade Time": "20h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "173",
+        "Damage per Hit": "129.75",
+        "Hitpoints": "714",
+        "Health Recovery": "145",
+        "Upgrade Cost": "10,500",
+        "Upgrade Time": "22h",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "178",
+        "Damage per Hit": "133.5",
+        "Hitpoints": "729",
+        "Health Recovery": "145",
+        "Upgrade Cost": "11,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "183",
+        "Damage per Hit": "137.25",
+        "Hitpoints": "744",
+        "Health Recovery": "145",
+        "Upgrade Cost": "11,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "187",
+        "Damage per Hit": "140.25",
+        "Hitpoints": "759",
+        "Health Recovery": "145",
+        "Upgrade Cost": "12,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "192",
+        "Damage per Hit": "144",
+        "Hitpoints": "775",
+        "Health Recovery": "160",
+        "Upgrade Cost": "12,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "196",
+        "Damage per Hit": "147",
+        "Hitpoints": "792",
+        "Health Recovery": "160",
+        "Upgrade Cost": "13,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "201",
+        "Damage per Hit": "150.75",
+        "Hitpoints": "808",
+        "Health Recovery": "160",
+        "Upgrade Cost": "13,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "207",
+        "Damage per Hit": "155.25",
+        "Hitpoints": "826",
+        "Health Recovery": "160",
+        "Upgrade Cost": "14,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "212",
+        "Damage per Hit": "159",
+        "Hitpoints": "842",
+        "Health Recovery": "160",
+        "Upgrade Cost": "14,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "217",
+        "Damage per Hit": "162.75",
+        "Hitpoints": "861",
+        "Health Recovery": "175",
+        "Upgrade Cost": "15,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "21",
+        "Damage per Second": "223",
+        "Damage per Hit": "167.25",
+        "Hitpoints": "878",
+        "Health Recovery": "175",
+        "Upgrade Cost": "17,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "22",
+        "Damage per Second": "228",
+        "Damage per Hit": "171",
+        "Hitpoints": "897",
+        "Health Recovery": "175",
+        "Upgrade Cost": "19,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "23",
+        "Damage per Second": "234",
+        "Damage per Hit": "175.5",
+        "Hitpoints": "916",
+        "Health Recovery": "175",
+        "Upgrade Cost": "21,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "24",
+        "Damage per Second": "240",
+        "Damage per Hit": "180",
+        "Hitpoints": "935",
+        "Health Recovery": "175",
+        "Upgrade Cost": "23,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "25",
+        "Damage per Second": "246",
+        "Damage per Hit": "184.5",
+        "Hitpoints": "954",
+        "Health Recovery": "190",
+        "Upgrade Cost": "25,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "26",
+        "Damage per Second": "252",
+        "Damage per Hit": "189",
+        "Hitpoints": "974",
+        "Health Recovery": "190",
+        "Upgrade Cost": "27,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "27",
+        "Damage per Second": "258",
+        "Damage per Hit": "193.5",
+        "Hitpoints": "995",
+        "Health Recovery": "190",
+        "Upgrade Cost": "29,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "28",
+        "Damage per Second": "264",
+        "Damage per Hit": "198",
+        "Hitpoints": "1,016",
+        "Health Recovery": "190",
+        "Upgrade Cost": "31,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "29",
+        "Damage per Second": "271",
+        "Damage per Hit": "203.25",
+        "Hitpoints": "1,038",
+        "Health Recovery": "190",
+        "Upgrade Cost": "33,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "30",
+        "Damage per Second": "278",
+        "Damage per Hit": "208.5",
+        "Hitpoints": "1,059",
+        "Health Recovery": "205",
+        "Upgrade Cost": "35,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "31",
+        "Damage per Second": "285",
+        "Damage per Hit": "213.75",
+        "Hitpoints": "1,082",
+        "Health Recovery": "205",
+        "Upgrade Cost": "37,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "32",
+        "Damage per Second": "292",
+        "Damage per Hit": "219",
+        "Hitpoints": "1,104",
+        "Health Recovery": "205",
+        "Upgrade Cost": "39,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "33",
+        "Damage per Second": "299",
+        "Damage per Hit": "224.25",
+        "Hitpoints": "1,127",
+        "Health Recovery": "205",
+        "Upgrade Cost": "41,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "34",
+        "Damage per Second": "307",
+        "Damage per Hit": "230.25",
+        "Hitpoints": "1,151",
+        "Health Recovery": "205",
+        "Upgrade Cost": "43,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "35",
+        "Damage per Second": "315",
+        "Damage per Hit": "236.25",
+        "Hitpoints": "1,175",
+        "Health Recovery": "220",
+        "Upgrade Cost": "45,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "36",
+        "Damage per Second": "322",
+        "Damage per Hit": "241.5",
+        "Hitpoints": "1,200",
+        "Health Recovery": "220",
+        "Upgrade Cost": "47,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "37",
+        "Damage per Second": "331",
+        "Damage per Hit": "248.25",
+        "Hitpoints": "1,226",
+        "Health Recovery": "220",
+        "Upgrade Cost": "49,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "38",
+        "Damage per Second": "338",
+        "Damage per Hit": "253.5",
+        "Hitpoints": "1,251",
+        "Health Recovery": "220",
+        "Upgrade Cost": "51,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "39",
+        "Damage per Second": "347",
+        "Damage per Hit": "260.25",
+        "Hitpoints": "1,278",
+        "Health Recovery": "220",
+        "Upgrade Cost": "53,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "40",
+        "Damage per Second": "356",
+        "Damage per Hit": "267",
+        "Hitpoints": "1,304",
+        "Health Recovery": "235",
+        "Upgrade Cost": "55,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "41",
+        "Damage per Second": "365",
+        "Damage per Hit": "273.75",
+        "Hitpoints": "1,331",
+        "Health Recovery": "235",
+        "Upgrade Cost": "58,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "42",
+        "Damage per Second": "374",
+        "Damage per Hit": "280.5",
+        "Hitpoints": "1,359",
+        "Health Recovery": "235",
+        "Upgrade Cost": "61,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "43",
+        "Damage per Second": "383",
+        "Damage per Hit": "287.25",
+        "Hitpoints": "1,388",
+        "Health Recovery": "235",
+        "Upgrade Cost": "64,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "44",
+        "Damage per Second": "393",
+        "Damage per Hit": "294.75",
+        "Hitpoints": "1,417",
+        "Health Recovery": "235",
+        "Upgrade Cost": "67,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "45",
+        "Damage per Second": "403",
+        "Damage per Hit": "302.25",
+        "Hitpoints": "1,447",
+        "Health Recovery": "250",
+        "Upgrade Cost": "70,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "46",
+        "Damage per Second": "413",
+        "Damage per Hit": "309.75",
+        "Hitpoints": "1,478",
+        "Health Recovery": "250",
+        "Upgrade Cost": "73,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "47",
+        "Damage per Second": "423",
+        "Damage per Hit": "317.25",
+        "Hitpoints": "1,508",
+        "Health Recovery": "250",
+        "Upgrade Cost": "76,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "48",
+        "Damage per Second": "434",
+        "Damage per Hit": "325.5",
+        "Hitpoints": "1,540",
+        "Health Recovery": "250",
+        "Upgrade Cost": "79,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "49",
+        "Damage per Second": "445",
+        "Damage per Hit": "333.75",
+        "Hitpoints": "1,572",
+        "Health Recovery": "250",
+        "Upgrade Cost": "82,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "50",
+        "Damage per Second": "456",
+        "Damage per Hit": "342",
+        "Hitpoints": "1,606",
+        "Health Recovery": "265",
+        "Upgrade Cost": "85,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "51",
+        "Damage per Second": "465",
+        "Damage per Hit": "348.75",
+        "Hitpoints": "1,646",
+        "Health Recovery": "265",
+        "Upgrade Cost": "86,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "52",
+        "Damage per Second": "474",
+        "Damage per Hit": "355.5",
+        "Hitpoints": "1,688",
+        "Health Recovery": "265",
+        "Upgrade Cost": "87,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "53",
+        "Damage per Second": "485",
+        "Damage per Hit": "363.75",
+        "Hitpoints": "1,730",
+        "Health Recovery": "265",
+        "Upgrade Cost": "88,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "54",
+        "Damage per Second": "495",
+        "Damage per Hit": "371.25",
+        "Hitpoints": "1,774",
+        "Health Recovery": "265",
+        "Upgrade Cost": "89,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "55",
+        "Damage per Second": "505",
+        "Damage per Hit": "378.75",
+        "Hitpoints": "1,819",
+        "Health Recovery": "280",
+        "Upgrade Cost": "90,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "56",
+        "Damage per Second": "515",
+        "Damage per Hit": "386.25",
+        "Hitpoints": "1,865",
+        "Health Recovery": "280",
+        "Upgrade Cost": "93,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "57",
+        "Damage per Second": "526",
+        "Damage per Hit": "394.5",
+        "Hitpoints": "1,912",
+        "Health Recovery": "280",
+        "Upgrade Cost": "96,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "58",
+        "Damage per Second": "537",
+        "Damage per Hit": "402.75",
+        "Hitpoints": "1,960",
+        "Health Recovery": "280",
+        "Upgrade Cost": "99,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "59",
+        "Damage per Second": "548",
+        "Damage per Hit": "411",
+        "Hitpoints": "2,010",
+        "Health Recovery": "280",
+        "Upgrade Cost": "102,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "60",
+        "Damage per Second": "559",
+        "Damage per Hit": "419.25",
+        "Hitpoints": "2,060",
+        "Health Recovery": "295",
+        "Upgrade Cost": "105,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "61",
+        "Damage per Second": "570",
+        "Damage per Hit": "427.5",
+        "Hitpoints": "2,111",
+        "Health Recovery": "295",
+        "Upgrade Cost": "107,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "62",
+        "Damage per Second": "581",
+        "Damage per Hit": "435.75",
+        "Hitpoints": "2,164",
+        "Health Recovery": "295",
+        "Upgrade Cost": "109,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "63",
+        "Damage per Second": "593",
+        "Damage per Hit": "444.75",
+        "Hitpoints": "2,218",
+        "Health Recovery": "295",
+        "Upgrade Cost": "111,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "64",
+        "Damage per Second": "605",
+        "Damage per Hit": "453.75",
+        "Hitpoints": "2,274",
+        "Health Recovery": "295",
+        "Upgrade Cost": "113,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "65",
+        "Damage per Second": "617",
+        "Damage per Hit": "462.75",
+        "Hitpoints": "2,330",
+        "Health Recovery": "310",
+        "Upgrade Cost": "115,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "66",
+        "Damage per Second": "628",
+        "Damage per Hit": "471",
+        "Hitpoints": "2,384",
+        "Health Recovery": "310",
+        "Upgrade Cost": "117,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "67",
+        "Damage per Second": "638",
+        "Damage per Hit": "478.5",
+        "Hitpoints": "2,432",
+        "Health Recovery": "310",
+        "Upgrade Cost": "119,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "68",
+        "Damage per Second": "648",
+        "Damage per Hit": "486",
+        "Hitpoints": "2,476",
+        "Health Recovery": "310",
+        "Upgrade Cost": "121,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "69",
+        "Damage per Second": "656",
+        "Damage per Hit": "492",
+        "Hitpoints": "2,516",
+        "Health Recovery": "310",
+        "Upgrade Cost": "123,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "70",
+        "Damage per Second": "664",
+        "Damage per Hit": "498",
+        "Hitpoints": "2,552",
+        "Health Recovery": "325",
+        "Upgrade Cost": "125,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "71",
+        "Damage per Second": "671",
+        "Damage per Hit": "503.25",
+        "Hitpoints": "2,584",
+        "Health Recovery": "325",
+        "Upgrade Cost": "130,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "72",
+        "Damage per Second": "677",
+        "Damage per Hit": "507.75",
+        "Hitpoints": "2,616",
+        "Health Recovery": "325",
+        "Upgrade Cost": "135,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "73",
+        "Damage per Second": "682",
+        "Damage per Hit": "511.5",
+        "Hitpoints": "2,648",
+        "Health Recovery": "325",
+        "Upgrade Cost": "140,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "74",
+        "Damage per Second": "687",
+        "Damage per Hit": "515.25",
+        "Hitpoints": "2,680",
+        "Health Recovery": "325",
+        "Upgrade Cost": "145,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "75",
+        "Damage per Second": "692",
+        "Damage per Hit": "519",
+        "Hitpoints": "2,712",
+        "Health Recovery": "340",
+        "Upgrade Cost": "150,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "76",
+        "Damage per Second": "697",
+        "Damage per Hit": "522.75",
+        "Hitpoints": "2,740",
+        "Health Recovery": "340",
+        "Upgrade Cost": "155,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "77",
+        "Damage per Second": "701",
+        "Damage per Hit": "525.75",
+        "Hitpoints": "2,768",
+        "Health Recovery": "340",
+        "Upgrade Cost": "160,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "78",
+        "Damage per Second": "706",
+        "Damage per Hit": "529.5",
+        "Hitpoints": "2,796",
+        "Health Recovery": "340",
+        "Upgrade Cost": "165,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "79",
+        "Damage per Second": "710",
+        "Damage per Hit": "532.5",
+        "Hitpoints": "2,824",
+        "Health Recovery": "340",
+        "Upgrade Cost": "170,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "80",
+        "Damage per Second": "714",
+        "Damage per Hit": "535.5",
+        "Hitpoints": "2,852",
+        "Health Recovery": "355",
+        "Upgrade Cost": "175,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "81",
+        "Damage per Second": "717",
+        "Damage per Hit": "537.75",
+        "Hitpoints": "2,880",
+        "Health Recovery": "355",
+        "Upgrade Cost": "180,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "82",
+        "Damage per Second": "721",
+        "Damage per Hit": "540.75",
+        "Hitpoints": "2,904",
+        "Health Recovery": "355",
+        "Upgrade Cost": "185,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "83",
+        "Damage per Second": "724",
+        "Damage per Hit": "543",
+        "Hitpoints": "2,928",
+        "Health Recovery": "355",
+        "Upgrade Cost": "190,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "84",
+        "Damage per Second": "728",
+        "Damage per Hit": "546",
+        "Hitpoints": "2,952",
+        "Health Recovery": "355",
+        "Upgrade Cost": "195,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "85",
+        "Damage per Second": "731",
+        "Damage per Hit": "548.25",
+        "Hitpoints": "2,976",
+        "Health Recovery": "370",
+        "Upgrade Cost": "200,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "86",
+        "Damage per Second": "734",
+        "Damage per Hit": "550.5",
+        "Hitpoints": "3,000",
+        "Health Recovery": "370",
+        "Upgrade Cost": "215,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "87",
+        "Damage per Second": "738",
+        "Damage per Hit": "553.5",
+        "Hitpoints": "3,024",
+        "Health Recovery": "370",
+        "Upgrade Cost": "225,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "88",
+        "Damage per Second": "741",
+        "Damage per Hit": "555.75",
+        "Hitpoints": "3,048",
+        "Health Recovery": "370",
+        "Upgrade Cost": "235,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "89",
+        "Damage per Second": "745",
+        "Damage per Hit": "558.75",
+        "Hitpoints": "3,072",
+        "Health Recovery": "370",
+        "Upgrade Cost": "245,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "90",
+        "Damage per Second": "748",
+        "Damage per Hit": "561",
+        "Hitpoints": "3,096",
+        "Health Recovery": "385",
+        "Upgrade Cost": "255,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "91",
+        "Damage per Second": "751",
+        "Damage per Hit": "563.25",
+        "Hitpoints": "3,120",
+        "Health Recovery": "385",
+        "Upgrade Cost": "280,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "92",
+        "Damage per Second": "755",
+        "Damage per Hit": "566.25",
+        "Hitpoints": "3,144",
+        "Health Recovery": "385",
+        "Upgrade Cost": "290,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "93",
+        "Damage per Second": "758",
+        "Damage per Hit": "568.5",
+        "Hitpoints": "3,168",
+        "Health Recovery": "385",
+        "Upgrade Cost": "300,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "94",
+        "Damage per Second": "762",
+        "Damage per Hit": "571.5",
+        "Hitpoints": "3,192",
+        "Health Recovery": "385",
+        "Upgrade Cost": "310,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "95",
+        "Damage per Second": "765",
+        "Damage per Hit": "573.75",
+        "Hitpoints": "3,216",
+        "Health Recovery": "400",
+        "Upgrade Cost": "320,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "96",
+        "Damage per Second": "768",
+        "Damage per Hit": "576",
+        "Hitpoints": "3,240",
+        "Health Recovery": "400",
+        "Upgrade Cost": "340,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "97",
+        "Damage per Second": "771",
+        "Damage per Hit": "578.25",
+        "Hitpoints": "3,264",
+        "Health Recovery": "400",
+        "Upgrade Cost": "350,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "98",
+        "Damage per Second": "774",
+        "Damage per Hit": "580.5",
+        "Hitpoints": "3,288",
+        "Health Recovery": "400",
+        "Upgrade Cost": "360,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "99",
+        "Damage per Second": "777",
+        "Damage per Hit": "582.75",
+        "Hitpoints": "3,312",
+        "Health Recovery": "400",
+        "Upgrade Cost": "370,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "100",
+        "Damage per Second": "780",
+        "Damage per Hit": "585",
+        "Hitpoints": "3,336",
+        "Health Recovery": "415",
+        "Upgrade Cost": "380,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "101",
+        "Damage per Second": "783",
+        "Damage per Hit": "587.25",
+        "Hitpoints": "3,360",
+        "Health Recovery": "415",
+        "Upgrade Cost": "400,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "102",
+        "Damage per Second": "786",
+        "Damage per Hit": "589.5",
+        "Hitpoints": "3,384",
+        "Health Recovery": "415",
+        "Upgrade Cost": "410,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "103",
+        "Damage per Second": "789",
+        "Damage per Hit": "591.75",
+        "Hitpoints": "3,408",
+        "Health Recovery": "415",
+        "Upgrade Cost": "420,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "104",
+        "Damage per Second": "792",
+        "Damage per Hit": "594",
+        "Hitpoints": "3,432",
+        "Health Recovery": "415",
+        "Upgrade Cost": "430,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "105",
+        "Damage per Second": "795",
+        "Damage per Hit": "596.25",
+        "Hitpoints": "3,456",
+        "Health Recovery": "430",
+        "Upgrade Cost": "450,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "106",
+        "Damage per Second": "798",
+        "Damage per Hit": "598.5",
+        "Hitpoints": "3,480",
+        "Health Recovery": "430",
+        "Upgrade Cost": "460,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "107",
+        "Damage per Second": "801",
+        "Damage per Hit": "600.75",
+        "Hitpoints": "3,504",
+        "Health Recovery": "430",
+        "Upgrade Cost": "470,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "108",
+        "Damage per Second": "804",
+        "Damage per Hit": "603",
+        "Hitpoints": "3,528",
+        "Health Recovery": "430",
+        "Upgrade Cost": "475,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "109",
+        "Damage per Second": "807",
+        "Damage per Hit": "605.25",
+        "Hitpoints": "3,552",
+        "Health Recovery": "430",
+        "Upgrade Cost": "485,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "110",
+        "Damage per Second": "810",
+        "Damage per Hit": "607.5",
+        "Hitpoints": "3,576",
+        "Health Recovery": "445",
+        "Upgrade Cost": "490,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Patch": "January 9, 2013",
+        "Description": "Announced the Archer Queen."
+      },
+      {
+        "Patch": "January 10, 2013",
+        "Description": "Added the Archer Queen, with 30 levels."
+      },
+      {
+        "Patch": "May 23, 2013",
+        "Description": "Added levels 31 to 40 Archer Queen."
+      },
+      {
+        "Patch": "January 29, 2014",
+        "Description": "Added the Royal Cloak ability."
+      },
+      {
+        "Patch": "September 16, 2014",
+        "Description": "Reduced hero regeneration times greatly at all levels."
+      },
+      {
+        "Patch": "October 22, 2014",
+        "Description": "Hero icons now show hero ability status in replays."
+      },
+      {
+        "Patch": "December 11, 2014",
+        "Description": "Hero ability icons now show remaining hitpoints and start flashing when low."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Description": "Added levels 41 to 45 Archer Queen."
+      },
+      {
+        "Patch": "December 18, 2017",
+        "Description": "Added levels 46 to 50 Archer Queen."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Description": "Added levels 51 to 60 Archer Queen."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Description": "Converted the Archer Queen from 2D to 3D."
+      },
+      {
+        "Patch": "June 18, 2019",
+        "Description": "Added levels 61 to 65 Archer Queen."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Description": "Added levels 66 to 70 Archer Queen."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Description": "New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero. Archer Queen now displays in her selected skin under the Player Profile tab. When acquiring a new skin, the UI to select the skin will automatically open. Some selected skins will be able to be purchased outside of the Gold Pass. Fixed a bug where the Archer Queen received double health recovery when her ability is used both automatically and manually at the same time. Show purple Hero level icons properly in attack confirm screen if Hero Potion is active."
+      },
+      {
+        "Patch": "June 22, 2020",
+        "Description": "Added levels 71 to 75 Archer Queen."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Description": "Heroes now automatically heal when the player's base is raided. Removed guard toggle."
+      },
+      {
+        "Patch": "October 26, 2020",
+        "Description": "Fixed skin names not changing when changing Hero with the arrows (in the \"Change Skin\" menus)."
+      },
+      {
+        "Patch": "December 7, 2020",
+        "Description": "At the end of a battle, if the Archer Queen's ability remains unused, the Hero will heal the amount of health they would normally recover from using their ability. This will help reduce the Hero's downtime, allowing them to be ready much sooner. A new Cosmetics tab has been added to the in-game shop where you can browse and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems. A \"View Skin\" option has been added when visiting. Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Description": "Added levels 76 to 80 Archer Queen. Boosts on Archer Queen and other Heroes or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background."
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Description": "Added levels 81 to 85 Archer Queen."
+      },
+      {
+        "Patch": "December 12, 2022",
+        "Description": "Changed the Archer Queen's 3D model."
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Description": "Added levels 86 to 90 Archer Queen."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Description": "Added levels 91 to 95 Archer Queen. Replaced the Royal Cloak ability with Hero Equipment and a health recovery stat. As a result, the Archer Queen loses damage and max health at every level, with much of the missing stats being given to his default Hero Equipment."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Description": "Added levels 96 to 100 Archer Queen. The Archer Queen is no longer unlocked by placing down her Altar , but getting level 2 Hero Hall . Her Altar is replaced by the Hero Banner obstacle."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Description": "Removed regeneration time."
+      },
+      {
+        "Patch": "June 16, 2025",
+        "Description": "Removed regeneration time in the info screen, which was still there prior to this update."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Description": "Moved levels 81 to 85 Archer Queen from Town Hall 15 to Town Hall 14."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Description": "Added levels 101 to 105 Archer Queen."
+      },
+      {
+        "Patch": "February 23, 2026",
+        "Description": "Updated Cost & Time Reductions"
+      },
+      {
+        "Patch": "June 15, 2026",
+        "Description": "Added levels 106 to 110 Archer Queen. Upgrade Times Levels 71-75: 4.5d -> 4d Levels 76-80: 5d -> 4.5d Levels 81-85: 6d -> 5d Levels 86-90: 7d -> 6d Levels 91-95: 8d -> 7d Costs Level 82: 190K -> 185K Level 83: 200K -> 190K Level 84: 210K -> 195K Level 85: 220K -> 200K Level 86: 230K -> 215K Level 87: 240K -> 225K Level 88: 250K -> 235K Level 89: 260K -> 245K Level 90: 270K -> 255K"
+      }
+    ],
+    [
+      {
+        "Skin": "Gladiator Queen",
+        "Class": "Gold",
+        "Season Available": "May 2019",
+        "Notes": ""
+      },
+      {
+        "Skin": "Valkyrie Queen",
+        "Class": "Gold",
+        "Season Available": "July 2019",
+        "Notes": ""
+      },
+      {
+        "Skin": "Autumn Queen",
+        "Class": "Gold",
+        "Season Available": "September 2019",
+        "Notes": "Available as the first reward on the Gold Pass track."
+      },
+      {
+        "Skin": "Ice Queen",
+        "Class": "Gold",
+        "Season Available": "November 2019",
+        "Notes": ""
+      },
+      {
+        "Skin": "Warrior Queen",
+        "Class": "Legendary",
+        "Season Available": "January 2020, February 2021/2022",
+        "Notes": "The Warrior Queen (literally \"Heroic Mulan\" in Chinese) was available in Lunar New Year offers in 2020, 2021, 2022."
+      },
+      {
+        "Skin": "Primal Queen",
+        "Class": "Gold",
+        "Season Available": "March 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clockwork Queen",
+        "Class": "Gold",
+        "Season Available": "June 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Pirate Queen",
+        "Class": "Gold",
+        "Season Available": "September 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Rogue Queen",
+        "Class": "Gold",
+        "Season Available": "February 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jungle Queen",
+        "Class": "Gold",
+        "Season Available": "June 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Party Queen",
+        "Class": "Gold",
+        "Season Available": "August 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Champion Queen",
+        "Class": "Legendary",
+        "Season Available": "November 2021, September 2022, September 2024",
+        "Notes": "The Champion Queen skin was available in a special offer for the World Finals in 2021 and 2022.  In September 2024, it was purchasable in the Mini Spotlight medal event for 2,250 ."
+      },
+      {
+        "Skin": "Shadow Queen",
+        "Class": "Gold",
+        "Season Available": "January 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Miner Queen",
+        "Class": "Gold",
+        "Season Available": "May 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Summer Queen",
+        "Class": "Gold",
+        "Season Available": "July 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Pixel Queen",
+        "Class": "Legendary",
+        "Season Available": "August 2022",
+        "Notes": "The Pixel Queen was available in a 10th Clashiversary offer in August 2022; costing $4.99 USD (or equivalent), half of the usual price for Legendary skins."
+      },
+      {
+        "Skin": "Spooky Queen",
+        "Class": "Gold",
+        "Season Available": "October 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Magic Queen",
+        "Class": "Legendary",
+        "Season Available": "October 2022",
+        "Notes": "The Magic Queen was available in a special offer for the release of Town Hall 15."
+      },
+      {
+        "Skin": "Jolly Queen",
+        "Class": "Gold",
+        "Season Available": "December 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Lunar Queen",
+        "Class": "Legendary",
+        "Season Available": "January 2023",
+        "Notes": "The Lunar Queen was available in a special Lunar New Year offer in January 2023."
+      },
+      {
+        "Skin": "Heart Hunter Queen",
+        "Class": "Legendary",
+        "Season Available": "February 2023",
+        "Notes": "The Heart Hunter Queen was available in a special offer in February 2023 for Valentine's Day."
+      },
+      {
+        "Skin": "Painter Queen",
+        "Class": "Legendary",
+        "Season Available": "March 2023",
+        "Notes": "The Painter Queen was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD."
+      },
+      {
+        "Skin": "Dark Ages Queen",
+        "Class": "Legendary",
+        "Season Available": "April 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Goblin Queen",
+        "Class": "Gold",
+        "Season Available": "June 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "League Queen",
+        "Class": "Legendary",
+        "Season Available": "June 2023",
+        "Notes": "The League Queen is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 ."
+      },
+      {
+        "Skin": "Future Queen",
+        "Class": "Legendary",
+        "Season Available": "August 2023",
+        "Notes": "The Future Queen skin was available in a special offer for the 11th Clashiversary in August 2023."
+      },
+      {
+        "Skin": "Chess Queen",
+        "Class": "Gold",
+        "Season Available": "September 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Ghost Queen",
+        "Class": "Legendary",
+        "Season Available": "October 2023",
+        "Notes": "The Ghost Queen skin was available as a part of the Mashup Madness medal event in October 2023, where it could be bought for 4,650 ."
+      },
+      {
+        "Skin": "Gingerbread Queen",
+        "Class": "Legendary",
+        "Season Available": "December 2023",
+        "Notes": "The Gingerbread Queen skin was available in a special Clashmas offer in December 2023."
+      },
+      {
+        "Skin": "Queen of the North",
+        "Class": "Legendary",
+        "Season Available": "January 2024",
+        "Notes": "The Queen of the North skin was available in a special offer in January 2024; it cost $9.99 USD or equivalent."
+      },
+      {
+        "Skin": "Dragon Queen",
+        "Class": "Legendary",
+        "Season Available": "February 2024",
+        "Notes": "The Dragon Queen skin was available in a special Lunar New Year offer in February 2024."
+      },
+      {
+        "Skin": "Space Queen",
+        "Class": "Gold",
+        "Season Available": "March 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Egypt Queen",
+        "Class": "Legendary",
+        "Season Available": "April 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Football Queen",
+        "Class": "Legendary",
+        "Season Available": "May 2024",
+        "Notes": "Available as part of the Clash with Haaland medal event in May 2024, where it could be bought for 4,650 ."
+      },
+      {
+        "Skin": "Wild West Queen",
+        "Class": "Legendary",
+        "Season Available": "June 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash Games Queen",
+        "Class": "Legendary",
+        "Season Available": "July 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Queen",
+        "Class": "Legendary",
+        "Season Available": "August 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Archer Satyr",
+        "Class": "Legendary",
+        "Season Available": "September 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dark Minion Queen",
+        "Class": "Gold",
+        "Season Available": "October 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Justice Queen",
+        "Class": "Legendary",
+        "Season Available": "November 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Puppet Queen",
+        "Class": "Gold",
+        "Season Available": "December 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Fire Queen",
+        "Class": "Legendary",
+        "Season Available": "January 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Snake Queen",
+        "Class": "Legendary",
+        "Season Available": "February 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Quickfire Queen",
+        "Class": "Legendary",
+        "Season Available": "March 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Brutality Queen",
+        "Class": "Legendary",
+        "Season Available": "April 2025",
+        "Notes": "Based on the WWE wrestler Rhea Ripley , as part of the Clashamania collaboration season."
+      },
+      {
+        "Skin": "Kyudo Queen",
+        "Class": "Gold",
+        "Season Available": "May 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Queen Fatale",
+        "Class": "Legendary",
+        "Season Available": "June 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Renegade Queen",
+        "Class": "Legendary",
+        "Season Available": "July 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash-A-Rama Queen",
+        "Class": "Legendary",
+        "Season Available": "August 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "P.E.Q.Q.A Queen",
+        "Class": "Legendary",
+        "Season Available": "September 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Archer Hunter",
+        "Class": "Gold",
+        "Season Available": "October 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Fury Queen",
+        "Class": "Legendary",
+        "Season Available": "November 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Blizzard Queen",
+        "Class": "Legendary",
+        "Season Available": "December 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Queen of the Dunes",
+        "Class": "Legendary",
+        "Season Available": "January 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Phantom Queen",
+        "Class": "Legendary",
+        "Season Available": "February 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dragonscale Queen",
+        "Class": "Legendary",
+        "Season Available": "March 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Bassbow Queen",
+        "Class": "Gold",
+        "Season Available": "April 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Skeleton Queen",
+        "Class": "Legendary",
+        "Season Available": "May 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Fury Queen",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Majestic Archer Queen",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "Available as a reward from Hero's Journey once a cumulative total of 225 Hero levels is attained."
+      },
+      {
+        "Skin": "Rosy Half-Time Queen",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Medusa Queen",
+        "Class": "Legendary",
+        "Season Available": "July 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Elven Archer",
+        "Class": "Legendary",
+        "Season Available": "August 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Alexa Queen",
+        "Class": "Legendary",
+        "Season Available": "September 2026",
+        "Notes": "Based on the WWE wrestler Alexa Bliss , as part of the Search for Cena collaboration season."
+      },
+      {
+        "Skin": "Shroud Queen",
+        "Class": "Gold",
+        "Season Available": "October 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Titan Queen",
+        "Class": "Legendary",
+        "Season Available": "November 2026",
+        "Notes": ""
+      }
+    ],
+    [
+      {
+        "Skin": "Gladiator Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes 1",
+        "Attacking Animation": "Yes 2",
+        "Knockout Animation": "Yes 1",
+        "Resting Animation": "Yes 1",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Valkyrie Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes 1",
+        "Attacking Animation": "Yes 2",
+        "Knockout Animation": "Yes 1",
+        "Resting Animation": "Yes 1",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Autumn Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes 2",
+        "Attacking Animation": "Yes 1",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "Yes",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Ice Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes 1",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warrior Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes 1",
+        "Attacking Animation": "Yes 1",
+        "Knockout Animation": "Yes 1",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Primal Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes 1",
+        "Attacking Animation": "Yes 1",
+        "Knockout Animation": "Yes 1",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Clockwork Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Pirate Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes 1",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Rogue Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes 1",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jungle Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Party Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes 1",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Champion Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Shadow Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Miner Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Summer Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pixel Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Spooky Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Magic Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jolly Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "Yes",
+        "Resting Effects": "Yes",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Lunar Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Heart Hunter Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Painter Queen",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      }
+    ],
+    [
+      {
+        "": "Levels 41-60 (Old Sprite)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] Large Article This article currently has 66,242 bytes, and could take a long time to load, especially on low-end devices. Please proceed with caution and wait for it to load patiently. For the troop, see Archer . For the Super , Builder Base and Clan Capital troop with a similar ability which are only active upon being deployed, see Sneaky Goblin and Sneaky Archer . \"Towering above all other Archers , this graceful huntress is a master of destructive force. Although her health is modest, she snipes targets from afar with her powerful X-bow . As a defender she guards the village with a vengeance.\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 Hero Equipment 5 History 6 Hero Skins 6.1 Skin Availability 6.2 Archer Queen Skins 6.3 Archer Queen Skin Features 6.4 Notes 7 Trivia 7.1 Comparisons Summary The Archer Queen is the second Hero unlocked at Hero Hall Level 2, which requires Town Hall Level 8. She is essentially a bigger and much more powerful version of the Archer . In addition to possessing much higher damage and hitpoints, the Archer Queen also shoots 1.5 tiles farther than a normal Archer (5 tiles instead of 3.5 tiles). In her default skin, the Archer Queen otherwise appears similar to a level 3-4 or 6-7 Archer, but much larger, wields a modified X-Bow instead of a regular bow, and wears a golden crown on her head, a hunter green tunic and cloak, and a purple loincloth tied around her waist. She does not wear any footwear. The Archer Queen shoots three rapid arrows per shot. However, that is more of a visual feature, because these arrows deal damage to a single target. As a Hero, the Archer Queen can participate in both attack and defense, but will not be available to use while under upgrade. The Archer Queen will defend the village when assigned to a Hero Banner . The Archer Queen only defends her territory around her banner and will retreat if lured too far out. She does not need to be defeated for an attack to end in a 3-star. Unlike the Barbarian King, the Archer Queen can attack air units like Balloons , Dragons , or Minions , making her effective in guarding a village against players who conduct air raids. As a Hero, the Archer Queen has an ability that can be used once per battle which allows her to recover some of her health, and the amount increases at every fifth level. The Hero Equipment that she wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase. When unlocked, she starts with the Archer Puppet and Invisibility Vial. The Archer Puppet allows the Archer Queen to summon a large number of invisible Archers and an increase health recovery. The level of the Archers matches the level researched by the player. It gives a passive increase to damage. The Invisibility Vial turns the Archer Queen invisible and gives her significantly increased damage for the duration. It gives a passive increase to maximum health. Upgrading the Blacksmith to level 2 and 5 unlocks the Giant Arrow and Healer Puppet respectively. The Giant Arrow launches a large arrow that travels the whole village, dealing damage on the way. It gives a passive increase to damage and max health. The Healer Puppet summons Healers, with the number of Healers is dependent on the level of this Equipment. It gives a passive increase to her maximum health and grants her self healing. Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or gems with the Trader . The Frozen Arrow passively makes her attacks slow down defenses, defending Heroes and troops. It gives a passive increase to damage. The Magic Mirror summons clone(s) of herself, provides a brief invisibility, and grants an increased health recovery with her ability. It gives a passive increase to max health. The Action Figure summons a Giant Giant to fight by the Archer Queen's side. It gives a passive increase to damage and max health and grants her self healing. The Monolith Arrow passively makes her attacks deal bonus damage based off the target's maximum health. This bonus damage decreases the more troops are deployed. it also gives a passive hitpoint increase and grants damage reduction. Strategies Offensive Strategies The six Home Village Heroes serve different roles in raids. The Barbarian King is the strength specialist, the Minion Prince is the air specialist, the Archer Queen is the speed specialist, the Grand Warden is the support specialist, the Royal Champion is the offense specialist, and the Dragon Duke is the solo specialist. Deploy her behind the Barbarian King as he tanks and deals the damage while the Archer Queen does necessary damage in order to destroy certain defenses by her speed. She has a better range than an Archer (5 tiles instead of 3.5), so a good strategy is to place a group of Giants , P.E.K.K.As , Golems , or the Barbarian King as a meat shield, then a group of Archers, and finally the Archer Queen. This minimizes the chance of her being defeated or even hit and may allow you to use her many times in a row without waiting for her to regenerate. The Archer Queen and Healer combination, better known as Queen Walk, is a very viable strategy when you are targeting for loot. She can clear large areas of the base, creating an effective funnel. This, however, requires a high-level Queen due to the fact that the Queen alone cannot deal enough damage and will eventually run out of time. Air Defenses bombing the Healers can easily destroy this, but this does not happen very often since the Archer Queen's range and the Healer's range allow the Healers to stay out of most Air Defenses' range. A related version of the Queen Walk is the Queen Charge, where instead of being used for funneling, the Queen and Healers target the core of the base, destroying key defenses. This usually involves the use of Wall Breakers , their super form , or Jump Spells in addition to other funneling troops (such as Baby Dragons ) to ensure she enters the base, and then using her abilities to wipe defenses. An alternate version of the Queen Walk that can be utilized is with Druids instead of Healers. Unlike Healers, Druids do not have a reduced healing rate when healing Heroes, making them slightly more effective. In addition, their healing bounces from one troop or Hero to another, thereby giving you the ability to add supporting troops in a Queen Walk. The downside to using Druids instead of Healers is that they will only remain in their base form for 30 seconds before transforming into their Bear form. Once they have turned into a Bear, they can no longer heal the Queen and/or troops and instead target defenses, which can sometimes be useful to tank the Queen from incoming defenses. For Queen Walks and Charges, Rage Spells can be used to boost both the Archer Queen and the Healers/Druids if needed. When boosted by Rage Spells, the Healers/Druids will heal faster, allowing them to heal the Queen quickly if she should take lots of damage. Freeze Spells are also handy to have to stop high-damage defenses like the single-target Inferno Tower , while the Overgrowth Spell can divert the Queen and prevent her from taking damage. Seeking Air Mines can also counter this. Periodically place some Balloons near the Healers to try and soak them up. These Balloons are often called \"coco loons\". Try to bring about 3 or 4. Any extra ones may also be used like normal Balloons. However, the Seeking Air Mine strategy does not work on Druids, since they are ground units and will not trigger these aerial traps in any way, at the cost of being vulnerable to defenses and traps that target ground units. The Unicorn can be used in place of a Healer or Druid. However, in a lot of strategies, you see them both used at the same time for maximum healing to the Archer Queen, which increases her sustainability. The Invisibility Vial , when equipped, prevents defenses from targeting the Archer Queen, but she can be affected by splash damage; for instance, if nearby troops are targeted by a Mortar or a Scattershot , the splash projectile of the Mortar and the Scattershot will damage the Archer Queen if she is in range, regardless of whether her ability is active or not. The Invisibility Vial does not prevent the Archer Queen from triggering Bombs and Giant Bombs and she will still be damaged by them if she is in range when they explode. The activated Invisibility Vial's ability is excellent against single-target Inferno Towers. When used, the Inferno Tower's damage will not only reset, but is often redirected onto a summoned Archer if the Archer Puppet is equipped. The Queen can quickly finish off the Inferno with her damage under the cloak, while the Archers can provide great cover and overwhelm the Inferno if it is not defended well by splash defenses (or other multi-targeting Infernos). Without the Archer Puppet, her sustainability will increased significantly, especially if the Invisibility Vial is paired with either the Giant Arrow or Frozen Arrow. The Invisibility Vial ability will also not prevent any projectiles (such as Cannon shots) that are targeting the Archer Queen at the time of the ability's activation from hitting her. If the Eagle Artillery has already locked on and fired on the Queen, activating the Invisibility Vial will not prevent the shots from hitting, which will result in great damage against your Queen. Activating the ability just before it fires will stop the Eagle Artillery from firing on your Archer Queen, however, and render the Queen temporarily untargetable by the Eagle Artillery as normal. A good idea is to put the Archer Queen with the other heroes. The Barbarian King soaks up hits, the Archer Queen attacks from behind, the Grand Warden supports them with his Life Gem or the Rage Gem , and the Royal Champion destroys defenses. If there are troops in the Clan Castle , they also get benefits from the Grand Warden and they can assist the other heroes in terms of defending and stalling. This is also called a hero dive, where you push a certain amount of your heroes into the base a little. This can help with funneling, take out major defenses or just getting percentage in general. Sending the Archer Queen and any other heroes like this with little support (up to about 25 housing space of troops) is known as a Sui Queen. This is best used to destroy outer portions of the base and a few key targets farther in. Beware of the Barbarian King, as he can knock out the Archer Queen in a 1v1 if they are at the same level or if the Archer Queen is only 5 levels or lower than the King. If you are going to 1v1 the Barbarian King, place Healers/Druids to support the Queen or place Wizards or any other high-damaging troop to quickly defeat the King. Headhunters, if you have access, is also good when going against the King. The Invisibility Vial ability's mechanism will cause her to be considered as a new target different from the original Archer Queen. Against a defending Electro Dragon , this ability may backfire, as it may cause her to take two hits from the Electro Dragon's Chain Lightning ability. If you do not need to use her ability during battle, you do not always need to. If the battle ends and she does not use her ability, after battle she will recover health equal to the ability recovery. By far and away the most common Pet to pair with the Archer Queen is Frosty can also be used for Queen Walks and smash-style attacks, slowing down defenses and distracting them with his Frostmites . Alternatively, the Unicorn can be used as it enables her to be healed over time, greatly increasing her sustainability. The Phoenix , when unlocked, can substitute for the Unicorn if the latter is being upgraded, being able to extend the lifetime of the Queen and allowing her to do extra damage before she goes down. Diggy can stun defenses and units to allow the Archer Queen more time to deal with them, but only works on a single target. The Phoenix can also revive the Archer Queen if she happens to be defeated while under her ability. The subsequent revival allows the Queen to use most of, if not the full duration of her extremely damaging ability if the Invisibility Vial is active. The Archer Queen benefits from having higher-level equipment, so leveling up your equipment will greatly improve the Archer Queen. A good Hero Equipment combination for the Archer Queen includes the Frozen Arrow and Invisibility Vial, as this reduces her incoming damage by slowing down defenses, and making her invisible allows her to deal more damage. However, if you are using a pet, the Pet will not turn invisible, forcing the pet to get taken down early, which can leave the Queen without support. Other good combos include the Frozen Arrow and Healer Puppet, which allows her more healers for extra health recovery, and also self-heals over time. The Invisibility Vial and Healer Puppet for guaranteed healing, and the Giant Arrow and Invisibility Vial or the Magic Mirror for ZapQuake attacks are all good combinations to a certain extent. Some good Hero Equipment pairings include: The Frozen Arrow and Invisibility Vial, which allows the Queen to provides some support on slowing the defenses and survive and do more damage when necessary. The Magic Mirror is usually an upgrade to the Invisibility Vial in most situations. The Magic Mirror summons clones and turns the Queen invisible briefly so defenses will target them instead, they do more extra damage overall and have some tanking capability, it also provides more maximum health passively and have extra health recovery to make up for not being invisible for longer. Pairing this with the Action Figure allows the Giant Giant to tank for all the cloned Queens, allowing the Queens to deal significant amounts of damage when both abilities are activated. The Healer Puppet and Giant Arrow/Frozen Arrow/Archer Puppet, as both abilities can be used immediately with little to no conflicts, unlike Invisibility Vial or Magic Mirror. The Healer Puppet and Invisibility Vial/Magic Mirror are still a valid pairing, as the passive healing already helps the Queen's sustainability in the core, having invisibility time and retargeting available with extra Healers being spawned can be an insurance. Defensive Strategies The Archer Queen is more suitable for defense than the Barbarian King because of her higher damage per second, and she is able to attack from a longer range (as well as being able to strike air units ), but she has dramatically lower health than the Barbarian King. The Hero Banner must be placed 3-4 spaces from the nearest wall to prevent the Queen from jumping out and getting targeted by melee troops. Protect your key defenses by keeping them more than 5 tiles away from the nearest open space, so the Queen cannot snipe them. Keep your Eagle Artillery away from the Queen's banner so that the opponent cannot destroy both with Electrone or Blizzard. The best strategy against an Archer Queen is often another Archer Queen. A Queen Walk or an Archer Queen behind a tank troop can take down an enemy Queen quickly, especially if her Equipment abilities are activated. Tanking troops can be of some use, but they will not last long against an Archer Queen. For example, a maxed Golem will last only 10-11 seconds against a max-level Archer Queen, not accounting for any other defenses that may be targeting it. If you are using a similar level, using the Barbarian King as a tank and the enemy Archer Queen is not hiding behind a wall, then the Barbarian King himself will be sufficient to defeat the Queen unless nearby defenses or the defending Clan Castle troops or Barbarian King are also attacking him. Activating the King's ability will allow him to defeat the Queen quicker. If the Archer Queen is near the edge of the base, you can use a Barbarian King to take it out. You might need to use the King's ability if he is low-leveled. Consider bringing a spell or spells to make the takedown process easier, such as a Poison Spell to slow the Queen's attacks, a Skeleton Spell to distract her, or a Freeze Spell to keep her from killing your troops too quickly. The Grand Warden 's Eternal Tome ability can keep troops alive while they destroy an Archer Queen. Because the Queen's health is so low, the short duration of the Eternal Tome ability is rarely a problem. You can defeat the defending Archer Queen with high-leveled Lightning Spells if she is low leveled. However, this is not a recommended strategy because you cannot easily guarantee that she will die if you bring too little. Even against higher-level Archer Queens, the strategy can still be useful if you are bringing enough Lightning Spells to destroy other key buildings alongside taking her out (such as the Eagle Artillery ), usually with the help of Earthquake Spells to help destroy defenses. Like with the Barbarian King or the Royal Champion, Headhunters are effective at targeting and attacking the Archer Queen, and they are used in small numbers in most high-level strategies such as LavaLoon where the other troops cannot target or damage her effectively. However, if Headhunters are sent in alone without assistance or not being protected by the Grand Warden's Eternal Tome ability, they will likely be picked off and taken out easily by the Queen or nearby defenses. As such, they are best sneaked in, covered by other attacking troops or by the Grand Warden's Eternal Tome ability. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Movement Speed Attack Speed Range Search Radius None Ranged (Ground & Air) 24 0.75s 5 tiles 10 tiles Level Damage per Second Damage per Hit Hitpoints Health Recovery Upgrade Cost Upgrade Time Hero Hall Level Required Town Hall Level Required 1 136 102 580 115 N/A N/A 2 8 2 139 104.25 592 115 5,000 2h 2 8 3 143 107.25 604 115 5,500 4h 2 8 4 146 109.5 617 115 6,000 8h 2 8 5 150 112.5 630 130 6,500 10h 2 8 6 154 115.5 643 130 7,000 12h 2 8 7 157 117.75 657 130 7,500 14h 2 8 8 162 121.5 670 130 8,000 16h 2 8 9 165 123.75 685 130 8,500 18h 2 8 10 169 126.75 699 145 10,000 20h 2 8 11 173 129.75 714 145 10,500 22h 3 9 12 178 133.5 729 145 11,000 1d 3 9 13 183 137.25 744 145 11,500 1d 3 9 14 187 140.25 759 145 12,000 1d 3 9 15 192 144 775 160 12,500 1d 3 9 16 196 147 792 160 13,000 1d 3 9 17 201 150.75 808 160 13,500 1d 3 9 18 207 155.25 826 160 14,000 1d 3 9 19 212 159 842 160 14,500 1d 3 9 20 217 162.75 861 175 15,000 1d 3 9 21 223 167.25 878 175 17,000 1d 3 9 22 228 171 897 175 19,000 1d 3 9 23 234 175.5 916 175 21,000 1d 3 9 24 240 180 935 175 23,000 1d 3 9 25 246 184.5 954 190 25,000 1d 3 9 26 252 189 974 190 27,000 2d 3 9 27 258 193.5 995 190 29,000 2d 3 9 28 264 198 1,016 190 31,000 2d 3 9 29 271 203.25 1,038 190 33,000 2d 3 9 30 278 208.5 1,059 205 35,000 2d 3 9 31 285 213.75 1,082 205 37,000 2d 6h 4 10 32 292 219 1,104 205 39,000 2d 6h 4 10 33 299 224.25 1,127 205 41,000 2d 6h 4 10 34 307 230.25 1,151 205 43,000 2d 6h 4 10 35 315 236.25 1,175 220 45,000 2d 6h 4 10 36 322 241.5 1,200 220 47,000 2d 12h 4 10 37 331 248.25 1,226 220 49,000 2d 12h 4 10 38 338 253.5 1,251 220 51,000 2d 12h 4 10 39 347 260.25 1,278 220 53,000 2d 12h 4 10 40 356 267 1,304 235 55,000 2d 12h 4 10 41 365 273.75 1,331 235 58,000 3d 5 11 42 374 280.5 1,359 235 61,000 3d 5 11 43 383 287.25 1,388 235 64,000 3d 5 11 44 393 294.75 1,417 235 67,000 3d 5 11 45 403 302.25 1,447 250 70,000 3d 5 11 46 413 309.75 1,478 250 73,000 3d 5 11 47 423 317.25 1,508 250 76,000 3d 5 11 48 434 325.5 1,540 250 79,000 3d 5 11 49 445 333.75 1,572 250 82,000 3d 5 11 50 456 342 1,606 265 85,000 3d 5 11 51 465 348.75 1,646 265 86,000 3d 6 12 52 474 355.5 1,688 265 87,000 3d 6 12 53 485 363.75 1,730 265 88,000 3d 6 12 54 495 371.25 1,774 265 89,000 3d 6 12 55 505 378.75 1,819 280 90,000 3d 6 12 56 515 386.25 1,865 280 93,000 3d 6 12 57 526 394.5 1,912 280 96,000 3d 6 12 58 537 402.75 1,960 280 99,000 3d 6 12 59 548 411 2,010 280 102,000 3d 6 12 60 559 419.25 2,060 295 105,000 3d 6 12 61 570 427.5 2,111 295 107,000 4d 6 12 62 581 435.75 2,164 295 109,000 4d 6 12 63 593 444.75 2,218 295 111,000 4d 6 12 64 605 453.75 2,274 295 113,000 4d 6 12 65 617 462.75 2,330 310 115,000 4d 6 12 66 628 471 2,384 310 117,000 4d 7 13 67 638 478.5 2,432 310 119,000 4d 7 13 68 648 486 2,476 310 121,000 4d 7 13 69 656 492 2,516 310 123,000 4d 7 13 70 664 498 2,552 325 125,000 4d 7 13 71 671 503.25 2,584 325 130,000 4d 7 13 72 677 507.75 2,616 325 135,000 4d 7 13 73 682 511.5 2,648 325 140,000 4d 7 13 74 687 515.25 2,680 325 145,000 4d 7 13 75 692 519 2,712 340 150,000 4d 7 13 76 697 522.75 2,740 340 155,000 4d 8 14 77 701 525.75 2,768 340 160,000 4d 8 14 78 706 529.5 2,796 340 165,000 4d 8 14 79 710 532.5 2,824 340 170,000 4d 8 14 80 714 535.5 2,852 355 175,000 4d 8 14 81 717 537.75 2,880 355 180,000 5d 8 14 82 721 540.75 2,904 355 185,000 5d 8 14 83 724 543 2,928 355 190,000 5d 8 14 84 728 546 2,952 355 195,000 5d 8 14 85 731 548.25 2,976 370 200,000 5d 8 14 86 734 550.5 3,000 370 215,000 6d 9 15 87 738 553.5 3,024 370 225,000 6d 9 15 88 741 555.75 3,048 370 235,000 6d 9 15 89 745 558.75 3,072 370 245,000 6d 9 15 90 748 561 3,096 385 255,000 6d 9 15 91 751 563.25 3,120 385 280,000 7d 10 16 92 755 566.25 3,144 385 290,000 7d 10 16 93 758 568.5 3,168 385 300,000 7d 10 16 94 762 571.5 3,192 385 310,000 7d 10 16 95 765 573.75 3,216 400 320,000 7d 10 16 96 768 576 3,240 400 340,000 8d 11 17 97 771 578.25 3,264 400 350,000 8d 11 17 98 774 580.5 3,288 400 360,000 8d 11 17 99 777 582.75 3,312 400 370,000 8d 11 17 100 780 585 3,336 415 380,000 8d 11 17 101 783 587.25 3,360 415 400,000 8d 12 18 102 786 589.5 3,384 415 410,000 8d 12 18 103 789 591.75 3,408 415 420,000 8d 12 18 104 792 594 3,432 415 430,000 8d 12 18 105 795 596.25 3,456 430 450,000 8d 12 18 106 798 598.5 3,480 430 460,000 8d 12 18 107 801 600.75 3,504 430 470,000 8d 12 18 108 804 603 3,528 430 475,000 8d 12 18 109 807 605.25 3,552 430 485,000 8d 12 18 110 810 607.5 3,576 445 490,000 8d 12 18 Hero Equipment When attacking, the Archer Queen can use two of the below pieces of Hero Equipment, which change the abilities she has and grants additional stat bonuses. The Archer Queen does not use any Hero Equipment when defending. Select the equipment below to learn more about the abilities and stat bonuses that each piece gives. Archer Puppet Invisibility Vial Giant Arrow Healer Puppet Frozen Arrow Magic Mirror Action Figure Monolith Arrow History Patch Description January 9, 2013 Announced the Archer Queen. January 10, 2013 Added the Archer Queen, with 30 levels. May 23, 2013 Added levels 31 to 40 Archer Queen. January 29, 2014 Added the Royal Cloak ability. September 16, 2014 Reduced hero regeneration times greatly at all levels. October 22, 2014 Hero icons now show hero ability status in replays. December 11, 2014 Hero ability icons now show remaining hitpoints and start flashing when low. December 19, 2016 Added levels 41 to 45 Archer Queen. December 18, 2017 Added levels 46 to 50 Archer Queen. June 11, 2018 Added levels 51 to 60 Archer Queen. April 2, 2019 Converted the Archer Queen from 2D to 3D. June 18, 2019 Added levels 61 to 65 Archer Queen. December 9, 2019 Added levels 66 to 70 Archer Queen. March 30, 2020 New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero. Archer Queen now displays in her selected skin under the Player Profile tab. When acquiring a new skin, the UI to select the skin will automatically open. Some selected skins will be able to be purchased outside of the Gold Pass. Fixed a bug where the Archer Queen received double health recovery when her ability is used both automatically and manually at the same time. Show purple Hero level icons properly in attack confirm screen if Hero Potion is active. June 22, 2020 Added levels 71 to 75 Archer Queen. October 12, 2020 Heroes now automatically heal when the player's base is raided. Removed guard toggle. October 26, 2020 Fixed skin names not changing when changing Hero with the arrows (in the \"Change Skin\" menus). December 7, 2020 At the end of a battle, if the Archer Queen's ability remains unused, the Hero will heal the amount of health they would normally recover from using their ability. This will help reduce the Hero's downtime, allowing them to be ready much sooner. A new Cosmetics tab has been added to the in-game shop where you can browse and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems. A \"View Skin\" option has been added when visiting. Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements. April 12, 2021 Added levels 76 to 80 Archer Queen. Boosts on Archer Queen and other Heroes or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background. October 10, 2022 Added levels 81 to 85 Archer Queen. December 12, 2022 Changed the Archer Queen's 3D model. June 12, 2023 Added levels 86 to 90 Archer Queen. December 12, 2023 Added levels 91 to 95 Archer Queen. Replaced the Royal Cloak ability with Hero Equipment and a health recovery stat. As a result, the Archer Queen loses damage and max health at every level, with much of the missing stats being given to his default Hero Equipment. November 25, 2024 Added levels 96 to 100 Archer Queen. The Archer Queen is no longer unlocked by placing down her Altar , but getting level 2 Hero Hall . Her Altar is replaced by the Hero Banner obstacle. March 27, 2025 Removed regeneration time. June 16, 2025 Removed regeneration time in the info screen, which was still there prior to this update. October 6, 2025 Moved levels 81 to 85 Archer Queen from Town Hall 15 to Town Hall 14. November 17, 2025 Added levels 101 to 105 Archer Queen. February 23, 2026 Updated Cost & Time Reductions June 15, 2026 Added levels 106 to 110 Archer Queen. Upgrade Times Levels 71-75: 4.5d -> 4d Levels 76-80: 5d -> 4.5d Levels 81-85: 6d -> 5d Levels 86-90: 7d -> 6d Levels 91-95: 8d -> 7d Costs Level 82: 190K -> 185K Level 83: 200K -> 190K Level 84: 210K -> 195K Level 85: 220K -> 200K Level 86: 230K -> 215K Level 87: 240K -> 225K Level 88: 250K -> 235K Level 89: 260K -> 245K Level 90: 270K -> 255K Hero Skins Skin Availability Below is a table that lists all Hero skins for the Archer Queen and the month in which they were available, in chronological order. Skins are divided into three classes: Gold denotes a skin that was featured as a Gold Pass skin in Season Challenges . All Hero Skins from the Gold Pass since April 2023 have been available as the first reward on the Gold track. Prior to this, they have all been the last reward on the Gold track unless specified. All Gold skins are available permanently for purchase at a price of 1,500 Gems exactly a year after the skin was originally offered in the Gold Pass. Once available in the Shop, they may also be found in Legendary-rated Treasure Chests after the loot pool is refreshed in game updates. Standard and Legendary denotes skins not available from the Gold Pass that were available only through a special offer or event. Unless otherwise stated in the notes, these skins' special offers were available in the season listed, and cost the equivalent of $3.99 USD for Standard skins, or $9.99 USD for Legendary skins. The notes section may also include additional context of an offer. Skin from collaboration are not available for re-purchase in the Cosmetics tab. Key for highlighted entries: Entries that are highlighted denote that the skin is available in the current Season Challenges season. Entries marked with a Coathanger denote a Standard or Legendary skin that is permanently available for re-purchase in the cosmetics tab at the original price when the skin was originally offered. Entries marked with a Gem denote that the skin is purchasable with Gems; all skins currently purchasable in this manner cost 1,500 . Entries marked with a Yellow Star denote that the skin is exclusive; these skins will not be available for re-purchase in the future. Skin Class Season Available Notes Gladiator Queen Gold May 2019 Valkyrie Queen Gold July 2019 Autumn Queen Gold September 2019 Available as the first reward on the Gold Pass track. Ice Queen Gold November 2019 Warrior Queen Legendary January 2020, February 2021/2022 The Warrior Queen (literally \"Heroic Mulan\" in Chinese) was available in Lunar New Year offers in 2020, 2021, 2022. Primal Queen Gold March 2020 Clockwork Queen Gold June 2020 Pirate Queen Gold September 2020 Rogue Queen Gold February 2021 Jungle Queen Gold June 2021 Party Queen Gold August 2021 Champion Queen Legendary November 2021, September 2022, September 2024 The Champion Queen skin was available in a special offer for the World Finals in 2021 and 2022.  In September 2024, it was purchasable in the Mini Spotlight medal event for 2,250 . Shadow Queen Gold January 2022 Miner Queen Gold May 2022 Summer Queen Gold July 2022 Pixel Queen Legendary August 2022 The Pixel Queen was available in a 10th Clashiversary offer in August 2022; costing $4.99 USD (or equivalent), half of the usual price for Legendary skins. Spooky Queen Gold October 2022 Magic Queen Legendary October 2022 The Magic Queen was available in a special offer for the release of Town Hall 15. Jolly Queen Gold December 2022 Lunar Queen Legendary January 2023 The Lunar Queen was available in a special Lunar New Year offer in January 2023. Heart Hunter Queen Legendary February 2023 The Heart Hunter Queen was available in a special offer in February 2023 for Valentine's Day. Painter Queen Legendary March 2023 The Painter Queen was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD. Dark Ages Queen Legendary April 2023 Goblin Queen Gold June 2023 League Queen Legendary June 2023 The League Queen is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 . Future Queen Legendary August 2023 The Future Queen skin was available in a special offer for the 11th Clashiversary in August 2023. Chess Queen Gold September 2023 Ghost Queen Legendary October 2023 The Ghost Queen skin was available as a part of the Mashup Madness medal event in October 2023, where it could be bought for 4,650 . Gingerbread Queen Legendary December 2023 The Gingerbread Queen skin was available in a special Clashmas offer in December 2023. Queen of the North Legendary January 2024 The Queen of the North skin was available in a special offer in January 2024; it cost $9.99 USD or equivalent. Dragon Queen Legendary February 2024 The Dragon Queen skin was available in a special Lunar New Year offer in February 2024. Space Queen Gold March 2024 Egypt Queen Legendary April 2024 Football Queen Legendary May 2024 Available as part of the Clash with Haaland medal event in May 2024, where it could be bought for 4,650 . Wild West Queen Legendary June 2024 Clash Games Queen Legendary July 2024 Anime Queen Legendary August 2024 Archer Satyr Legendary September 2024 Dark Minion Queen Gold October 2024 Justice Queen Legendary November 2024 Puppet Queen Gold December 2024 Fire Queen Legendary January 2025 Snake Queen Legendary February 2025 Quickfire Queen Legendary March 2025 Brutality Queen Legendary April 2025 Based on the WWE wrestler Rhea Ripley , as part of the Clashamania collaboration season. Kyudo Queen Gold May 2025 Queen Fatale Legendary June 2025 Renegade Queen Legendary July 2025 Clash-A-Rama Queen Legendary August 2025 P.E.Q.Q.A Queen Legendary September 2025 Archer Hunter Gold October 2025 Fury Queen Legendary November 2025 Blizzard Queen Legendary December 2025 Queen of the Dunes Legendary January 2026 Phantom Queen Legendary February 2026 Dragonscale Queen Legendary March 2026 Bassbow Queen Gold April 2026 Skeleton Queen Legendary May 2026 Anime Fury Queen Legendary June 2026 Majestic Archer Queen Legendary June 2026 Available as a reward from Hero's Journey once a cumulative total of 225 Hero levels is attained. Rosy Half-Time Queen Legendary June 2026 Medusa Queen Legendary July 2026 Elven Archer Legendary August 2026 Alexa Queen Legendary September 2026 Based on the WWE wrestler Alexa Bliss , as part of the Search for Cena collaboration season. Shroud Queen Gold October 2026 Titan Queen Legendary November 2026 Archer Queen Skins Lunar New Year Skin 2020 Anniversary Skin 2021 World Championship Skin 2021 Archer Queen Custom Spawned Units Initializing Skin Menu... To view the skin wardrobe, please reload the page on the desktop skin . Created by E12Dragon Alternatively, see Archer Queen/Skins for a gallery. Archer Queen Skin Features Yes: Feature is fully customized from the original Partial: Feature is subtly customized from the original No: Feature is not customized from the original Skin Preview Animation Pose Animation Selection Animation Walking Animation Attacking Animation Knockout Animation Resting Animation Constant Effects Preview Effects Pose Effects Selection Effects Deployment Effects Walking Effects Attacking Effects Ability Effects Knockout Effects Resting Effects Custom Spawns Preview Sounds Pose Sounds Selection Sounds Deployment Sounds Attacking Sounds Ability Sounds Knockout Sounds Gladiator Queen Yes Yes Yes Yes 1 Yes 2 Yes 1 Yes 1 No No No No No No No No No No No No No No No No No No Valkyrie Queen Yes Yes Yes Yes 1 Yes 2 Yes 1 Yes 1 No No No No No No No No No No No No No No No No No No Autumn Queen Yes Yes Yes Yes 2 Yes 1 Yes Yes No No No Yes Yes Yes Yes No No No No No No No No No No No Ice Queen Yes Yes Yes Yes 1 Yes Yes Yes No No No Yes No No No Yes No No No No No No No No No No Warrior Queen Yes Yes Yes Yes 1 Yes 1 Yes 1 Yes No No No No Yes No Yes Yes No No No No No No Yes No Yes No Primal Queen Yes Yes Yes Yes 1 Yes 1 Yes 1 Yes No No No No No No No No No No No No No No No No No No Clockwork Queen Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No Yes Yes Yes Yes Yes No Yes Pirate Queen Yes Yes Yes Yes Yes 1 Yes Yes No No No No No No No No No No No No No No No No No No Rogue Queen Yes Yes Yes Yes Yes 1 Yes Yes No No No No No No No No No No No No No No No No No No Jungle Queen Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No No No Party Queen Yes Yes Yes Yes Yes Yes 1 Yes No No No No No No No No No No No No No No No No No No Champion Queen Yes Yes Yes Yes Yes Yes Yes Yes No No Yes Yes No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes No Shadow Queen Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes No No No No Yes Yes Yes No Yes No No Miner Queen Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes Yes No No No Yes Yes Yes No Yes No No Summer Queen Yes Yes Yes Yes Yes Yes Yes No No No No No No Yes Yes No No No Yes Yes Yes No Yes Yes No Pixel Queen Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes Yes Spooky Queen Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No Yes Yes Yes Yes Yes No Yes Magic Queen Yes Yes Yes Yes Yes Yes Yes Yes No No No No No Yes No No No Yes Yes Yes Yes Yes No No No Jolly Queen Yes Yes Yes Yes Yes Yes Yes No No Yes Yes No No Yes No Yes Yes No Yes Yes Yes No Yes No No Lunar Queen Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes No No No Yes Yes Yes Yes Yes Yes No No Heart Hunter Queen Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes No No No Yes Yes Yes Yes No Yes No No Painter Queen Yes Yes Yes Yes Yes Yes Yes No No No No Yes No Yes No No No Yes Yes Yes Yes No Yes No No 1 Indicates animations for these skins were only subtly different from the original 3D Archer Queen model prior to its replacement on December 12, 2022. 2 Indicates animations for these skins were not different from the original 3D Archer Queen model prior to its replacement on December 12, 2022. Notes If you tap on the Archer Queen, she will yell a high pitched battle cry and stand still for a moment, similar to the Barbarian King . Her default skin will wave a hand towards the player. If she is wearing her Gladiator or Champion skin, she will instead bow down towards the player. If she is in her Valkyrie Queen skin, she will raise her modified X-Bow and stand tall. The Autumn Queen skin will spin counter-clockwise, with a bow in hand. If she is wearing the Ice Queen skin, she will pull her hand up to her face. If she is wearing the Warrior Queen skin, she will bow down to the user. If she is wearing the Primal Queen skin, she will put her hand on her costume and look up. If she is wearing the Clockwork Queen skin, she will load and fire her crossbow. If she is wearing the Pirate Queen skin, she will be waving at the player. If she is wearing the Rogue Queen skin, she will wave toward the player in a very similar way to the original skin. If she is wearing the Jungle Queen skin, she will bow down to the left side. If she is wearing the Party Queen skin, she will clench her right fist and lift it to the player. If she is wearing the Kyudo Queen skin, she will bow to the player. If she is wearing the Queen Fatale skin, she will position herself in a seductive pose and kiss to the player. If she is wearing the Renegade Queen skin, she will spray tag a logo on the ground. If she is wearing the Clash-A-Rama Queen skin, she will show off her X-Bow to the player before accidentally launching an arrow into the distance. If she is wearing the P.E.Q.Q.A skin, a butterfly will appear on her head and she will become enticed by it. Shortly after, the insect disappears. If she is wearing the Archer Hunter skin, she will take a skull out, toss it upwards into the air and swing it like a baseball bat with her X-Bow. If she is wearing the Fury Queen skin, she will somersault into the air and fire from her X-Bow before landing back on the ground. If she is wearing the Blizzard Queen skin, she will create a snowflake in her left hand, smile at the player and fire an arrow at it as it levitates into the air. If she is wearing the Queen of the Dunes skin, the monkey driving her cart will be spooked and run around wildly, almost causing the Queen to fall out of it. All Archer Queen skins are left-handed. Some of the Archer Queen skins have some unique features that other skins from the Archer Queen do not have. The Warrior Queen skin has unique pink colored particles after she is deployed. The Ice Queen skin has unique ice-like particles when her ability is activated. When you tap the Archer Queen while she is wearing her Clockwork skin, she fires a single arrow. However, while attacking in battles se fires three. When deployed, the Champion Queen will have a fiery ring where she is placed, which lasts for one second. The Clash-A-Rama Queen skin's X-Bow causes small explosions to appear wherever her arrows land. Some of the Archer Queen's skins feature her holding different weapons instead of her X-Bow: With the Champion Queen, Magic Queen, Queen of the North, Egypt Queen, Clash Games Queen, Archer Satyr, Fire Queen, Quickfire Queen, Kyudo Queen and Blizzard Queen skins, the Archer Queen holds a recurve bow instead of an X-Bow. In the case of the Kyudo Queen, she uses a yumi , a Japanese asymmetrical bow. With the Space Queen skin, her X-Bow is replaced with a large gun with a satellite dish. With the Wild West Queen skin, she uses two revolvers. With the Football Queen skin, the Archer Queen uses a football instead of an X-Bow. With the Summer Queen skin, she uses a large gun with a parasol at the end of its barrel. With the Dark Minion Queen skin, she uses a crossbow with a green blade attached to one of her arms. With the Puppet Queen skin, she uses a firework launcher toy. With the Snake Queen skin, she holds an umbrella and attacks by launching water at the target. With the Brutality Queen skin, she throws a chair at the target. With the Queen Fatale skin, she uses a Thompson submachine gun . With the Renegade Queen skin, she uses a plasma X-Bow. With the P.E.Q.Q.A skin, her X-Bow has been combined with a P.E.K.K.A 's sword. With the Queen of the Dunes skin, she uses sand as her weapon of choice and fires arrows molded from said substance. Before skins and 3D models were added, the Archer Queen used to have recoil when she attacked. A clip of this can be seen here . Before the Archer Queen's texture was converted into a 3D model, she had visual changes at levels 10, 20, and 41. Initially, the Archer Queen is similar to a giant Archer , but with a modified X-Bow , a silver crown, purple hair, and a darker green tunic. At level 10, her crown became golden. At level 20, the stock of her modified X-Bow became golden as well. Her shots used to change from Elixir-colored to gold. At level 41, her cloak received a golden rim, and her golden modified X-Bow stock became a darker gold color or gained a purple glow outline. Levels 1-9 (Old Sprite) Levels 10-19 (Old Sprite) Levels 20-40 (Old Sprite) Levels 41-60 (Old Sprite) Trivia If the Archer Queen attacks while her Invisibility Vial ability is active, her arrows change from their normal Elixir-like color to bright orange. When she is injured or falls in battle, a small explosion occurs, she yells in pain, and a red beam shoots to the sky. After that, like all other heroes, the Archer Queen stands still and a \"dizzy\" animation is engaged. However, this only applies to certain Hero Skins for the Archer Queen, and her knockout sounds may be different. Sometimes the Archer Queen attacks a wall but then may seemingly retarget and attack another wall; this is most often caused by her retargeting to a different target (usually because her previous target was destroyed). While attacking, if the opponent's Hero Banner is empty and the Archer Queen wakes up during the battle, the Hero Banner will have a short sparkling animation but the Archer Queen will not appear to defend the base. If your Archer Queen wakes up while you are in Village Edit Mode , a sparkle will appear wherever in the Hero Banner's original location (even if you moved it already). However, as of the March 27, 2025 update, this no longer occurs. A maximum level Electro Dragon under a maximum-level Rage Spell can one-shot a level 1-78 Archer Queen, but a level 79 or 80 Archer Queen survives. A level 79 Archer Queen survives with exactly 2 hitpoints left. However, as of the latest update, a level 4 Electro Dragon can one-shot a defending Archer Queen even at level 95, due to defending Heroes not equipping Hero Equipment on defense. Prior to the January 29, 2014 update that introduced Hero abilities, and prior to the October 12, 2020 update that removed the sleep button for Heroes, the original description for the Archer Queen, as well as the Barbarian King , were \" Heroes can attack enemy villages or guard your village. Heroes can be injured, but are immortal. Heal them by letting them sleep or using the Heal button. Heroes won't defend the village while sleeping .\" When initially released, the Archer Queen cost 40,000 Dark Elixir to summon. This was later reduced to 20,000 in the March 2020 update, and further reduced to 10,000 in the April 2021 update. Today, Archer Queen cost 1,600,000 Elixir to summon via upgrading Hero Hall to level 2 at Town Hall 8 in the November 2024 Update. The first person to max out the Archer Queen and Barbarian King was a player named jessiebrar (during the initial release of Heroes , the max level for both Heroes was 30). The Archer Queen appears with long wristbands in her artwork, but does not appear with them in battle. She used to appear with long wristbands in her 2D sprite before being converted into 3D. The Archer Queen's crossbow fires out three arrows, despite that it is designed to only be loaded with a single arrow. The Archer Queen one of two Heroes to appear in Clash Royale , the other being the Grand Warden . The Archer Queen's Royal Cloak ability in Clash of Clans functions similarly to the Cloaking Cape in Clash Royale . In addition to its Clash Royale effects, it partially heals the Archer Queen and summons Archers when used in Clash of Clans . Unlike the Archer Queen in Clash of Clans , the Archer Queen in Clash Royale is not enormous. She is not immortal either, as she turns into Elixir when she dies. The Archer Queen is one of two Heroes to appear as a character in Squad Busters , the other being the Barbarian King. The \"Town Hall 16\" update, released on December 12, 2023, reduced the Archer Queen's hitpoints and damage by around 20% each and changed the Royal Cloak ability to be split into 2 parts, the Archer Puppet and Invisibility Vial. This was done to make Heroes weaker on defense. Her description was also changed. It used to read \" This graceful huntress is a master of destructive force, though modest in health. She snipes targets in her territory when defending, and can summon stealth and terrifying damage when attacking once her Royal Cloak ability is unlocked! \". Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the \"regeneration time\" statistic is still visible in Hero info screens, although it does not have an effect on gameplay, and was later fixed afterwards. [please specify which update] The regeneration time used to start at 10 minutes and increases by 2 minutes at every 5th level to a maximum of 48 minutes at level 95 onwards. Comparisons The Archer Queen is one of the three units that can attack an Air Defense while being healed by a Healer without the Healer being in range of the aforementioned Air Defense. The other four units capable of doing this are the Grand Warden , Apprentice Warden (if alone), Thrower , and the Super Archer . The Archer Queen is the only human Hero to appear barefoot in her default skin. The Archer Queen is one of the three units associated with Archers , the others being the Sneaky Archer and Super Archer . The Archer Queen is one of the 13 units to appear in a Scenery, the others being the Barbarian , Goblin , Balloon , Hog Rider , Barbarian King , P.E.K.K.A , Baby Dragon , Skeleton , Grand Warden, Dragon Rider , Cannon Cart , and the Party Wizard . In her case, she appears in the Clashy Constructs (as Clockwork Queen), and the 9th Clashiversary Scenery (as Party Queen). The Archer Queen and the Barbarian King were the first Heroes added to the game, and both have the highest levels out of any unit in the game. They also appear as characters in Squad Busters . If the Archer Queen equips a max level Magic Mirror and Archer Puppet, her health recovery increases to 1790. However, if she equips a max level Archer Puppet and a max level Frozen Arrow, she does 1,107 DPS which is more than all four maxed supercharged X-Bows at Town Hall 17 which collectively do 980 DPS. The Archer Queen deals the third highest damage out of all the Heroes, however, in case of DPS, her Damage per Second is the highest out of them in that matter, including most of the troops . The Archer Queen was originally unlocked at Town Hall 9 until the Town Hall 17 update on November 25, 2024, it was lowered by 1 and is now available for Town Hall 8 players. After her transition to being unlocked at Town Hall 8, she is also the only Hero to be unlocked at a Town Hall level of an even number, as opposed to other Heroes, which are unlocked at odd levels starting from Town Hall 7 up to 13. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

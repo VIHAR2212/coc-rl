@@ -1,0 +1,246 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Royal Champion",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Available by default"
+      }
+    ],
+    [
+      {
+        "Level": "Damage per Second Increase",
+        "Health Recovery": "Hitpoint Increase",
+        "Hero Boosts": "Shiny Ore",
+        "Upgrade Cost": "Glowy Ore"
+      },
+      {
+        "Level": "1",
+        "Health Recovery": "1,200",
+        "Hero Boosts": "35",
+        "Upgrade Cost": "60",
+        "Blacksmith Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Health Recovery": "1,200",
+        "Hero Boosts": "40",
+        "Upgrade Cost": "90",
+        "Blacksmith Level Required": "120"
+      },
+      {
+        "Level": "3",
+        "Health Recovery": "1,450",
+        "Hero Boosts": "45",
+        "Upgrade Cost": "120",
+        "Blacksmith Level Required": "240"
+      },
+      {
+        "Level": "4",
+        "Health Recovery": "1,450",
+        "Hero Boosts": "50",
+        "Upgrade Cost": "150",
+        "Blacksmith Level Required": "400"
+      },
+      {
+        "Level": "5",
+        "Health Recovery": "1,450",
+        "Hero Boosts": "55",
+        "Upgrade Cost": "180",
+        "Blacksmith Level Required": "600"
+      },
+      {
+        "Level": "6",
+        "Health Recovery": "1,600",
+        "Hero Boosts": "60",
+        "Upgrade Cost": "210",
+        "Blacksmith Level Required": "840"
+      },
+      {
+        "Level": "7",
+        "Health Recovery": "1,600",
+        "Hero Boosts": "65",
+        "Upgrade Cost": "240",
+        "Blacksmith Level Required": "1,120"
+      },
+      {
+        "Level": "8",
+        "Health Recovery": "1,600",
+        "Hero Boosts": "70",
+        "Upgrade Cost": "270",
+        "Blacksmith Level Required": "1,440"
+      },
+      {
+        "Level": "9",
+        "Health Recovery": "1,800",
+        "Hero Boosts": "75",
+        "Upgrade Cost": "300",
+        "Blacksmith Level Required": "1,800"
+      },
+      {
+        "Level": "10",
+        "Health Recovery": "1,800",
+        "Hero Boosts": "80",
+        "Upgrade Cost": "330",
+        "Blacksmith Level Required": "1,900"
+      },
+      {
+        "Level": "11",
+        "Health Recovery": "1,800",
+        "Hero Boosts": "85",
+        "Upgrade Cost": "360",
+        "Blacksmith Level Required": "2,000"
+      },
+      {
+        "Level": "12",
+        "Health Recovery": "2,000",
+        "Hero Boosts": "90",
+        "Upgrade Cost": "390",
+        "Blacksmith Level Required": "2,100"
+      },
+      {
+        "Level": "13",
+        "Health Recovery": "2,000",
+        "Hero Boosts": "95",
+        "Upgrade Cost": "420",
+        "Blacksmith Level Required": "2,200"
+      },
+      {
+        "Level": "14",
+        "Health Recovery": "2,000",
+        "Hero Boosts": "100",
+        "Upgrade Cost": "450",
+        "Blacksmith Level Required": "2,300"
+      },
+      {
+        "Level": "15",
+        "Health Recovery": "2,200",
+        "Hero Boosts": "105",
+        "Upgrade Cost": "480",
+        "Blacksmith Level Required": "2,400"
+      },
+      {
+        "Level": "16",
+        "Health Recovery": "2,200",
+        "Hero Boosts": "110",
+        "Upgrade Cost": "510",
+        "Blacksmith Level Required": "2,500"
+      },
+      {
+        "Level": "17",
+        "Health Recovery": "2,200",
+        "Hero Boosts": "115",
+        "Upgrade Cost": "540",
+        "Blacksmith Level Required": "2,600"
+      },
+      {
+        "Level": "18",
+        "Health Recovery": "2,400",
+        "Hero Boosts": "120",
+        "Upgrade Cost": "570",
+        "Blacksmith Level Required": "2,700"
+      }
+    ],
+    [
+      {
+        "Royal Champion Level": "1-2",
+        "Royal Gem Level": "1"
+      },
+      {
+        "Royal Champion Level": "3",
+        "Royal Gem Level": "2"
+      },
+      {
+        "Royal Champion Level": "4",
+        "Royal Gem Level": "3"
+      },
+      {
+        "Royal Champion Level": "5",
+        "Royal Gem Level": "4"
+      },
+      {
+        "Royal Champion Level": "6-7",
+        "Royal Gem Level": "5"
+      },
+      {
+        "Royal Champion Level": "8-9",
+        "Royal Gem Level": "6"
+      },
+      {
+        "Royal Champion Level": "10-11",
+        "Royal Gem Level": "7"
+      },
+      {
+        "Royal Champion Level": "12-14",
+        "Royal Gem Level": "8"
+      },
+      {
+        "Royal Champion Level": "15-17",
+        "Royal Gem Level": "9"
+      },
+      {
+        "Royal Champion Level": "18",
+        "Royal Gem Level": "10"
+      },
+      {
+        "Royal Champion Level": "19",
+        "Royal Gem Level": "11"
+      },
+      {
+        "Royal Champion Level": "20-24",
+        "Royal Gem Level": "12"
+      },
+      {
+        "Royal Champion Level": "25-26",
+        "Royal Gem Level": "13"
+      },
+      {
+        "Royal Champion Level": "27-29",
+        "Royal Gem Level": "14"
+      },
+      {
+        "Royal Champion Level": "30-40",
+        "Royal Gem Level": "15"
+      }
+    ],
+    [
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the Royal Gem, separated from the original Seeking Shield ability of the Royal Champion."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Increased passive damage increase at all levels by 15: Level 1: 20 -> 35 Level 2: 25 -> 40 Level 3: 30 -> 45 Level 4: 35 -> 50 Level 5: 40 -> 55 Level 6: 45 -> 60 Level 7: 50 -> 65 Level 8: 55 -> 70 Level 9: 60 -> 75 Level 10: 65 -> 80 Level 11: 70 -> 85 Level 12: 75 -> 90 Level 13: 80 -> 95 Level 14: 85 -> 100 Level 15: 90 -> 105 Level 16: 95 -> 110 Level 17: 100 -> 115 Level 18: 105 -> 120 Increased passive hitpoint increase at all levels by 50%: Level 1: 40 -> 60 Level 2: 60 -> 90 Level 3: 80 -> 120 Level 4: 100 -> 150 Level 5: 120 -> 180 Level 6: 140 -> 210 Level 7: 160 -> 240 Level 8: 180 -> 270 Level 9: 200 -> 300 Level 10: 220 -> 330 Level 11: 240 -> 360 Level 12: 260 -> 390 Level 13: 280 -> 420 Level 14: 300 -> 450 Level 15: 320 -> 480 Level 16: 340 -> 510 Level 17: 360 -> 540 Level 18: 380 -> 570"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Heals the Royal Champion by an extra large amount\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 3 Statistics 3.1 Equipment Migration 4 History 5 Trivia Summary The Royal Gem is a piece of Common Hero Equipment for the Royal Champion . It is one of two pieces of Hero Equipment that the Royal Champion starts with, the other being the Seeking Shield . The Royal Gem appears as an orange gem which grows yellow to the bottom, wrapped by a blue cloth around the top. When equipped, it grants a large amount of health recovery to the Royal Champion when she uses the ability. This compounds additively with the health recovery stat that she has innately. In addition, the Royal Gem increases the Royal Champion's damage per second and hit points when equipped. Strategies Offensive Strategies The Royal Gem is best activated in the middle of the base where the hero has low health to guarantee the maximum health recovery from this ability. It can be paired with the Hog Rider Puppet when you are going up against a single Inferno Tower or a Monolith . The Royal Champion will gain almost all of her health back, also turning invisible, causing defenses to target the Hog Riders, and they will then subsequently destroy said defense. When paired alongside the Haste Vial, this allows for Royal Charges to be possible with the help of Invisibility Spells to keep her invisible, ensuring her survivability. This can be further improved if the Spirit Fox is paired with the Royal Champion. The Royal Gem can also be paired with the Seeking Shield , as it helps the Champion gain health while destroying or dealing significant damage to four defenses, which can be very helpful for your main army to take down later. It can fit into many attacks involving the Royal Champion, but if you are using the Royal Champion for a suicide operation, then things such as the Seeking Shield and the Hog Rider Puppet might be a better choice, since they can deal great damage to the base, and you do not have to use a hero equipment slot to make sure that the Royal Champion stays alive. While this looks like a generic ability, the health recovery can be massive and can help the champion stay alive longer and make the attack more effective. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Royal Champion Active Common Available by default Level Health Recovery Hero Boosts Upgrade Cost Blacksmith Level Required Damage per Second Increase Hitpoint Increase Shiny Ore Glowy Ore 1 1,200 35 60 N/A N/A N/A 2 1,200 40 90 120 - 1 3 1,450 45 120 240 20 1 4 1,450 50 150 400 - 1 5 1,450 55 180 600 - 1 6 1,600 60 210 840 100 1 7 1,600 65 240 1,120 - 1 8 1,600 70 270 1,440 - 1 9 1,800 75 300 1,800 200 1 10 1,800 80 330 1,900 - 3 11 1,800 85 360 2,000 - 3 12 2,000 90 390 2,100 400 3 13 2,000 95 420 2,200 - 5 14 2,000 100 450 2,300 - 5 15 2,200 105 480 2,400 600 5 16 2,200 110 510 2,500 - 7 17 2,200 115 540 2,600 - 7 18 2,400 120 570 2,700 600 7 Equipment Migration When the Hero Equipment update was released, players' starting Hero Equipment was leveled up for free, without requiring the appropriate Blacksmith level, so that Heroes' capabilities remained roughly the same before and after the update. The level of Hero Equipment obtained from this process depended on the player's Hero level, and is archived in this table below. Royal Champion Level Royal Gem Level 1-2 1 3 2 4 3 5 4 6-7 5 8-9 6 10-11 7 12-14 8 15-17 9 18 10 19 11 20-24 12 25-26 13 27-29 14 30-40 15 History Date Description December 12, 2023 Added the Royal Gem, separated from the original Seeking Shield ability of the Royal Champion. February 10, 2025 Increased passive damage increase at all levels by 15: Level 1: 20 -> 35 Level 2: 25 -> 40 Level 3: 30 -> 45 Level 4: 35 -> 50 Level 5: 40 -> 55 Level 6: 45 -> 60 Level 7: 50 -> 65 Level 8: 55 -> 70 Level 9: 60 -> 75 Level 10: 65 -> 80 Level 11: 70 -> 85 Level 12: 75 -> 90 Level 13: 80 -> 95 Level 14: 85 -> 100 Level 15: 90 -> 105 Level 16: 95 -> 110 Level 17: 100 -> 115 Level 18: 105 -> 120 Increased passive hitpoint increase at all levels by 50%: Level 1: 40 -> 60 Level 2: 60 -> 90 Level 3: 80 -> 120 Level 4: 100 -> 150 Level 5: 120 -> 180 Level 6: 140 -> 210 Level 7: 160 -> 240 Level 8: 180 -> 270 Level 9: 200 -> 300 Level 10: 220 -> 330 Level 11: 240 -> 360 Level 12: 260 -> 390 Level 13: 280 -> 420 Level 14: 300 -> 450 Level 15: 320 -> 480 Level 16: 340 -> 510 Level 17: 360 -> 540 Level 18: 380 -> 570 Trivia The Royal Gem is the only Hero Equipment that could be perceived to not provide an actual Hero ability, as its health regeneration could in theory be categorized as a passive Hero boost. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

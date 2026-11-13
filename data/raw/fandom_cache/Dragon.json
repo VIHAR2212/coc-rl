@@ -1,0 +1,352 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash 0.3 Tile Radius (Ground & Air)",
+        "Housing Space": "20",
+        "Movement Speed": "16",
+        "Attack Speed": "1.25s",
+        "Barracks Level Required": "9",
+        "Range": "3 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "140",
+        "Damage per Attack": "175",
+        "Hitpoints": "1,900",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "160",
+        "Damage per Attack": "200",
+        "Hitpoints": "2,100",
+        "Research Cost": "1,000,000",
+        "Research Time": "18h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "180",
+        "Damage per Attack": "225",
+        "Hitpoints": "2,300",
+        "Research Cost": "2,000,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "210",
+        "Damage per Attack": "262.5",
+        "Hitpoints": "2,700",
+        "Research Cost": "3,000,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "240",
+        "Damage per Attack": "300",
+        "Hitpoints": "3,100",
+        "Research Cost": "3,800,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "270",
+        "Damage per Attack": "337.5",
+        "Hitpoints": "3,400",
+        "Research Cost": "4,900,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "310",
+        "Damage per Attack": "387.5",
+        "Hitpoints": "3,900",
+        "Research Cost": "5,000,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "330",
+        "Damage per Attack": "412.5",
+        "Hitpoints": "4,200",
+        "Research Cost": "7,500,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "350",
+        "Damage per Attack": "437.5",
+        "Hitpoints": "4,500",
+        "Research Cost": "10,500,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "370",
+        "Damage per Attack": "462.5",
+        "Hitpoints": "4,900",
+        "Research Cost": "12,000,000",
+        "Research Time": "7d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "390",
+        "Damage per Attack": "487.5",
+        "Hitpoints": "5,300",
+        "Research Cost": "14,000,000",
+        "Research Time": "8d 12h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "410",
+        "Damage per Attack": "512.5",
+        "Hitpoints": "5,700",
+        "Research Cost": "18,500,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "430",
+        "Damage per Attack": "537.5",
+        "Hitpoints": "6,000",
+        "Research Cost": "28,500,000",
+        "Research Time": "15d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Dragon",
+        "Boost Cost": "25,000",
+        "Dragon Level Required": "7"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Type": "The Dragon was in the original release of the game with 2 levels."
+      },
+      {
+        "Patch": "August 30, 2012",
+        "Type": "Update",
+        "Description": "The Dragon's attack gain visual effects."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Type": "Update",
+        "Description": "Added the level 3 Dragon and Improved visual effects. The level 1 Dragon now has a unique appearance. The upgraded Dragon now displays pink asterisks that represents the level."
+      },
+      {
+        "Patch": "October 27, 2012",
+        "Type": "Update",
+        "Description": "Decreased Dragon's training cost."
+      },
+      {
+        "Patch": "March 12, 2013",
+        "Type": "Update",
+        "Description": "Dragons now do small area splash damage. Decreased training cost at levels 1 and 2. Increased hitpoints at levels 1 and 2."
+      },
+      {
+        "Patch": "May 23, 2013",
+        "Type": "Update",
+        "Description": "Added the level 4 Dragon. Retextured the Dragon's appearance in his info and in battle."
+      },
+      {
+        "Patch": "November 6, 2013",
+        "Type": "Update",
+        "Description": "Slightly increased hitpoints at level 4."
+      },
+      {
+        "Patch": "December 5, 2013",
+        "Type": "Update",
+        "Description": "Slightly increased damage at level 4."
+      },
+      {
+        "Patch": "February 27, 2015",
+        "Type": "Maintenance break",
+        "Description": "Fixed visual effect of Dragon's fire breath attack."
+      },
+      {
+        "Patch": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Added the level 5 Dragon. Reduced training time for some levels of Dragon. Moved level 4 Dragon to Town Hall 9."
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Added the level 6 Dragon."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Type": "Update",
+        "Description": "Increased the Dragon's attack speed (Damage per Second are unchanged)."
+      },
+      {
+        "Patch": "March 8, 2017",
+        "Type": "Update",
+        "Description": "Increased damage at levels 4 to 6."
+      },
+      {
+        "Patch": "June 27, 2017",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 4 to 6."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 7 Dragon. Increased hitpoints at level 5 and 6. Reduced training cost at all levels."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 1 to 5."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Reduced gem donation cost for the Dragon from 25 to 15 gems."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 2 to 6. Reduced training costs at levels 1 to 7."
+      },
+      {
+        "Patch": "September 11, 2019",
+        "Type": "Update",
+        "Description": "Increased hitpoints of levels 5 to 7."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 8 Dragon."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs of levels 3 to 5."
+      },
+      {
+        "Patch": "May 20, 2020",
+        "Type": "Update",
+        "Description": "The Dragons are no longer followed by the Grand Warden ."
+      },
+      {
+        "Patch": "June 15, 2021",
+        "Type": "Update",
+        "Description": "Added the level 9 Dragon."
+      },
+      {
+        "Patch": "August 12, 2021",
+        "Type": "Maintenance Break Changes",
+        "Description": "Increased hitpoints at level 4 from 2,600 to 2,700."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times at levels 2 to 6."
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 10 Dragon. Reduced upgrade times for levels 7 and 8: Level 7: 10d -> 9d Level 8: 12d -> 9d 12h Reduced upgrade costs for levels 2 and 3: Level 7: 7,000,000 -> 6,300,000 Level 8: 11,000,000 -> 8,800,000"
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 11 Dragon."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Update",
+        "Description": "Added the level 12 Dragon."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 3m to 2m 50s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times for level 7, 8, and 10: Level 7: 5d -> 4d 12h Level 8: 6d -> 5d Level 10: 8d-> 7d 12h"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Reduced upgrade time at level 12 from 14d 16h to 10d. Reduced upgrade cost at level 12 from 22,000,000 to 18,500,000."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Sound of Clash Update",
+        "Description": "Added the level 13 Dragon."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_Deploy.ogg",
+        "Captions": "Dragon deploys",
+        "Description": "When the Dragon is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_attack.ogg",
+        "Captions": "Dragon breathes fire",
+        "Description": "When the Dragon attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Dragon_die.ogg",
+        "Captions": "Dragon dies",
+        "Description": "When the Dragon dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Super variant, see Super Dragon . For his larger version, see Golden Dragon . For the Hero , see Dragon Duke . \"The might of the dragons is known throughout the land. This scaly terror of the skies feels no mercy and nothing will escape the fiery splashes of his breath.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 7 Gallery 8 Trivia 8.1 General 8.2 Comparisons Summary The Dragon is the ninth Elixir troop unlocked at Barracks level 9, which requires Town Hall level 7. He is a fearsome flying unit capable of attacking both ground and air units , with both high health and damage. Similar to the Wizard , the Dragon's attacks are ranged and deal splash damage, observed when he attacks enemy troops that overlap or over walls. Dragons have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Dragons will proceed to attack the nearest structure. Strategies Offensive Strategies Dragon strategies involve taking out as many Air Defenses and Air Sweepers as possible with other units ( Barbarians , Giants , etc.) or Lightning Spells , the Giant Arrow from the Archer Queen (Town Hall 8 and above), and even the Rocket Backpack from the Dragon Duke (if at Town Hall 15 and above) can help, as they are a significant threat to this powerful unit. Have spare Barbarians, Minions or Archers for cleanup to take out buildings in the corners to prevent wasting a whole Dragon for it, and to prevent the Dragons from going in different directions. The Baby Dragon can also be effective in making funnels due to its enraged ability when alone. Rage Spells and Dragons are like bread and butter. Dragons are slow but deal high damage per attack, so using a pure-Dragon army with Rage Spells can be effective. Since Dragons are air units this also saves the time of them moving through Walls significantly. Try to spread Dragons along the edge of the base, as they will converge in the middle of the battle when they have reached the base's center. Then place a Rage Spell for mass destruction to the core of the base. Make sure to funnel them correctly, though. A powerful strategy uses a combination of Dragons and Balloons . Dragons can tank the Air Defenses and Wizard Towers while Balloons target the Defensive Buildings and help by activating the Seeking Air Mines to counter Dragons. Which spells to bring and use ultimately depend on the layout of the defending base - an attacker should have a plan to destroy every Air Defense as fast as possible, whether that involves extra Balloons, Lightning Spells, Earthquake Spells , Healing Spells , ranged Hero Equipment , Siege Machines or Rage Spells. At Town Halls 8 to 10, some careless opponents might poorly bunch together their Air Defenses together, making them much more vulnerable to spells. If they have a lot of resources, a Dragon raid is usually the best option as they can devastate the entire base once Air Defenses are taken out. When using mass Dragon raids, one should be careful of buildings in the corners, because their relatively slow movement speed does not make it great for moving around from corner to corner. To prevent this, attackers should bring some Archers or Minions or even save a hero (such as Barbarian King ) to take out lone buildings in the corners; it might mean the difference between a 99% 2 star & 100% 3 star. A level 4 or higher Clan Castle can hold a Haste Spell which can be used to speed up the Dragons if time is short, though Haste Spells are better used for a frontal assault. Some opponents may also put Hidden Teslas in a corner which is also called a Troll Tesla or Corner Tesla, which staves off lesser cleanup troops. This means either using a hero or a stronger unit such as a Baby Dragon is necessary. Dragons will attack the Barbarian King and Clan Castle troops that cannot target air units if these troops are the closest target, despite their lack of anti-air capabilities. Be careful as these troops can distract your Dragons from attacking other more threatening targets, wasting time. If the Barbarian King does not move near defenses, one can simply avoid deploying Dragons near him and use other air troops, as the Dragon's high housing space makes it a huge waste anyway. A strong attacking combination, known as Hydra (Hybrid Dragon), involves using Dragons with the Dragon Riders . The latter can tank and attack enemy defenses, while Dragons attack Clan Castle troops and aerial Skeletons from air-set Skeleton Traps that might get in the way. Balloons can also be used to tank for Seeking Air Mines, therefore increasing the Hydra's survivability. Dragons can also be used to counter Clan Castle troops (especially other types of Dragons) before the main attack. The player can use small troops to bait the Clan Castle troops to a corner, and then drop two or three of their own Dragons to take out whatever is inside the Clan Castle and to continue the main attack later. However, if there are a lot of splash air troops, then try and spread them out so that they all do not get hit at the same time. Defensive Strategies Dragons are one of the most powerful troops in the game, and as such it can be difficult to defend against them. Multiple high-level Air Defenses and good Seeking Air Mine placement is critical for success when defending against a Dragon army. Spreading out air Defenses in a way that the Giant Arrow gets less value is a crucial design in which base defenders should implement towards their base, which is common especially in Ranked Battles and Clan War Leagues. As a Town Hall 8 player, keeping Air Defenses semi-spread while protecting them with storages and other high-hitpoint buildings is the key to preventing most 3-star attacks using Dragons. If the Air Defenses are too close together, a single Rage Spell applied to a cluster of Dragons can quickly wipe out all three. Also, if two are placed close enough, an Earthquake Spell and 3 Lightning Spells can destroy both. At higher Town Hall levels, this may only require 3 Lightning Spells at a relative level. This also becomes more disadvantageous for the defender if they have also destroyed one or both Air Sweepers, contributing to the attacker's chance of tripling the base. Dragons are wonderful Clan Castle troops, especially at lower Town Hall levels where options are limited. As a flying unit, the Dragon is completely immune to attacks from most ground troops available at this point, with its splash damage capability making quick work of Barbarians and Goblins . Its high health also helps it survive attacks from even multiple Archers or Wizards (although a large group of either will usually be enough to destroy the Dragon or two). However, you can spread your Archers and Wizards in a semi or whole circle around the Dragon. This exploits the fact that Dragons have a slow attack-speed. Dragon-based armies usually do not suffer from this issue, as they will have the necessary offense to neutralize lone defending Dragons. At higher levels, Dragons may not do enough damage to cripple or kill any troops, limiting their defensive value in comparison with more powerful ones like the Electro Dragon . However, they can still serve this role, but they need to back it up with other troops like Witches or any sort of high damage unit. The Air Sweeper can stall Dragons up for a very long time. Protect them and cover the Air Defenses with their range for maximum effectiveness. However, make sure one cannot place a few Lightning Spells and Earthquake Spell to destroy both an Air Defense and an Air Sweeper, else the attacker could get a lot of value, rendering these defenses useless. Additionally, since Dragons have a slow attack speed, Witches in the Clan Castle can overwhelm them, giving more time for defenses to defeat them before they deal too much damage. Upgrade Differences The Dragon undergoes significant visual changes at all levels. Initially, the Dragon is a flying creature with two wings, three horns, small limbs, and a long tail. He has olive-colored skin, black eyes, and spikes on his back, the edge of his wings, and the tip of his tail. At level 2, the Dragon's skin turns from olive to dark purple and his wings and eyes turn pink, matching his image in the Barracks . At level 3, the Dragon's skin changes to dark brown. At level 4, the Dragon's skin turns blood red while his wings become deep red; as part of the update announcement, Supercell referred to him as the new \"ancient red dragon.\" His eyes also start flaming. At level 5, the Dragon's skin turns into oxblood. The horns near the back of his head and the spikes on his back, the edge of his wings, and the tip of his tail become golden. His wings also get larger. At level 6, the Dragon's skin turns darker in color. The edges of his wings turn scarlet. At level 7, the Dragon's skin turns completely scarlet in color. The tip of his tail also starts flaming. At level 8, the Dragon's skin turns into claret. The spikes on his back and the edge of his wings along with the horns turn to look like a bone-like material. At level 9, the Dragon's skin turns into midnight green. His horns and spikes on his back and the edge of his wings are slightly darker. At level 10, the Dragon's skin turns petrol in color. The edges of his wings turn icy blue. His eyes lose the flames and turn purple, and the fire on the tip of his tail is colored lavender. At level 11, the Dragon's skin turns back to its previous color, but is brighter. The edges of his wings change from icy blue to seafoam. His eyes and the fire at the tip of his tail turn completely green. At level 12, the Dragon's skin turns into a royal blue color, with his horns, spikes, and the \"arms\" on his wings turning gold in color. The tip of his tail and eyes starts flaming azure. At level 13, the Dragon's skin becomes taupe and has an azure fade on his wings and the tip of his tail. The spikes and horns appear brighter, while the \"arms\" on his wings also turns azure. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Barracks Level Required Range None Area Splash 0.3 Tile Radius (Ground & Air) 20 16 1.25s 9 3 tiles Level Damage per Second Damage per Attack Hitpoints Research Cost Research Time Laboratory Level Required 1 140 175 1,900 N/A N/A N/A 2 160 200 2,100 1,000,000 18h 5 3 180 225 2,300 2,000,000 1d 12h 6 4 210 262.5 2,700 3,000,000 2d 7 5 240 300 3,100 3,800,000 3d 8 6 270 337.5 3,400 4,900,000 4d 9 7 310 387.5 3,900 5,000,000 4d 12h 10 8 330 412.5 4,200 7,500,000 5d 11 9 350 437.5 4,500 10,500,000 7d 12 10 370 462.5 4,900 12,000,000 7d 12h 13 11 390 487.5 5,300 14,000,000 8d 12h 14 12 410 512.5 5,700 18,500,000 10d 15 13 430 537.5 6,000 28,500,000 15d 16 Super Troop Boost Super Troop Boost Cost Dragon Level Required Super Dragon 25,000 7 History Patch Type Description August 2, 2012 The Dragon was in the original release of the game with 2 levels. August 30, 2012 Update The Dragon's attack gain visual effects. September 19, 2012 Update Added the level 3 Dragon and Improved visual effects. The level 1 Dragon now has a unique appearance. The upgraded Dragon now displays pink asterisks that represents the level. October 27, 2012 Update Decreased Dragon's training cost. March 12, 2013 Update Dragons now do small area splash damage. Decreased training cost at levels 1 and 2. Increased hitpoints at levels 1 and 2. May 23, 2013 Update Added the level 4 Dragon. Retextured the Dragon's appearance in his info and in battle. November 6, 2013 Update Slightly increased hitpoints at level 4. December 5, 2013 Update Slightly increased damage at level 4. February 27, 2015 Maintenance break Fixed visual effect of Dragon's fire breath attack. July 1, 2015 Update Added the level 5 Dragon. Reduced training time for some levels of Dragon. Moved level 4 Dragon to Town Hall 9. October 12, 2016 Update Added the level 6 Dragon. December 19, 2016 Update Increased the Dragon's attack speed (Damage per Second are unchanged). March 8, 2017 Update Increased damage at levels 4 to 6. June 27, 2017 Update Increased hitpoints at levels 4 to 6. June 11, 2018 Update Added the level 7 Dragon. Increased hitpoints at level 5 and 6. Reduced training cost at all levels. June 26, 2018 Balance Changes Reduced upgrade times at levels 1 to 5. October 23, 2018 Update Reduced gem donation cost for the Dragon from 25 to 15 gems. April 2, 2019 Update Reduced upgrade times at levels 2 to 6. Reduced training costs at levels 1 to 7. September 11, 2019 Update Increased hitpoints of levels 5 to 7. December 9, 2019 Update Added the level 8 Dragon. March 30, 2020 Update Reduced upgrade costs of levels 3 to 5. May 20, 2020 Update The Dragons are no longer followed by the Grand Warden . June 15, 2021 Update Added the level 9 Dragon. August 12, 2021 Maintenance Break Changes Increased hitpoints at level 4 from 2,600 to 2,700. December 9, 2021 Update Reduced upgrade costs and times at levels 2 to 6. June 12, 2023 Update Added the level 10 Dragon. Reduced upgrade times for levels 7 and 8: Level 7: 10d -> 9d Level 8: 12d -> 9d 12h Reduced upgrade costs for levels 2 and 3: Level 7: 7,000,000 -> 6,300,000 Level 8: 11,000,000 -> 8,800,000 December 12, 2023 Update Added the level 11 Dragon. November 25, 2024 Update Added the level 12 Dragon. February 10, 2025 Update Reduced training time from 3m to 2m 50s. March 27, 2025 Clash Anytime Update Removed training time. October 6, 2025 Ranked Battle Update Reduced upgrade times for level 7, 8, and 10: Level 7: 5d -> 4d 12h Level 8: 6d -> 5d Level 10: 8d-> 7d 12h November 17, 2025 Town Hall 18 Update Reduced upgrade time at level 12 from 14d 16h to 10d. Reduced upgrade cost at level 12 from 22,000,000 to 18,500,000. April 27, 2026 Sound of Clash Update Added the level 13 Dragon. Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Dragon_Deploy.ogg Dragon deploys When the Dragon is deployed https://clashofclans.fandom.com/wiki/File:Dragon_attack.ogg Dragon breathes fire When the Dragon attacks https://clashofclans.fandom.com/wiki/File:Dragon_die.ogg Dragon dies When the Dragon dies Gallery Dragon icon Dragon's icon in the Clan Games Challenge Dragon attacking Trivia General Jorge Yao, the first person to have reached over 4,000 trophies , used an all-Dragon army to do so. He used 4 Lightning Spells (in their past iteration, taking two spaces with six random bolts) as support, one to take out Clan Castle troops and the rest to destroy an Air Defense . This was his way to ensure 50% damage practically every time he attacked in order to become the top player and achieve this amazing feat. You can have a maximum of 17 Dragons at one time in a complete set of fully upgraded Army Camps . This number increases to 19 if you include 2 that can fit into a level 8 or higher Clan Castle . On the battlefield, you can clone an additional 8 Dragons with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 27 Dragons. The purple Dragon icon shown in the Barracks is actually a level 2 Dragon. The Dragon changes from green to purple after upgrading to level 2, matching his image in the Barracks. Prior to September 19, 2012 update, Dragons were always purple and did not update their appearances whatsoever. They also had a completely different appearance. According to Supercell , the Dragon was originally going to appear in Clash Royale , but was replaced with the Baby Dragon due to his extremely large wings. The Dragon received new art as of the May 23, 2013 update; the new Dragon receives forelegs along with a line of small spikes down his neck and back. This new look often debated among fellow players to which one looks the 'best', along with the P.E.K.K.A . Oddly, the Dragon's shadow is oval rather than dragon-shaped. The level 3 Dragon originally had fiery eyes until the May 23, 2013 update, which usurped to the level 4 Dragon. The Dragon's upon-death skeleton like most other troops is human-shaped, despite not being a human. The Dragon has many variants, being the Super Dragon , Baby Dragon , Inferno Dragon , Electro Dragon , Dragon Rider , Azure Dragon , and the Giant Dragon/Golden Dragon . The level 1-4 Dragons have very thin gaps going through the base of the wing. However, this is barely noticeable. Like any flying troop, Dragons can ignore Walls and so do not target them, though their splash damage enables them to hit walls unintentionally if a ground unit gets too close. This is similar with Balloons and Baby Dragons. The January 2013 update added Dark Elixir , stating that this resource is formed over eons from fossilized Black Dragon (then-maxed level 3 Dragon) bones. However, training or upgrading Dragons never involves Dark Elixir. This is more likely a reference over oil, a fossil fuel because Inferno Towers were powered by them. An event lasted from 29 January, 2015 through February 5, 2015, during which the Dragon's training speed was 5 times faster, along with the Barbarian . The level 1 Dragon being green matches up with it being a young Dragon as the Baby Dragon is also green. However, the Baby Dragon has much different significant changes than the Dragon himself. Comparisons The Dragon is one of the eight troops to have upgrade differences at each level, the others being the P.E.K.K.A , Yeti , Dragon Rider, Electro Titan , Headhunter , Root Rider, and the Thrower. The Dragon, along with the Barbarian, Archer , Giant , Goblin , Wall Breaker , Balloon , Wizard , Healer , and P.E.K.K.A are the oldest units in the game. The Dragon, along with the Healer, Miner , Electro Dragon, Yeti, Dragon Rider, Golem , Ice Golem and Headhunter are the only troops not to have a Builder Base Troop counterpart. The Dragon is one of the only 2 troops of which the picture in the Barracks resembles an upgraded troop, the other being the Wall Breaker. The Dragon, along with the Yeti, Dragon Rider and Headhunter, are the only Home Village troops in the game that are not in Clash Royale , excluding Super Troops (with the exception of the Inferno Dragon). Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

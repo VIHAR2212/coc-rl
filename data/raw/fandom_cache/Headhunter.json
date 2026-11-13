@@ -1,0 +1,160 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Heroes (x4 Damage)",
+        "Attack Type": "Single Target",
+        "Housing Space": "6",
+        "Movement Speed": "32",
+        "Attack Speed": "0.6s",
+        "Dark Barracks Level Required": "9",
+        "Range": "3 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "105",
+        "Damage per Hit": "63",
+        "DPS on Heroes": "420",
+        "Poison Max DPS": "220",
+        "Speed Decrease": "40%",
+        "Attack Rate Decrease": "55%",
+        "Hitpoints": "360",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "115",
+        "Damage per Hit": "69",
+        "DPS on Heroes": "460",
+        "Poison Max DPS": "260",
+        "Speed Decrease": "42%",
+        "Attack Rate Decrease": "60%",
+        "Hitpoints": "400",
+        "Research Cost": "57,500",
+        "Research Time": "5d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "125",
+        "Damage per Hit": "75",
+        "DPS on Heroes": "500",
+        "Poison Max DPS": "280",
+        "Speed Decrease": "44%",
+        "Attack Rate Decrease": "65%",
+        "Hitpoints": "440",
+        "Research Cost": "90,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "135",
+        "Damage per Hit": "81",
+        "DPS on Heroes": "540",
+        "Poison Max DPS": "300",
+        "Speed Decrease": "46%",
+        "Attack Rate Decrease": "68%",
+        "Hitpoints": "500",
+        "Research Cost": "370,000",
+        "Research Time": "15d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Patch": "January 29, 2013",
+        "Type": "greenTerrtleTran suggested adding a troop with a poison attack."
+      },
+      {
+        "Patch": "February 5, 2013",
+        "Type": "clashofclans2013 suggested adding an assassin."
+      },
+      {
+        "Patch": "February 27, 2013",
+        "Type": "Rogrider suggested adding a Dark Troop that targets heroes ."
+      },
+      {
+        "Patch": "June 21, 2020",
+        "Type": "Announced the Headhunter, with 3 levels."
+      },
+      {
+        "Patch": "June 22, 2020",
+        "Type": "Update",
+        "Description": "Added the Headhunter."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Fixed an issue of shrinking characters when targeted by the Headhunter."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Fixed minor inaccuracy from Headhunter poison timer."
+      },
+      {
+        "Patch": "April 29, 2021",
+        "Type": "Balance Changes",
+        "Description": "Reduced damage at all levels: Level 1: 108 -> 105 Level 2: 120 -> 115 Level 3: 132 -> 125"
+      },
+      {
+        "Patch": "June 15, 2021",
+        "Type": "Update",
+        "Description": "Added Season Challenges and Clan Games task associated with the Headhunter, \"Heads Will Roll\"."
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Type": "Update",
+        "Description": "The Headhunter no longer require Dark Elixir to train, same goes with every troops in Home Village."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 1m to 50s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Sound of Clash Update",
+        "Description": "Added the level 4 Headhunter."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For a similar effect as a spell, see Poison Spell . For the pet with a similar effect, see Poison Lizard . For the building, see Spell Tower#Poison Spell Tower and Hero Hunter . \"Headhunter has just one job: taking out enemy heroes . As her other job, she works at the village apothecary. She's lightweight enough to jump over walls and her poisoned weapons make her targets move and attack slower.\" Level 1 Level 2 Level 3 Level 4 Contents 1 Summary 2 Strategies 2.1 Offensive Strategy 2.2 Defensive Strategy 3 Upgrade Differences 4 Statistics 5 History 6 Gallery 7 Trivia Summary The Headhunter is the ninth Dark Elixir Troop unlocked at Dark Barracks level 9, which requires Town Hall level 12. She is a fast ground troop that prioritizes Heroes instead of attacking defenses , resources , or other buildings. Headhunters prioritize Heroes above all other targets, and will bypass all other types of enemy buildings and troops while any enemy Heroes remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops or Skeleton Trap skeletons. Note that Guardians are not considered Heroes. Once all enemy Heroes are knocked out, Headhunters become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. Contrary to popular belief, Headhunters do not prioritize enemy Clan Castle Troops after all enemy Heroes are knocked out. The same is true for Guardians or Skeleton Trap skeletons. The Headhunter's attacks have a Poison Spell effect, which temporarily slows down troops and heroes that are attacked. The poison does not affect buildings. The Headhunter's poison deals damage over time, but the poison damage wears off extremely quickly and is negligible (i.e. unable to ramp up) unless multiple Headhunters are used to stack the effect. Headhunters can bypass Walls to reach any targets behind them. The Headhunter shares the same movement speed with Goblins , Sneaky Goblins , Minions , and Miners . Strategies Offensive Strategy Since Headhunters can jump over Walls , you do not need to support her with a Jump Spell or Earthquake Spell . You can send them with the main army of a hybrid, as they can take out the enemy Heroes instead of something else. Due to Headhunters being able to jump over Walls, they can be used to lure out an enemy Clan Castle provided that an enemy hero is nearby. This may require more than one Headhunter (or protection from a meat shield such as a Giant ) due to their low hitpoints. If all of the enemy heroes are down, they will alternatively target any enemy Clan Castle troops. This is useful on bases that already have all of their Heroes down, either because they are regenerating or being upgraded. However, this is quite rare as the Heroes are commonly well-protected enough to either force the activation of a Clan Castle or require too much time to individually take out all of them. Sneaking in a Headhunter or two during a Queen Walk/Charge can gain massive value as long as it does not get targeted by defenses, saving Poison Spells or Freeze Spells used against Heroes. This is extremely effective when the Archer Queen runs into the enemy Barbarian King . This can save her from using her ability, which can be used in a later part of the attack. You can also sneak one in during a Sui Hero Dive, where the planned objectives are near or include an enemy hero to save some health of the hero, allowing the hero to get more value. If a defending Hero needs to go down to execute the strategy you are doing, but your main army will not deal with that Hero, you can send a group of Headhunters combined with the Grand Warden 's Eternal Tome ability to make the Headhunters immune to all of the damage that they would take getting to that Hero, effectively making them powerful Hero killers. You still have to be careful with possible Spring Trap placements which would otherwise bounce off your Headhunters. You also have to be careful as if the Headhunters leave the Eternal Tome's radius, they would lose their invincibility. Headhunters are not good for clearing traps, since if you place one and there is a trap there, the trap will not activate until the Headhunter moves to its trigger range. Defensive Strategy As defending Clan Castle troops, Headhunters are effective against attackers' Heroes, including the Grand Warden, regardless of whether the Hero is set to Ground or Air mode. Even if no Heroes are present, the Headhunters' ability to poison attacking troops makes her a valuable unit on defense. Spring Traps, if properly placed, can bounce off Headhunters, preventing them from reaching the defending heroes. They can only spring one Headhunter per trap, however. Additionally, Spring Traps will prioritize higher housing space troops if both one and a Headhunter got caught by a Spring Trap. Headhunters are amazing troops to defend against a Queen Charge. Their extremely high damage and slowing poison forces the Archer Queen 's ability every time, even while under Poison Spells. If the attacker does not respond fast enough with spells such as Lightning Spell or Freeze Spell , Headhunters can easily take out the Archer Queen, even through her ability. Defensive Headhunters are great counters to an attacker's Siege Machines (with the exception of the Siege Barracks ), as their poison effect will make Siege Machines move and attack slower, rendering their main functions next-to-useless. Do note that Headhunters are fragile, and beware that the attacker may use their own Poison Spell or Lightning Spell to take them out. Headhunters will jump over Walls and dive straight for the hero. Putting your Heroes closer to the core of your base will force the Headhunters to go away from most possible tanks and get targeted themselves. Headhunters are most often sneaked under cover from other troops so that they do not die easily. Multi-target Inferno Towers , Scattershots and Ricochet Cannons are effective countermeasures to prevent them from reaching and damaging your heroes. Against Headhunters that are protected by a Grand Warden's ability, they can be countered by stalling their movement. This can be achieved by the use of a Tornado Trap , though one should consider whether protecting Heroes is worth using their only Tornado Trap for. An alternative for Town Hall 15 players would be to use a Poison Spell Tower , which while less effective, is more versatile and potentially reusable. Upgrade Differences The Headhunter undergoes minor visual changes at all levels. Initially, the Headhunter is a woman wearing a purple-and-black robe, which covers her entire body. Her face is covered in darkness, except for the eyes which are black with amber sclerae. She carries a vial on her waist with a cap and skull symbol on it which contains an orange liquid, and attacks with sharp golden-and-black tarot cards. At level 2, the part of the robe covering the face gains a silver trim. She also gains a poison symbol on her robe's back. At level 3, the trim turns to gold, as well as appearing on the start of her gloves. Her symbol on the back of her robe also turns gold. At level 4, the trim of the face of her robe is now azure, including the cuffs of her gloves, the skull symbol on her robe's back, and the belt's buckle. Her shoes and gloves turn navy, sclerae become aqua with a glowing effect, and her cards gain an orangish tint, matching the color of her cards in the info image. She also gains an azure trim on her robe's back. The liquid in her vial is now sepia. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range Heroes (x4 Damage) Single Target 6 32 0.6s 9 3 tiles Level Damage per Second Damage per Hit DPS on Heroes Poison Max DPS Speed Decrease Attack Rate Decrease Hitpoints Research Cost Research Time Laboratory Level Required 1 105 63 420 220 40% 55% 360 N/A N/A N/A 2 115 69 460 260 42% 60% 400 57,500 5d 10 3 125 75 500 280 44% 65% 440 90,000 7d 11 4 135 81 540 300 46% 68% 500 370,000 15d 12h 16 History Patch Type Description January 29, 2013 greenTerrtleTran suggested adding a troop with a poison attack. February 5, 2013 clashofclans2013 suggested adding an assassin. February 27, 2013 Rogrider suggested adding a Dark Troop that targets heroes . June 21, 2020 Announced the Headhunter, with 3 levels. June 22, 2020 Update Added the Headhunter. October 12, 2020 Update Fixed an issue of shrinking characters when targeted by the Headhunter. April 12, 2021 Update Fixed minor inaccuracy from Headhunter poison timer. April 29, 2021 Balance Changes Reduced damage at all levels: Level 1: 108 -> 105 Level 2: 120 -> 115 Level 3: 132 -> 125 June 15, 2021 Update Added Season Challenges and Clan Games task associated with the Headhunter, \"Heads Will Roll\". June 27, 2022 Update The Headhunter no longer require Dark Elixir to train, same goes with every troops in Home Village. February 10, 2025 Update Reduced training time from 1m to 50s. March 27, 2025 Clash Anytime Update Removed training time. April 27, 2026 Sound of Clash Update Added the level 4 Headhunter. Gallery Headhunter’s avatar In-game sprite Concept designs of the Headhunter Headhunter reveal Headhunter Explained! New Troop for Clash of Clans! Headhunter video sneak peek by Judo Sloth Trivia You can have a maximum of 58 Headhunters at one time in a complete set of fully upgraded Army Camps . This number increases to 67 if you include 9 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 32 Headhunters with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 99 Headhunters. However, since Headhunters are ineffective against buildings, this is generally not an advisable practice. You would not need that many of them anyway. In the developer Livestream, the Headhunter was responsible for stalking for Heroes , as stated by TV Royale, but the original suspects were the Bandit from Clash Royale and Tara from Brawl Stars . It may be assumed that Headhunters are the Wizards ' responsible for brewing Dark Elixir Spells or at least the Poison Spells . The Headhunter is one of the few troops to have upgrade differences at each level, the others being the Dragon , P.E.K.K.A , Yeti , Dragon Rider , Electro Titan , Root Rider and the Thrower . In the trailer , her third card had the Clash of Clans logo. In her in-game artwork, she only appears to wield two cards, and in battle, she only appears to use sword cards (needs confirmation). In the level 9 Dark Barracks (the only other place where cards can be seen), three cards are present; two sword cards and one crown card. The Headhunter, Dragon Rider, Electro Titan, Druid and Thrower are the troops in Home Village with the least amount of levels, excluding Super Troops . One of her cards has a Hero crown on it, which is fitting seeing as she is the only unit that prefers to target Heroes . The Headhunter, along with the Dragon , Yeti , Dragon Rider , Electro Titan , Apprentice Warden , Root Rider , and Druid , are the only Home Village troops not to appear in Clash Royale , excluding Super Troops (with the exception of the Inferno Dragon ). Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

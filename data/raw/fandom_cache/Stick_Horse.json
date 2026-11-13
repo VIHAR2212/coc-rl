@@ -1,0 +1,252 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Barbarian King",
+        "Ability Type": "Passive",
+        "Rarity": "Epic",
+        "Unlock Requirement": "Buy in Wise Warriors event for 3,100"
+      }
+    ],
+    [
+      {
+        "Level": "Ability Duration",
+        "Ability Attributes": "Movement Speed Increase",
+        "Hero Boost": "Attack Speed Increase",
+        "Upgrade Cost": "Damage per Second Increase",
+        "Blacksmith Level Required": "Hitpoint Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "12s",
+        "Hero Boost": "9.5",
+        "Upgrade Cost": "+2%",
+        "Blacksmith Level Required": "35"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "12s",
+        "Hero Boost": "9.5",
+        "Upgrade Cost": "+2%",
+        "Blacksmith Level Required": "38"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "14s",
+        "Hero Boost": "11.1",
+        "Upgrade Cost": "+5%",
+        "Blacksmith Level Required": "42"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "14s",
+        "Hero Boost": "11.1",
+        "Upgrade Cost": "+5%",
+        "Blacksmith Level Required": "45"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "14s",
+        "Hero Boost": "11.1",
+        "Upgrade Cost": "+5%",
+        "Blacksmith Level Required": "49"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "16s",
+        "Hero Boost": "12.7",
+        "Upgrade Cost": "+8%",
+        "Blacksmith Level Required": "52"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "16s",
+        "Hero Boost": "12.7",
+        "Upgrade Cost": "+8%",
+        "Blacksmith Level Required": "55"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "16s",
+        "Hero Boost": "12.7",
+        "Upgrade Cost": "+8%",
+        "Blacksmith Level Required": "58"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "18s",
+        "Hero Boost": "14.3",
+        "Upgrade Cost": "+11%",
+        "Blacksmith Level Required": "65"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "18s",
+        "Hero Boost": "14.3",
+        "Upgrade Cost": "+11%",
+        "Blacksmith Level Required": "76"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "18s",
+        "Hero Boost": "14.3",
+        "Upgrade Cost": "+11%",
+        "Blacksmith Level Required": "88"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "20s",
+        "Hero Boost": "16",
+        "Upgrade Cost": "+14%",
+        "Blacksmith Level Required": "101"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "20s",
+        "Hero Boost": "16",
+        "Upgrade Cost": "+14%",
+        "Blacksmith Level Required": "112"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "20s",
+        "Hero Boost": "16",
+        "Upgrade Cost": "+14%",
+        "Blacksmith Level Required": "124"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "22s",
+        "Hero Boost": "17.5",
+        "Upgrade Cost": "+17%",
+        "Blacksmith Level Required": "135"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "22s",
+        "Hero Boost": "17.5",
+        "Upgrade Cost": "+17%",
+        "Blacksmith Level Required": "148"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "22s",
+        "Hero Boost": "17.5",
+        "Upgrade Cost": "+17%",
+        "Blacksmith Level Required": "159"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "24s",
+        "Hero Boost": "19.1",
+        "Upgrade Cost": "+21%",
+        "Blacksmith Level Required": "171"
+      },
+      {
+        "Level": "19",
+        "Ability Attributes": "24s",
+        "Hero Boost": "19.1",
+        "Upgrade Cost": "+21%",
+        "Blacksmith Level Required": "176"
+      },
+      {
+        "Level": "20",
+        "Ability Attributes": "24s",
+        "Hero Boost": "19.1",
+        "Upgrade Cost": "+21%",
+        "Blacksmith Level Required": "182"
+      },
+      {
+        "Level": "21",
+        "Ability Attributes": "26s",
+        "Hero Boost": "20.7",
+        "Upgrade Cost": "+25%",
+        "Blacksmith Level Required": "188"
+      },
+      {
+        "Level": "22",
+        "Ability Attributes": "26s",
+        "Hero Boost": "20.7",
+        "Upgrade Cost": "+25%",
+        "Blacksmith Level Required": "194"
+      },
+      {
+        "Level": "23",
+        "Ability Attributes": "26s",
+        "Hero Boost": "20.7",
+        "Upgrade Cost": "+25%",
+        "Blacksmith Level Required": "199"
+      },
+      {
+        "Level": "24",
+        "Ability Attributes": "28s",
+        "Hero Boost": "22.3",
+        "Upgrade Cost": "+29%",
+        "Blacksmith Level Required": "205"
+      },
+      {
+        "Level": "25",
+        "Ability Attributes": "28s",
+        "Hero Boost": "22.3",
+        "Upgrade Cost": "+29%",
+        "Blacksmith Level Required": "211"
+      },
+      {
+        "Level": "26",
+        "Ability Attributes": "28s",
+        "Hero Boost": "22.3",
+        "Upgrade Cost": "+29%",
+        "Blacksmith Level Required": "217"
+      },
+      {
+        "Level": "27",
+        "Ability Attributes": "30s",
+        "Hero Boost": "24",
+        "Upgrade Cost": "+33%",
+        "Blacksmith Level Required": "222"
+      }
+    ],
+    [
+      {
+        "Date": "November 17, 2025",
+        "Description": "The Stick Horse was added to the game files."
+      },
+      {
+        "Date": "February 9, 2026",
+        "Description": "Made the Stick Horse available in the Wise Warriors event."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Fixed a bug where the Jump Spell can disabled Stick Horse jump ability after entering the spell radius."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Gallop over walls and get increased movement and attack speed after being deployed\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Trivia 5.1 Comparisons Summary [ ] The Stick Horse is the fourth Epic piece of Hero Equipment for the Barbarian King . It made its debut in the Wise Warriors medal event starting February 9, 2026. The Stick Horse appears as a stick consisting of a white horse head on top with a brown strap on its nose and a dark yellow mane with orange tips covering its eyes. When equipped, it creates a yellow aura and leaves behind a trail of its matching color, allowing the Barbarian King to jump over Walls and lets him move and attack faster for a while when deployed. In addition to the ability, the Stick Horse gives the Barbarian King additional damage and hitpoints. Strategies [ ] Offensive Strategies [ ] In general, the Stick Horse is a direct upgrade over the Rage Vial , it provides more than twice the maximum hitpoints compared to the health recovery of the Rage Vial and almost twice the passive damage increase. For the ability, the duration last three times longer, despite only having around half of the movement speed increase and the damage per second multiplier is much smaller (damage increase for Rage Vial, attack speed increase for the Stick Horse), the longer duration and higher passive damage increase make up for it. The only downside being it always activates at the start of the battle and usually is not active in the core of a base. There are different interactions when pairing this with other Hero Equipment: When paired with the Giant Gauntlet , with the help of Angry Jelly , it allows the Barbarian King to enter a compartment and complete destroy it with the ability giving extra attack speed, splash damage, and damage reduction. The damage Hero Boost of both Equipment adds up and provides a massive boost, while Stick Horse provides the most maximum hitpoints of all of the Equipment of the King to tank the damage all by himself which pairs well with the self-healing per second from Giant Gauntlet. In addition, using a Rage Spell allows him to deal much more damage because of its longer rage duration, destroying high-hitpoint buildings like Storages and merged defenses with ease. Beware of Monoliths and Single-Target Inferno Towers as they can still do major damage even with the Giant Gauntlet's damage reduction. Defensive Strategies [ ] Defending against the Barbarian King's Stick Horse ability may be difficult, but it can be countered effectively by opening up a Wall in a compartment. When this happens, the Barbarian King will go to a much longer distance around the walls to reach his target instead of jumping over them. This allows defenses time to quickly deal damage to him before he causes too much destruction. Monoliths , single-target Inferno Towers and Revenge Towers (in its final stage) can quickly whittle out the hitpoints of the Barbarian King, even when his Giant Gauntlet ability is used. Traps like Spring Traps and Skeleton Traps can also help in this regard, though the former deals reduced damage to the King as he is a Hero and the latter is ineffective if the King is using the Giant Gauntlet. Clan Castle troops like Witches can overwhelm the King, provided that if he is not equipped with the Giant Gauntlet, they will outrange him while their summoned Skeletons can overwhelm the King with the help of other high-damaging defenses. If the King is equipped with the Giant Gauntlet, the splash damage combined with the increased movement speed and attack speed will easily kill the Witches. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Barbarian King Passive Epic Buy in Wise Warriors event for 3,100 Level Ability Attributes Hero Boost Upgrade Cost Blacksmith Level Required Ability Duration Movement Speed Increase Attack Speed Increase Damage per Second Increase Hitpoint Increase Shiny Ore Glowy Ore Starry Ore 1 12s 9.5 +2% 35 311 N/A N/A N/A 1 2 12s 9.5 +2% 38 482 120 - - 1 3 14s 11.1 +5% 42 653 240 20 - 1 4 14s 11.1 +5% 45 824 400 - - 1 5 14s 11.1 +5% 49 994 600 - - 1 6 16s 12.7 +8% 52 1,165 840 100 - 1 7 16s 12.7 +8% 55 1,336 1,120 - - 1 8 16s 12.7 +8% 58 1,507 1,440 - - 1 9 18s 14.3 +11% 65 1,678 1,800 200 10 1 10 18s 14.3 +11% 76 1,849 1,900 - - 1 11 18s 14.3 +11% 88 2,020 2,000 - - 1 12 20s 16 +14% 101 2,191 2,100 400 20 1 13 20s 16 +14% 112 2,361 2,200 - - 3 14 20s 16 +14% 124 2,532 2,300 - - 3 15 22s 17.5 +17% 135 2,703 2,400 600 30 3 16 22s 17.5 +17% 148 2,874 2,500 - - 5 17 22s 17.5 +17% 159 3,031 2,600 - - 5 18 24s 19.1 +21% 171 3,189 2,700 600 50 5 19 24s 19.1 +21% 176 3,346 2,800 - - 7 20 24s 19.1 +21% 182 3,504 2,900 - - 7 21 26s 20.7 +25% 188 3,661 3,000 600 100 7 22 26s 20.7 +25% 194 3,819 3,100 - - 8 23 26s 20.7 +25% 199 3,976 3,200 - - 8 24 28s 22.3 +29% 205 4,134 3,300 600 120 8 25 28s 22.3 +29% 211 4,291 3,400 - - 9 26 28s 22.3 +29% 217 4,449 3,500 - - 9 27 30s 24 +33% 222 4,606 3,600 600 150 9 History [ ] Date Description November 17, 2025 The Stick Horse was added to the game files. February 9, 2026 Made the Stick Horse available in the Wise Warriors event. February 23, 2026 Fixed a bug where the Jump Spell can disabled Stick Horse jump ability after entering the spell radius. Trivia [ ] The Stick Horse is released to celebrate the Year of the Horse of the Lunar New Year. When the Equipment is initially unlocked and equipped to the Barbarian King, he attacks every 1.176 seconds for 12 seconds when the ability is active. When maxed out, he attacks every 0.902 seconds for 30 seconds. When the ability is active with the max-leveled Vampstache , he can attack every 0.774 seconds; with the max Snake Bracelet , he can attack every 0.839 seconds. Comparisons [ ] The Hero Boost of the Stick Horse provides damage increase on par with the Spiky Ball and more maximum hitpoints than the Snake Bracelet, which is the biggest increase for the Barbarian King for both stats. The Stick Horse is the second Equipment theme around the Chinese Zodiac of the year, the first being Snake Bracelet. The Stick Horse is remarkably similar to the Haste Vial , the only differences being the stats and the Stick Horse having a hitpoint increase Hero Boost and the Haste Vial having an attack speed increase one. The ability even gives the Barbarian King the ability to jump over Walls like the Royal Champion. The Stick Horse and Noble Iron are the only passive Equipment that provides a temporary, ability-like effect, which activates when deployed instead of using the ability. The Snake Bracelet is technically temporary as well with the Snakes spawned being capped, but the effect is much less dramatic compared to them. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

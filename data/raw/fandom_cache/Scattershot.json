@@ -1,0 +1,281 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "0",
+        "8": "0",
+        "9": "0"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "2",
+        "5": "2",
+        "6": "2",
+        "7": "2",
+        "8": "2",
+        "9": "2"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "125",
+        "Damage per Shot*": "300-400",
+        "Splash Damage**": "100-300",
+        "Hitpoints": "3,600",
+        "Build Cost": "8,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "150",
+        "Damage per Shot*": "360-480",
+        "Splash Damage**": "120-360",
+        "Hitpoints": "4,200",
+        "Build Cost": "9,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "170",
+        "Damage per Shot*": "380-544",
+        "Splash Damage**": "130-380",
+        "Hitpoints": "4,800",
+        "Build Cost": "11,000,000",
+        "Build Time": "7d 12h",
+        "Experience Gained": "804",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "175",
+        "Damage per Shot*": "400-560",
+        "Splash Damage**": "140-400",
+        "Hitpoints": "5,100",
+        "Build Cost": "11,500,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "180",
+        "Damage per Shot*": "420-576",
+        "Splash Damage**": "150-420",
+        "Hitpoints": "5,410",
+        "Build Cost": "12,000,000",
+        "Build Time": "8d 12h",
+        "Experience Gained": "856",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "185",
+        "Damage per Shot*": "440-592",
+        "Splash Damage**": "155-440",
+        "Hitpoints": "5,600",
+        "Build Cost": "16,500,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "190",
+        "Damage per Shot*": "450-608",
+        "Splash Damage**": "160-450",
+        "Hitpoints": "5,800",
+        "Build Cost": "26,500,000",
+        "Build Time": "15d",
+        "Experience Gained": "1,138",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge": "1",
+        "Damage per Second": "193",
+        "Damage per Shot*": "450-617.6",
+        "Splash Damage**": "160-450",
+        "Hitpoints": "5,800",
+        "Build Cost": "14,500,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge": "2",
+        "Damage per Second": "193",
+        "Damage per Shot*": "450-617.6",
+        "Splash Damage**": "160-450",
+        "Hitpoints": "5,950",
+        "Build Cost": "9,500,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "3-10",
+        "Attack Speed": "3.2s",
+        "Damage Type": "Area Splash",
+        "Unit Type Targeted": "Ground & Air",
+        "Number of Rounds": "90"
+      }
+    ],
+    [
+      {
+        "Shattered and Scattered": "Description"
+      },
+      {
+        "Shattered and Scattered": "Destroy 40 Scattershots in Multiplayer battles"
+      },
+      {
+        "Shattered and Scattered": "Destroy 400 Scattershots in Multiplayer battles"
+      },
+      {
+        "Shattered and Scattered": "Destroy 4,000 Scattershots in Multiplayer battles"
+      }
+    ],
+    [
+      {
+        "Date": "December 4, 2019",
+        "Description": "Announced the Scattershot, with two levels."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the Scattershot, with two are available at Town Hall 13."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Description": "Restricted the ammunition of the Scattershot to 90 rounds. Reduced attack speed from 3s to 3.036s."
+      },
+      {
+        "Date": "December 7, 2020",
+        "Description": "Reduced attack speed from 3.036s to 3.228s. Reduced damage by 10. Increased hitpoints at all levels: Level 1: 3,000 -> 3,600 Level 2: 3,500 -> 4,200"
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added the level 3 Scattershot."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Description": "Added a Season Challenge and a Clan Games task involving the Scattershot called \"Scatter Blaster\"."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the level 4 Scattershot."
+      },
+      {
+        "Date": "September 28, 2023",
+        "Description": "Reduced damage at levels 1 to 3: Level 1: 140 -> 125 Level 2: 170 -> 150 Level 3: 190 -> 175"
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Reduced upgrade times at all levels: Level 1: 11d -> 10d Level 2: 12d -> 11d Level 3: 18d -> 13d Level 4: 19d 12h -> 14d Reduced upgrade cost at level 3 from 18,000,000 to 12,600,000. Reduced damage at level 4 from 200 to 185."
+      },
+      {
+        "Date": "February 27, 2024",
+        "Description": "Added the level 5 Scattershot."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Added 2 Supercharge levels for the Scattershot."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Added the level 6 Scattershot. Increased the attack speed from 3.228s to 3.2s (DPS unchanged). Removed the Supercharges at level 5 and replaced them at level 6: Charge 1: Damage: 195 -> 200 Cost: 6,750,000 -> 11,000,000 Time: 3d -> 5d Charge 2: Hitpoints: 5,560 -> 5,750 Cost: 3,750,000 -> 7,000,000 Time: 4d 12h -> 7d"
+      },
+      {
+        "Date": "June 30, 2025",
+        "Description": "Reduced damage at level 3 to 6 and charge 1: Level 3: 175 -> 170 Level 4: 185 -> 175 Level 5: 190 -> 180 Level 6: 195 -> 185 Charge 1: 200 -> 188 Reduced splash damage at level 3 to 6: Level 3: 140-420 -> 130-380 Level 4: 150-440 -> 140-400 Level 5: 160-460 -> 150-420 Level 6: 170-480 -> 155-440"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade time at level 6 from 15d 18h to 10d 12h. Reduced upgrade cost at level 6 from 22,500,000 to 16,500,000."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Reduce charge times at all charges: Charge 1: 5d -> 2d 12h Charge 2: 7d -> 4d Reduce charge costs at all charges: Charge 1: 11,000,000 -> 6,000,000 Charge 2: 7,000,000 -> 3,500,000"
+      },
+      {
+        "Date": "April 27, 2026",
+        "Description": "Added the level 7 Scattershot. Removed the supercharges at level 6 Reduce upgrade times at levels 1 and 6: Level 1: 6d -> 5d Level 6: 10d 12h -> 9d Changed the description of the Scattershot."
+      },
+      {
+        "Date": "June 16, 2026",
+        "Description": "Added 2 Supercharge levels for the Scattershot."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Scattershot_Throw.ogg",
+        "Captions": "Scattershot lobs (attacking) Scattershot depletes (if it runs out of ammunition)",
+        "Descriptions": "When the Scattershot flings a rock at the target in range or when it runs our of ammunition)"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Scattershot_Hit.ogg",
+        "Captions": "Large rock shatters",
+        "Descriptions": "When the Scattershot's rock hits a unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Scattershot_Pickup.ogg",
+        "Captions": "Scattershot selected",
+        "Descriptions": "When the Scattershot is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Scattershot_Place.ogg",
+        "Captions": "Scattershot placed",
+        "Descriptions": "When the Scattershot is placed"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the troop that uses a similar attack, see Firecracker . \"The Scattershot heaves very heavy objects at whoever happens to be closest. The projectile breaks apart on impact and deals additional damage to troops behind.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Contents 1 Summary 2 Strategies 2.1 Defensive Strategies 2.2 Offensive Strategies 3 Upgrade Differences 4 Statistics 4.1 Supercharges 4.2 Achievements 5 History 6 Audio 7 Gallery 7.1 Images 7.2 Short Animations 8 Trivia 8.1 Comparisons Summary The Scattershot is a splash-damaging defense that deals very high damage per second. It is a powerful defense that attacks by lobbing a large rock at enemy units which split into smaller fragments upon impact. However, it has a blind spot and cannot attack units that are too close. It is unlocked at Town Hall level 13. The Scattershot must be loaded to work. Like with other defenses that need reloading, loading is free and automatically occurs when the user logs into the game. If the Scattershot fires too many shots without being reloaded, it will run out of ammo and stop working. It takes 4 minutes and 33 seconds for one Scattershot to unload all of its ammunition. Unlike the usual ring of explosion from other splash defenses, the Scattershot's attacks have a cone-shaped Area of Effect. Troops that are behind the initial target in a 90-degree cone shape will take splash-damage and troops next to or in front of the target will be unharmed. The farther the other troops are from the initial target, the less damage they will take. There are two separate falloff hitboxes: one that affects units within 1 tile of the initial target; and another hitbox that affects units 1 to 5 tiles away. The Scattershot can target both ground and air troops but can only damage either ground or air with each shot, not both. For example, if a Scattershot targets the Archer Queen with her Healers performing a Queen Walk, only the Archer Queen will be damaged, while the Healers would remain untouched and vice versa. The same principle does not apply to the Firespitter , since its projectiles can hit both ground and air units at the same time, but only from a linear range. Strategies Defensive Strategies The Scattershot is excellent at dealing against troops with low to moderate health. It can pose a threat to Bowlers , Witches , Miners , Hog Riders , Balloons , among others. Use it to aid high damage, single-targeting defenses such as single-target Inferno Towers , since it will defend against large hordes of weak troops whilst the stronger defense will pick off any Heroes or high-health troops. Scattershot islands are a good idea since they have enough range to attack beyond it and the space in between it and the nearest building makes troops likely to go around it. Like the Mortar , the Scattershot has a fatal weakness: its dead zone. Traps are a good way to distract or harm melee attackers (e.g. a Tornado Trap just outside the dead zone) or make it well protected by other defenses. Avoid putting Scattershots close to Inferno Towers, X-Bows , or the Eagle Artillery . Lightning Spells and Earthquake Spells when used together can destroy them and allow for a much easier win, even if it seems that they take up a lot of spell space. Offensive Strategies Use strong troops rather than groups of troops because it has a high area of attack, similar to Mortars . If one is using a Hybrid attack, place a Healing Spell in its range. Their damage output is comparable to X-Bows if they attack only a single-target. Hero Walks (e.g. Queen/Warden Walk) will not have much more trouble against it than if faced with an X-Bow, but the Scattershot will often wipe out any summoned troops if abilities are used and possibly deal heavy damage to an Archer Queen after killing the summoned troops. Because of its slow rate of fire compared to most other defenses , it can often be distracted by a troop or Hero that is capable of surviving a few shots. Giants or Ice Golems can work well for this purpose; deploying them on a side different from your other troops will prevent the Scattershot's splash damage from hurting the rest of your army. The Archer Queen's Frozen Arrow works well for slowing down a Scattershot and taking it out quickly, all the while reducing the amount of damage it can inflict to your troops or Heroes within its range. The Minion Prince's Dark Orb can slow down Scattershots, allowing your army to quickly destroy them before they deal too much damage. If your main army is being attacked by a Scattershot, you could send in a troop of a different height (ground or flying) as the Scattershot can only damage one at a time. Make use of the Grand Warden 's Eternal Tome ability or Freeze Spells to avoid the damage from Scattershots, and boost troops with a Rage Spell to destroy it as quickly as possible. Alternatively, you can use an Overgrowth Spell to disable the Scattershot in order for it to be attacked later on, so long as your units have enough health. Like a Mortar , this defense has a blind spot. Take advantage of this. However, be warned as the opponent might have Traps or other defensive buildings to cover it. Meat shields will not fully protect troops when attacking this defense, as the Scattershot's rocks will just attack the shield and the units behind it (and if they reach the blind spot, the Scattershot can simply fire over them straight at the units behind). Instead, use Healers , Druids or Heal Spells to heal the damage done to supporting troops. While invisible troops cannot be targeted by a Scattershot, they will still take damage from one if it happens to hit an enemy in front of them. Make sure that the Invisibility Spell is cast properly so that every single troop is inside the spell's area, to avoid unnecessary damage. A sufficiently-leveled Fireball (at least level 18, recommended level 24 for max level) and two maxed out Earthquake Spells can destroy the Scattershot. However, you must guide the Fireball to the desired location using Invisibility Spells or other funneling troops such as Rocket Balloons so that the Fireball will heavily damage the Scattershot and you can finish it off using Earthquake Spells. Upgrade Differences The Scattershot undergoes significant visual changes at levels 2, 3, 4, 5, 6 and 7. When initially constructed, the Scattershot resembles a catapult, with a cerulean wooden arm held by a large metal spring, supported by metal, holding a large rock that has been tied together with rope. It attacks by lobbing them which is done when the Scattershot's arm on a pivot hauls down and then released, allowing the counterweight at the short opposite end of the arm to drop and swing the long end upward through a vertical arc. Upon impact, the launched rock splits into smaller fragments, allowing the Scattershot to deal damage behind the initial target. At level 2, the Scattershot gains brass bolts on the arm plus dark metal plating in the middle of the catapult and stone supporting the base. The base and the legs also gets slightly thicker, while the base having dark gray painted in a pattern to half the amount of cerulean. At level 3, the brass bolts on the legs are removed. The dark gray areas on the base are now black and the cerulean areas are now spring green. The bands on the legs are replaced by black supports with gold lines on them. The base of the arm also becomes spring green and the metal support becomes larger. The arm supports become gold. At level 4, the spring green areas are replaced with eggplant color. The supports are replaced by metal plating with upside down triangles on them that matches the theme of Town Hall 15. At level 5, the eggplant colored areas are now painted scarlet. The supports now have dark stones and they have golden trims on top, replacing the triangles. The bucket gains small metal platings. The rock the defense holds now has spikes and is being held together by curling vines instead of ropes, and also becomes slightly darker in color, matching the nature theme of Town Hall 16. At level 6, the scarlet areas are now a dark steel blue color. All metal parts become darker, while the darker ground base supports become slightly wider and lighter in color. At the counterweight arm, the red parts turn into metal, and the rivets are now replaced with spikes. The bucket's gold ring is slightly thinner, and the spiky stone ball is now a metallic icosidodecahedron ball with spikes around it. The corner pieces have eagle wings that match the theme of Town Hall 17, and the golden bands that surround it adjust to match the shape. Additionally, the scarlet parts that hold the corner supports are now a deep gray color. At level 7, TBA. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 0 0 0 0 10 11 12 13 14 15 16 17 18 0 0 0 2 2 2 2 2 2 Size 3x3 Level Damage per Second Damage per Shot* Splash Damage** Hitpoints Build Cost Build Time Experience Gained Town Hall Level Required 1 125 300-400 100-300 3,600 8,000,000 5d 657 13 2 150 360-480 120-360 4,200 9,000,000 7d 777 13 3 170 380-544 130-380 4,800 11,000,000 7d 12h 804 14 4 175 400-560 140-400 5,100 11,500,000 8d 831 15 5 180 420-576 150-420 5,410 12,000,000 8d 12h 856 16 6 185 440-592 155-440 5,600 16,500,000 9d 881 17 7 190 450-608 160-450 5,800 26,500,000 15d 1,138 18 Supercharges These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added. Supercharged! Supercharges last until a new level becomes available. Charge Damage per Second Damage per Shot* Splash Damage** Hitpoints Build Cost Build Time Experience Gained Town Hall Level Required 1 193 450-617.6 160-450 5,800 14,500,000 5d 657 18 2 193 450-617.6 160-450 5,950 9,500,000 7d 777 18 Range Attack Speed Damage Type Unit Type Targeted Number of Rounds 3-10 3.2s Area Splash Ground & Air 90 *The Scattershot features splash damage that decreases with distance from the initial target. The minimum damage listed affects targets 1 tile behind the point of impact, with maximum damage dealt to the initial target. **The second hitbox affects targets 1-5 tiles from the initial point of impact. It does maximum damage for targets within 1 tile behind the point of impact, and minimum damage for targets 5 tiles behind the point of impact. Depleted Scattershots Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Achievements Shattered and Scattered Description Rewards Rewards Destroy 40 Scattershots in Multiplayer battles 100 150 Destroy 400 Scattershots in Multiplayer battles 800 300 Destroy 4,000 Scattershots in Multiplayer battles 5,000 1,000 History Date Description December 4, 2019 Announced the Scattershot, with two levels. December 9, 2019 Added the Scattershot, with two are available at Town Hall 13. June 22, 2020 Restricted the ammunition of the Scattershot to 90 rounds. Reduced attack speed from 3s to 3.036s. December 7, 2020 Reduced attack speed from 3.036s to 3.228s. Reduced damage by 10. Increased hitpoints at all levels: Level 1: 3,000 -> 3,600 Level 2: 3,500 -> 4,200 April 12, 2021 Added the level 3 Scattershot. June 15, 2021 Added a Season Challenge and a Clan Games task involving the Scattershot called \"Scatter Blaster\". June 12, 2023 Added the level 4 Scattershot. September 28, 2023 Reduced damage at levels 1 to 3: Level 1: 140 -> 125 Level 2: 170 -> 150 Level 3: 190 -> 175 December 12, 2023 Reduced upgrade times at all levels: Level 1: 11d -> 10d Level 2: 12d -> 11d Level 3: 18d -> 13d Level 4: 19d 12h -> 14d Reduced upgrade cost at level 3 from 18,000,000 to 12,600,000. Reduced damage at level 4 from 200 to 185. February 27, 2024 Added the level 5 Scattershot. September 9, 2024 Added 2 Supercharge levels for the Scattershot. February 10, 2025 Added the level 6 Scattershot. Increased the attack speed from 3.228s to 3.2s (DPS unchanged). Removed the Supercharges at level 5 and replaced them at level 6: Charge 1: Damage: 195 -> 200 Cost: 6,750,000 -> 11,000,000 Time: 3d -> 5d Charge 2: Hitpoints: 5,560 -> 5,750 Cost: 3,750,000 -> 7,000,000 Time: 4d 12h -> 7d June 30, 2025 Reduced damage at level 3 to 6 and charge 1: Level 3: 175 -> 170 Level 4: 185 -> 175 Level 5: 190 -> 180 Level 6: 195 -> 185 Charge 1: 200 -> 188 Reduced splash damage at level 3 to 6: Level 3: 140-420 -> 130-380 Level 4: 150-440 -> 140-400 Level 5: 160-460 -> 150-420 Level 6: 170-480 -> 155-440 November 17, 2025 Reduced upgrade time at level 6 from 15d 18h to 10d 12h. Reduced upgrade cost at level 6 from 22,500,000 to 16,500,000. February 23, 2026 Reduce charge times at all charges: Charge 1: 5d -> 2d 12h Charge 2: 7d -> 4d Reduce charge costs at all charges: Charge 1: 11,000,000 -> 6,000,000 Charge 2: 7,000,000 -> 3,500,000 April 27, 2026 Added the level 7 Scattershot. Removed the supercharges at level 6 Reduce upgrade times at levels 1 and 6: Level 1: 6d -> 5d Level 6: 10d 12h -> 9d Changed the description of the Scattershot. June 16, 2026 Added 2 Supercharge levels for the Scattershot. Audio Sound Effect Captions Descriptions https://clashofclans.fandom.com/wiki/File:Scattershot_Throw.ogg Scattershot lobs (attacking) Scattershot depletes (if it runs out of ammunition) When the Scattershot flings a rock at the target in range or when it runs our of ammunition) https://clashofclans.fandom.com/wiki/File:Scattershot_Hit.ogg Large rock shatters When the Scattershot's rock hits a unit https://clashofclans.fandom.com/wiki/File:Scattershot_Pickup.ogg Scattershot selected When the Scattershot is picked https://clashofclans.fandom.com/wiki/File:Scattershot_Place.ogg Scattershot placed When the Scattershot is placed Gallery Images Short Animations https://clashofclans.fandom.com/wiki/File:Scattershot_InAction.mp4 Scattershot attacking (animated with sound) Scattershot runs out of ammunition during a battle (animated) Trivia The rock that the Scattershot launches seems to have no cracks in between the ropes, indicating large rocks being tied up. However, the attack shows that the large rock is made up of large numbers of small rocks. Despite the balance changes specifically mentions the attack speed being every 3.228 seconds, the actual attack speed is just 3.2 seconds. If you look closely, after the Scattershot fires its shot while targeting a unit, the boulder/rock of the wooden arm can be seen moving slightly downwards if the unit is targeted and survives the attack while the Scattershot is on attack cooldown. Comparisons The Scattershot has the largest splash radius of any defense, being 5 but only in a cone shape. The Scattershot is one of four defenses (the others being the X-Bow , Inferno Tower , and the Eagle Artillery ) that need to be reloaded. The Scattershot is one of the nine unmanned defensive buildings (along with the Cannon , Mortar , X-Bow, Monolith , Ricochet Cannon , Multi-Gear Tower (in both modes), the Firespitter , and the Revenge Tower ) in the Home Village that rotate themselves to aim at different targets. These nine face away from the Town Hall when the village is not under attack. The Scattershot and the Wizard Tower are the only defenses not to have a navy blue spike on it at a Town Hall 13 level. The Scattershot is also the only defense not to have any purple parts at Town Hall 13. It is the first defense and one of the two defenses in the Home Village to have a piercing ability, the second being the Firespitter . However, unlike the latter, the Scattershot does splash damage and has infinite pierce. Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand"
+}

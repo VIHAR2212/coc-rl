@@ -1,0 +1,214 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Any",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "18",
+        "Movement Speed": "12",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "14",
+        "Range": "0.8 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "230",
+        "Damage per Attack": "230",
+        "Hitpoints": "2,900",
+        "Yetimites spawned": "8",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "250",
+        "Damage per Attack": "250",
+        "Hitpoints": "3,200",
+        "Yetimites spawned": "9",
+        "Research Cost": "5,000,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "270",
+        "Damage per Attack": "270",
+        "Hitpoints": "3,500",
+        "Yetimites spawned": "10",
+        "Research Cost": "6,500,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "290",
+        "Damage per Attack": "290",
+        "Hitpoints": "3,700",
+        "Yetimites spawned": "11",
+        "Research Cost": "10,000,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "310",
+        "Damage per Attack": "310",
+        "Hitpoints": "3,900",
+        "Yetimites spawned": "12",
+        "Research Cost": "12,000,000",
+        "Research Time": "7d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "330",
+        "Damage per Attack": "330",
+        "Hitpoints": "4,100",
+        "Yetimites spawned": "13",
+        "Research Cost": "14,500,000",
+        "Research Time": "8d 6h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "350",
+        "Damage per Attack": "350",
+        "Hitpoints": "4,300",
+        "Yetimites spawned": "13",
+        "Research Cost": "17,000,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "380",
+        "Damage per Attack": "380",
+        "Hitpoints": "4,650",
+        "Yetimites spawned": "14",
+        "Research Cost": "27,500,000",
+        "Research Time": "15d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "August 16, 2013": "December 5, 2019",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Announced the Yeti, with 3 levels."
+      },
+      {
+        "August 16, 2013": "Patch",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Type"
+      },
+      {
+        "August 16, 2013": "December 9, 2019",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "June 15, 2021",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "September 27, 2021",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "December 9, 2021",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Maintenance Break"
+      },
+      {
+        "August 16, 2013": "June 27, 2022",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "June 12, 2023",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "April 17, 2024",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "Oct 2, 2024",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "February 10, 2025",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "March 24, 2025",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Update"
+      },
+      {
+        "August 16, 2013": "March 27, 2025",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Clash Anytime Update"
+      },
+      {
+        "August 16, 2013": "October 6, 2025",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Ranked Battles Update"
+      },
+      {
+        "August 16, 2013": "November 17, 2025",
+        "An artist named RockyDavies posted a new troop concept, the Yeti.": "Town Hall 18 Update"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Yeti_deploy.ogg",
+        "Captions": "Yeti deploys",
+        "Description": "When the Yeti is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Yeti_beta_deploy.ogg",
+        "Captions": "Yeti deploys (beta)",
+        "Description": "When the Yeti is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Yeti_attack.ogg",
+        "Captions": "Yeti pummels",
+        "Description": "When the Yeti attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Yeti_hit.ogg",
+        "Captions": "Yeti hits something",
+        "Description": "When the Yeti successfully hits a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Yeti_die.ogg",
+        "Captions": "Yeti dies",
+        "Description": "When the Yeti dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For his Super variant, see Super Yeti . \"The heavy-hitting furry fellow digs cold weather and his Yetimite buddies. Hurt him, and you'll make the Yetimites real angry.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Sounds 7 Gallery 8 Trivia 8.1 General 8.2 Comparisons Summary The Yeti is the fourteenth Elixir Troop unlocked once the Barracks is upgraded to level 14, which requires Town Hall level 12. He is a slow-moving, single-target damaging Troop. Yetis possess above-average health and attack compared to most damage units. When deployed, they carry a set amount of Yetimites ; for every 600 damage he takes, a Yeti spawns a Yetimite, if he still has any remaining. Once destroyed, a Yeti releases any remaining Yetimites he still has. Yetis have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Yetis will proceed to attack the nearest structure. Strategies Offensive Strategies The Yeti's above-average health and relatively high damage can help the funnel of the main army, especially when the Yetimites that spawn have a deceptively large amount of health to distract other defenses, they can jump over Walls and do a large amount of damage to defenses, making the funnel even smoother. Ensuring that a Yeti gets hit enough to activate Yetimites is essential to increase the damage output of the Yeti, since the Yeti does not deal a lot of damage by himself, but if Yetis get destroyed, then Yetimites can be destroyed easily. A good strategy with the Yeti is called the Yeti Smash, where you use Yetis and other support troops and heroes to push Yetis into the base, which is a very effective strategy, since Yetimites actually do a lot of damage with Yetis being an effective tank that cannot be easily wiped, and Yeti himself can actually do some decent damage if left unchecked. When paired up with Healers , Yetis can also act as a tank. This is commonly used after a Warden Walk. This works very well since they can spawn Yetimites and make sure Yeti can tank more, and let them take out Air Defenses before they target the Healers. When not under Healers, they have comparatively low health compared to other troops of similar housing space, so Yetis should be deployed behind other high-health troops such as Golems , Ice Golems , or P.E.K.K.As . Due to the high damage output of Yetis, a common and viable strategy is to fill the Battle Blimp with Clan Castle Yetis, then send in the Blimp to drop the Yetis on key defenses such as Inferno Towers and Eagle Artillery , paired with a Rage Spell . The resulting Yetimites will help destroy major defenses such as X-Bows and Inferno Towers. As the Battle Blimp prioritizes the Town Hall above all other buildings, this tactic works especially well for targeting Town Halls. With Clone Spells and a Rage Spell, this can increase the amount of Yetis and Yetimites and ensure the destruction of the Town Hall within seconds, assuring that no traps such as Seeking Air Mines or strong defenses destroy the Battle Blimp before it can reach the Town Hall. The Grand Warden 's Eternal Tome ability works well for this purpose, so long as the Battle Blimp remains within the Warden's ring. Otherwise, the Blimp will become vulnerable again and easily be wiped out by strong or high-level Defenses, potentially preventing it from reaching the Town Hall. However, this can partially be nullified if the player has Clone Spells and they are placed close enough in a line, paired with a Rage Spell in between, unless it is too far from its location. For added protection, the Lavaloons from the Lavaloon Puppet can also shield the Blimp as it travels its way to the Town Hall. Defensive Strategies Healers maximize the potential of Yetis. Protect the hard-hitting Air Defenses and keep them out of the way of possible Yeti attacks to maximize value. One tip is that attackers will try to grant Yetis access to the core. The Eagle Artillery and the Scattershot can also destroy both Yetis and their Yetimites, keeping them off-center and away from possible attacks to limit their effectiveness, but must be protected in a way that the Yetis and Yetimites do not reach their blind spots. Due to the relatively low health of Yetimites, Poison Spells can be deadly, greatly limiting the effectiveness of a Yeti in the Clan Castle . Due to the relatively small health pool and inability to hit air troops without Yetimites, the Yeti makes for a poor defensive choice in Clan Wars or for general. However, due to the lack of both at Town Hall 6, Yetis can serve as a decent defending troop, and it is the only Town Hall level where they can. Splitting Yetis can reduce their effectiveness by reducing the amount of Yetimites and also the total HP. Giving too much access is an easy way to do this. Additionally, this will also split the Healers up. However, for the Druids , this does not tend to happen often. Upgrade Differences The Yeti undergoes significant visual changes at levels 3, 5, 6, 7 and 8. Initially, the Yeti appears as a large cornflower blue creature covered in periwinkle fur with a white face, a black nose, and two magenta horns on his head. He wears a khaki basket and carries a group of Yetimites in it that spawns each time the Yeti takes enough damage. At level 2, the Yeti's fur becomes darker, his horns change from magenta to purple, and the Yetimites in his basket become darker in color. At level 3, the Yeti's fur and horns turn even darker, including his Yetimites. At level 4, the Yeti's body and his fur becomes slightly darker, gains indigo fur on his feet, and his eyes turn white. At level 5, the Yeti gains golden armbands. At level 6, the Yeti's horns are now golden, and his Yetimites turn maroon. At level 7, the Yeti's fur becomes much darker along with his body, his horns and armbands turn shinier, with his armbands gaining spikes. The Yetimites' color in his basket change to prussian and their eyes have an orange glow. At level 8, the Yeti's fur is changed to taupe alongside his feet, his eyes turn cyan, horns are blue with a cyan fade on the bottom, and the golden armbands are replaced with darker metal ones. His basket is now brown in color, and the Yetimites in his basket are changed to taupe with a meteor glow. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Barracks Level Required Range Any Melee (Ground Only) 18 12 1s 14 0.8 tiles Level Damage per Second Damage per Attack Hitpoints Yetimites spawned Research Cost Research Time Laboratory Level Required 1 230 230 2,900 8 N/A N/A N/A 2 250 250 3,200 9 5,000,000 3d 10 3 270 270 3,500 10 6,500,000 4d 12h 11 4 290 290 3,700 11 10,000,000 7d 12 5 310 310 3,900 12 12,000,000 7d 12h 13 6 330 330 4,100 13 14,500,000 8d 6h 14 7 350 350 4,300 13 17,000,000 10d 15 8 380 380 4,650 14 27,500,000 15d 12h 16 History August 16, 2013 An artist named RockyDavies posted a new troop concept, the Yeti. December 5, 2019 Announced the Yeti, with 3 levels. Patch Type Description December 9, 2019 Update Added the Yeti. June 15, 2021 Update Added new Season Challenges task associated with Yeti, \"Sasquatch Watch\". Added Clan Games task associated with Yeti, \"Fierce Furballs\". September 27, 2021 Update Added the level 4 Yeti. December 9, 2021 Maintenance Break Reduced upgrade time at level 2 from 14d to 11d. June 27, 2022 Update Yeti no longer requires Elixir to train, same goes with every troop. June 12, 2023 Update Added the level 5 Yeti. Reduced upgrade times at levels 2 and 3: Level 2: 7d 12h -> 7d Level 3: 12d -> 10d Reduced upgrade costs at levels 2 and 3: Level 2: 7,700,000 -> 7,000,000 Level 3: 12,200,000 -> 9,000,000 April 17, 2024 Update Added the level 6 Yeti. Oct 2, 2024 Update Added a mechanic where a number of Yetimites will spawn when Yeti takes accumulated damage from damage sources. Previously, one would spawn when they took accumulated damage of 600, but if they took any more damage past the threshold, especially high amount of damage in one hit like 1,800 damage in one single attack, it would still spawn only one. It is changed so that when taking damage, it spawns 1 Yetimite per 600 damage taken; for example, if a Yeti takes 1,800 damage, it will spawn 3 Yetimites at once. February 10, 2025 Update Reduced training time from 3m to 2m 30s. March 24, 2025 Update Added the level 7 Yeti. March 27, 2025 Clash Anytime Update Removed training time. October 6, 2025 Ranked Battles Update The Yeti's Yetimites now spawn in a circular formation, equidistant from each other when the Yeti is defeated. November 17, 2025 Town Hall 18 Update Reduced upgrade time at level 7 from 15d to 10d. Reduced upgrade cost at level 7 from 22,500,000 to 17,000,000. Sounds Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Yeti_deploy.ogg Yeti deploys When the Yeti is deployed https://clashofclans.fandom.com/wiki/File:Yeti_beta_deploy.ogg Yeti deploys (beta) When the Yeti is deployed https://clashofclans.fandom.com/wiki/File:Yeti_attack.ogg Yeti pummels When the Yeti attacks https://clashofclans.fandom.com/wiki/File:Yeti_hit.ogg Yeti hits something When the Yeti successfully hits a unit or building https://clashofclans.fandom.com/wiki/File:Yeti_die.ogg Yeti dies When the Yeti dies Gallery Yeti's icon Yeti holding a Yetimite Trivia General You can have a maximum of 19 Yetis at one time in a complete set of fully upgraded Army Camps . This number increases to 22 if you include 3 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 8 Yetis with four level 7 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 30 Yetis. There was a longstanding rumor that the Yeti was a troop that was planned in the early days of Clash of Clans but did not made the cut. Whether if it was true or not, the Yeti is added to the game in the Town Hall 13 Update. The Yeti has the most complex sub-troop spawning requirements, requiring a certain amount of damage taken to spawn one. All other troops either spawn periodically or on death. The Yeti's description states that hurting him will make Yetimites angry , but in the Yetimite's description it says they get angsty . Like all Elixir Troops unlocked after Town Hall 8, the Yeti's theme corresponds to one Town Hall (level 13 in this case) but is unlocked at the Town Hall before (level 12). If a Yeti runs out of Yetimites to spawn (which is possible by a Yeti being healed), his basket will appear empty. However, the basket will always appear full of Yetimites, regardless of how many Yetimites he actually has remaining. The Yeti is one of ten troops featured as a monster in the game Squad Busters . The others are the Wall Breaker , P.E.K.K.A , Minion , Golem , Bowler , Baby Dragon , Lava Hound , Ice Golem , and Inferno Dragon . The Yeti in Squad Busters resembles the level 1 or level 2 Yeti in Clash of Clans . When Yeti dies, he cries out \"No!\" Comparisons The Yeti is one of the few troops to have upgrade differences at each level, the others being the Dragon , P.E.K.K.A , Dragon Rider , Electro Titan , Headhunter , Root Rider and the Thrower . The Yeti is one of the two troops to occupy 18 housing space, the other being the Furnace . The Yeti is the only Elixir Troop that can spawn other units ( Yetimites ), excluding temporary troops. The Yeti, along with the Dragon , Dragon Rider and Headhunter are the only troops in Home Village that do not appear in Clash Royale , excluding Super Troops (with the exception of the Inferno Dragon ). Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

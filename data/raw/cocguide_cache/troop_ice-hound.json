@@ -1,0 +1,110 @@
+{
+  "tables": [
+    [
+      [
+        "Level",
+        "Damage per second",
+        "Damage per hit",
+        "",
+        "Spawned units",
+        "",
+        "",
+        "Laboratory"
+      ],
+      [
+        "1",
+        "2",
+        "4",
+        "7,500",
+        "6",
+        "None",
+        "0",
+        "None"
+      ],
+      [
+        "2",
+        "4",
+        "8",
+        "8,000",
+        "7",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "3",
+        "6",
+        "12",
+        "8,500",
+        "8",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "4",
+        "8",
+        "16",
+        "9,000",
+        "9",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "5",
+        "10",
+        "20",
+        "9,500",
+        "10",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "6",
+        "15",
+        "30",
+        "10,000",
+        "12",
+        "?",
+        "?",
+        "1"
+      ]
+    ],
+    [
+      [
+        "Normal",
+        "",
+        "Range",
+        "",
+        "Favorite target",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lava Hound",
+        "6 m 40 s",
+        "0.25 Tiles",
+        "40",
+        "Air Defense",
+        "2 s",
+        "Single Target",
+        "Ground"
+      ]
+    ],
+    [
+      [
+        "Level"
+      ],
+      [
+        "1"
+      ],
+      [
+        "2"
+      ]
+    ]
+  ],
+  "raw_text": "Ice Hound - Clash of Clans Guide CoC Season Challenges Clan Games Defenses Resources Army Traps Other Heroes Troops Spells Obstacles العربية 简体中文 繁體中文 Deutsch English Español فارسی Suomalainen Français Bahasa Indonesia Italiano 日本語 한국어 Bahasa Melayu Nederlands Norsk Português Русский Türkçe, Tiếng Việt Cost Discount: 0% 10% 15% 20% Ice Hound Level 6 Barracks Required Free from all that lava-induced indigestion, the Ice Hound is ready to freeze the flow of battle. Chill out, or else. Spawned units: Ice Pup Any values listed below are subject to change before update releases. Level Damage per second Damage per hit Spawned units Laboratory 1 2 4 7,500 6 None 0 None 2 4 8 8,000 7 None 0 1 3 6 12 8,500 8 None 0 1 4 8 16 9,000 9 None 0 1 5 10 20 9,500 10 None 0 1 6 15 30 10,000 12 ? ? 1 Normal Range Favorite target Lava Hound 6 m 40 s 0.25 Tiles 40 Air Defense 2 s Single Target Ground Best Served Cold Attacks slow down the target. Upon defeat freezes its surroundings. Level 1 2 This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. Enter creator code: spAnser"
+}

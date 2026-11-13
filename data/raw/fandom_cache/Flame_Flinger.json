@@ -1,0 +1,153 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Area Splash (Ground Only)",
+        "Range": "11 tiles",
+        "Housing Space": "1",
+        "Movement Speed": "6",
+        "Time between Bursts": "5s",
+        "Shots per Burst": "3 shots",
+        "HP Decay per Second": "17",
+        "Workshop Level Required": "6"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "124",
+        "Damage per Hit": "225",
+        "Flame Maximum DPS": "80",
+        "Lifetime": "100.00s",
+        "Hitpoints": "1,700",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "137",
+        "Damage per Hit": "250",
+        "Flame Maximum DPS": "95",
+        "Lifetime": "105.88s",
+        "Hitpoints": "1,800",
+        "Research Cost": "5,500,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "151",
+        "Damage per Hit": "275",
+        "Flame Maximum DPS": "105",
+        "Lifetime": "111.76s",
+        "Hitpoints": "1,900",
+        "Research Cost": "8,000,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "165",
+        "Damage per Hit": "300",
+        "Flame Maximum DPS": "120",
+        "Lifetime": "117.64s",
+        "Hitpoints": "2,000",
+        "Research Cost": "10,000,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "179",
+        "Damage per Hit": "325",
+        "Flame Maximum DPS": "130",
+        "Lifetime": "123.52s",
+        "Hitpoints": "2,100",
+        "Research Cost": "18,000,000",
+        "Research Time": "12d",
+        "Laboratory Level Required": "14"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Siege_Deploy.ogg",
+        "Captions": "Flame Flinger deploys",
+        "Description": "When the Flame Flinger is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:GenericBuilding_Destroyed.ogg",
+        "Captions": "Flame Flinger breaks",
+        "Description": "When the Flame Flinger is destroyed"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Flame_Flinger_fire.ogg",
+        "Captions": "Fire Spirits are lobbed",
+        "Description": "When the Flame Flinger lobs (attacks)"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:FlameFlinger_impact.ogg",
+        "Captions": "Fire Spirits impact ground",
+        "Description": "When the Flame Flinger's projectile hits something"
+      }
+    ],
+    [
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Announced and added the Flame Flinger, with four levels."
+      },
+      {
+        "Patch": "February 16, 2022",
+        "Type": "Update",
+        "Description": "Reworked the Flame Flinger as follows: The Flame Flinger's attacks now consist of a burst of three separate lower-damage projectiles instead of single high-damage projectiles. The total damage done by these projectiles is higher overall for levels 2-4). Level 2: 725 -> 750 Level 3: 775 -> 825 Level 4: 825 -> 900 Splash damage from indirect hits is decreased. Reduced maximum flame DPS for levels 1-4), but the damage over time effect ramps up more quickly. Level 1: 180-> 120 Level 2: 200-> 140 Level 3: 220 -> 160 Level 4: 240 -> 180 Slightly reduced lifetime at all levels. AI reworked to be more reliable."
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Type": "Update",
+        "Description": "Reduced direct hit damage radius. Increased duration of fire damage from 20 to 30 seconds. Reduced maximum flame DPS  for levels 1-4). Level 1: 120 -> 80 Level 2: 140 -> 95 Level 3: 160 -> 105 Level 4: 180 -> 120"
+      },
+      {
+        "Patch": "September 9, 2024",
+        "Type": "Update",
+        "Description": "The Flame Flinger can no longer be donated or reinforced at Th11 and below. Reduced levels of the Flame Flinger at Town Halls 12-14 when received and/or reinforced. Th12: Level 4 -> 2 Th13-14: Level 4 -> 3"
+      },
+      {
+        "Patch": "April 17, 2024",
+        "Type": "Update",
+        "Description": "Added the level 5 Flame Flinger."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"This little charmer flings bundles of Fire Spirits that both hit hard and leave behind a burning mess. Its long range helps it stay out of trouble, but beware of longer range defenses and traps ! Immune to spell effects.\" Level 1 Level 2 Level 3 Level 4 Level 5 Summary The Flame Flinger is the sixth Siege Machine unlocked at Workshop level 6, which requires Town Hall level 14. The Flame Flinger is a catapult artillery that lobs trios of Fire Spirits from a distance. On impact, it deals considerable damage to its target, and sets a circular area on fire for 22 seconds; enemy ground units and structures within this area-of-effect will take damage over time similar to the Poison Spell . Flame Flingers prioritize defensive structures above all other targets, and will bypass all other types of enemy buildings and troops while any defenses remain on the battlefield. This is true even if they are under attack by enemy Clan Castle troops, Heroes or Skeleton Trap skeletons. Note that like all troops that prioritize defenses, Flame Flingers do not consider the Clan Castle to be a defense regardless of whether or not it contains enemy troops, but do consider the activated Town Hall weapon (if any) to be defensive buildings. Once all defenses are destroyed, Flame Flingers become like any other troop with no preferred target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. However, they will not switch targets to enemy units until their previous target was destroyed. The Flame Flinger also decays over time similar to the Siege Barracks and Log Launcher , though this decay effect is much slower (occurring at a rate of about 17 HP per second) than on the other two Siege Machines. The Flame Flinger's flame damage is capable of doing additional damage to Walls , which enables it to break Walls faster than buildings with the same amount of hitpoints. The Flame Flinger requires a level 8 Clan Castle in order to be received as a Clan Castle reinforcement. This means that the usage of the Flame Flinger is only limited to players at Town Hall 12 and above. Strategies Offensive Strategies Tank or take down any Mortars , X-Bows , and Monoliths on the outside if you can - these defenses have equal or more range as compared to the Flame Flinger, resulting in their ability to damage it. Combine the Flame Flinger with the Queen Charge ( Healers with Archer Queen ). Deploy it early on as it takes longer to get through the defenses. It may be prudent to have some troops on stand by just in case the Flinger gets targeted by any other defense, or if a Hidden Tesla pops up unexpectedly. You should drop a troop (like Giants or Balloons ) in front of the flame flinger to bait out any Hidden Teslas . A Hidden Tesla will not appear until the Flame Flinger gets into its range (unless the Hidden Tesla has already been activated), so if the Flame Flinger gets into the Tesla's range without being able to outrange it, the Siege Machine could suffer heavy damage. Placing a troop (like the Hog Rider ) in front of the Flame Flinger could also trigger any potential damaging traps like Bombs and Skeleton Traps which can damage the Flame Flinger (in case of the latter, a troop which targets anything is needed, such as a Valkyrie to deal with the Skeletons). Due to its long range, it can be used to attack and destroy a weaponized Town Hall on its own without risk of retaliation from the weapon. It excels at clearing off-center Town Hall compartments that do not have Mortars, X-Bows or Monoliths in them, though this process is generally slow owing to its slow rate of fire. Keep in mind that the Town Hall is not classed as a defense until its weapon is activated. To force it to activate, one can damage it either by using an Earthquake Spell , or hitting it indirectly by having the Flame Flinger attack a defense that is at most a one-tile gap away from the Town Hall. However, the latter can cause the Flame Flinger to move into range of the Town Hall should said defense be placed behind the Town Hall. One can also choose to accrue 51% damage on other parts of the base before tackling the Town Hall with the Flame Flinger, though this can be risky in terms of time. A Hook Tower can be a significant threat to the attacker, as it has a longer range than the Flame Flinger, in which the latter can get stunlocked and possibly cause it to do nothing in worse cases. To combat this, use a Freeze Spell or Overgrowth Spell to stop the Hook Tower from targeting it, or deploy a Skeleton Spell to distract it, so long as the Skeletons stay out of range of the Hook Tower's blind spot, and if there are no nearby splash-damage defenses to counter them. Defensive Strategies X-Bows and Firespitters are the Flame Flinger's greatest threats, due to their combination of high damage per second and ability to reach it, which will destroy the Flame Flinger quickly. Setting one X-Bow to ground mode and keeping it out of reach of a deployment zone can prove problematic to them as the Flame Flinger will not be able to engage the X-Bow alone without taking severe damage unless supported by a tanky using such as the Barbarian King. However, for the Firespitter, it can also pierce through units, making the Flame Flinger very vulnerable to being destroyed if that troop was placed in front of its attack line. If the Town Hall is at level 17, the Inferno Artillery can also outrange the Flame Flinger in addition to its damage over time, due to which it can destroy the Flame Flinger in 2 to 3 volleys. Multiple weaponized Builder's Huts can slow down or mitigate the damage-over-time effect if their effect is stacked on a single building, such as the Town Hall. However, the Builder's Huts will eventually be destroyed if they are also hit by the Flame Flinger's attacks, so they should not be placed directly next to a building that one desires to repair in this way. Placing defenses close to the edge of the base can prevent the Flame Flinger from making the most of its range, and may allow shorter-range defenses an opportunity to attack if the Flinger is placed improperly. Mortars , specifically the geared-up Burst Mortar, will match the range of the Flame Flinger. Although a single Mortar does not have enough hitpoints to outlast the Flame Flinger in a 1v1 situation, it is able to return fire against the Siege Machine and reduce its combat lifespan. \"Tesla farms\" - a compact group of Hidden Teslas - placed at the rim of bases can also prove to be a great defense against the Flame Flinger. However, for this to be effective, the base builder must be able to anticipate which side of the base the attacker is most likely to attack from. Monoliths will be able to rip the Flame Flinger to shreds. Not only are they able to match the Flame Flinger's range but they also deal percentage-based damage based on the target's maximum HP, thus it will only take 4 shots before the Siege Machine goes down. Defending Heroes and Clan Castle troops are an excellent means of defense against Flame Flingers, since they will not be targeted directly by the Flame Flinger and can engage the Flame Flinger once it enters their territory. However, it is possible for the area-of-effect to greatly damage (or even defeat) them if they are placed near targeted defenses and remain in the area. Traps also work against the Flame Flinger, which can reduce its lifetime, which also decreases its damage done to the base. Examples are Giant Bombs which greatly damage the Siege Machine, and Skeleton Traps , which can eventually destroy it. The Hook Tower is one of the best counters for the Flame Flinger, as the stun effect can stop the latter from attacking once the former locks onto it, if the attacker does not react fast enough, catching them off-guard. This can be very useful if the defender needs to protect a Flame Flinger-prone area of the base, where no other defenses with a range of 11 and above are placed there. Traps can also help damage the Flame Flinger while the Hook Tower stuns it, forcing the attacker to deploy units to counter them. Upgrade Differences The Flame Flinger undergoes significant visual changes at levels 2, 4 and 5. Initially, the Flame Flinger is a red wooden box with four wooden wheels and a catapult at the back tied down with rope. The bucket is made of metal is kept closed with trapdoor-like grate on top, consisting of Fire Spirits inside. When the Flame Flinger attacks, it stops for a few seconds then releases the rope, causing the long end of the catapult's arm to swing in a vertical arc as grate opens, flinging the Fire Spirits that deal massive damage to enemy units, defenses and walls alike from a long range. After this attack, the arm lowers, returning back to its original position. The attack cycle repeats until the building is destroyed, where any Clan Castle units come out afterward. At level 2, the Flame Flinger gains another rope on its top with the roman numeral 'II', indicating its level. At level 3, the Flame Flinger's wheels gain silver, metallic reinforcements, while the wooden piece at the front gets upgraded to metal. The roman numeral on the top is now 'III' and is now made out of metal. At level 4, the Flame Flinger's metal grate and its front piece both turn golden in color. The roman numeral on its top is now 'IV'. At level 5, the metal lining of the Flame Flinger's metal bucket turns gold, while the grate now has an orange glow. The golden piece at the front now gains spikes and is shinier. The metal roman numeral turns into gold and is now 'V'. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Range Housing Space Movement Speed Time between Bursts Shots per Burst HP Decay per Second Workshop Level Required Defenses Area Splash (Ground Only) 11 tiles 1 6 5s 3 shots 17 6 Level Damage per Second Damage per Hit Flame Maximum DPS Lifetime Hitpoints Research Cost Research Time Laboratory Level Required 1 124 225 80 100.00s 1,700 N/A N/A N/A 2 137 250 95 105.88s 1,800 5,500,000 3d 10 3 151 275 105 111.76s 1,900 8,000,000 4d 10 4 165 300 120 117.64s 2,000 10,000,000 7d 11 5 179 325 130 123.52s 2,100 18,000,000 12d 14 Gallery Flame Flinger Icon. Info picture. Audio Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Siege_Deploy.ogg Flame Flinger deploys When the Flame Flinger is deployed https://clashofclans.fandom.com/wiki/File:GenericBuilding_Destroyed.ogg Flame Flinger breaks When the Flame Flinger is destroyed Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Flame_Flinger_fire.ogg Fire Spirits are lobbed When the Flame Flinger lobs (attacks) https://clashofclans.fandom.com/wiki/File:FlameFlinger_impact.ogg Fire Spirits impact ground When the Flame Flinger's projectile hits something History Patch Type Description December 9, 2021 Update Announced and added the Flame Flinger, with four levels. February 16, 2022 Update Reworked the Flame Flinger as follows: The Flame Flinger's attacks now consist of a burst of three separate lower-damage projectiles instead of single high-damage projectiles. The total damage done by these projectiles is higher overall for levels 2-4). Level 2: 725 -> 750 Level 3: 775 -> 825 Level 4: 825 -> 900 Splash damage from indirect hits is decreased. Reduced maximum flame DPS for levels 1-4), but the damage over time effect ramps up more quickly. Level 1: 180-> 120 Level 2: 200-> 140 Level 3: 220 -> 160 Level 4: 240 -> 180 Slightly reduced lifetime at all levels. AI reworked to be more reliable. June 27, 2022 Update Reduced direct hit damage radius. Increased duration of fire damage from 20 to 30 seconds. Reduced maximum flame DPS  for levels 1-4). Level 1: 120 -> 80 Level 2: 140 -> 95 Level 3: 160 -> 105 Level 4: 180 -> 120 September 9, 2024 Update The Flame Flinger can no longer be donated or reinforced at Th11 and below. Reduced levels of the Flame Flinger at Town Halls 12-14 when received and/or reinforced. Th12: Level 4 -> 2 Th13-14: Level 4 -> 3 April 17, 2024 Update Added the level 5 Flame Flinger. Trivia General Ropes, metal and gold joinery are used on the sprite of the Flame Flinger to symbolize the level of the unit as a Roman numeral. The level 4 Flame Flinger appears with a \"VI\" numeral (rather than the intended \"IV\") when facing left, likely due to the sprite of the Flame Flinger being flipped horizontally. The same happens on the Battle Drill . It has the lowest amount of HP among the nine Siege Machines . However, out of the Siege Machines that have a decay mechanic, this Siege Machine has the least decay per second, at 17HP per second. It is the only Siege Machine to deal extra damage in a surrounding area. The Battle Drill also does this similarly in a surrounding area when it pops from the ground, but does no damage and stuns defenses nearby in addition to destroying nearby Walls . Although the Flame Flinger can be upgraded to Level 4 in the Level 11 Laboratory , only Troops, and Spells that are already unlocked will appear in the Laboratory upgrade interface. The Flame Flinger will not appear in the Laboratory until the Workshop has been upgraded to Level 6 (which requires Town Hall Level 14). It is possible to have a Level 12 Laboratory before unlocking the Flame Flinger; if so, the first upgrade will be available as soon as the Workshop Level 6 upgrade finishes. Comparisons It is the second Siege Machine to implement a card that originated from Clash Royale (in this case Fire Spirits ), with the first being the Log Launcher (which implements the use of the Log ). The Flame Flinger is the unit with the longest range in the game at 11 tiles, surpassing the Cannon Cart 's 9 tiles. However, the Royal Champion 's Rocket Spear , when activated, will give her the ability to match the Flame Flinger's range, but she will only have a limited amount of projectiles to fire, without the damage over time effect. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

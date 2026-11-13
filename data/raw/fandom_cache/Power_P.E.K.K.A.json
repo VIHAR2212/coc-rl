@@ -1,0 +1,233 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Spring Weight": "22",
+        "Attack Type": "Single Target",
+        "Movement Speed": "16",
+        "Attack Speed": "1.8s",
+        "Number of Units per Army Camp": "1",
+        "Builder Barracks Level Required": "10",
+        "Range": "0.8 tiles",
+        "Special Ability": "Overcharge"
+      }
+    ],
+    [
+      {
+        "Level": "13",
+        "Damage per Second": "420",
+        "Damage per Attack": "756",
+        "Hitpoints": "3,900",
+        "Overcharge Damage": "920",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "420",
+        "Damage per Attack": "756",
+        "Hitpoints": "3,900",
+        "Overcharge Damage": "1,060",
+        "Research Cost": "3,600,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "460",
+        "Damage per Attack": "828",
+        "Hitpoints": "4,290",
+        "Overcharge Damage": "1,060",
+        "Research Cost": "3,800,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "460",
+        "Damage per Attack": "828",
+        "Hitpoints": "4,290",
+        "Overcharge Damage": "1,200",
+        "Research Cost": "4,000,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "500",
+        "Damage per Attack": "900",
+        "Hitpoints": "4,719",
+        "Overcharge Damage": "1,200",
+        "Research Cost": "4,600,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "500",
+        "Damage per Attack": "900",
+        "Hitpoints": "4,719",
+        "Overcharge Damage": "1,350",
+        "Research Cost": "4,800,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "560",
+        "Damage per Attack": "1,008",
+        "Hitpoints": "5,191",
+        "Overcharge Damage": "1,350",
+        "Research Cost": "5,600,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "560",
+        "Damage per Attack": "1,008",
+        "Hitpoints": "5,191",
+        "Overcharge Damage": "1,500",
+        "Research Cost": "5,800,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Next Generation Model": "Description"
+      },
+      {
+        "Next Generation Model": "Unlock Power P.E.K.K.A in the Builder Barracks"
+      }
+    ],
+    [
+      {
+        "Patch": "May 22, 2017",
+        "Type": "Update",
+        "Description": "Data of her in the game files was available, with 16 levels."
+      },
+      {
+        "Patch": "March 5, 2018",
+        "Type": "Update",
+        "Description": "Added the Super P.E.K.K.A."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Increased hitpoints at all levels. Level 1-2: 3,000 -> 3,300 Level 3-4: 3,300 -> 3,630 Level 5-6: 3,630 -> 3,993 Level 7-8: 3,993 -> 4,392 Level 9-10: 4,392 -> 4,831 Level 11-12: 4,831 -> 5,314 Level 13-14: 5,314 -> 5,845 Level 15-16: 5,845 -> 6,430 Reduced Overcharge damage at all levels. Level 2-3: 500 -> 400 Level 4-5: 580 -> 480 Level 6-7: 680 -> 580 Level 8-9: 780 -> 680 Level 10-11: 900 -> 800 Level 12-13: 1,040 -> 920 Level 14-15: 1,200 -> 1,060 Level 16: 1,340 -> 1,200"
+      },
+      {
+        "Patch": "June 29, 2018",
+        "Type": "Balance Changes",
+        "Description": "Increased Super P.E.K.K.A's movement speed from 16 to 19 . Reduced Overcharge delay from 3s to 1.5s."
+      },
+      {
+        "Patch": "December 10, 2018",
+        "Type": "Update",
+        "Description": "Reduced hitpoints by 5% at all levels. Level 1-2: 3,300 -> 3,135 Level 3-4: 3,630 -> 3,449 Level 5-6: 3,993 -> 3,794 Level 7-8: 4,392 -> 4,173 Level 9-10: 4,831 -> 4,590 Level 11-12: 5,314 -> 5,049 Level 13-14: 5,845 -> 5,554 Level 15-16: 6,430 -> 6,109"
+      },
+      {
+        "Patch": "June 10, 2019",
+        "Type": "Sneak Peek",
+        "Description": "Announced the level 17-18 Super P.E.K.K.A."
+      },
+      {
+        "Patch": "June 18, 2019",
+        "Type": "Update",
+        "Description": "Added the levels 17-18 Super P.E.K.K.A."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Fixed issues with Super P.E.K.K.A attacking Walls and doing no damage."
+      },
+      {
+        "Patch": "May 15, 2023",
+        "Type": "Update",
+        "Description": "Renamed Super P.E.K.K.A to Power P.E.K.K.A. Added the level 19-20 Power P.E.K.K.A. Overcharge is now a 1-time ability that creates a large explosion when around the Power P.E.K.K.A when activated. Reduced Spring weight from 25 to 22. Reduced Movement speed from 19 to 16."
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "Any",
+        "Attack Type": "Single Target (Ground Only)",
+        "Housing Space": "40",
+        "Movement Speed": "12",
+        "Attack Speed": "1.8s",
+        "Range": "?",
+        "Special Ability": "Overcharge"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "680",
+        "Damage per Hit": "1,224",
+        "Damage when Destroyed": "1,000",
+        "Hitpoints": "6,800"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "760",
+        "Damage per Hit": "1,368",
+        "Damage when Destroyed": "1,200",
+        "Hitpoints": "7,600"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "840",
+        "Damage per Hit": "1,512",
+        "Damage when Destroyed": "1,400",
+        "Hitpoints": "8,500"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "920",
+        "Damage per Hit": "1,656",
+        "Damage when Destroyed": "1,600",
+        "Hitpoints": "9,400"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "1,000",
+        "Damage per Hit": "1,800",
+        "Damage when Destroyed": "1,800",
+        "Hitpoints": "10,300"
+      }
+    ],
+    [
+      {
+        "Patch": "May 2, 2022",
+        "Description": "Added the Super P.E.K.K.A to the Clan Capital in its eponymous update, with 5 levels."
+      },
+      {
+        "Patch": "May 15, 2022",
+        "Description": "Renamed Super P.E.K.K.A to Power P.E.K.K.A, following a similar name change in the Builder Base."
+      },
+      {
+        "Patch": "September 14, 2023",
+        "Description": "Increased the Power P.E.K.K.A's hitpoints at levels 3-5: Level 3: 8,400 -> 8,500 Level 4: 9,200 -> 9,400 Level 5: 10,000 -> 10,300"
+      }
+    ],
+    [
+      {
+        "Clan Capital Army": "Troops"
+      },
+      {
+        "Clan Capital Army": "Spells"
+      }
+    ]
+  ],
+  "raw_text": "Builder Base Clan Capital [[File:{{{Alt}}}|28px|link=]] For her Home Village counterpart, see P.E.K.K.A . For her Clan Capital version, see Power P.E.K.K.A/Clan Capital . For her larger counterpart, see M.O.M.M.A . \"Unstable energy radiates from this powerful suit of dark armor, waiting to be unleashed!\" Level 13 Level 14-15 Level 16-17 Level 18-19 Level 20 Summary The Power P.E.K.K.A (formerly Super P.E.K.K.A) is the third-to-last troop unlocked in the Builder Base once the Builder Barracks is upgraded to level 10 that requires Builder Hall level 8. She is a Builder Base troop version of the P.E.K.K.A . The Power P.E.K.K.A has the Overcharge ability, which allows her to perform an explosive leap, dealing damage in a small area around her. The Power P.E.K.K.A can perform said ability at any time, and automatically, if not manually triggered, on death. Power P.E.K.K.As have no preferred target when attacking; they will simply attack the closest building to them. However, once they become aware of enemy Guard Post troops or Zappies (either by being attacked themselves or being near another friendly troop under attack), they will leave their previously targeted building and engage the enemy troops instead. Once all of the nearby enemy troops are defeated, they will proceed to attack the nearest building from their current location. Strategies Offensive Strategies The Power P.E.K.K.A has very high hitpoints, making her useful both as a tank for lower-health troops like Raged Barbarians , and to trigger explosive traps like Mega Mines , since the damage suffered from explosive traps is low compared to the P.E.K.K.A's health. Her high health and damage makes her very similar to the Battle Machine , allowing the Power P.E.K.K.A to serve as a substitute for it, especially if the Battle Machine is being upgraded. However, its lack of a regenerative ability means it has to be used carefully. The Power P.E.K.K.A's high spring weight makes her immune to Spring Traps , so she can be used to test for them and activate them as well, similar to how she can be used to activate explosive traps. However, sufficiently-leveled Push Traps can still displace her! Only 1 Power P.E.K.K.A fits in each Army Camp , regardless of the P.E.K.K.A's level, so it is best to support her with other troops and the Battle Machine. Like with a normal P.E.K.K.A in the Home Village, it is very useful to use other troops to destroy side buildings to help funnel the Power P.E.K.K.A into the center of the base, which she can easily destroy. When deploying the Power P.E.K.K.A, deploy her in a way so she distracts most defensive buildings into attacking her, then deploy your other units to support it. A Guard Post can ruin a P.E.K.K.A-based attack, as the defending troops can distract P.E.K.K.A's and/or lure them into high damage areas. Keep in mind their location when planning your attack, or use the Battle Machine or support troops to take out the guards so that the distractions to the P.E.K.K.A's are minimal. It might be advisable to lure the Guard Post troops and take them out with the Overcharge ability. The Power P.E.K.K.A's Overcharge ability is useful for taking out Zappies in the second stage, as several of them spawn after destroying O.T.T.O's Outpost and can distract the Power P.E.K.K.A and otherwise allow strong defenses to quickly take her out. However, as the Power P.E.K.K.A's ability has a short radius, the P.E.K.K.A needs to be positioned as close to the Zappies as possible to eliminate as many of them as possible. Defensive Strategies Push Traps can be used to push a Power P.E.K.K.A away from a planned direction of attack. However, the Push Trap must be at least level 8 Be mindful that while Push Traps may be an effective deterrent against Power P.E.K.K.As, if a Push Trap is positioned so that it flings a P.E.K.K.A directly into many defenses enclosed within Walls and her Overcharge ability hasn't yet been activated, an opponent can easily use this to their advantage and effectively wipe out multiple defenses in your base. Double Cannons and Crushers can be very effective against a Power P.E.K.K.A. The Power P.E.K.K.A's health and range are comparable to the Battle Machine , so the effect of both these defenses is similar. A Guard Post , if placed well, can be helpful stalling the Power P.E.K.K.A, since each hit from the P.E.K.K.A can only take out one of the troops, allowing your defenses more time to take out the P.E.K.K.A. If upgraded to at least one level below relative level, the Raged Barbarian can survive a single hit from the P.E.K.K.A, which increases the post's stalling capacity. The Guard Post is doubly useful if placed behind Walls . If the defending Sneaky Archer stays behind the Walls, the P.E.K.K.A(s) will have to break the Wall to reach the Archers, further stalling them. In the second stage, a high level O.T.T.O's Outpost is useful for stalling Power P.E.K.K.As once it is destroyed, as the Zappies that spawn can distract her and allow strong defenses to take out the Power P.E.K.K.A(s). Upgrade Differences The Power P.E.K.K.A undergoes significant visual changes at levels 16, 18 and 20. Initially, the Power P.E.K.K.A looks just like the level 1 P.E.K.K.A but with more glow and with brighter pink highlights. At level 8, the end of her sword gains a pinkish tint and turns completely white at the end, similar to the level 2 P.E.K.K.A's sword. At level 16, the whole body of the Power P.E.K.K.A turns cordovan, even the horns and sword, with the sword glowing red on its edge instead of pink. The Power P.E.K.K.A grows in size, similar to a level 3 P.E.K.K.A. At level 18, her body changes to midnight purple. The horns and sword now glow fluorescent pink. At level 20, her body changes to dark indigo. Her horns now glow white. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Spring Weight Attack Type Movement Speed Attack Speed Number of Units per Army Camp Builder Barracks Level Required Range Special Ability 22 Single Target 16 1.8s 1 10 0.8 tiles Overcharge Special Ability (Overcharge) Description: \"Deals ---- damage in a massive explosion when activated.\" Level Damage per Second Damage per Attack Hitpoints Overcharge Damage Research Cost Research Time Star Laboratory Level Required 13 420 756 3,900 920 N/A N/A N/A 14 420 756 3,900 1,060 3,600,000 4d 12h 8 15 460 828 4,290 1,060 3,800,000 5d 12h 8 16 460 828 4,290 1,200 4,000,000 5d 12h 8 17 500 900 4,719 1,200 4,600,000 6d 9 18 500 900 4,719 1,350 4,800,000 6d 9 19 560 1,008 5,191 1,350 5,600,000 6d 12h 10 20 560 1,008 5,191 1,500 5,800,000 6d 12h 10 Achievements Next Generation Model Description Rewards Rewards Unlock Power P.E.K.K.A in the Builder Barracks 2,000 50 History Patch Type Description May 22, 2017 Update Data of her in the game files was available, with 16 levels. March 5, 2018 Update Added the Super P.E.K.K.A. June 11, 2018 Update Increased hitpoints at all levels. Level 1-2: 3,000 -> 3,300 Level 3-4: 3,300 -> 3,630 Level 5-6: 3,630 -> 3,993 Level 7-8: 3,993 -> 4,392 Level 9-10: 4,392 -> 4,831 Level 11-12: 4,831 -> 5,314 Level 13-14: 5,314 -> 5,845 Level 15-16: 5,845 -> 6,430 Reduced Overcharge damage at all levels. Level 2-3: 500 -> 400 Level 4-5: 580 -> 480 Level 6-7: 680 -> 580 Level 8-9: 780 -> 680 Level 10-11: 900 -> 800 Level 12-13: 1,040 -> 920 Level 14-15: 1,200 -> 1,060 Level 16: 1,340 -> 1,200 June 29, 2018 Balance Changes Increased Super P.E.K.K.A's movement speed from 16 to 19 . Reduced Overcharge delay from 3s to 1.5s. December 10, 2018 Update Reduced hitpoints by 5% at all levels. Level 1-2: 3,300 -> 3,135 Level 3-4: 3,630 -> 3,449 Level 5-6: 3,993 -> 3,794 Level 7-8: 4,392 -> 4,173 Level 9-10: 4,831 -> 4,590 Level 11-12: 5,314 -> 5,049 Level 13-14: 5,845 -> 5,554 Level 15-16: 6,430 -> 6,109 June 10, 2019 Sneak Peek Announced the level 17-18 Super P.E.K.K.A. June 18, 2019 Update Added the levels 17-18 Super P.E.K.K.A. December 9, 2019 Update Fixed issues with Super P.E.K.K.A attacking Walls and doing no damage. May 15, 2023 Update Renamed Super P.E.K.K.A to Power P.E.K.K.A. Added the level 19-20 Power P.E.K.K.A. Overcharge is now a 1-time ability that creates a large explosion when around the Power P.E.K.K.A when activated. Reduced Spring weight from 25 to 22. Reduced Movement speed from 19 to 16. Gallery Power P.E.K.K.A icon Mega Pekka Smash-Em-Up task (Season Challenges) Mega Pekka Smash-Em-Up task (Clan Games) Info of the Super P.E.K.K.A (now Power P.E.K.K.A) and Mega Tesla after the BH8 update. Power P.E.K.K.A, as shown in the 2017 loading screen in the Halloween update. Trivia General The Next Generation Model achievement, added in the May 2017 Builder Base update, required players to unlock the Power P.E.K.K.A even though this was not possible until the Builder Hall 8 update in March 2018. Like other Builder Base Troops, except for the Bomber , the Power P.E.K.K.A's appearance has errors in battle. Her horns, eyes, and spikes are brighter pink. Her armor inside glows white, along with her “nose”. The electricity she produces is white with navy outlines. The Power P.E.K.K.A seems to be slightly larger than the regular P.E.K.K.A . The Power P.E.K.K.A resembles the P.E.K.K.A in blue team from Clash Royale . The Power P.E.K.K.A does not seem to produce electricity when moving. Strangely, the level 17-18 Power P.E.K.K.A's appearance converts to level 14-16 and reverses back to level 17-18 constantly in battle. Interestingly, the Power P.E.K.K.A's movement speed is slightly faster than the regular P.E.K.K.A. The Power P.E.K.K.A appears to be left-handed in her info image, unlike the P.E.K.K.A. In battle, however, she's right-handed. In the Builder Base 2.0 update, her name was changed from Super P.E.K.K.A to Power P.E.K.K.A. This change was done to avoid confusion with a Super Troop. This also applies to her Clan Capital variant . Comparisons The Power P.E.K.K.A is one of the seven troops to be associated with electricity, the others being the Electro Dragon , Super Wizard , Electro Owl , Electro Titan , Electrofire Wizard and the Battle Machine (when activating his ability). Without her ability, the Power P.E.K.K.A is one of the four Builder Base Troops not to have unique sounds when deployed, attacking, and dying, the others being the Raged Barbarian , Boxer Giant , and Baby Dragon . The Power P.E.K.K.A, along with the Sneaky Archer and Cannon Cart are the only Builder Base Troops to have achievements . The Power P.E.K.K.A has the most damage (excluding damage multipliers from special abilities) and hitpoints out of all Builder Base Troops. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter [[File:{{{Alt}}}|28px|link=]] For her Home Village variant, see P.E.K.K.A . For her Builder Base version, see Power P.E.K.K.A/Builder Base . For her larger version, see M.O.M.M.A . \"Unstable energy radiates from this powerful suit of dark armor, waiting to be unleashed!\" Level 1-5 Summary The Power P.E.K.K.A (formerly Super P.E.K.K.A) is a troop available in the Clan Capital , available when the Power P.E.K.K.A Barracks is constructed (this requires a level 2 District Hall in the Builder's Workshop district, and hence requires the Capital Hall to be upgraded to level 6). The Power P.E.K.K.A is a melee troop with high hitpoints and damage per second, compensated for by her rather large housing space requirement. When defeated, she explodes and does further damage in the surrounding area. Power P.E.K.K.As have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy defending troops stationed in defense posts (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Power P.E.K.K.As will proceed to attack the nearest structure. Strategies Offensive Strategies The Power P.E.K.K.A has very high hitpoints, making her useful both as a tank for lower-health troops like Raid Carts and to trigger explosive traps, since the damage suffered from explosive traps is low compared to the P.E.K.K.A's health. Like with a normal P.E.K.K.A in the Home Village, it is very useful to use other troops to destroy side buildings to help funnel the Power P.E.K.K.A into the center of the base, which she can easily destroy. When deploying the Power P.E.K.K.A, deploy her in a way so that she distracts most defensive buildings into attacking her then deploy other units to support her. Power P.E.K.K.As are excellent for taking out Giant Cannons over other ground units due to their higher hitpoints. It can be useful to backup a Power P.E.K.K.A with Hog Raiders provided they are not directly behind Power P.E.K.K.A to stun and take out other defenses. Power P.E.K.K.As are weak to Inferno Towers , which can quickly destroy them due to its ramping damage. Hog Gliders can stun Inferno Towers should they lock on, buying the P.E.K.K.A extra time; a Lightning Spell can be used in a pinch. If a Capital Hall is poorly defended, it can often be severely damaged or destroyed (even from full health) by a single Power P.E.K.K.A. Rage Spells can increase her damage further, shifting the matchup in the P.E.K.K.A's favor. Defensive Strategies High-DPS defenses are vital to prevent a Power P.E.K.K.A from causing havoc on a district. The Inferno Tower (as mentioned above) is the most effective, but single-shot defenses such as the Multi Cannon , or even just concentrating multiple Cannons and/or Spear Throwers together can be effective. Grouping multiple defenses together to take down a Power P.E.K.K.A has the disadvantage of leaving the defenses vulnerable to the Power P.E.K.K.A's Overcharge explosion once it is defeated, and depending on placement, may also enable other troops such as the Super Wizard or Super Dragon to exploit their proximity. Good Wall placement is key to preventing Power P.E.K.K.As from reaching your most valuable defenses, especially the Multi Mortar , Rocket Artillery and the Blast Bow , all of which have blind spots which the P.E.K.K.A can exploit. A highly-upgraded post, if placed well, can be helpful stalling the Power P.E.K.K.A, since each hit from the P.E.K.K.A can only take out one of the troops. This allows your defenses more time to take out the P.E.K.K.A. The post is doubly useful if placed behind Walls . If defending troops stay behind the Walls, the P.E.K.K.A(s) will have to break the Wall to reach the Super Giants (only if they are attacking another unit) or the Siege Cart (from range), further stalling them. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Any Single Target (Ground Only) 40 12 1.8s ? Overcharge Level Damage per Second Damage per Hit Damage when Destroyed Hitpoints 1 680 1,224 1,000 6,800 2 760 1,368 1,200 7,600 3 840 1,512 1,400 8,500 4 920 1,656 1,600 9,400 5 1,000 1,800 1,800 10,300 History Patch Description May 2, 2022 Added the Super P.E.K.K.A to the Clan Capital in its eponymous update, with 5 levels. May 15, 2022 Renamed Super P.E.K.K.A to Power P.E.K.K.A, following a similar name change in the Builder Base. September 14, 2023 Increased the Power P.E.K.K.A's hitpoints at levels 3-5: Level 3: 8,400 -> 8,500 Level 4: 9,200 -> 9,400 Level 5: 10,000 -> 10,300 Gallery Power P.E.K.K.A icon Power P.E.K.K.A render Game sprite Trivia General You can have a maximum of 6 Power P.E.K.K.As at one time in a complete set of fully upgraded Army Camps . The Power P.E.K.K.A's appearance has errors in battle. Her horns, eyes, and spikes are brighter pink. Her armor inside glows white, along with her “nose”. The electricity she produces is white with navy outlines. The Power P.E.K.K.A seems to be slightly larger than the regular P.E.K.K.A . The Power P.E.K.K.A resembles the P.E.K.K.A in blue team from Clash Royale. The Power P.E.K.K.A does not seem to produce electricity when moving. Interestingly, the Power P.E.K.K.A's movement speed is slightly slower than the regular P.E.K.K.A. The Power P.E.K.K.A appears to be left-handed in her info image, unlike the P.E.K.K.A. In battle, however, she is right-handed. In the Builder Base 2.0 update, her name was changed from Super P.E.K.K.A to Power P.E.K.K.A. This change was done to avoid confusion with a Super Troop. This also applies to her Builder Base variant . Comparisons The Power P.E.K.K.A is one of the six troops to be associated with electricity, the others being the Electro Dragon , Super Wizard , Electro Owl , Electrofire Wizard and the Battle Machine (when activating his ability). Clan Capital Army Troops Super Barbarian • Sneaky Archers • Super Giant • Battle Ram ( Barbarian ) • Minion Horde • Super Wizard • Rocket Balloons • Skeleton Barrels ( Skeleton )  • Flying Fortress ( Skeleton Glider • Skeleton ) • Raid Cart ( Siege Cart • Barbarian ) • Power P.E.K.K.A • Hog Raiders • Super Dragon • Mountain Golem • Inferno Dragon • Super Miner • Mega Sparky Spells Healing Spell • Jump Spell • Lightning Spell • Frost Spell • Rage Spell • Graveyard Spell • Endless Haste Spell"
+}

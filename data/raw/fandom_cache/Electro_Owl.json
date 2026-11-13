@@ -1,0 +1,205 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "": "Level 1-15"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "Hero's Target",
+        "Attack Type": "Ranged (Ground and Air) Chain Lightning",
+        "Number of Targets": "2",
+        "Chain Damage Decay": "-20%",
+        "Movement Speed": "20",
+        "Attack Speed": "1.4s",
+        "Pet House Level Required": "2",
+        "Range": "6 tiles",
+        "Special Ability": "High Voltage"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second (Primary Target)": "100",
+        "Damage per Hit (Primary Target)": "140",
+        "Hitpoints": "1,600",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "2",
+        "Damage per Second (Primary Target)": "105",
+        "Damage per Hit (Primary Target)": "147",
+        "Hitpoints": "1,700",
+        "Upgrade Cost": "30,000",
+        "Upgrade Time": "1d 12h",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second (Primary Target)": "110",
+        "Damage per Hit (Primary Target)": "154",
+        "Hitpoints": "1,800",
+        "Upgrade Cost": "45,000",
+        "Upgrade Time": "2d",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "4",
+        "Damage per Second (Primary Target)": "115",
+        "Damage per Hit (Primary Target)": "161",
+        "Hitpoints": "1,900",
+        "Upgrade Cost": "60,000",
+        "Upgrade Time": "3d",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "5",
+        "Damage per Second (Primary Target)": "120",
+        "Damage per Hit (Primary Target)": "168",
+        "Hitpoints": "2,000",
+        "Upgrade Cost": "75,000",
+        "Upgrade Time": "4d",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "6",
+        "Damage per Second (Primary Target)": "125",
+        "Damage per Hit (Primary Target)": "175",
+        "Hitpoints": "2,100",
+        "Upgrade Cost": "90,000",
+        "Upgrade Time": "4d 12h",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "7",
+        "Damage per Second (Primary Target)": "130",
+        "Damage per Hit (Primary Target)": "182",
+        "Hitpoints": "2,200",
+        "Upgrade Cost": "105,000",
+        "Upgrade Time": "5d",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "8",
+        "Damage per Second (Primary Target)": "135",
+        "Damage per Hit (Primary Target)": "189",
+        "Hitpoints": "2,300",
+        "Upgrade Cost": "120,000",
+        "Upgrade Time": "5d 12h",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "9",
+        "Damage per Second (Primary Target)": "140",
+        "Damage per Hit (Primary Target)": "196",
+        "Hitpoints": "2,400",
+        "Upgrade Cost": "135,000",
+        "Upgrade Time": "6d",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "10",
+        "Damage per Second (Primary Target)": "145",
+        "Damage per Hit (Primary Target)": "203",
+        "Hitpoints": "2,500",
+        "Upgrade Cost": "150,000",
+        "Upgrade Time": "6d 12h",
+        "Pet House Level Required": "2"
+      },
+      {
+        "Level": "11",
+        "Damage per Second (Primary Target)": "150",
+        "Damage per Hit (Primary Target)": "210",
+        "Hitpoints": "2,600",
+        "Upgrade Cost": "165,000",
+        "Upgrade Time": "7d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Damage per Second (Primary Target)": "155",
+        "Damage per Hit (Primary Target)": "217",
+        "Hitpoints": "2,700",
+        "Upgrade Cost": "180,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "13",
+        "Damage per Second (Primary Target)": "160",
+        "Damage per Hit (Primary Target)": "224",
+        "Hitpoints": "2,800",
+        "Upgrade Cost": "195,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "14",
+        "Damage per Second (Primary Target)": "165",
+        "Damage per Hit (Primary Target)": "231",
+        "Hitpoints": "2,900",
+        "Upgrade Cost": "210,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "9"
+      },
+      {
+        "Level": "15",
+        "Damage per Second (Primary Target)": "170",
+        "Damage per Hit (Primary Target)": "238",
+        "Hitpoints": "3,000",
+        "Upgrade Cost": "225,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "9"
+      }
+    ],
+    [
+      {
+        "Patch": "March 31, 2021",
+        "Description": "The Electro Owl appeared in the 2021 Hammer Jam event video."
+      },
+      {
+        "Patch": "April 10, 2021",
+        "Description": "Announced the Electro Owl, with 10 levels."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Description": "Added the Electro Owl."
+      },
+      {
+        "Patch": "June 15, 2021",
+        "Description": "Force retarget for Electro Owl if his assigned Hero is knocked out and the Electro Owl is attacking a Wall . Electro Owl's level now shows boosted badge in battle end screen when Hero Potion is active."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Electro Owl zaps enemy defenses into dust from great distance. He's mostly made of feathers though, so better keep him well protected!\" Level 1-15 Summary The Electro Owl is the second Pet unlocked from the Pet House , available when the Pet House is upgraded to level 2. He is an air unit that attacks with chain lightning, similar to the Electro Dragon and Electrofire Wizard (if he is on Electro Mode). This chain lightning is only able to hit two targets just like the Mega Tesla , doing 80% of the primary target damage to the second target. The Electro Owl resembles a blue owl with glowing white eyes with a cyan gradient, a white underside, and black lightning-like eyebrows, beak and feet, surrounded with a transparent aura. The Electro Owl prioritizes the target that the Hero that Electro Owl is paired to is currently targeting. If the Hero is knocked out or removed from battle by a Recall Spell , Electro Owl behaves like a troop with no preferential target; they will attack the nearest building to them regardless of type, and will turn and attack enemy units if they become aware of any nearby and can fight back against them. The Electro Owl is unable to trigger traps , but can be affected by them if a nearby unit triggers them. Strategy Offensive Strategies The Electro Owl's hitpoints are comparable to the Baby Dragon 's hitpoints. Because of his relatively low hitpoints (as compared to other Pets ), make sure he is well clear of any Air Defenses (or destroy these first), or he will be taken down rather quickly. You can pair him with the Grand Warden to help destroy buildings, complementing the Warden's relatively low DPS. Although the Owl's DPS does not look impressive when compared to other pets, it is effectively 80% higher if he can consistently land chained lightning to hit two targets. Generally, shorter-range Heroes will be able to keep the Electro Owl behind them, protecting him from most defenses (bar the aforementioned Air Defense). The air mode Grand Warden is not recommended if you want to keep the Owl alive for as long as possible, as he has a longer range, so will stay behind the owl, and can trigger air traps that can easily knock down the Owl. Defensive Strategies Air Defenses are the easiest method to defeating an Electro Owl quickly, particularly when paired with a ground Hero and/or if the attacker is using a ground-based attack, because it can easily single out the Owl from the ground units. Like when defending against Electro Dragons or Super Wizards , it can be helpful to space out buildings, if possible, to minimize chain damage. Buildings spaced 2 tiles apart will stop the Electro Owl from using his chain attack. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Number of Targets Chain Damage Decay Movement Speed Attack Speed Pet House Level Required Range Special Ability Hero's Target Ranged (Ground and Air) Chain Lightning 2 -20% 20 1.4s 2 6 tiles High Voltage Level Damage per Second (Primary Target) Damage per Hit (Primary Target) Hitpoints Upgrade Cost Upgrade Time Pet House Level Required 1 100 140 1,600 N/A N/A 2 2 105 147 1,700 30,000 1d 12h 2 3 110 154 1,800 45,000 2d 2 4 115 161 1,900 60,000 3d 2 5 120 168 2,000 75,000 4d 2 6 125 175 2,100 90,000 4d 12h 2 7 130 182 2,200 105,000 5d 2 8 135 189 2,300 120,000 5d 12h 2 9 140 196 2,400 135,000 6d 2 10 145 203 2,500 150,000 6d 12h 2 11 150 210 2,600 165,000 7d 9 12 155 217 2,700 180,000 8d 9 13 160 224 2,800 195,000 8d 9 14 165 231 2,900 210,000 8d 9 15 170 238 3,000 225,000 8d 9 History Patch Description March 31, 2021 The Electro Owl appeared in the 2021 Hammer Jam event video. April 10, 2021 Announced the Electro Owl, with 10 levels. April 12, 2021 Added the Electro Owl. June 15, 2021 Force retarget for Electro Owl if his assigned Hero is knocked out and the Electro Owl is attacking a Wall . Electro Owl's level now shows boosted badge in battle end screen when Hero Potion is active. Gallery Electro Owl icon In-game sprite With Grand Warden Trivia The Electro Owl is the first Pet to be based on a real life animal alongside the Mighty Yak , Frosty , Diggy , Poison Lizard , Spirit Fox , Angry Jelly , and Sneezy , and the first Pet to be based on a bird. The Electro Owl is one of the eight troops to be associated with electricity, the others being the Electro Dragon , Super Wizard , Electro Titan , Power P.E.K.K.A , the Battle Machine (when activating his ability), Electrofire Wizard and the Mega Sparky . Out of these, the Electro Owl and the Electro Dragon are also the only flying units that attack using electricity. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

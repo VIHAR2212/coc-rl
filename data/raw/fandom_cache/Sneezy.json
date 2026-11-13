@@ -1,0 +1,176 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Targets": "Ground & Air",
+        "Attack Type": "Single Target",
+        "Movement Speed": "24",
+        "Attack Speed": "0.8s",
+        "Maximum Boogers Summoned": "2",
+        "Rage Duration": "300s",
+        "Rage Damage Increase": "1%",
+        "Pet House Level Required": "11",
+        "Range": "5.5 or 1.5 tiles",
+        "Special Ability": "ACHOO!"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "270",
+        "Damage per Hit": "216",
+        "Hitpoints": "3,300",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "290",
+        "Damage per Hit": "232",
+        "Hitpoints": "3,450",
+        "Upgrade Cost": "200,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "310",
+        "Damage per Hit": "248",
+        "Hitpoints": "3,600",
+        "Upgrade Cost": "220,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "330",
+        "Damage per Hit": "264",
+        "Hitpoints": "3,750",
+        "Upgrade Cost": "240,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "350",
+        "Damage per Hit": "280",
+        "Hitpoints": "3,900",
+        "Upgrade Cost": "260,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "370",
+        "Damage per Hit": "296",
+        "Hitpoints": "4,050",
+        "Upgrade Cost": "280,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "390",
+        "Damage per Hit": "312",
+        "Hitpoints": "4,200",
+        "Upgrade Cost": "300,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "410",
+        "Damage per Hit": "328",
+        "Hitpoints": "4,350",
+        "Upgrade Cost": "320,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "430",
+        "Damage per Hit": "344",
+        "Hitpoints": "4,500",
+        "Upgrade Cost": "340,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "450",
+        "Damage per Hit": "360",
+        "Hitpoints": "4,650",
+        "Upgrade Cost": "360,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "11"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Sneezy_select.ogg",
+        "Captions": "Sneezy giggles",
+        "Description": "When Sneezy is selected from the Pet House or is tapped"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Sneezy_deploy.ogg",
+        "Captions": "Sneezy sneezes",
+        "Description": "When Sneezy is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Booger_deploy.ogg",
+        "Captions": "Sneezy summons a Booger",
+        "Description": "When Sneezy summons a Booger"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Sneezy_echo.ogg",
+        "Captions": "Sneezy screeches",
+        "Description": "When Sneezy attacks using soundwaves"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Sneezy_death.ogg",
+        "Captions": "Sneezy falls in battle",
+        "Description": "When Sneezy is defeated"
+      }
+    ],
+    [
+      {
+        "Date": "March 22, 2025",
+        "Description": "Announced Sneezy, with 10 levels."
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Added Sneezy."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Her nose is blocked and loaded! Sneezy hangs behind her Hero due to allergies and sneezes tanky air Boogers that target Buildings . She goes on attack when her Hero falls!\" Level 1-10 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 Gallery 5 Audio 6 History 7 Trivia 7.1 Comparisons Summary [ ] Sneezy is the eleventh Pet unlocked when the Pet House is upgraded to level 11, which requires Town Hall 17. Sneezy appears to be an amethyst-colored bat with eyes that are celeste in color, plum irises, a pink snout, and wings that purple on top and pink on the bottom. She appears to be wearing a black scarf. When deployed, Sneezy flies in the air and maintains distance from the paired Hero. She periodically sneezes to spawn Boogers which damage buildings, usually within 5.5 tiles from them. Each Booger is spawned from Sneezy every 10 seconds, and there can be a maximum of two at a time. Boogers have moderate damage and hitpoints, and cannot trigger air Traps . When her paired Hero is knocked out in battle and Sneezy is still active, Sneezy will become enraged, becoming a short-range pet which that targets defenses and attacks by screeching, dealing high damage per second. She will continue to spawn Boogers while in this state but will temporarily stop attacking for a brief period when she does so. Her enraged status actually grants Sneezy a minuscule 1% damage increase for 5 minutes, longer than the length of a Multiplayer Battle and thus is practically permanent. This damage increase can be noticed as it will be replaced by other damage-increasing effects like Rage Spells , but she will still retain the rage effect until it ends. The Recall Spell will recall Sneezy alongside her Hero without consuming housing space if the Hero is still able to fight. Once the Hero is defeated, this interaction no longer applies and Sneezy will be recalled normally like most other Pets. Strategies [ ] Offensive Strategies [ ] Sneezy can be a powerful Pet if used correctly, especially in Warden Charges, as the summoned Boogers will be able to distract defenses or even allow them to create a funnel for your main attack. Since Sneezy stays well behind her paired Hero, she will not be able to protect Healers from Seeking Air Mines since her range is slightly more than that of the Healer's, so you may need to use Balloons or Baby Dragons to search for Seeking Air Mines. Make sure to protect Sneezy, otherwise it will not be able to use its enraged ability before her Hero is knocked out. Sneezy is a poor choice for the Dragon Duke . While Sneezy herself won't deactivate his Royal Rampage ability, her Boogers will, meaning the Dragon Duke will not be able to utilize his passive ability well unless Sneezy and her Boogers gets taken out first. Additionally, Sneezy does nothing but spawn Boogers when her Hero is still active. Meaning Sneezy does nothing meaningful for the Dragon Duke when he is still active. Making this choice even worse. Defensive Strategies [ ] Since the Boogers will not trigger Seeking Air Mines, it is a good idea to spread them away from each other so that armies like Dragons , Electro Dragons and Dragon Riders will be more likely to be targeted by them. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Targets Attack Type Movement Speed Attack Speed Maximum Boogers Summoned Rage Duration Rage Damage Increase Pet House Level Required Range Special Ability Defenses Ground & Air Single Target 24 0.8s 2 300s 1% 11 5.5 or 1.5 tiles ACHOO! Level Damage per Second Damage per Hit Hitpoints Upgrade Cost Upgrade Time Pet House Level Required 1 270 216 3,300 N/A N/A 11 2 290 232 3,450 200,000 8d 11 3 310 248 3,600 220,000 8d 11 4 330 264 3,750 240,000 8d 11 5 350 280 3,900 260,000 8d 11 6 370 296 4,050 280,000 8d 11 7 390 312 4,200 300,000 8d 11 8 410 328 4,350 320,000 8d 11 9 430 344 4,500 340,000 8d 11 10 450 360 4,650 360,000 8d 11 Gallery [ ] Sneezy original concept art Sneezy second concept art Sneezy final concept art 3D model of Sneezy. Sneezy's icon Info image without Booger . Audio [ ] Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Sneezy_select.ogg Sneezy giggles When Sneezy is selected from the Pet House or is tapped https://clashofclans.fandom.com/wiki/File:Sneezy_deploy.ogg Sneezy sneezes When Sneezy is deployed https://clashofclans.fandom.com/wiki/File:Booger_deploy.ogg Sneezy summons a Booger When Sneezy summons a Booger https://clashofclans.fandom.com/wiki/File:Sneezy_echo.ogg Sneezy screeches When Sneezy attacks using soundwaves https://clashofclans.fandom.com/wiki/File:Sneezy_death.ogg Sneezy falls in battle When Sneezy is defeated History [ ] Date Description March 22, 2025 Announced Sneezy, with 10 levels. March 24, 2025 Added Sneezy. Trivia [ ] It is possible to time out Sneezy's enraged status in the Single Player Campaign because attacks in Single Player maps lack a time limit. An easy way to achieve this is to use a Recall Spell on Sneezy after her Hero is defeated and wait out the 5 minute timer, as it ticks down while Sneezy is recalled. Comparisons [ ] Sneezy is the eighth Pet to be based on a real life animal alongside the Electro Owl , Mighty Yak , Frosty , Diggy , Poison Lizard , Spirit Fox , and the Angry Jelly , as well as the third Pet to be based on a mammal. She is one of the three pets that are a female, the other two being L.A.S.S.I and Phoenix . Excluding Greedy Raven 's increased damage against Resource Buildings, Sneezy has the highest DPS among all pets. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

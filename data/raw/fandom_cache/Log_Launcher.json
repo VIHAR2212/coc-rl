@@ -1,0 +1,191 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Walls (Damage x4)",
+        "Attack Type": "Area Splash (Ground Only)",
+        "Housing Space": "1",
+        "Movement Speed": "5",
+        "Attack Speed": "3s",
+        "Workshop Level Required": "5",
+        "HP Decay per Second": "156"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "140",
+        "Damage per Hit": "420",
+        "Damage per Hit vs. Walls": "1,680",
+        "Point-Blank Damage*": "2,900",
+        "Lifetime": "25.64s",
+        "Hitpoints": "4,000",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "160",
+        "Damage per Hit": "480",
+        "Damage per Hit vs. Walls": "1,920",
+        "Point-Blank Damage*": "3,000",
+        "Lifetime": "28.20s",
+        "Hitpoints": "4,400",
+        "Research Cost": "3,200,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "180",
+        "Damage per Hit": "540",
+        "Damage per Hit vs. Walls": "2,160",
+        "Point-Blank Damage*": "3,100",
+        "Lifetime": "30.76s",
+        "Hitpoints": "4,800",
+        "Research Cost": "4,500,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "200",
+        "Damage per Hit": "600",
+        "Damage per Hit vs. Walls": "2,400",
+        "Point-Blank Damage*": "3,200",
+        "Lifetime": "33.33s",
+        "Hitpoints": "5,200",
+        "Research Cost": "7,500,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "220",
+        "Damage per Hit": "660",
+        "Damage per Hit vs. Walls": "2,640",
+        "Point-Blank Damage*": "3,400",
+        "Lifetime": "35.25s",
+        "Hitpoints": "5,500",
+        "Research Cost": "18,000,000",
+        "Research Time": "12d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "230",
+        "Damage per Hit": "690",
+        "Damage per Hit vs. Walls": "2,760",
+        "Point-Blank Damage*": "3,600",
+        "Lifetime": "37.17s",
+        "Hitpoints": "5,800",
+        "Research Cost": "27,000,000",
+        "Research Time": "15d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Walls Level": ""
+      },
+      {
+        "": "",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      },
+      {
+        "": "1",
+        "Walls Level": "1"
+      }
+    ],
+    [
+      {
+        "Patch": "December 4, 2020",
+        "Type": "Sneak Peek",
+        "Description": "Announced the Log Launcher, with four levels."
+      },
+      {
+        "Patch": "December 7, 2020",
+        "Type": "Update",
+        "Description": "Added the Log Launcher."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added lifetime information to Log Launcher's info screen."
+      },
+      {
+        "Patch": "June 16, 2021",
+        "Type": "Optional Update",
+        "Description": "Fixed an issue that made switching to donated Log Launcher and other Siege Machines impossible."
+      },
+      {
+        "Patch": "February 27, 2024",
+        "Type": "Update",
+        "Description": "Added level 5 Log Launcher [ 1 ] ."
+      },
+      {
+        "Patch": "September 9, 2024",
+        "Type": "Update",
+        "Description": "The Log Launcher can no longer be received or reinforced at Town Hall 10. Reduced max levels received at Town Halls 11 and 12: Town Hall 11: 4 -> 2 Town Hall 12: 4 -> 3"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:LogLauncher_Deploy.ogg",
+        "Captions": "Log Launcher deploys",
+        "Description": "When a Log Launcher is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:LogLauncher_Launch.ogg",
+        "Captions": "Log Launcher shoots",
+        "Description": "When a Log Launcher attacks"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"While the Log Launcher certainly isn't the fastest or the sturdiest, it is definitely among the meanest. The trunk-throwing contraption pummels everything in front of it with endless logs to open up a path to the enemy Town Hall . Immune to spell effects.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Summary The Log Launcher is the fifth Siege Machine unlocked at Workshop level 5, which requires Town Hall level 13. When deployed, the Log Launcher shoots out logs every three seconds. These logs can continue travelling up to twenty tiles, or hit four buildings. The Log Launcher also has a secondary \"point-blank\" attack that occurs at the same time it launches a log, which does very high damage to structures and units that are right next to the Log Launcher (this prevents it from being stuck on a building for too long). However, if a building is trapped by the Overgrowth Spell , it will get stuck behind said building, However, it can still shoot logs and damage buildings, although it must not be under the radius of the Overgrowth Spell for this to be possible. The Log Launcher loses its health over time from the moment it is deployed. This rate of HP loss is constant at all levels, at roughly 156 HP per second. The Eternal Tome , which prevents damage on other units, does not stop this HP decay. The Log Launcher considers the Town Hall as its primary target, and will fight its way through enemy buildings and Walls to reach its location, regardless of whether or not the Town Hall is still standing. When the Log Launcher successfully reaches the Town Hall (or its remains), it automatically breaks apart to reveal the Clan Castle troops inside. The Log Launcher requires a level 7 Clan Castle in order to be received as a Clan Castle reinforcement. This means that the usage of the Log Launcher is only limited to players at Town Hall 11 and above. Strategies Offensive Strategies Deploy the Log Launcher in front of many Walls joined together. The Log Launcher's long range can destroy many Walls ahead of it, opening up many compartments of enemy bases. Use more tanky troops such as an Ice Golem in front of the Log Launcher, as it has low health when compared with other Siege Machines, and has relatively high damage if left untouched by defenses, assuming if it does not take much damage already. Log Launchers are more powerful when paired with a Queen Charge compared to the Wall Wrecker , since the Log Launcher can hit a lot more buildings with greater damage, and it can help funnel other troops with its logs. Be careful when deploying a Log Launcher against low-hitpoint buildings, especially when deployed in a corner. The destroyed buildings may create an \"anti-funnel\", where buildings in the middle are destroyed while buildings on either side remain. Without funneling troops to correct for this, other troops may end up straying off to the side. If the Town Hall is weakened by a few Earthquake Spells (such as when four are used as part of a Yeti Smash attack), a Log Launcher's logs can be used to finish it off without needing any other units to damage it. When four maxed Earthquake Spells and a maxed Log Launcher are used, eight logs are required to destroy a Town Hall 13 or 14, and seven logs to destroy a Town Hall 12. Provided that the Log Launcher does not take too much damage, and that its logs do not get blocked by other buildings, it can prove to be a helpful method to destroy Town Halls, especially isolated ones that would not be easy to reach without good funneling. This \"log sniping\" strategy is also possible at lower levels. Against Town Hall 10s or below, a maxed Log Launcher can destroy a Town Hall even without any need for Earthquake Spells to weaken the Town Hall. When used against Town Hall 14s and above, be wary that any nearby weaponized Builder's Huts may house Builders that are capable of partially repairing the damage caused by the Log Launcher, enough that it might require an extra log or two to destroy the Town Hall in this manner. This can be mitigated by damaging the Builder's Huts with the logs as well (either the Builders will prioritize repairing their hut over the Town Hall, or if they choose to repair the Town Hall, their Hut will eventually be destroyed and they are forced to retreat). This can be detrimental in attacks where you do not want the Town Hall to be activated, since the thrown logs have a long range, and can activate the Town Hall weapon easily. It can also be hit with the Town Hall weapon when it gets into range. However, after getting the Log Launcher to the center, you can fill the Clan Castle with troops such as Balloons and Yetis and use Rage Spells and/or Clone and Invisibility Spells to snipe the Town Hall. This might not work for all attacks, but you will likely take out or weaken most of the core defenses anyways, so it will generally be a win. Defensive Strategies To prevent the logs from destroying lots of Walls and opening up compartments, one should build compartments in a way that limits the ability of logs to do so. For instance, you could have semi-open compartments with Wall gaps in the corner, that are able to retain its purpose when attacked by a Log Launcher. Logs disintegrate after hitting four buildings, which renders buildings and Walls after these four safe. You can suppress the logs' effectiveness by placing high-hitpoint buildings in a group, close to the outside, so that the logs will stop prematurely (preventing further damage) if launched at these buildings. Monoliths and other single-targeting defenses can do a lot of damage to the Log Launcher, so if your base gets attacked a lot with this Siege Machine, you can put such defenses in a way so that they can snipe the Log Launcher quickly, preventing it from getting high value from the defender's base. Upgrade Differences The Log Launcher undergoes significant visual changes at all levels. Initially, the Log Launcher is a vermilion and brown caravan with wheels made of wood, with a steel casing where the logs are launched. A pipe connects the caravan to the casing, with iron bolts reinforcing it. At level 2, the pipe moves to the side as a second pipe is added. The iron bolts are now golden. At level 3, there are now 3 pipes with one in the middle. Each pipe also connects into a square gold plate at the ends. The golden bolts revert back to iron. At level 4, there are now 4 pipes. The gold plates combine into one giant rectangular gold slab. The metal grinder inside the casing now changes to a gold color. At level 5, the metal frames on the corners of the casing turn gold. At level 6, the interior of the steel casing darkens up while the exterior becomes smoother. The 4 pipes and the rectangular slab on the front along with the handles of the frames turn gold. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Workshop Level Required HP Decay per Second Walls (Damage x4) Area Splash (Ground Only) 1 5 3s 5 156 Level Damage per Second Damage per Hit Damage per Hit vs. Walls Point-Blank Damage* Lifetime Hitpoints Research Cost Research Time Laboratory Level Required 1 140 420 1,680 2,900 25.64s 4,000 N/A N/A N/A 2 160 480 1,920 3,000 28.20s 4,400 3,200,000 3d 10 3 180 540 2,160 3,100 30.76s 4,800 4,500,000 4d 10 4 200 600 2,400 3,200 33.33s 5,200 7,500,000 7d 11 5 220 660 2,640 3,400 35.25s 5,500 18,000,000 12d 14 6 230 690 2,760 3,600 37.17s 5,800 27,000,000 15d 16 *The Log Launcher deals point-blank damage at the same time it releases a log. Structures and units within a small radius (1 tile) of the Log Launcher when it launches a log take this damage. The 4x damage multiplier against Walls also applies to this secondary attack. The level 19 Walls do not get destroyed by a single shot of point blank damage done by the max level Log Launcher. However, with the Log released, it can still destroy a Level 19 Wall, so to survive a single shot of point blank damage and a log will require 17,161 health in order to survive with 1 HP remaining. Number of Log Launcher logs required to break through Walls Walls Level 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Log Launcher Level 1 1 1 1 1 1 2 2 2 3 3 3 5 5 6 6 7 8 8 9 2 1 1 1 1 1 1 2 2 2 3 3 4 5 5 6 6 7 7 8 3 1 1 1 1 1 1 2 2 2 2 3 4 4 5 5 6 6 7 7 4 1 1 1 1 1 1 1 2 2 2 3 3 4 4 5 5 5 6 6 5 1 1 1 1 1 1 1 2 2 2 2 3 4 4 4 5 5 5 6 History Patch Type Description December 4, 2020 Sneak Peek Announced the Log Launcher, with four levels. December 7, 2020 Update Added the Log Launcher. April 12, 2021 Update Added lifetime information to Log Launcher's info screen. June 16, 2021 Optional Update Fixed an issue that made switching to donated Log Launcher and other Siege Machines impossible. February 27, 2024 Update Added level 5 Log Launcher [ 1 ] . September 9, 2024 Update The Log Launcher can no longer be received or reinforced at Town Hall 10. Reduced max levels received at Town Halls 11 and 12: Town Hall 11: 4 -> 2 Town Hall 12: 4 -> 3 Sounds Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:LogLauncher_Deploy.ogg Log Launcher deploys When a Log Launcher is deployed https://clashofclans.fandom.com/wiki/File:LogLauncher_Launch.ogg Log Launcher shoots When a Log Launcher attacks Gallery Log Launcher icon Renders of Log Launcher. Trivia General The Log Launcher appears to be launching The Log from Clash Royale . It was hinted by the amount of logs in previous videos prior to its release. When deployed, the Log Launcher will have a shorter Wall Wrecker or Flame Flinger deployment sound, followed up with a chanting voice \"LOG!\". The level of the Log Launcher can be found by just seeing the number of connections between the engine and the launching box, except for the level 5 Log Launcher, which does not increase the number of connections (4) from its previous level (level 4). The log from the Log Launcher seems to be hinted in the video No more CLASHMAS?! being the log which destroyed the village and ended up becoming a Christmas tree. The log from the Log Launcher bounces off troops from the Clan Castle (as if sprung by a Spring Trap ) if the log can kill the troop in one hit, but it is unknown why it is bounced off but not crushed when the troop is killed. This trait is also shared by the Super Archer , Giant Cannon , and the Azure Dragon . When the Wall Breaker and the Super Wall Breaker are bounced off by the Log Launcher, their bomb will explode, but they still wield the bomb while being bounced off. When a max-level Log Launcher is supported by the max-level Apprentice Warden's aura, and is kept into range of the siege machine for the entire duration, the Log Launcher can shoot a maximum of 14-15 logs until being expired naturally by its HP decay. At level 5, when you look very closely at a 0.5x speed in a replay, when the Log Launcher is deployed, it will briefly show iron corner pieces at the top instead of gold, which resembles a level 4 one, before reverting back to its intended appearance. Although the Log Launcher can be upgraded to Level 3 in the Level 10 Laboratory , only Troops, and Spells that are already unlocked will appear in the Laboratory upgrade interface. The Log Launcher will not appear in the Laboratory until the Workshop has been upgraded to Level 5 (which requires Town Hall Level 13). It is possible to have a Level 11 Laboratory before unlocking the Log Launcher; if so, the first upgrade will be available as soon as the Workshop Level 5 upgrade finishes. Comparisons It is the only Siege Machine that does not have other units in its info image. The Log Launcher is the slowest moving unit in the game, with a movement speed of 5, not counting the Siege Barracks , as it does not move. However, prior to the September 14, 2023 update, the Mountain Golem was the slowest moving unit in the game (not counting the Siege Barracks), with a movement speed of 4, before being buffed after the update. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven ↑ https://supercell.com/en/games/clashofclans/blog/release-notes/february-2024-update-patch-notes/"
+}

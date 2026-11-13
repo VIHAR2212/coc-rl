@@ -1,0 +1,192 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "": "Level 8-13"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "5",
+        "Movement Speed": "20",
+        "Attack Speed": "0.8s",
+        "Range": "0.6 tiles",
+        "Special Ability": "Rage",
+        "Rage Movement Speed Increase": "16",
+        "Rage Damage Increase": "70%"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Barbarian Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Level": "8",
+        "Damage per Second": "180",
+        "Damage per Attack": "144",
+        "Hitpoints": "1,000"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "200",
+        "Damage per Attack": "160",
+        "Hitpoints": "1,100"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "220",
+        "Damage per Attack": "176",
+        "Hitpoints": "1,200"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "240",
+        "Damage per Attack": "192",
+        "Hitpoints": "1,300"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "250",
+        "Damage per Attack": "200",
+        "Hitpoints": "1,350"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "270",
+        "Damage per Attack": "216",
+        "Hitpoints": "1,450"
+      }
+    ],
+    [
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Added the Super Barbarian, with levels 8 and 9."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 10 Super Barbarian (corresponding to the level 10 Barbarian ) Fixed minor inaccuracies from Super Barbarian ability timers."
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Super Barbarian (corresponding to the level 11 Barbarian)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ],
+    [
+      {
+        "": "Level 1-5"
+      }
+    ],
+    [
+      {
+        "": "",
+        "ⓘ": "ⓘ"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "5",
+        "Movement Speed": "14",
+        "Attack Speed": "0.8s",
+        "Range": "0.45 tiles",
+        "Special Ability": "Rage",
+        "Rage Movement Speed Increase": "16",
+        "Rage Damage Increase": "70%",
+        "Super Barbarian Barracks Level Required": "1"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "120",
+        "Damage per Hit": "96",
+        "Hitpoints": "800",
+        "Super Barbarian Barracks Level": "1"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "140",
+        "Damage per Hit": "112",
+        "Hitpoints": "900",
+        "Super Barbarian Barracks Level": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "160",
+        "Damage per Hit": "128",
+        "Hitpoints": "1,000",
+        "Super Barbarian Barracks Level": "3"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "180",
+        "Damage per Hit": "144",
+        "Hitpoints": "1,120",
+        "Super Barbarian Barracks Level": "4"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "200",
+        "Damage per Hit": "160",
+        "Hitpoints": "1,240",
+        "Super Barbarian Barracks Level": "5"
+      }
+    ],
+    [
+      {
+        "Patch": "May 2, 2022",
+        "Description": "Added the Super Barbarian to the Clan Capital in its eponymous update, with 5 levels."
+      },
+      {
+        "Patch": "September 14, 2023",
+        "Description": "Increased the Super Barbarian's HP at levels 4 and 5: Level 4: 1,100 -> 1,120 Level 5: 1,200 -> 1,240"
+      }
+    ],
+    [
+      {
+        "Clan Capital Army": "Troops"
+      },
+      {
+        "Clan Capital Army": "Spells"
+      }
+    ]
+  ],
+  "raw_text": "Home Village Clan Capital [[File:{{{Alt}}}|28px|link=]] For his base version, see Barbarian . For the Builder Base Troop and Hero with a similar ability, see Raged Barbarian and Barbarian King . For his Clan Capital counterpart, see Super Barbarian/Clan Capital . \"Superior in health, power, speed and most importantly, hair, the Super Barbarians are what regular Barbarians dream of becoming!\" Level 8-13 Summary The Super Barbarian is a Super Troop based on the Barbarian . It can be unlocked by boosting the Barbarian when the Barbarian is at least level 8. Boosting the Barbarian requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Barbarian to be boosted for 3 days. The level of Super Barbarian you obtain from the boost corresponds to the level of Barbarian you have. The Super Barbarian is a melee (close range) unit with high damage per second and a good amount of hitpoints for his housing space. Additionally, his Rage ability allows him to have increased speed and damage for the first 8 seconds after he is deployed, similar to Raged Barbarians from the Builder Base. Because of the level requirement, players require Town Hall 11 in order to boost Barbarians into Super Barbarians. However, because of the Laboratory level cap, players require a level 5 Clan Castle or greater in order to get donated one, allowing anyone Town Hall 9 or above to get one. Super Barbarians have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Barbarians will proceed to attack the nearest structure. Strategies Offensive Strategy The Super Barbarian can be used for funneling, as his higher health allows him to last longer than normal Barbarians (especially against splash damage defenses ); his Rage ability also allows him to single-handedly pick off buildings within seconds. The Super Barbarian can act as a mini-tank after he loses his rage, with a health per space similar to a Valkyrie . He is also better since he is less likely to go too far ahead of supporting troops, as they move slower (not under ability) and do not move greater distances (between buildings) than other troops. The Super Barbarians can prove to be useful as farming troops, like the Sneaky Goblin . They can also be more versatile than Sneaky Goblins in an attack (having more potential to obtain 1-star and 2-star wins). When used inside a Siege Machine, the Super Barbarian will not have his rage ability activated, even if the Siege Machine is destroyed manually. As such he should never be used as Clan Castle troops, and it is better to seek for other alternatives such as the Valkyrie. However, they can still be quite valuable as Clan Castle reinforcements outside of a Siege Machine, as they will still be deployed with an active rage. Single-target defenses such as the Cannon or weak multi-target defenses such as the Mortar are weak to Super Barbarians, so try to attack bases with those on the outside. Placing other tanks like a Giant down can allow Super Barbarians to survive for longer, so if there are high-DPS areas, you can use one if necessary. The number one defense that can kill your Super Barbarians is the Ricochet Cannon , followed by the Multi-Archer Tower , Scattershot , and the Eagle Artillery . Consider using the Lightning and Earthquake Spells to destroy them. If possible, you can use ranged Hero Equipment to destroy them, such as the Fireball and the Seeking Shield , alongside with Earthquake Spells (if needed). Super Barbarians usually do not need spell support, and if anything they could use a Freeze Spell . In groups of 5 or 6, they can mow down buildings in one or two shots without their ability. Despite this, Lightning Spells can be useful for farming, in order to damage resource collectors that are out of reach of Super Barbarians. Rage Spells are also useful to give the Super Barbarians second wind, when their own rage abilities have expired. Defensive Strategy This troop can be used in the Clan Castle for defense. The Super Barbarian shreds tanks (such as Giants and P.E.K.K.A ) if there are not any reinforcements for the tank. In this regard, he does exceedingly well until he loses his ability where he performs rather mediocre. However, the Super Barbarian cannot attack aerial units, and due to him being a single target troop, he cannot handle swarms of troops well. It is best to have several small troops ( Goblins or Archers ) along with the Super Barbarian so they can distract enemy troops while the Super Barbarian attacks. The Super Barbarian also can tank for other defending troops, being able to effectively cover fast troops that are deployed after them (e.g. Headhunters ) due to his fast movement speed while enraged. Giant Bombs are very useful because they can severely damage Super Barbarians, in order to be destroyed by defenses and prevents them from getting value. Spring Traps are able to fling up to 2-3 Super Barbarians depending on its level. Tornado Traps can waste the rage duration (if any), provided if they have been deployed near the trigger radius of said trap. It can also delay the Super Barbarians so that the defenses have enough time to take them out. Heavy splash defenses such as the Scattershot can destroy the Super Barbarians unless they run straight towards it. Consider avoiding places nearby one. Super Barbarians have great value until they run out of their ability. Consider keeping Cannons and Mortars protected by Walls to soak up their ability. If you think that there will only be one or two, you can protect your point defenses with only a few non-defensive buildings . Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Rage Movement Speed Increase Rage Damage Increase None Melee (Ground Only) 5 20 0.8s 0.6 tiles Rage 16 70% Boost Cost Boost Duration Barbarian Level Required 25,000 3d 8 Level Damage per Second Damage per Attack Hitpoints 8 180 144 1,000 9 200 160 1,100 10 220 176 1,200 11 240 192 1,300 12 250 200 1,350 13 270 216 1,450 History Patch Type Description March 30, 2020 Update Added the Super Barbarian, with levels 8 and 9. April 12, 2021 Update Added the level 10 Super Barbarian (corresponding to the level 10 Barbarian ) Fixed minor inaccuracies from Super Barbarian ability timers. October 10, 2022 Update Added the level 11 Super Barbarian (corresponding to the level 11 Barbarian) Gallery Super Barbarian's avatar In-game sprite Trivia You can have a maximum of 70 Super Barbarians at one time in a complete set of fully upgraded Army Camps . This number increases to 81 if you include 11 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 36 Super Barbarians with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 117 Super Barbarians. The Super Barbarian may be based on Samson , a man that appeared in the Bible shown to have above average strength due to his longer hair. The word \" Barbarian \" comes from the Greek \" βάρβαρος \" ( bárbaros ), meaning foreign. Dating back to the ancient Greek times, the Greeks referred to non-Greek people as barbarians because the language they spoke sounded to Greeks like gibberish represented by the sounds \" bar..bar..; \". The Super Barbarian is called \"Elite Barbarian\" in the game files. However, it is the level 6-7 regular Barbarian , rather than the Super Barbarian, that shares the Iron Helmet with the Clash Royale Elite Barbarian . Super Barbarians under their ability have the highest damage per housing space in the game at 68 (followed by Sneaky Goblins at 63 and 1/3). Like normal Barbarians, when you tap on an Army Camp , all the Super Barbarians stationed there will briefly raise their sword. In his artwork, he has a red border on his headpiece and wears a maroon belt and an orange kilt, but in battle, the border is not there and wears a brown belt and a copper kilt instead. The Super Barbarian's ability is similar to that of the Raged Barbarian from the Builder Base. On their belt, they have an emblem resembling a standard skull, not a Super Troops skull. This may be because in the Super Giant description, they have a Super Troop logo belt that is from an eating contest, and the Super Barbarians probably did not win one. Additionally, it appears to resemble the \"Miniature\" Super Troop logo from the early stages of the Super Troop Barrel . The Barbarian's Evolution in Clash Royale resembles the Super Barbarian from Clash of Clans. The Super Evolution form of the Barbarian in Squad Busters closely resembles the Super Barbarian in Clash of Clans , except that the ring is golden in color, which holds his brown kilt. Comparisons The Super Barbarian was one of the first Super Troops to be added in the game, alongside the Super Giant , Sneaky Goblin , and Super Wall Breaker . The Super Barbarian is 1 of 4 Super Troops to have a temporary buff when deployed, the others being Sneaky Goblin, Rocket Balloon , and Super Minion . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven [[File:{{{Alt}}}|28px|link=]] For his base version, see Barbarian . For his Home Village counterpart, see Super Barbarian/Home Village . For the Builder Base Troop and Hero with a similar ability, see Raged Barbarian and Barbarian King . \"Superior in health, power, speed and most importantly, hair, the Super Barbarians are what regular Barbarians dream of becoming!\" Level 1-5 Summary The Super Barbarian is a troop available in the Clan Capital , available when the Super Barbarian Barracks is constructed (this occurs automatically after the Barbarian Camp district is unlocked, when the Capital Hall is upgraded to level 2). The Super Barbarian is a melee (close range) unit with high damage per second and a good amount of hitpoints for his housing space. Additionally, his Rage ability allows him to have increased speed and damage for the first 8 seconds after he's deployed, similar to both Super Barbarians in the Home Village and Raged Barbarians in the Builder Base. This Rage effect will not stack with a Rage Spell . Super Barbarians have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy defending troops stationed in defense posts (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Barbarians will proceed to attack the nearest structure. Strategies Offensive Strategies Much like Super Barbarians in the Home Village and Raged Barbarians in the Builder Base, Super Barbarians can be used as 'clean up troops' to dispose of isolated buildings (especially those that are undefended by any defense and trap), like clan houses and other defenseless buildings, to ensure a 3-star successful raid. Another popular strategy is to deploy many Super Barbarians (5 or more) to utilize their combined rage, and easily wipe out the first line of simple defenses like Cannons , Spear Throwers and Air Defenses , allowing other troops to travel and attack more significantly threatening defenses. The last way, although not the most optimal one of using them, is to use a tank such as a Super Giant to tank, and then sending one or two on cheap defenses. Use a Capital Healing Spell to keep the barbarians going and a Capital Rage Spell would also be helpful when the Super Barbarians run out of their ability. Because of their very low 5 housing space, they can be used to check for traps such as Log Traps, Mines and Mega Mines to pave the way for other more expensive troops such as Sneaky Archers and Super Wizards . super Barbarians usually do not need spell support, and if anything they could use a Frost Spell . In groups of 5 or 6, they can mow down buildings in one or two shots without their ability. Capital Rage Spells are also useful to give the Super Barbarians second wind, when their own rage abilities have expired. When tanked, they can be deployed to take out an post enemy, such as a Super Giant or a Siege Cart from the Raid Cart Post . Defensive Strategies While Super Barbarians may have decent health (as a tank), they are still vulnerable to high DPS defenses such as the Multi Cannon , that are designed to take down high health troop(s) quickly, especially the Super Giant . Capital Multi Mortars and Bomb Towers are also viable to get rid of hordes of Super Barbarians, the former able to snipe them from a safe distance and the latter able to deal death damage, severely damaging the Super Barbarians. Adding a Capital Mega Mine alongside the Bomb Tower's death damage will destroy a horde of them. Spreading out your outside non-defensive buildings will increase the chances of enemy Super Barbarians losing their enraged bonus upon reaching them, thus making spawn area expansion harder for the opponent. However, make sure they are not too spread out to prevent a player accessing too much deployment space at a time. Because of their low housing space, they are often used to test for your traps. To prevent this, put your Mega Mines and Zap Traps inside the walls of your district. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Rage Movement Speed Increase Rage Damage Increase Super Barbarian Barracks Level Required None Melee (Ground Only) 5 14 0.8s 0.45 tiles Rage 16 70% 1 Level Damage per Second Damage per Hit Hitpoints Super Barbarian Barracks Level 1 120 96 800 1 2 140 112 900 2 3 160 128 1,000 3 4 180 144 1,120 4 5 200 160 1,240 5 History Patch Description May 2, 2022 Added the Super Barbarian to the Clan Capital in its eponymous update, with 5 levels. September 14, 2023 Increased the Super Barbarian's HP at levels 4 and 5: Level 4: 1,100 -> 1,120 Level 5: 1,200 -> 1,240 Gallery Super Barbarian Icon Trivia General You can have a maximum of 50 Super Barbarians at one time in a complete set of fully upgraded Army Camps . The Super Barbarian is called \"Elite Barbarian\" in the game files. However, it is the level 6-7 regular Barbarian , rather than the Super Barbarian, that shares the Iron Helmet with the Clash Royale Elite Barbarians . In their artwork, they have a red border on their headpiece but in battle, the border is not there. The Super Barbarian's features (long hair, headband, and a shoulder armor) are based on barbarians' stereotypes. The Super Barbarian's ability is similar to that of the Raged Barbarian from the Builder Base. On their belt, they have an emblem resembling a standard skull, not a Super Troops skull. This may be because in the Super Giant description, they have a Super Troop logo belt that is from an eating contest, and the Super Barbarians probably did not win one. Additionally, it appears to resemble the \"Miniature\" Super Troop logo from the early stages of the Super Sauna . Comparisons The Super Barbarian, Super Giant , Sneaky Goblin , and Super Wall Breaker were the first Super Troops to be added in the game. The Super Barbarian is one of the five units associated with Barbarians , the others being the Raged Barbarian, Barbarian King , Battle Ram , and the Pumpkin Barbarian . The Super Barbarian is one of the 4 troops to have a spell-like effect when deployed, including the Baby Dragon , Raged Barbarian, and Rocket Balloon . The Super Barbarian, along with the Sneaky Goblin, Rocket Balloon, and Super Minion are the only Super Troops to have abilities that are temporary. Clan Capital Army Troops Super Barbarian • Sneaky Archers • Super Giant • Battle Ram ( Barbarian ) • Minion Horde • Super Wizard • Rocket Balloons • Skeleton Barrels ( Skeleton )  • Flying Fortress ( Skeleton Glider • Skeleton ) • Raid Cart ( Siege Cart • Barbarian ) • Power P.E.K.K.A • Hog Raiders • Super Dragon • Mountain Golem • Inferno Dragon • Super Miner • Mega Sparky Spells Healing Spell • Jump Spell • Lightning Spell • Frost Spell • Rage Spell • Graveyard Spell • Endless Haste Spell"
+}

@@ -1,0 +1,108 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Housing Space": "18",
+        "Movement Speed": "0 (Cannot move)",
+        "Lifetime": "60s",
+        "Dark Barracks Level Required": "12"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Firemites Spawned": "19",
+        "Hitpoints": "1,530",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Firemites Spawned": "20",
+        "Hitpoints": "1,620",
+        "Research Cost": "200,000",
+        "Research Time": "9d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "3",
+        "Firemites Spawned": "21",
+        "Hitpoints": "1,710",
+        "Research Cost": "260,000",
+        "Research Time": "11d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "4",
+        "Firemites Spawned": "22",
+        "Hitpoints": "1,800",
+        "Research Cost": "320,000",
+        "Research Time": "15d",
+        "Laboratory Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Patch": "March 23, 2025",
+        "Type": "Sneak Peek",
+        "Description": "Announced the Furnace, with 4 levels, which takes time to train."
+      },
+      {
+        "Patch": "March 24, 2025",
+        "Type": "Update",
+        "Description": "Added the Furnace."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Defensive Furnace now does a bit less damage to the attacking troops."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Furnace_deploy.ogg",
+        "Captions": "Furnace deploys",
+        "Description": "When the Furnace is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Furnace_die.ogg",
+        "Captions": "Furnace destroyed",
+        "Description": "When the Furnace is destroyed (after being taken out by defenses, traps or depleting heath over time)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"The Furnace doesn’t move, but it does spawn Firemites over time that target Buildings . These curious little guys leave pools of fire where they visit!\" Level 1 Level 2 Level 3 Level 4 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 6.1 Unique 7 Gallery 7.1 Artwork 8 Trivia 8.1 General 8.2 Comparisons Summary The Furnace is the twelfth Dark Elixir troop unlocked at Dark Barracks level 12, which requires Town Hall level 15. When deployed, it stays still, summoning Firemites which deal splash damage to any Buildings, dealing damage over time. It lasts for one minute, where it will be destroyed after its timer is up or by defense and will not deploy the remaining troops, much like the Siege Barracks . The Firemites' spawn rate is based on a time interval and not the Furnace's health. If defenses or Traps damage the Furnace, it can potentially lose out on units spawned, just like the Siege Barracks. Typically, if the Furnace remains untouched, it will spawn all of its Firemites while having a little under 10% of its hitpoints remaining as a buffer. The Furnace can be healed, but not by a Healer or Unicorn (neither will attempt to target it). Since the Troop Launcher also carries Healer AI, it will not target Furnaces either. If there are no targets for Firemites, the Furnace will keep spawning anyway with the Firemites standing still. On defense, the Furnace will spawn Firemites at the usual rate, but it will pause its spawning of Firemites if there are no attacking troops available on the field to prevent wasting them. It will still undergo its decay when this happens, thus it is possible that Furnaces may spawn fewer Firemites overall even if undamaged. The Furnace will not stop spawning Firemites if frozen by a Freeze Spell or an Ice Block Spell , regardless if it's on offense or defense. Strategies Offensive Strategies Placing the Furnace in a corner can help funnel troops into the core of an enemy village, similar to troops like Baby Dragon , Dragon Rider , or Flame Flinger , as well as maximize its effectiveness and combat lifespan during the battle. Be careful of Hidden Teslas , though, as they will damage them significantly. A Poison Spell can deal heavy damage to Furnaces if they are spawned from an enemy Clan Castle , as well as quickly eradicating the Firemites that spawn. Avoid using Freeze Spells on Furnaces, though, as they will continue to spawn Firemites even while frozen. Overgrowth Spells have no effect on them, either. Totem Spells can prove useful for distracting the Firemites that spawn and potentially keeping your troops away from them if you have enough of these spells to spare. Defensive Strategies If a Furnace is deployed in the corner of the base, a Hidden Tesla can repeatedly zap it, surprising the opponent and significantly reducing the Furnace's lifespan. Furnaces can make great Clan Castle troops, helping to support the other troops defending the village from attackers. Since the Furnace is stationary and does not move, it will remain at the Clan Castle while it spawns Firemites to pursue attacking troops and Heroes . As Furnaces can spawn multiple Firemites, they can deal burning damage to attacking troops, draining their health and distracting them at the same time continously, effectively preventing the player from being able to take out defenses and forcing them to take out one Firemite after another. Additionally, the Firemite's damage over time can easily wipe out groups of small units, and may also take out Healers if the opponent messes up in a Queen Charge or a Warden Walk. However, beware if the attacker has a Poison Spell , as it can deal heavy damage to Furnaces, heavily mitigating its impacts. Upgrade Differences The Furnace undergoes minor visual changes at all levels. Initially, the Furnace is a cubic, metal blast furnace with burning coal on the inside, which is protected by a grate-like door at the front, and has a cauldron on top, which is filled with lava. It has one metal ring on each side and has stone slabs at the bottom, as well as a wooden platform with wheels and wooden planks on each side reinforced by small metal plates. At level 2, the Furnace gains golden spikes at the top corners of the blast furnace. At level 3, the Furnace's lava inside the cauldron begins to spike up. At level 4, the Furnace's metal rings become golden. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Housing Space Movement Speed Lifetime Dark Barracks Level Required 18 0 (Cannot move) 60s 12 Level Firemites Spawned Hitpoints Research Cost Research Time Laboratory Level Required 1 19 1,530 N/A N/A N/A 2 20 1,620 200,000 9d 13 3 21 1,710 260,000 11d 14 4 22 1,800 320,000 15d 15 History Patch Type Description March 23, 2025 Sneak Peek Announced the Furnace, with 4 levels, which takes time to train. March 24, 2025 Update Added the Furnace. March 27, 2025 Clash Anytime Update Removed training time. October 6, 2025 Ranked Battle Update Defensive Furnace now does a bit less damage to the attacking troops. Audio Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Furnace_deploy.ogg Furnace deploys When the Furnace is deployed https://clashofclans.fandom.com/wiki/File:Furnace_die.ogg Furnace destroyed When the Furnace is destroyed (after being taken out by defenses, traps or depleting heath over time) Gallery Furnace's avatar Info image Info image, but Firemites only Artwork Concept design of the Furnace Trivia General You can have a maximum of 19 Furnaces at one time in a complete set of fully upgraded Army Camps . This number increases to 22 if you include 3 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 8 Furnaces with four level 7 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 30 Furnaces. Despite it having no movement speed, when donated or trained, it will move very slowly on its own towards the Clan Castle . Hitpoint-increasing effects like from the Life Gem will extend the Furnace's lifetime, just like with most other units, since hitpoint decay per second is fixed. The max-level Life Gem is enough to give it about 50% of its HP, which would correspond to a lifetime extension of 50%. Despite being an inanimate object, the Furnace will still show a skeleton after its 'death', along with a black tombstone just like any other Dark Elixir Troop. Comparisons The Furnace is comparable to a troop version of the Flame Flinger , both capable of dealing splash damage and have damage over time effect, but does not deal damage alone, except for its Firemites, that target anything. Additionally, the Firemites can also target and damage aerial units. So far, the Furnace is the only troop in the game that is immobile, not counting Siege Machines like the Siege Barracks and the Troop Launcher . Unlike these Siege Machines, it will be affected by Spells, like being healed by Healing Spells to extend its lifetime for example. The Furnace is one of two troops that occupies 18 housing space, the other being the Yeti . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

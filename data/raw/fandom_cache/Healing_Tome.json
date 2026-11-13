@@ -1,0 +1,185 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Grand Warden",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Blacksmith level 6"
+      }
+    ],
+    [
+      {
+        "Level": "Healing per Second",
+        "Ability Attributes": "Ability Duration",
+        "Hero Boosts": "Hitpoint Increase",
+        "Upgrade Cost": "Health Recovery Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "60",
+        "Hero Boosts": "15.0s",
+        "Upgrade Cost": "92",
+        "Blacksmith Level Required": "165"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "60",
+        "Hero Boosts": "15.0s",
+        "Upgrade Cost": "107",
+        "Blacksmith Level Required": "193"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "70",
+        "Hero Boosts": "16.0s",
+        "Upgrade Cost": "122",
+        "Blacksmith Level Required": "220"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "70",
+        "Hero Boosts": "16.0s",
+        "Upgrade Cost": "137",
+        "Blacksmith Level Required": "248"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "70",
+        "Hero Boosts": "16.0s",
+        "Upgrade Cost": "153",
+        "Blacksmith Level Required": "275"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "80",
+        "Hero Boosts": "17.0s",
+        "Upgrade Cost": "168",
+        "Blacksmith Level Required": "303"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "80",
+        "Hero Boosts": "17.0s",
+        "Upgrade Cost": "183",
+        "Blacksmith Level Required": "330"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "80",
+        "Hero Boosts": "17.0s",
+        "Upgrade Cost": "198",
+        "Blacksmith Level Required": "358"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "100",
+        "Hero Boosts": "18.0s",
+        "Upgrade Cost": "229",
+        "Blacksmith Level Required": "413"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "100",
+        "Hero Boosts": "18.0s",
+        "Upgrade Cost": "280",
+        "Blacksmith Level Required": "463"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "100",
+        "Hero Boosts": "18.0s",
+        "Upgrade Cost": "330",
+        "Blacksmith Level Required": "513"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "120",
+        "Hero Boosts": "19.0s",
+        "Upgrade Cost": "381",
+        "Blacksmith Level Required": "563"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "120",
+        "Hero Boosts": "19.0s",
+        "Upgrade Cost": "432",
+        "Blacksmith Level Required": "613"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "120",
+        "Hero Boosts": "19.0s",
+        "Upgrade Cost": "482",
+        "Blacksmith Level Required": "663"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "140",
+        "Hero Boosts": "19.5s",
+        "Upgrade Cost": "533",
+        "Blacksmith Level Required": "713"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "140",
+        "Hero Boosts": "19.5s",
+        "Upgrade Cost": "584",
+        "Blacksmith Level Required": "763"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "140",
+        "Hero Boosts": "19.5s",
+        "Upgrade Cost": "634",
+        "Blacksmith Level Required": "813"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "150",
+        "Hero Boosts": "20.0s",
+        "Upgrade Cost": "685",
+        "Blacksmith Level Required": "863"
+      }
+    ],
+    [
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the Healing Tome."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Reduced the Healing Tome's ability duration: Levels 1-2: 16.0s -> 15.0s Levels 3-5: 17.5s -> 16.0s Levels 6-8: 19.0s -> 17.0s Levels 9-11: 20.5s -> 18.0s Levels 12-14: 22.0s -> 19.0s Levels 15-17: 23.5s -> 19.5s Levels 18: 25.0s -> 20.0s"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the original spell version, see Heal Spell . \"Heals the Grand Warden and all nearby friendly units\" Summary The Healing Tome is a piece of Common Hero Equipment for the Grand Warden . It is unlocked when the Blacksmith is upgraded to level 6, which requires Town Hall level 13. The Healing Tome appears as a cream-colored book with golden edges and a red heart in the middle, surrounded by a golden edge. The Healing Tome allows the Grand Warden to cast a Healing Spell effect in the area surrounding him when he uses his ability. The area of effect is denoted by a circular ring centered around the Warden. Unlike a conventional Healing Spell, the area of effect of the Healing Tome follows the Grand Warden such as to be centered on him. Heroes (including the Grand Warden himself) also get healed for the full amount unlike most other sources of healing; Siege Machines cannot be affected. In addition, the Healing Tome grants increased hitpoints and massively increases the hitpoints recovery of the ability. Strategies Offensive Strategies It can be used in the core of the base, where the Town Hall's weapon is activated/about to go down, as it will mitigate some of the effects of the death bomb and the damage from the core of the base. It is best used in Balloon pushes, Miner and Hog Rider Hybrid, and Witch spam, as these medium troops will see a lot of noticeable healing as there can be more of them and have enough health to take full advantage of each pulse. Spam strategies can still benefit from it, since the troops used do not have very high HP, and will need constant healing. It can also be used at the core or well defended area, as it will help the troops stay alive for longer. You can also clutch low-hitpoint troops with an early activation to heal such troops if they are very important. It can also protect troops from the Poison Spell Tower, but, unless if you are attacking something important (such as the Eagle Artillery ) or if the troops are important to the attack, then using this ability is not advised for this purpose alone. The Healing Tome's high health recovery stat also protects the Grand Warden, preventing him from being easily defeated during the ability on top of the healing. Even with this and the healing, certain high-damage defenses can still easily defeat him during the ability, such as a single-target Inferno Tower . Make sure the Warden survives for the duration of the ability, otherwise the healing effect will end prematurely. At max level, it will deliver a total 3,000 healing to all troops and heroes (provided that they have stayed in the radius of this ability for the whole duration), which gives it a lot of potential in healing, and it could support your troops in critical situations. At level 6 and above, the Healing Tome can heal the damage done by the fire pools of the Inferno Artillery . If the Healing Tome is combined with the Eternal Tome , healing will be almost completely risk-free as affected units will not be able to take any damage while the Eternal Tome is active. This guarantees that the healing cannot be wasted. Ground units are still vulnerable to Spring Traps during the Eternal Tome duration, and can be lost during the ability period. Do note that the Healing Tome lasts longer than the Eternal Tome at all levels, so only part of the healing is guaranteed. There is also a tendency that if any units walk out of the aura, they will lose the invincibility and healing unless if they return to the range while the Eternal Tome ability is still active. Defensive Strategies Using traps and high damage defense can counter this ability. Its healing per second is not a lot, so they can out-damage the healing in a burst, which can mess up, or even completely stop the attack. Traps and high-damage defenses, if they somehow target the Grand Warden, can end the ability prematurely. The Hook Tower can pull the Warden if he somehow gets targeted, and then gets knocked out by major defenses if the enemy does not pay attention, which may result in a one or two-star, or even the loss of an attack. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Grand Warden Active Common Blacksmith level 6 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Healing per Second Ability Duration Hitpoint Increase Health Recovery Increase Shiny Ore Glowy Ore 1 60 15.0s 92 165 N/A N/A 6 2 60 15.0s 107 193 120 - 6 3 70 16.0s 122 220 240 20 6 4 70 16.0s 137 248 400 - 6 5 70 16.0s 153 275 600 - 6 6 80 17.0s 168 303 840 100 6 7 80 17.0s 183 330 1,120 - 6 8 80 17.0s 198 358 1,440 - 6 9 100 18.0s 229 413 1,800 200 6 10 100 18.0s 280 463 1,900 - 6 11 100 18.0s 330 513 2,000 - 6 12 120 19.0s 381 563 2,100 400 6 13 120 19.0s 432 613 2,200 - 6 14 120 19.0s 482 663 2,300 - 6 15 140 19.5s 533 713 2,400 600 6 16 140 19.5s 584 763 2,500 - 7 17 140 19.5s 634 813 2,600 - 7 18 150 20.0s 685 863 2,700 600 7 History Date Description December 12, 2023 Added the Healing Tome. September 9, 2024 Reduced the Healing Tome's ability duration: Levels 1-2: 16.0s -> 15.0s Levels 3-5: 17.5s -> 16.0s Levels 6-8: 19.0s -> 17.0s Levels 9-11: 20.5s -> 18.0s Levels 12-14: 22.0s -> 19.0s Levels 15-17: 23.5s -> 19.5s Levels 18: 25.0s -> 20.0s Trivia The Healing Tome is the only Hero Equipment that heals all units nearby, ground and air. The Healing Tome reuses the Heal Spell sound effects when the ability is used. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

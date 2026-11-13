@@ -1,0 +1,152 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground & Air)",
+        "Housing Space": "12",
+        "Movement Speed": "24",
+        "Attack Speed": "1.5s",
+        "Range": "6 (Target) 12 (Projectile)",
+        "Special Ability": "Sharp Shot"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Archer Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Level": "8",
+        "Damage per Second": "120",
+        "Damage per Hit": "180",
+        "Hitpoints": "450"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "132",
+        "Damage per Hit": "198",
+        "Hitpoints": "510"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "144",
+        "Damage per Hit": "216",
+        "Hitpoints": "565"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "156",
+        "Damage per Hit": "234",
+        "Hitpoints": "605"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "162",
+        "Damage per Hit": "243",
+        "Hitpoints": "645"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "166",
+        "Damage per Hit": "249",
+        "Hitpoints": "685"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "170",
+        "Damage per Hit": "255",
+        "Hitpoints": "725"
+      }
+    ],
+    [
+      {
+        "June 19, 2020": "August 1, 2020",
+        "Data of the Super Archer was present in the game files.": "The Super Archer appeared in \"It's Time to Get Heavy with the Party King!\" video."
+      },
+      {
+        "June 19, 2020": "August 2, 2020",
+        "Data of the Super Archer was present in the game files.": "\"The Super Archer appeared in Rock On Party King!\" video."
+      },
+      {
+        "June 19, 2020": "Date",
+        "Data of the Super Archer was present in the game files.": "Description"
+      },
+      {
+        "June 19, 2020": "August 24, 2020",
+        "Data of the Super Archer was present in the game files.": "Added the Super Archer, with two distinct levels."
+      },
+      {
+        "June 19, 2020": "October 12, 2020",
+        "Data of the Super Archer was present in the game files.": "Super Archer no longer misses targets within 0.1 tiles of herself."
+      },
+      {
+        "June 19, 2020": "December 7, 2020",
+        "Data of the Super Archer was present in the game files.": "Fixed the Super Archer's info screen to show damage type as \"Area Splash\" instead of \"Single Target\"."
+      },
+      {
+        "June 19, 2020": "January 20, 2021",
+        "Data of the Super Archer was present in the game files.": "Increased hitpoint at level 9 from 500 to 510."
+      },
+      {
+        "June 19, 2020": "April 12, 2021",
+        "Data of the Super Archer was present in the game files.": "Added the level 10 Super Archer."
+      },
+      {
+        "June 19, 2020": "October 10, 2022",
+        "Data of the Super Archer was present in the game files.": "Added the level 11 Super Archer."
+      },
+      {
+        "June 19, 2020": "December 12, 2023",
+        "Data of the Super Archer was present in the game files.": "Added the level 12 Super Archer."
+      },
+      {
+        "June 19, 2020": "February 10, 2025",
+        "Data of the Super Archer was present in the game files.": "Added the level 13 Super Archer."
+      },
+      {
+        "June 19, 2020": "March 27, 2025",
+        "Data of the Super Archer was present in the game files.": "Removed training time."
+      },
+      {
+        "June 19, 2020": "January 28, 2026",
+        "Data of the Super Archer was present in the game files.": "Increased hitpoints at levels 10 to 13: Level 10: 550 -> 565 Level 11: 575 -> 605 Level 12: 600 -> 645 Level 13: 625 -> 685"
+      },
+      {
+        "June 19, 2020": "February 23, 2026",
+        "Data of the Super Archer was present in the game files.": "Added the level 14 Super Archer."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her base version, see Archer . \"Having achieved serious arm strength, the Super Archer can now threaten targets several buildings away.\" Levels 8-14 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Gallery 6 Trivia 6.1 Comparisons Summary The Super Archer is a Super Troop based on the Archer . It can be unlocked by boosting the Archer when the Archer is at least level 8. Boosting the Archer requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Archer to be boosted for 3 days. The level of Super Archer you obtain from the boost corresponds to the level of Archer you have. In her artwork, the Super Archer appears to be similar to that of the regular Archer , but bigger and is smaller than the Archer Queen in terms of size. Her pink hair appears to be longer in size and now wears a golden mask with glowing blue eyes. On the left side of her waist, she has a larger leather bag, and her bow and arrows are now white with a sky blue glow. The Super Archer is a long-ranged unit that fires arrows that are able to penetrate through multiple buildings at once, dealing damage to all of them at once. Because of the level requirement, players require Town Hall 11 in order to boost Archers into Super Archers. However, because of the Laboratory level cap, players require a level 5 Clan Castle or greater in order to get donated one, allowing anyone Town Hall 9 or above to get one. Super Archers have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Archers will proceed to attack the nearest structure. Strategies Offensive Strategies Super Archers can be used similar to Bowlers , in the fact that you can snipe off buildings that are in line with others. Super Archers are even better than Bowlers for this, as they can snipe off almost any building without being targeted. The Scattershot is a notable one. If the Super Archer is allowed to target buildings normally, her arrows will reach about the same distance as the Bowler's boulders. However, because the Super Archer has a longer range (and because her arrow travels a fixed distance), her arrows have the potential to travel further from the initial target if she is placed closer to the target. Doing so compromises her range advantage, but allows her to hit more buildings. Due to having decent health, Super Archers can benefit well from Healers , Druids , and Healing Spells . Their extra range makes them able to safely attack air defenses without the Healers getting attacked. Super Archers can be used in a smash-style strategy. With a Queen Walk on one side, a Siege Barracks , and something for a deeper funnel on the other, the Super Archers have a tight funnel and will destroy the base. Placing Witches with the Super Archers can help prolong their lifespan and also tank for them. The Super Archers can also outrange certain defenses as well, which is the reason why the strategy works. Super Archers are very vulnerable to Giant Bombs , but can move quickly through a base. Use quick tanks like the Valkyries to go in front of the Super Archers to trigger the Giant Bombs. However, Valkyries should not be your only tank for the Super Archers. The Super Archer may activate the Giga Weapons if the arrow pierces through them. This may be helpful if you want to direct defense targeting troops like Hog Riders towards it, but it could also backfire, as an early activation will cause significant damage to the rest of the army. The Super Archer has an arrow range of 11.5 tiles, but the Super Archer can only see 6 tiles. So, if positioned correctly, it can outrange every single defense except a Ground mode X-Bow or an Eagle Artillery (if activated). Defensive Strategies Defending against the Super Archer's pierce value is pretty simple: include higher HP buildings in the back. This will force the Super Archer to either move in and get targeted or target a different building and not attack multiple. Also, consider placing one or two Heroes near the outside. They can then target the Super Archers and quickly defeat them. However, if the Super Archers are supported by a melee troop like the Barbarian King or a Yeti , then the Heroes are likely to target the melee troop unless placed well. Defending against mass Super Archers are simple. Try to protect some Cannons and Mortars that are on the outside with an Air Defense . Also, separate defenses from Scattershots to minimize value from attacking Zapquakes. Super Archers do not serve much value on defense since they take a large amount of space, do small damage, and have small HP for their space. You cannot snipe Healers in a Queen Walk or a Warden Walk, either. High-damage splash or multi-targeting defenses can destroy Super Archers in one (mostly) or two (sometimes) shots, with the notable ones being the Mortar, Eagle Artillery , Scattershot, and Multi-Archer Tower . Having Super Archers split up can easily destroy them, even if supported by Healers. They will focus on one group while the others get blasted. Having extra trash buildings can split Super Archers on the sides, but make sure to defend pierce value. However, for the Druids , this does not happen too often, since his healing can bounce to other Super Archers, unless if they stray too far away. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability None Ranged (Ground & Air) 12 24 1.5s 6 (Target) 12 (Projectile) Sharp Shot Boost Cost Boost Duration Archer Level Required 25,000 3d 8 Level Damage per Second Damage per Hit Hitpoints 8 120 180 450 9 132 198 510 10 144 216 565 11 156 234 605 12 162 243 645 13 166 249 685 14 170 255 725 History June 19, 2020 Data of the Super Archer was present in the game files. August 1, 2020 The Super Archer appeared in \"It's Time to Get Heavy with the Party King!\" video. August 2, 2020 \"The Super Archer appeared in Rock On Party King!\" video. Date Description August 24, 2020 Added the Super Archer, with two distinct levels. October 12, 2020 Super Archer no longer misses targets within 0.1 tiles of herself. December 7, 2020 Fixed the Super Archer's info screen to show damage type as \"Area Splash\" instead of \"Single Target\". January 20, 2021 Increased hitpoint at level 9 from 500 to 510. April 12, 2021 Added the level 10 Super Archer. October 10, 2022 Added the level 11 Super Archer. December 12, 2023 Added the level 12 Super Archer. February 10, 2025 Added the level 13 Super Archer. March 27, 2025 Removed training time. January 28, 2026 Increased hitpoints at levels 10 to 13: Level 10: 550 -> 565 Level 11: 575 -> 605 Level 12: 600 -> 645 Level 13: 625 -> 685 February 23, 2026 Added the level 14 Super Archer. Gallery Super Archer's avatar Concept designs of Super Archer. 3D model of Super Archer. Super Archer Explained - New Troop (Clash of Clans) Trivia You can have a maximum of 29 Super Archers at one time in a complete set of fully upgraded Army Camps . This number increases to 33 if you include 4 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 16 Super Archers with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 49 Super Archers. The Super Archer is based on the Magic Archer from Clash Royale . They even share the same bow and glowing eyes. In the artwork, her hair is pink, in battle, however, her hair is purple. In the description, it says that the Super Archer has gained serious arm strength. However, in both the artwork and in game, her arms are almost exactly the same as a normal Archer's and shows no sign of growth. It is likely that the description refers to her improved arm agility or the fact that unlike the normal Archer, her arrows can pierce through buildings. Like with the Giant Cannon , Log Launcher , Spring Trap , and Azure Dragon , any troop that would be one-shot by the Super Archer would be sent off flying off the map. The Super Archer was briefly shown in the Party King skin release video and was originally a subject of debate as to whether she existed due to the fact that it had not been formally announced at that point. She had been present in game files since the June 2020 update (when the Inferno Dragon and Super Witch were made available). Super Archers have a much bigger bow compared to their size than Archers do, about the size ratio of the Archer Queen and her modified X-Bow . The color of the arrows shot by the Super Archer are identical to the color of the Level 8 X-Bow shots, being cyan. However, her bow is white. The Super Form of the Archer in Squad Busters resembles the Super Archer in Clash of Clans , except that she wears blue clothing and has a green cape with a golden line at the end, her eyes do not glow, and the bow she wields resembles to that of her Ultra Form. Comparisons Super Archers are the only troop with a range long enough such that when directly attacking an Air Defense , the Air Defense will not attack a Healer while the Healer heals the Super Archer. The only other army members to do this are the Grand Warden and Archer Queen . The Super Archer is one of the three troops associated with Archers , the others being the Archer Queen and Sneaky Archer . The Super Archer, along with the Sneaky Goblin , Rocket Balloon , Super Minion , and Super Bowler are the only Super Troops to have icons that are used from the info image. The Super Archer is one of the troop that can snipe a Ground and Air X-Bow without being attacked due to its Sharp Shot. However, she must be attacking another building to do so, and is out of range of the X-Bow. The other being the Minion Prince with the Noble Iron at level 12 or above. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

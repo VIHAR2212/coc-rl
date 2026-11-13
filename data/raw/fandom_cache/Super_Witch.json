@@ -1,0 +1,138 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash",
+        "Housing Space": "40",
+        "Movement Speed": "12",
+        "Attack Speed": "0.7s",
+        "Range": "4 tiles",
+        "Special Ability": "Big Boy"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Witch Level Required": "5"
+      }
+    ],
+    [
+      {
+        "Level": "1*",
+        "Damage per Second": "240",
+        "Damage per Attack": "168",
+        "Hitpoints": "2,400"
+      },
+      {
+        "Level": "2*",
+        "Damage per Second": "270",
+        "Damage per Attack": "189",
+        "Hitpoints": "2,600"
+      },
+      {
+        "Level": "3*",
+        "Damage per Second": "300",
+        "Damage per Attack": "210",
+        "Hitpoints": "2,800"
+      },
+      {
+        "Level": "4*",
+        "Damage per Second": "330",
+        "Damage per Attack": "231",
+        "Hitpoints": "3,000"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "360",
+        "Damage per Attack": "252",
+        "Hitpoints": "3,200"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "390",
+        "Damage per Attack": "273",
+        "Hitpoints": "3,400"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "430",
+        "Damage per Attack": "301",
+        "Hitpoints": "3,750"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "470",
+        "Damage per Attack": "329",
+        "Hitpoints": "4,100"
+      }
+    ],
+    [
+      {
+        "Date": "June 20, 2020",
+        "Description": "Announced the Super Witch, with one distinct level."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Description": "Added the Super Witch."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Reduced training time from 20m to 13m 20s."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added the level 6 Super Witch."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 7 Super Witch."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced training time from 6m 40s to 5m 33s."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "January 12, 2026",
+        "Description": "Increase hitpoint at level 7 from 3,600 to 3,750. Increase damage at level 7 from 420 to 430."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 8 Super Witch."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her base version, see Witch . \"Focused magic creates focused results. Instead of summoning hordes of tiny Skeletons , Super Witch summons just one really big skeleton with very formidable bone density.\" Level 5-8 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Gallery 6 Trivia 6.1 Comparisons Summary The Super Witch is a Super Troop based on the Witch . It can be unlocked by boosting the Witch when the Witch is at least level 5. The Super Witch resembles the regular Witch's appearance, but she has a yellow part-skull mask with horns on the top of her cape, her wristbands are also golden, and has a much longer cape. She wears a golden belt with the Super Troop logo and an orange sash with golden outlines, has two gold shoulder guards, and a more light purple raggedy skirt (in her artwork). On her staff, the goat skull is replaced by the skull of the Big Boy. Super Witches have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Witches will proceed to attack the nearest structure. Boosting the Witch requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Witch to be boosted for 3 days. The level of Super Witch you obtain from the boost corresponds to the level of Witch you have. Because of the level requirement, players require Town Hall 12 in order to boost Witches into Super Witches. However, players require a level 8 Clan Castle or greater in order to get donated one, meaning that the troop is only accesible at Town Hall 12 or higher. Instead of spawning hordes of Skeletons , which have low damage and health, but come in high numbers, the Super Witch spawns a single giant skeleton known as the Big Boy that possesses high damage and hitpoints. She can only have one Big Boy active at any one time, though she can summon another if her Big Boy is destroyed. Strategies Offensive Strategies Contrasting to normal Witches (which are weak to splash and multi-target damage), the Super Witch is weak to single-target damage. She is thus more suited to take on areas with high area damage capability like Wizard Towers and Multi-Target Inferno Towers than normal Witches. Unlike other strategies relying on smaller units where one troop dying is not the end, each Super Witch that dies is a 40 housing space loss, so protect each one with care using healing troops such as Healers and Druids . Super Witches work very well in a Smash-style attack. Each Big Boy tanks for the others, also giving the Super Witches time to spawn new Big Boys. Given pathing, they can smash the center of the base. Compared to normal Witches, her spawning the Big Boy takes slightly longer after she is deployed. Place the Super Witch out of defenses' range so she gets time to spawn the Big Boy to tank hits. The Eagle Artillery is likely to target Super Witches if unaccompanied by other high-health units. The Barbarian King is a good way to distract the Eagle Artillery but you should make sure to deploy him before the Eagle Artillery activates. Funneling the Super Witch and her Big Boy is important so that they are directed towards important buildings. Consider bringing some funneling troops (like Wizards ) or perform a Hero Walk to set up the funnel. A well placed Super Witch can funnel herself if needed. Freeze Spells and Lightning Spells are great to stop the single-target Inferno Towers and other high-damaging defenses to buy her and her Big Boy some time to take them down. Defensive Strategies Super Witches are extremely vulnerable to single-target Inferno Towers and Monoliths . Set them on single-target mode and it will be easier to defend against them. Super Witches are also vulnerable to Ricochet Cannons , Monoliths , Firespitters and Fast Attack Multi-Gear Towers if they target them, especially if they are enraged by a Rage Spell Tower , so long as you spread them well to prevent getting extra value from the attacker's Freeze or Overgrowth Spells . Due to the extra long initial spawning time of the Big Boy , try to make sure all (or most) non-defensive buildings are nearby a defense, so they can lock on to the Super Witch before the Big Boy spawns. Each Super Witch is worth 1/8th of a full army. Try to include multiple paths at any given point to split them up, and preferably away from the core of your base. The Super Witch can take up all of a Clan Castle or leave 5-15 housing space, leaving not much to cover her weaknesses, making her a poor defending Clan Castle troop. Often, you should rely on choices like the Electro Dragon instead. Super Witches cover for each other in terms of their Big Boy and them summoning. Having a large, open base will cause the Big Boys to split and leave the Super Witches vulnerable. A single P.E.K.K.A is a good counter to the Super Witch. She is strong due to her massive damage and can only prevail if she targets the Super Witch first. However, with the aid of defenses, the former will win against the latter with ease. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability None Area Splash 40 12 0.7s 4 tiles Big Boy Boost Cost Boost Duration Witch Level Required 25,000 3d 5 Level Damage per Second Damage per Attack Hitpoints 1* 240 168 2,400 2* 270 189 2,600 3* 300 210 2,800 4* 330 231 3,000 5 360 252 3,200 6 390 273 3,400 7 430 301 3,750 8 470 329 4,100 *Levels 1 through 4 are only accessible in the Super Witch Mini Spotlight event. History Date Description June 20, 2020 Announced the Super Witch, with one distinct level. June 22, 2020 Added the Super Witch. April 12, 2021 Reduced training time from 20m to 13m 20s. October 10, 2022 Added the level 6 Super Witch. December 12, 2023 Added the level 7 Super Witch. February 10, 2025 Reduced training time from 6m 40s to 5m 33s. March 27, 2025 Removed training time. January 12, 2026 Increase hitpoint at level 7 from 3,600 to 3,750. Increase damage at level 7 from 420 to 430. February 23, 2026 Added the level 8 Super Witch. Gallery Super Witch icon Super Witch concepts More Super Witch concepts 3D model of Super Witch Trivia You can have a maximum of 8 Super Witches at one time in a complete set of fully upgraded Army Camps . This number increases to 9 if you include 1 that can fit into a level 8 or higher Clan Castle . On the battlefield, you can clone an additional 4 Super Witches with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 13 Super Witches. The Super Witch was accidentally leaked by one of the developers, although nothing at all was known with the leak, only the existence. Comparisons The Super Witch takes up 40 housing space, which is the highest in the game, tied with the Meteor Golem , Ice Hound , and Super Dragon . The Evolved Witch in Clash Royale has similar mechanics and appearance similar to that of the Super Witch, except she has drastically reduced hitpoints and summons regular Skeletons, but these summoned units heal her when they are destroyed, and also grant her overheal if she has full health. The Super Witch, along with the Inferno Dragon and Ice Hound are the only Super Troops to have unique sounds when deployed, attacking, and dying. The Ultra Form of the Witch in Squad Busters resembles the Super Witch in Clash of Clans , except her skirt has golden outlines at the bottom, and retains the skull on her belt from the regular Witch, her gloves have a skeleton skull on each of them, and her staff still retains its appearance from the Super Witch's base form, but the skull is thicker and has blue glowing eyes with golden horns, with a blue crystal poking out from the top of its head. The Super Witch is one of the Super Troops to have a Super Troop logo, the others being the Super Giant , Rocket Balloon , Super Wizard , Super Valkyrie , and Super Bowler . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

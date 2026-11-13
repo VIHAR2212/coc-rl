@@ -1,0 +1,2525 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Melee (Ground Only)",
+        "Movement Speed": "16",
+        "Attack Speed": "1.2s",
+        "Range": "1 tile",
+        "Search Radius": "9 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second*": "51",
+        "Damage per Hit": "61.2",
+        "Hitpoints*": "722.5",
+        "Health Recovery": "100",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "76.5",
+        "Damage per Second*": "91.8",
+        "Damage per Hit": "1,083.75",
+        "Hitpoints*": "150",
+        "Health Recovery": "N/A",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "1",
+        "Hero Hall Level Required": "5"
+      },
+      {
+        "Level": "102",
+        "Damage per Second*": "122.4",
+        "Damage per Hit": "1,445",
+        "Hitpoints*": "200",
+        "Health Recovery": "N/A",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "1",
+        "Hero Hall Level Required": "6"
+      },
+      {
+        "Level": "2",
+        "Damage per Second*": "104",
+        "Damage per Hit": "124.8",
+        "Hitpoints*": "1,481",
+        "Health Recovery": "200",
+        "Upgrade Cost": "5,000",
+        "Upgrade Time": "2h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "3",
+        "Damage per Second*": "105",
+        "Damage per Hit": "126",
+        "Hitpoints*": "1,518",
+        "Health Recovery": "200",
+        "Upgrade Cost": "5,500",
+        "Upgrade Time": "4h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "4",
+        "Damage per Second*": "108",
+        "Damage per Hit": "129.6",
+        "Hitpoints*": "1,556",
+        "Health Recovery": "200",
+        "Upgrade Cost": "6,000",
+        "Upgrade Time": "8h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage per Second*": "110",
+        "Damage per Hit": "132",
+        "Hitpoints*": "1,595",
+        "Health Recovery": "250",
+        "Upgrade Cost": "6,500",
+        "Upgrade Time": "10h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "6",
+        "Damage per Second*": "112",
+        "Damage per Hit": "134.4",
+        "Hitpoints*": "1,635",
+        "Health Recovery": "250",
+        "Upgrade Cost": "7,000",
+        "Upgrade Time": "12h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second*": "115",
+        "Damage per Hit": "138",
+        "Hitpoints*": "1,675",
+        "Health Recovery": "250",
+        "Upgrade Cost": "7,500",
+        "Upgrade Time": "14h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "8",
+        "Damage per Second*": "116",
+        "Damage per Hit": "139.2",
+        "Hitpoints*": "1,717",
+        "Health Recovery": "250",
+        "Upgrade Cost": "8,000",
+        "Upgrade Time": "16h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "9",
+        "Damage per Second*": "119",
+        "Damage per Hit": "142.8",
+        "Hitpoints*": "1,760",
+        "Health Recovery": "250",
+        "Upgrade Cost": "8,500",
+        "Upgrade Time": "18h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "10",
+        "Damage per Second*": "122",
+        "Damage per Hit": "146.4",
+        "Hitpoints*": "1,805",
+        "Health Recovery": "310",
+        "Upgrade Cost": "10,000",
+        "Upgrade Time": "20h",
+        "Hero Hall Level Required": "1",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "11",
+        "Damage per Second*": "124",
+        "Damage per Hit": "148.8",
+        "Hitpoints*": "1,850",
+        "Health Recovery": "310",
+        "Upgrade Cost": "10,500",
+        "Upgrade Time": "22h",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "12",
+        "Damage per Second*": "127",
+        "Damage per Hit": "152.4",
+        "Hitpoints*": "1,896",
+        "Health Recovery": "310",
+        "Upgrade Cost": "11,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "13",
+        "Damage per Second*": "129",
+        "Damage per Hit": "154.8",
+        "Hitpoints*": "1,943",
+        "Health Recovery": "310",
+        "Upgrade Cost": "11,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "14",
+        "Damage per Second*": "132",
+        "Damage per Hit": "158.4",
+        "Hitpoints*": "1,992",
+        "Health Recovery": "310",
+        "Upgrade Cost": "12,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "15",
+        "Damage per Second*": "134",
+        "Damage per Hit": "160.8",
+        "Hitpoints*": "2,042",
+        "Health Recovery": "375",
+        "Upgrade Cost": "12,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second*": "137",
+        "Damage per Hit": "164.4",
+        "Hitpoints*": "2,093",
+        "Health Recovery": "375",
+        "Upgrade Cost": "13,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second*": "139",
+        "Damage per Hit": "166.8",
+        "Hitpoints*": "2,145",
+        "Health Recovery": "375",
+        "Upgrade Cost": "13,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "18",
+        "Damage per Second*": "143",
+        "Damage per Hit": "171.6",
+        "Hitpoints*": "2,198",
+        "Health Recovery": "375",
+        "Upgrade Cost": "14,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "19",
+        "Damage per Second*": "145",
+        "Damage per Hit": "174",
+        "Hitpoints*": "2,253",
+        "Health Recovery": "375",
+        "Upgrade Cost": "14,500",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "20",
+        "Damage per Second*": "148",
+        "Damage per Hit": "177.6",
+        "Hitpoints*": "2,309",
+        "Health Recovery": "450",
+        "Upgrade Cost": "15,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "2",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "21",
+        "Damage per Second*": "151",
+        "Damage per Hit": "181.2",
+        "Hitpoints*": "2,367",
+        "Health Recovery": "450",
+        "Upgrade Cost": "17,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "22",
+        "Damage per Second*": "154",
+        "Damage per Hit": "184.8",
+        "Hitpoints*": "2,427",
+        "Health Recovery": "450",
+        "Upgrade Cost": "19,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "23",
+        "Damage per Second*": "157",
+        "Damage per Hit": "188.4",
+        "Hitpoints*": "2,487",
+        "Health Recovery": "450",
+        "Upgrade Cost": "21,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "24",
+        "Damage per Second*": "161",
+        "Damage per Hit": "193.2",
+        "Hitpoints*": "2,549",
+        "Health Recovery": "450",
+        "Upgrade Cost": "23,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "25",
+        "Damage per Second*": "164",
+        "Damage per Hit": "196.8",
+        "Hitpoints*": "2,613",
+        "Health Recovery": "525",
+        "Upgrade Cost": "25,000",
+        "Upgrade Time": "1d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "26",
+        "Damage per Second*": "167",
+        "Damage per Hit": "200.4",
+        "Hitpoints*": "2,678",
+        "Health Recovery": "525",
+        "Upgrade Cost": "27,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "27",
+        "Damage per Second*": "170",
+        "Damage per Hit": "204",
+        "Hitpoints*": "2,746",
+        "Health Recovery": "525",
+        "Upgrade Cost": "29,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "28",
+        "Damage per Second*": "173",
+        "Damage per Hit": "207.6",
+        "Hitpoints*": "2,814",
+        "Health Recovery": "525",
+        "Upgrade Cost": "31,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "29",
+        "Damage per Second*": "177",
+        "Damage per Hit": "212.4",
+        "Hitpoints*": "2,885",
+        "Health Recovery": "525",
+        "Upgrade Cost": "33,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "30",
+        "Damage per Second*": "181",
+        "Damage per Hit": "217.2",
+        "Hitpoints*": "2,956",
+        "Health Recovery": "625",
+        "Upgrade Cost": "35,000",
+        "Upgrade Time": "2d",
+        "Hero Hall Level Required": "3",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "31",
+        "Damage per Second*": "184",
+        "Damage per Hit": "220.8",
+        "Hitpoints*": "3,030",
+        "Health Recovery": "625",
+        "Upgrade Cost": "37,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "32",
+        "Damage per Second*": "188",
+        "Damage per Hit": "225.6",
+        "Hitpoints*": "3,107",
+        "Health Recovery": "625",
+        "Upgrade Cost": "39,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "33",
+        "Damage per Second*": "192",
+        "Damage per Hit": "230.4",
+        "Hitpoints*": "3,184",
+        "Health Recovery": "625",
+        "Upgrade Cost": "41,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "34",
+        "Damage per Second*": "196",
+        "Damage per Hit": "235.2",
+        "Hitpoints*": "3,264",
+        "Health Recovery": "625",
+        "Upgrade Cost": "43,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "35",
+        "Damage per Second*": "200",
+        "Damage per Hit": "240",
+        "Hitpoints*": "3,346",
+        "Health Recovery": "725",
+        "Upgrade Cost": "45,000",
+        "Upgrade Time": "2d 6h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "36",
+        "Damage per Second*": "203",
+        "Damage per Hit": "243.6",
+        "Hitpoints*": "3,429",
+        "Health Recovery": "725",
+        "Upgrade Cost": "47,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "37",
+        "Damage per Second*": "207",
+        "Damage per Hit": "248.4",
+        "Hitpoints*": "3,515",
+        "Health Recovery": "725",
+        "Upgrade Cost": "49,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "38",
+        "Damage per Second*": "212",
+        "Damage per Hit": "254.4",
+        "Hitpoints*": "3,602",
+        "Health Recovery": "725",
+        "Upgrade Cost": "51,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "39",
+        "Damage per Second*": "216",
+        "Damage per Hit": "259.2",
+        "Hitpoints*": "3,692",
+        "Health Recovery": "725",
+        "Upgrade Cost": "53,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "40",
+        "Damage per Second*": "220",
+        "Damage per Hit": "264",
+        "Hitpoints*": "3,785",
+        "Health Recovery": "850",
+        "Upgrade Cost": "55,000",
+        "Upgrade Time": "2d 12h",
+        "Hero Hall Level Required": "4",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "41",
+        "Damage per Second*": "234",
+        "Damage per Hit": "280.8",
+        "Hitpoints*": "3,879",
+        "Health Recovery": "850",
+        "Upgrade Cost": "58,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "42",
+        "Damage per Second*": "239",
+        "Damage per Hit": "286.8",
+        "Hitpoints*": "3,976",
+        "Health Recovery": "850",
+        "Upgrade Cost": "61,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "43",
+        "Damage per Second*": "244",
+        "Damage per Hit": "292.8",
+        "Hitpoints*": "4,076",
+        "Health Recovery": "850",
+        "Upgrade Cost": "64,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "44",
+        "Damage per Second*": "249",
+        "Damage per Hit": "298.8",
+        "Hitpoints*": "4,178",
+        "Health Recovery": "850",
+        "Upgrade Cost": "67,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "45",
+        "Damage per Second*": "254",
+        "Damage per Hit": "304.8",
+        "Hitpoints*": "4,282",
+        "Health Recovery": "980",
+        "Upgrade Cost": "70,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "46",
+        "Damage per Second*": "259",
+        "Damage per Hit": "310.8",
+        "Hitpoints*": "4,389",
+        "Health Recovery": "980",
+        "Upgrade Cost": "73,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "47",
+        "Damage per Second*": "265",
+        "Damage per Hit": "318",
+        "Hitpoints*": "4,499",
+        "Health Recovery": "980",
+        "Upgrade Cost": "76,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "48",
+        "Damage per Second*": "270",
+        "Damage per Hit": "324",
+        "Hitpoints*": "4,611",
+        "Health Recovery": "980",
+        "Upgrade Cost": "79,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "49",
+        "Damage per Second*": "276",
+        "Damage per Hit": "331.2",
+        "Hitpoints*": "4,727",
+        "Health Recovery": "980",
+        "Upgrade Cost": "82,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "50",
+        "Damage per Second*": "282",
+        "Damage per Hit": "338.4",
+        "Hitpoints*": "4,845",
+        "Health Recovery": "1,125",
+        "Upgrade Cost": "85,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "5",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "51",
+        "Damage per Second*": "288",
+        "Damage per Hit": "345.6",
+        "Hitpoints*": "4,967",
+        "Health Recovery": "1,125",
+        "Upgrade Cost": "86,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "52",
+        "Damage per Second*": "294",
+        "Damage per Hit": "352.8",
+        "Hitpoints*": "5,092",
+        "Health Recovery": "1,125",
+        "Upgrade Cost": "87,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "53",
+        "Damage per Second*": "300",
+        "Damage per Hit": "360",
+        "Hitpoints*": "5,219",
+        "Health Recovery": "1,125",
+        "Upgrade Cost": "88,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "54",
+        "Damage per Second*": "307",
+        "Damage per Hit": "368.4",
+        "Hitpoints*": "5,350",
+        "Health Recovery": "1,125",
+        "Upgrade Cost": "89,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "55",
+        "Damage per Second*": "314",
+        "Damage per Hit": "376.8",
+        "Hitpoints*": "5,484",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "90,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "56",
+        "Damage per Second*": "320",
+        "Damage per Hit": "384",
+        "Hitpoints*": "5,622",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "93,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "57",
+        "Damage per Second*": "327",
+        "Damage per Hit": "392.4",
+        "Hitpoints*": "5,763",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "96,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "58",
+        "Damage per Second*": "334",
+        "Damage per Hit": "400.8",
+        "Hitpoints*": "5,908",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "99,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "59",
+        "Damage per Second*": "341",
+        "Damage per Hit": "409.2",
+        "Hitpoints*": "6,055",
+        "Health Recovery": "1,300",
+        "Upgrade Cost": "102,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "60",
+        "Damage per Second*": "349",
+        "Damage per Hit": "418.8",
+        "Hitpoints*": "6,208",
+        "Health Recovery": "1,490",
+        "Upgrade Cost": "105,000",
+        "Upgrade Time": "3d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "61",
+        "Damage per Second*": "355",
+        "Damage per Hit": "426",
+        "Hitpoints*": "6,363",
+        "Health Recovery": "1,490",
+        "Upgrade Cost": "107,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "62",
+        "Damage per Second*": "362",
+        "Damage per Hit": "434.4",
+        "Hitpoints*": "6,522",
+        "Health Recovery": "1,490",
+        "Upgrade Cost": "109,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "63",
+        "Damage per Second*": "370",
+        "Damage per Hit": "444",
+        "Hitpoints*": "6,685",
+        "Health Recovery": "1,490",
+        "Upgrade Cost": "111,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "64",
+        "Damage per Second*": "377",
+        "Damage per Hit": "452.4",
+        "Hitpoints*": "6,853",
+        "Health Recovery": "1,490",
+        "Upgrade Cost": "113,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "65",
+        "Damage per Second*": "385",
+        "Damage per Hit": "462",
+        "Hitpoints*": "7,024",
+        "Health Recovery": "1,700",
+        "Upgrade Cost": "115,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "6",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "66",
+        "Damage per Second*": "393",
+        "Damage per Hit": "471.6",
+        "Hitpoints*": "7,200",
+        "Health Recovery": "1,700",
+        "Upgrade Cost": "117,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "67",
+        "Damage per Second*": "400",
+        "Damage per Hit": "480",
+        "Hitpoints*": "7,378",
+        "Health Recovery": "1,700",
+        "Upgrade Cost": "119,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "68",
+        "Damage per Second*": "408",
+        "Damage per Hit": "489.6",
+        "Hitpoints*": "7,557",
+        "Health Recovery": "1,700",
+        "Upgrade Cost": "121,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "69",
+        "Damage per Second*": "417",
+        "Damage per Hit": "500.4",
+        "Hitpoints*": "7,735",
+        "Health Recovery": "1,700",
+        "Upgrade Cost": "123,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "70",
+        "Damage per Second*": "425",
+        "Damage per Hit": "510",
+        "Hitpoints*": "7,905",
+        "Health Recovery": "1,925",
+        "Upgrade Cost": "125,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "71",
+        "Damage per Second*": "434",
+        "Damage per Hit": "520.8",
+        "Hitpoints*": "8,075",
+        "Health Recovery": "1,925",
+        "Upgrade Cost": "130,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "72",
+        "Damage per Second*": "442",
+        "Damage per Hit": "530.4",
+        "Hitpoints*": "8,245",
+        "Health Recovery": "1,925",
+        "Upgrade Cost": "135,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "73",
+        "Damage per Second*": "451",
+        "Damage per Hit": "541.2",
+        "Hitpoints*": "8,415",
+        "Health Recovery": "1,925",
+        "Upgrade Cost": "140,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "74",
+        "Damage per Second*": "459",
+        "Damage per Hit": "550.8",
+        "Hitpoints*": "8,585",
+        "Health Recovery": "1,925",
+        "Upgrade Cost": "145,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "75",
+        "Damage per Second*": "468",
+        "Damage per Hit": "561.6",
+        "Hitpoints*": "8,755",
+        "Health Recovery": "2,150",
+        "Upgrade Cost": "150,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "7",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "76",
+        "Damage per Second*": "475",
+        "Damage per Hit": "570",
+        "Hitpoints*": "8,917",
+        "Health Recovery": "2,150",
+        "Upgrade Cost": "155,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "77",
+        "Damage per Second*": "483",
+        "Damage per Hit": "579.6",
+        "Hitpoints*": "9,078",
+        "Health Recovery": "2,150",
+        "Upgrade Cost": "160,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "78",
+        "Damage per Second*": "490",
+        "Damage per Hit": "588",
+        "Hitpoints*": "9,240",
+        "Health Recovery": "2,150",
+        "Upgrade Cost": "165,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "79",
+        "Damage per Second*": "498",
+        "Damage per Hit": "597.6",
+        "Hitpoints*": "9,401",
+        "Health Recovery": "2,150",
+        "Upgrade Cost": "170,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "80",
+        "Damage per Second*": "506",
+        "Damage per Hit": "607.2",
+        "Hitpoints*": "9,563",
+        "Health Recovery": "2,350",
+        "Upgrade Cost": "175,000",
+        "Upgrade Time": "4d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "81",
+        "Damage per Second*": "513",
+        "Damage per Hit": "615.6",
+        "Hitpoints*": "9,690",
+        "Health Recovery": "2,350",
+        "Upgrade Cost": "180,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "82",
+        "Damage per Second*": "519",
+        "Damage per Hit": "622.8",
+        "Hitpoints*": "9,818",
+        "Health Recovery": "2,350",
+        "Upgrade Cost": "185,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "83",
+        "Damage per Second*": "526",
+        "Damage per Hit": "631.2",
+        "Hitpoints*": "9,945",
+        "Health Recovery": "2,350",
+        "Upgrade Cost": "195,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "84",
+        "Damage per Second*": "533",
+        "Damage per Hit": "639.6",
+        "Hitpoints*": "10,073",
+        "Health Recovery": "2,350",
+        "Upgrade Cost": "205,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "85",
+        "Damage per Second*": "540",
+        "Damage per Hit": "648",
+        "Hitpoints*": "10,200",
+        "Health Recovery": "2,500",
+        "Upgrade Cost": "215,000",
+        "Upgrade Time": "5d",
+        "Hero Hall Level Required": "8",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "86",
+        "Damage per Second*": "547",
+        "Damage per Hit": "656.4",
+        "Hitpoints*": "10,328",
+        "Health Recovery": "2,500",
+        "Upgrade Cost": "220,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "87",
+        "Damage per Second*": "553",
+        "Damage per Hit": "663.6",
+        "Hitpoints*": "10,455",
+        "Health Recovery": "2,500",
+        "Upgrade Cost": "230,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "88",
+        "Damage per Second*": "560",
+        "Damage per Hit": "672",
+        "Hitpoints*": "10,583",
+        "Health Recovery": "2,500",
+        "Upgrade Cost": "240,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "89",
+        "Damage per Second*": "567",
+        "Damage per Hit": "680.4",
+        "Hitpoints*": "10,710",
+        "Health Recovery": "2,500",
+        "Upgrade Cost": "250,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "90",
+        "Damage per Second*": "574",
+        "Damage per Hit": "688.8",
+        "Hitpoints*": "10,838",
+        "Health Recovery": "2,650",
+        "Upgrade Cost": "255,000",
+        "Upgrade Time": "6d",
+        "Hero Hall Level Required": "9",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "91",
+        "Damage per Second*": "581",
+        "Damage per Hit": "697.2",
+        "Hitpoints*": "10,965",
+        "Health Recovery": "2,650",
+        "Upgrade Cost": "280,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "92",
+        "Damage per Second*": "587",
+        "Damage per Hit": "704.4",
+        "Hitpoints*": "11,093",
+        "Health Recovery": "2,650",
+        "Upgrade Cost": "290,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "93",
+        "Damage per Second*": "594",
+        "Damage per Hit": "712.8",
+        "Hitpoints*": "11,220",
+        "Health Recovery": "2,650",
+        "Upgrade Cost": "300,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "94",
+        "Damage per Second*": "601",
+        "Damage per Hit": "721.2",
+        "Hitpoints*": "11,348",
+        "Health Recovery": "2,650",
+        "Upgrade Cost": "310,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "95",
+        "Damage per Second*": "608",
+        "Damage per Hit": "729.6",
+        "Hitpoints*": "11,475",
+        "Health Recovery": "2,800",
+        "Upgrade Cost": "320,000",
+        "Upgrade Time": "7d",
+        "Hero Hall Level Required": "10",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "96",
+        "Damage per Second*": "615",
+        "Damage per Hit": "738",
+        "Hitpoints*": "11,600",
+        "Health Recovery": "2,800",
+        "Upgrade Cost": "340,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "97",
+        "Damage per Second*": "622",
+        "Damage per Hit": "746.4",
+        "Hitpoints*": "11,725",
+        "Health Recovery": "2,800",
+        "Upgrade Cost": "350,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "98",
+        "Damage per Second*": "629",
+        "Damage per Hit": "754.8",
+        "Hitpoints*": "11,850",
+        "Health Recovery": "2,800",
+        "Upgrade Cost": "360,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "99",
+        "Damage per Second*": "636",
+        "Damage per Hit": "763.2",
+        "Hitpoints*": "11,975",
+        "Health Recovery": "2,800",
+        "Upgrade Cost": "370,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "100",
+        "Damage per Second*": "643",
+        "Damage per Hit": "771.6",
+        "Hitpoints*": "12,100",
+        "Health Recovery": "2,950",
+        "Upgrade Cost": "380,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "11",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "101",
+        "Damage per Second*": "650",
+        "Damage per Hit": "780",
+        "Hitpoints*": "12,225",
+        "Health Recovery": "2,950",
+        "Upgrade Cost": "400,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "102",
+        "Damage per Second*": "657",
+        "Damage per Hit": "788.4",
+        "Hitpoints*": "12,350",
+        "Health Recovery": "2,950",
+        "Upgrade Cost": "410,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "103",
+        "Damage per Second*": "664",
+        "Damage per Hit": "796.8",
+        "Hitpoints*": "12,475",
+        "Health Recovery": "2,950",
+        "Upgrade Cost": "420,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "104",
+        "Damage per Second*": "671",
+        "Damage per Hit": "805.2",
+        "Hitpoints*": "12,600",
+        "Health Recovery": "2,950",
+        "Upgrade Cost": "430,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "105",
+        "Damage per Second*": "678",
+        "Damage per Hit": "813.6",
+        "Hitpoints*": "12,725",
+        "Health Recovery": "3,100",
+        "Upgrade Cost": "450,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "106",
+        "Damage per Second*": "685",
+        "Damage per Hit": "822",
+        "Hitpoints*": "12,850",
+        "Health Recovery": "3,100",
+        "Upgrade Cost": "460,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "107",
+        "Damage per Second*": "692",
+        "Damage per Hit": "830.4",
+        "Hitpoints*": "12,975",
+        "Health Recovery": "3,100",
+        "Upgrade Cost": "470,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "108",
+        "Damage per Second*": "699",
+        "Damage per Hit": "838.8",
+        "Hitpoints*": "13,100",
+        "Health Recovery": "3,100",
+        "Upgrade Cost": "475,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "109",
+        "Damage per Second*": "706",
+        "Damage per Hit": "847.2",
+        "Hitpoints*": "13,225",
+        "Health Recovery": "3,100",
+        "Upgrade Cost": "485,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Level": "110",
+        "Damage per Second*": "713",
+        "Damage per Hit": "855.6",
+        "Hitpoints*": "13,350",
+        "Health Recovery": "3,250",
+        "Upgrade Cost": "490,000",
+        "Upgrade Time": "8d",
+        "Hero Hall Level Required": "12",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Date": "January 9, 2013",
+        "Description": "Announced the Barbarian King."
+      },
+      {
+        "Date": "January 10, 2013",
+        "Description": "Added the Barbarian King, with 30 levels."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "Reduced regeneration time at all levels: Level 1: 4h -> 1h Level 2: 4h 14m -> 1h 6m Level 3: 4h 30m -> 1h 12m Level 4: 4h 46m -> 1h 18 Level 5: 5h 3m -> 1h 24m Level 6: 5h 21m -> 1h 30m Level 7: 5h 40m -> 1h 36m Level 8: 6h 1m -> 1h 42m Level 9: 6h 23m -> 1h 48m Level 10: 6h 45m -> 1h 54m Level 11: 7h 10m -> 2h Level 12: 7h 36m -> 2h 6h Level 13: 8h 3m -> 2h 12m Level 14: 8h 32m -> 2h 18m Level 15: 9h 3m -> 2h 24m Level 16: 9h 35m -> 2h 30m Level 17: 10h 10m -> 2h 36m Level 18: 10h 46m -> 2h 42m Level 19: 11h 25m -> 2h 48m Level 20: 12h 6m -> 2h 54m Level 21: 12h 50m -> 3h Level 22: 13h 36m -> 3h 6m Level 23: 14h 25m -> 3h 12m Level 24: 15h 17m -> 3h 18m Level 25: 16h 12m -> 3h 24m Level 26: 17h 10m -> 3h 30m Level 27: 18h 12m -> 3h 36m Level 28: 19h 17m -> 3h 42m Level 29: 20h 27m -> 3h 48m Level 30: 21h 40m -> 3h 54m The Barbarian King's level and stats are now displayed correctly when visiting villages. The Barbarian King now patrol a larger area and show guard radius when tapped."
+      },
+      {
+        "Date": "May 23, 2013",
+        "Description": "Added levels 31 to 40 Barbarian King."
+      },
+      {
+        "Date": "January 29, 2014",
+        "Description": "Added the Iron Fist ability."
+      },
+      {
+        "Date": "July 3, 2014",
+        "Description": "The defensive Barbarian King now has a targeting radius around his platform. Massively reduced his damage, but greatly heals himself when activating his ability."
+      },
+      {
+        "Date": "September 16, 2014",
+        "Description": "Reduced hero regeneration times greatly on all levels."
+      },
+      {
+        "Date": "October 22, 2014",
+        "Description": "Hero icons now show hero ability status in replays."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Description": "Hero ability icons now show remaining hitpoints and start flashing when low."
+      },
+      {
+        "Date": "July 1, 2015",
+        "Description": "Improved the Barbarian King's A.I, where he would less likely to target Walls , and would not continue bashing through Walls to get to a destroyed target."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Changed the Barbarian King's info image."
+      },
+      {
+        "Date": "December 19, 2016",
+        "Description": "Added levels 41 to 45 Barbarian King. Reduced upgrade costs of levels 31 to 40. Changed the Barbarian King's icon and info."
+      },
+      {
+        "Date": "December 18, 2017",
+        "Description": "Added levels 46 to 50 Barbarian King. Decreased upgrade cost of levels 8 to 45 Barbarian King."
+      },
+      {
+        "Date": "March 5, 2018",
+        "Description": "Barbarian King's Iron Fist ability no longer affect Barbarians that are not summoned from his ability."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added levels 51 to 60 Barbarian King."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Description": "Reduced upgrade times of levels 2 to 38 Barbarian King. Reduced regeneration times of levels 2 to 60."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Converted the Barbarian King from 2D to 3D."
+      },
+      {
+        "Date": "June 18, 2019",
+        "Description": "Added levels 61 to 65 Barbarian King."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added levels 66 to 70 Barbarian King."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Reduced upgrade cost for level 40 Barbarian King. New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero. Barbarian King now displays in his selected skin under the Player Profile tab. When acquiring a new skin, the UI to select the skin will automatically open. Some selected skins will be able to be purchased outside of the Gold Pass. Fixed a bug where the Barbarian King received double health recovery when his ability is used both automatically and manually at the same time. Show purple Hero level icons properly in attack confirm screen if Hero Potion is active. Fixed inconsistencies with situations where multiple boosts which affect movement speed, attack speed and damage (Barbarian King's ability) are active at the same time."
+      },
+      {
+        "Date": "June 22, 2020",
+        "Description": "Added levels 71 to 75 Barbarian King."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Description": "Heroes now automatically heal when the player's base is raided. Removed guard toggle."
+      },
+      {
+        "Date": "October 26, 2020",
+        "Description": "Fixed skin names not changing when changing Hero with the arrows (in the \"Change Skin\" menus)."
+      },
+      {
+        "Date": "December 7, 2020",
+        "Description": "At the end of a battle, if the Barbarian King's ability remains unused, the Hero will heal the amount of HP they would normally recover from using their ability. This will help reduce the Hero’s downtime, allowing them to be ready much sooner. A new Cosmetics tab has been added to the in-game shop where you can browse and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems. A “View Skin” option has been added when visiting. Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added levels 76 to 80 Barbarian King. Polished and changed the Barbarian King's 3D model. Reduced upgrade costs and times of levels 1 to 50 Barbarian King. In particular, the cost to summon the Barbarian King was reduced to 5,000 Dark Elixir (from 10,000). Boosts on Barbarian King and other Heroes or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Description": "Fixed the Barbarian King occasionally doing 360-degree turns during attacks."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Description": "Reduced upgrade costs from levels 26 to 64. Reduced upgrade times from levels 20 to 29."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added levels 81 to 85 Barbarian King."
+      },
+      {
+        "Date": "December 12, 2022",
+        "Description": "Changed the Barbarian King's 3D model."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added levels 86 to 90 Barbarian King."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added levels 91 to 95 Barbarian King. Increased maximum level from level 5 to 10 at Town Hall 7 and from 10 to level 20 at Town Hall 8. Reduced upgrade costs and times across all existing levels. Replaced the Iron Fist ability with Hero Equipment and a health recovery stat. As a result, the Barbarian King loses DPS and HP at every level, with much of the missing stats being given to his default Hero Equipment. Changed the description of the Barbarian King. Before, it used to read \"This colossal menace soaks up huge amounts of damage and bashes anything in his path. He guards his territory fiercely when defending, and can launch into a devastating rage when attacking once his Iron Fist ability is unlocked!\" ."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added levels 96 to 100 Barbarian King. The Barbarian King can no longer unlocked by placing down his Altar and is instead unlocked when the Hero Hall 's construction is finished. His Altar is replaced by the Hero Banner obstacle."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed regeneration time."
+      },
+      {
+        "Date": "October 6, 2025",
+        "Description": "Moved levels 81 to 85 Barbarian King from Town Hall 15 to Town Hall 14."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Added levels 101 to 105 Barbarian King."
+      },
+      {
+        "Date": "May 26, 2026",
+        "Description": "Moved the Barbarian King from Town Hall 7 to Town Hall 4. Added special mechanics for level 1, where his health and damage are scaled, at 50% at Town Hall 4, 75% at Town Hall 5, and 100% at Town Hall 6. He cannot defend the village and can only be used by attacking during these aforementioned Town Hall levels until his Hero Banner is first placed, where he can then be upgraded starting at Town Hall 7."
+      },
+      {
+        "Date": "June 15, 2026",
+        "Description": "Added levels 106 to 110 Barbarian King."
+      }
+    ],
+    [
+      {
+        "Skin": "Gladiator King",
+        "Class": "Gold",
+        "Season Available": "April 2019",
+        "Notes": ""
+      },
+      {
+        "Skin": "P.E.K.K.A King",
+        "Class": "Gold",
+        "Season Available": "June 2019",
+        "Notes": ""
+      },
+      {
+        "Skin": "Skeleton King",
+        "Class": "Gold",
+        "Season Available": "October 2019",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jolly King",
+        "Class": "Gold",
+        "Season Available": "December 2019",
+        "Notes": "Available as the first reward on the Gold Pass track."
+      },
+      {
+        "Skin": "Primal King",
+        "Class": "Gold",
+        "Season Available": "February 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clockwork King",
+        "Class": "Gold",
+        "Season Available": "May 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Party King",
+        "Class": "Gold",
+        "Season Available": "August 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Champion King",
+        "Class": "Legendary",
+        "Season Available": "October 2020, November 2021, September 2022, September 2024",
+        "Notes": "The Champion King was available in a special offer for the World Finals in 2020, 2021 and 2022. In September 2024, it was purchasable in the Mini Spotlight medal event for 2,250 ."
+      },
+      {
+        "Skin": "Pirate King",
+        "Class": "Gold",
+        "Season Available": "November 2020",
+        "Notes": ""
+      },
+      {
+        "Skin": "Warrior King",
+        "Class": "Legendary",
+        "Season Available": "February 2021/2022",
+        "Notes": "The Warrior King was available in a Lunar New Year offer in 2021 and 2022."
+      },
+      {
+        "Skin": "Rogue King",
+        "Class": "Gold",
+        "Season Available": "March 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Fierce King",
+        "Class": "Standard",
+        "Season Available": "June 2021",
+        "Notes": "The Fierce King was available in a special offer after the June 2021 update, as the winning entry of the \"The King of Clan Wars\" skin design competition in Supercell Make."
+      },
+      {
+        "Skin": "Jungle King",
+        "Class": "Gold",
+        "Season Available": "July 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Beat King",
+        "Class": "Legendary",
+        "Season Available": "August 2021",
+        "Notes": "The Beat King was available in a special offer for the August 2021 Clashiversary."
+      },
+      {
+        "Skin": "Golem King",
+        "Class": "Gold",
+        "Season Available": "November 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Ice King",
+        "Class": "Legendary",
+        "Season Available": "December 2021",
+        "Notes": ""
+      },
+      {
+        "Skin": "Lunar King",
+        "Class": "Legendary",
+        "Season Available": "January-February 2022",
+        "Notes": "The Lunar King was available in a special Lunar New Year offer from January 29th 2022."
+      },
+      {
+        "Skin": "Shadow King",
+        "Class": "Gold",
+        "Season Available": "April 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Summer King",
+        "Class": "Legendary",
+        "Season Available": "June 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Pixel King",
+        "Class": "Legendary",
+        "Season Available": "August 2022",
+        "Notes": "The Pixel King was made available as part of the 10th Clashiversary celebrations, as a reward in the silver tier of Season Challenges requiring 40 points."
+      },
+      {
+        "Skin": "Clash Fest King",
+        "Class": "Gold",
+        "Season Available": "September 2022",
+        "Notes": ""
+      },
+      {
+        "Skin": "Magic King",
+        "Class": "Legendary",
+        "Season Available": "October 2022",
+        "Notes": "The Magic King was available in a special offer for the release of Town Hall 15."
+      },
+      {
+        "Skin": "Beast King",
+        "Class": "Gold",
+        "Season Available": "February 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "Painter King",
+        "Class": "Legendary",
+        "Season Available": "March 2023",
+        "Notes": "The Painter King was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD."
+      },
+      {
+        "Skin": "Dark Ages King",
+        "Class": "Gold",
+        "Season Available": "May 2023",
+        "Notes": ""
+      },
+      {
+        "Skin": "League King",
+        "Class": "Legendary",
+        "Season Available": "June 2023",
+        "Notes": "The League King is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 ."
+      },
+      {
+        "Skin": "Future King",
+        "Class": "Legendary",
+        "Season Available": "August 2023",
+        "Notes": "The Future King skin was available in a special offer for the 11th Clashiversary in August 2023."
+      },
+      {
+        "Skin": "Chess King",
+        "Class": "Legendary",
+        "Season Available": "September 2023",
+        "Notes": "The Chess King skin was available in a special offer during September 2023."
+      },
+      {
+        "Skin": "Ghost King",
+        "Class": "Legendary",
+        "Season Available": "October 2023",
+        "Notes": "The Ghost King skin was available in a special Clash-O-Ween offer in October 2023."
+      },
+      {
+        "Skin": "Gingerbread King",
+        "Class": "Legendary",
+        "Season Available": "December 2023",
+        "Notes": "The Gingerbread King skin was available as a part of the Cookie Rumble medal event in December 2023, where it could be bought for 4,650 ."
+      },
+      {
+        "Skin": "King of the North",
+        "Class": "Gold",
+        "Season Available": "January 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dragon King",
+        "Class": "Legendary",
+        "Season Available": "February 2024",
+        "Notes": "The Dragon King skin was available in a special Lunar New Year offer in February 2024."
+      },
+      {
+        "Skin": "Space King",
+        "Class": "Legendary",
+        "Season Available": "March 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Egypt King",
+        "Class": "Legendary",
+        "Season Available": "April 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "King Haaland",
+        "Class": "Legendary",
+        "Season Available": "May 2024",
+        "Notes": "Based on the association football player Erling Haaland , as part of the Clash with Haaland collaboration season."
+      },
+      {
+        "Skin": "Football King",
+        "Class": "Legendary",
+        "Season Available": "May 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Super Squad King",
+        "Class": "Legendary",
+        "Season Available": "May 2024",
+        "Notes": "Based on the Barbarian King's appearance in Squad Busters , the skin is a reward milestone for 30 million pre-registrations on Squad Busters and was available to claim for free until May 29th."
+      },
+      {
+        "Skin": "Wild West King",
+        "Class": "Legendary",
+        "Season Available": "June 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash Games King",
+        "Class": "Gold",
+        "Season Available": "July 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime King",
+        "Class": "Legendary",
+        "Season Available": "August 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Barbarian Orc",
+        "Class": "Legendary",
+        "Season Available": "September 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dark Minion King",
+        "Class": "Legendary",
+        "Season Available": "October 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Judgment King",
+        "Class": "Gold",
+        "Season Available": "November 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Robo King",
+        "Class": "Legendary",
+        "Season Available": "December 2024",
+        "Notes": ""
+      },
+      {
+        "Skin": "Fire King",
+        "Class": "Legendary",
+        "Season Available": "January 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Snake King",
+        "Class": "Legendary",
+        "Season Available": "February 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Combat King",
+        "Class": "Gold",
+        "Season Available": "March 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "King Cody",
+        "Class": "Legendary",
+        "Season Available": "April 2025",
+        "Notes": "Based on the WWE wrestler Cody Rhodes , as part of the Clashamania collaboration season."
+      },
+      {
+        "Skin": "Samurai King",
+        "Class": "Legendary",
+        "Season Available": "May 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Barbarian Butcher",
+        "Class": "Legendary",
+        "Season Available": "June 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Renegade King",
+        "Class": "Legendary",
+        "Season Available": "July 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Clash-A-Rama King",
+        "Class": "Legendary",
+        "Season Available": "August 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Jelly King",
+        "Class": "Legendary",
+        "Season Available": "September 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Berserker King",
+        "Class": "Legendary",
+        "Season Available": "October 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Bruiser King",
+        "Class": "Gold",
+        "Season Available": "November 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Awakened King",
+        "Class": "Legendary",
+        "Season Available": "December 2025",
+        "Notes": ""
+      },
+      {
+        "Skin": "Desert King",
+        "Class": "Gold",
+        "Season Available": "January 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Monkey King",
+        "Class": "Legendary",
+        "Season Available": "February 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Dragonscale King",
+        "Class": "Legendary",
+        "Season Available": "March 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Stringshredder King",
+        "Class": "Legendary",
+        "Season Available": "April 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Skeleton King Resurrected",
+        "Class": "Legendary",
+        "Season Available": "May 2026",
+        "Notes": "Available as a reward in the Clash vs Skeletons event after contributing 200 Stars."
+      },
+      {
+        "Skin": "Shadow Samurai",
+        "Class": "Legendary",
+        "Season Available": "May 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Anime Fury King",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Majestic Barbarian King",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "Available as a reward from Hero's Journey once a cumulative total of 125 Hero levels is attained."
+      },
+      {
+        "Skin": "Sapphire Half-Time King",
+        "Class": "Legendary",
+        "Season Available": "June 2026",
+        "Notes": "Available as a reward after giving 1 million 🔥 emoji reactions in Global Chat Town Square."
+      },
+      {
+        "Skin": "Zeus King",
+        "Class": "Gold",
+        "Season Available": "July 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "King Barbarian",
+        "Class": "Legendary",
+        "Season Available": "August 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "King Rhodes",
+        "Class": "Legendary",
+        "Season Available": "September 2026",
+        "Notes": "Based on the WWE wrestler Cody Rhodes , as part of the Search for Cena collaboration season."
+      },
+      {
+        "Skin": "Savage King",
+        "Class": "Legendary",
+        "Season Available": "October 2026",
+        "Notes": ""
+      },
+      {
+        "Skin": "Titan King",
+        "Class": "Legendary",
+        "Season Available": "November 2026",
+        "Notes": ""
+      }
+    ],
+    [
+      {
+        "Skin": "Gladiator King",
+        "Preview Animation": "Yes 1",
+        "Pose Animation": "Yes 1",
+        "Selection Animation": "Yes 1",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "Partial",
+        "Knockout Animation": "Partial",
+        "Resting Animation": "Partial",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "P.E.K.K.A King",
+        "Preview Animation": "Yes 1",
+        "Pose Animation": "Yes 1",
+        "Selection Animation": "Yes 1",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "Partial",
+        "Knockout Animation": "Partial",
+        "Resting Animation": "Partial",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Skeleton King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jolly King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Primal King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Clockwork King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Party King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Champion King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "Yes",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "Yes",
+        "Resting Effects": "Yes",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pirate King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Partial",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "Yes",
+        "Pose Effects": "Yes",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Warrior King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Rogue King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Fierce King",
+        "Preview Animation": "Yes 2",
+        "Pose Animation": "Yes 2",
+        "Selection Animation": "Yes 2",
+        "Walking Animation": "Yes 2",
+        "Attacking Animation": "Yes 2",
+        "Knockout Animation": "Yes 2",
+        "Resting Animation": "Yes 2",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Jungle King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Partial",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "Yes",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "No",
+        "Pose Sounds": "No",
+        "Selection Sounds": "No",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Beat King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "Yes",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "Yes",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Golem King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Partial",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Partial",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Ice King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Lunar King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "Yes",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "Yes",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Shadow King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Summer King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "Yes",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Pixel King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Clash Fest King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "No",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Magic King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "Yes",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "No",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      },
+      {
+        "Skin": "Beast King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "No",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "No",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "Yes",
+        "Knockout Sounds": "Yes"
+      },
+      {
+        "Skin": "Painter King",
+        "Preview Animation": "Yes",
+        "Pose Animation": "Yes",
+        "Selection Animation": "Yes",
+        "Walking Animation": "Yes",
+        "Attacking Animation": "Yes",
+        "Knockout Animation": "Yes",
+        "Resting Animation": "Yes",
+        "Constant Effects": "No",
+        "Preview Effects": "No",
+        "Pose Effects": "No",
+        "Selection Effects": "No",
+        "Deployment Effects": "Yes",
+        "Walking Effects": "No",
+        "Attacking Effects": "No",
+        "Ability Effects": "No",
+        "Knockout Effects": "No",
+        "Resting Effects": "No",
+        "Custom Spawns": "Yes",
+        "Preview Sounds": "Yes",
+        "Pose Sounds": "Yes",
+        "Selection Sounds": "Yes",
+        "Deployment Sounds": "Yes",
+        "Attacking Sounds": "Yes",
+        "Ability Sounds": "No",
+        "Knockout Sounds": "No"
+      }
+    ],
+    [
+      {
+        "": "Levels 41-60 (Old Sprite)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] Large Article This article currently has 70,888 bytes, and could take a long time to load, especially on low-end devices. Please proceed with caution and wait for it to load patiently. For the troop, see Barbarian . For the Super , Builder Base and Clan Capital troop with a similar ability but only upon being deployed, see Raged Barbarian and Super Barbarian . \"Biggest and bravest of all barbarians , this colossal menace soaks up huge amounts of damage and smashes anything in his path with his sword. He guards his territory fiercely when defending.\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 2.3 Against a Barbarian King 3 Statistics 4 Hero Equipment 5 History 6 Hero Skins 6.1 Skin Availability 6.2 Barbarian King Skins 6.3 Barbarian King Skin Features 6.4 Notes 7 Trivia 7.1 General 7.2 Comparisons Summary [ ] The Barbarian King is the first Hero unlocked in the Home Village at Town Hall level 4 when players finish the construction of the Hero Hall . He is a larger and stronger version of the Barbarian . In his default skin, the Barbarian King appears otherwise similar to that of a Barbarian , except being much larger, taller and more muscular man with friendly mutton chops and wearing a brown kilt with a leather belt and a bronze square-shaped buckle, which is held by red straps connected to a golden square buckle with a rounded stub at the center. He has a golden crown on the top of his head, spiked wristbands on both arms, as well as a large, blunt iron sword in his right hand. On his left arm, he has a steel shoulder guard and a brass gauntlet on his hand, and on his feet, he wears a pair of leather sandals. As a Hero, the Barbarian King can participate in both attack and defense, but will not be available to use if he is being upgraded. The Barbarian King will defend the village when assigned to a Hero Banner , which is only available at Town Hall level 7 onwards. The Barbarian King only defends his territory around his assigned banner and will retreat if lured too far out. If he locks onto a troop, he will follow that troop until he dies or that troop is taken out. Once the troop is killed, and he is outside of his patrol zone, he will return to patrolling around his assigned banner. Like other Home Village Heroes, the Barbarian King does not need to be taken out to three-star a base. The Barbarian King has very high health and a high damage output so he is best used as a tank and a brute force. Deploy him first to distract the defenses then deploy lower health units (like the Archer Queen ) to do the damage behind walls. However, at lower levels, like Town Halls 4 to 9, it is most likely that players might want him inside the base since Heroes are good damage dealers. Another way to use him is for funneling, as is very clear where to funnel, which can be easier depending on his Equipment. As a Hero, the Barbarian King has an ability that can be used once per battle which allows him to recover some of his health, and the amount increases at every fifth level. The Hero Equipment that he wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase. When unlocked, he starts with the Barbarian Puppet and Rage Vial. The Barbarian Puppet allows the Barbarian King to summon a large number of raged Barbarians and an increased health recovery. The level of the Barbarians matches the level researched by the player, while the rage increases their damage and movement speed. It gives a passive increase to max health. The Rage Vial enrages the Barbarian King with his ability, increasing his damage and movement speed, and grants a vastly increased health recovery. It gives a passive increase to damage. When the Blacksmith is constructed and is upgraded to level 3, it unlocks the Earthquake Boots and Vampstache respectively. The Earthquake Boots deals damage similar to an Earthquake Spell , except that it destroys walls instantly and damages all ground units in its radius. It gives a passive increase to damage and max health. The Vampstache passively restores a small fraction of the King's health every time he lands an attack. It gives a passive increase to damage and attack speed. Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or Gems with the Trader . The Giant Gauntlet makes the King grow gigantic, allowing him to deal splash damage, hit buildings behind Walls , and reduces damage taken for a period of time. It gives a passive increase to damage and grants self healing. The Spiky Ball makes the King kick a ricocheting ball which bounces to a number of buildings, dealing massive damage. It gives a passive increase to damage and max health. The Snake Bracelet passively generates Snakes whenever the King takes damage up to a limit, which can jump over Walls. It gives a passive increase to max health and attack speed. The Stick Horse allows the King the jump over Walls, and attack and move faster for a while when deployed. It gives a passive increase to damage and max health. At Town Halls 4 through 6, the Barbarian King is available at a limited capacity. He cannot be upgraded, his equipment cannot be configured, and he cannot defend the village as there is no Hero Banner to place. However, his key stats (damage per second, hitpoints and health recovery), and that of his default equipment, will scale by Town Hall level based on the level 1 stats. Town Hall 4 has 50% of the stats, Town Hall 5 has 75%, and Town Hall 6 has the full stats. The ability attributes (speed increases, damage increases, etc.) of his default equipment are unaffected by this scaling, only its passive stats. Strategies [ ] Offensive Strategies [ ] The six Home Village Heroes serve different roles in raids. The Barbarian King is the strength specialist, the Minion Prince is the air specialist, the Archer Queen is the speed specialist, the Grand Warden is the support specialist, the Royal Champion is the offense specialist, and the Dragon Duke is the solo specialist. The Barbarian King can often be used to create funnels; if there are no gaps in nearby Walls , he will stay outside the Walls and clear out buildings placed outside. As he is able to tank a lot of damage, he can be used to clear areas covered by high-DPS defenses, like a Hidden Tesla , Scattershot , Firespitter , or an X-Bow farm (where multiple of the same defense type is grouped to provide concentrated damage). However, air troops may be better suited for the funnel if anti-air DPS is lacking in such areas, and one should still be wary of single-target Inferno Towers and Monoliths , which can quickly defeat him and end the funnel. This can also be commonly referred to as a King Walk. A common way to use the Barbarian King is as a tank as well as the main damage dealer, to distract the defenses to allow troops with low hitpoints to survive. For example, the player may use him with the Archer Queen; he tanks the damage and counters them, while the Archer Queen inflicts the secondary damage. This is a common use and starting phase for Heroes in air attacks, where they serve little purpose with the main army, to destroy Air Defenses. The Grand Warden can also be shielded by the Barbarian King at the same time because of his Life Gem or raged up using the Rage Gem, or if the player has access to it, an Apprentice Warden for an extra HP boost. This is commonly known as a Hero Dive. He is best used with support from ranged troops, such as the Archer , Wizard , Witch , and the Headhunter to kill air troops and to deal damage behind. However, make sure that the ranged troops are protected from strong splash defenses such as the Scattershot , Mortar , and the Eagle Artillery , otherwise they will be taken out quickly. He is also good for helping to destroy the remaining buildings of a village, after most or all defenses have been destroyed. However, he has a slow movement speed, so you might have to speed him up if you want an effective cleanup procedure, either with his ability or other spells. The Barbarian King can be easily swarmed by a group of Archers or Barbarians , as he only attacks one target at a time and has a somewhat slow attack speed against swarms. However, the Giant Gauntlet ability can negate this, since it allows the King to do splash damage and take less damage by himself. As his ability recovers some health, you should let your Barbarian King take some damage before activating this ability to maximize the recovered health provided by activating the ability. The exception is at the end of a successful battle where the Barbarian King survives with taking very little or no damage, because if the ability is not activated after battle he will automatically activate it, recovering his health. Depending on Hero Equipment, his ability can be used to speed up the process of clearing the base, when paired with other Hero Equipment. The Barbarian King can be healed by Healing Spells , Healers , Druids , the Unicorn , and the Healing Tome of the Grand Warden . However, since he is a Hero, he receives a different healing rate from some of these sources of healing compared to troops: Healing Spells only heal 55% as much as with troops. Healers at lower levels only heal about 55% compared to troops, but this percentage increases at mid-levels, eventually  surpassing troop healing at level 11. Druids heal more effectively (between 5% and 15%) compared to troops, depending on the level. The Unicorn and Healing Tome do not have different healing rates on Heroes when compared to troops. Avoid using the ability when the King approaches a Bomb Tower or an area where a Giant Bomb or Giga Bomb will be, unless when desperately needing to recover health. If done, the summoned Barbarians will most likely be wiped out by the resulting explosion. However, this becomes much less of an issue with the higher level Barbarian King because when the Bomb explodes, it is likely not all of the Barbarians have spawned in yet so only a few of them blow up. This is only a problem only if using either the Barbarian Puppet or if the King is too close to damage dealers, since the Giant Bomb can cripple, or possibly even wipe out the player's whole line of damage-dealing units. When you are facing a single-target Inferno Tower , activate the Barbarian King's ability before he is locked on to the Inferno Tower, when using the Barbarian Puppet. This way the spawned Barbarians can distract the Inferno Tower and keep the King alive for longer. When not using this equipment, the Earthquake Boots allow the King to access the Inferno Tower, or the Giant Gauntlet can allow him to reduce its damage, and to help destroy it quickly with the help of the other Equipment slot. Enable \"Automatically use Hero Abilities on KO\" in the settings, as there is no real downside to doing so; his Hero ability enhances his sustainability and boosts his damage output, and it might also reduces the time of healing for the hero to be used again, which is noticeable in higher Town Halls. When using Barbarian Puppet, since that ability will summon Barbarians which is the current level inside the Laboratory , it is highly recommended to do so when using this ability often, as they will become stronger and destroy buildings faster, as well as being a greater distraction. However, this equipment is quite weak, so it is not recommended, due to traps that will destroy the spawned Barbarians. In terms of Pets , the Barbarian King is most commonly either paired with the Mighty Yak at Town Hall 14 or the Phoenix at Town Hall 15 and above. The Mighty Yak specializes in wall-breaking, which is useful to the Barbarian King as he is the only Hero unable to attack over Walls; the Yak can break open walls enabling the King access to buildings inside, and also being a mini-tank for the King. The Phoenix guarantees his survival in battle for a duration, which can be especially useful since the Barbarian King can potentially be defeated mid-ability. Although defenses generally retarget between the King's first defeat and his revival, he is still able to do considerable damage and tank any defenses that happens to target him, allowing the other units to destroy the defenses before they lock onto them. Other useful choices for Pets include Frosty , which can suppress defenses that the King may not be immediately able to reach, and which can easily stay behind him due to its slow movement speed. The Poison Lizard can also stay safely behind the King and enable him to handily tackle multiple defending Heroes at a time especially when combined with his ability, the Angry Jelly can help in Root Rider attacks, as well as to funnel a high-damage King inside the base with its abilities activated, causing massive damage, and attacks involving the King Charge, where he has the Stick Horse . The Spirit Fox may also be used to provide funneling with for Meteor Golems, when paired with the Spiky Ball and the Vampstache or Snake Bracelet. The Barbarian King generally benefits more from having better levels itself than better equipment levels, so leveling up the Barbarian King should be a priority at all times for a good offensive attack. However, higher level equipment is still necessary for an effective attack. Some good Hero Equipment pairings include: The Giant Gauntlet and Rage Vial, which allows the King to do massive amounts of damage, take less damage, wreck compartments and to improve his tanking potential. The Spiky Ball is usually an upgrade to Rage Vial in most situations. Spiky Ball give a huge increase in maximum health and damage passively while also crippling nearby defenses and buildings on its way, if not destroy them. The Rage Vial can also find good synergy with Vampstache, allowing the King to recover health faster and deal more damage at the same time. The Vampstache can also be paired with the Spiky Ball to increase his sustainability on the other perimeters of the base, and to launch the Spiky Ball if necessary to destroy important defenses. Best reserved for air attacks. The Vampstache paired with Snake Bracelet can improve the sustainability of the King extremely well with massive amount of extra max health, Snakes causing distraction, and both equipment giving passive attack speed increase. The Earthquake Boots and Spiky Ball ability combined can destroy most buildings except the Town Hall, which this combo is a great way to destroy the core of a base. When paired with a sufficiently-leveled Fireball , this combo can also destroy the Town Hall, which may apply on Hard Mode. However, most defenses as of the November 17, 2025 update can survive this combo, such as Ricochet Cannons , Monolith , and the Multi-Archer Tower , to name a few. The Spiky Ball and Snake Bracelet can be used together to allow the King to be excellent at clearing the outer Buildings all by himself without any help. Defensive Strategies [ ] Though he is very strong on offense, he only attacks one target at a time on defense which makes him easy to defeat with multiple units, so protect him with splash-damaging defenses. It is a good idea to place the Altar in the middle of a group of storage or other areas to protect, such as he will patrol around them. The Barbarian King is the only Hero that cannot target aerial units. Despite this, he can still stall air units that do not have a preferred target such as Dragons , because such air units will target him even though he poses no threat to them. Unlike troops in the Clan Castle , the Barbarian King cannot be lured to the edge of the map and then defeated out of range of the defenses (unless his altar is near the edge). If his target moves out of his patrol area, he will retreat and engage another enemy inside his patrol area. If no enemies remain in his patrol area, he will resume patrolling. Although the Barbarian King cannot be lured outside of his patrol range, he will lure attacking troops towards him, sometimes ignoring the structure they were originally targeting. This may be a problem in some cases; if you put the Barbarian King near the defender's Town Hall , the attacking troops can be lured toward the Barbarian King, and consequently get closer to the Town Hall. In other cases, this could be beneficial as it draws enemies in the line of fire, especially if weaponized or protected by Guardians . Witches in the Clan Castle make good potential defenders to defeat the Barbarian King, because their summoned Skeletons will distract the King for a period of time. However, using a Poison Spell on the defending Witch(es) or when the Barbarian King has his Giant Gauntlet ability activated or is supported by units with area damage such as Wizards will destroy the summoned Skeletons, rendering them useless. Against a Barbarian King [ ] If a defensive King is causing trouble to troops, use some small troops, such as Barbarians , Archers , or Wizards behind a tanking troop. This will ensure the King is defeated with minimal loss in troops. If the base has no Archer Queen , or if she is far enough away from the Barbarian King, then attack with air troops, away from buildings that target air troops. The player may have to deploy ground troops periodically in order to keep the Barbarian King in an area where your aerial troops may safely attack the King, so this strategy may not always be effective. The Minion Prince and the Dragon Duke is able to defeat the Barbarian King, as the latter cannot target the former due to being an air unit, provided that if there are no anti-air defenses and traps nearby. Single-target Inferno Towers and Monoliths (if available) are excellent countermeasures against the Barbarian King, as they are able to tear through his health quickly once they reach maximum damage. This usually forces the opponent to use a Freeze Spell , Totem Spell or the Overgrowth Spell to save their King, however, whether or not the opponent chooses to do so, the summoned Barbarians from the King's Barbarian Puppet's ability will usually overwhelm the Inferno Tower. Consequently, the Inferno Tower itself should be protected by splash damage defenses or Traps such as the Bomb Tower or a Giant Bomb, even if he is enlarged by the Giant Gauntlet. Aerial units such as Balloons and Minions have little to worry from a Barbarian King; he can usually be ignored in such cases. While the Barbarian King cannot retaliate against air troops, he can still distract them away from other valuable targets, such as the Town Hall. Although swarms of troops are effective against the Barbarian King, the P.E.K.K.A is also effective for taking down low level Barbarian Kings. The Barbarian King will never go farther than 7 tiles from his Banner so troops placed over 7 tiles away can attack him without retaliation. In particular, the Grand Warden can snipe him in this way if he is properly placed. If the Barbarian King moves, the troops may come into range of the Barbarian King's tile and be attacked. The Barbarian King's damage can be prevented by using the Eternal Tome ability of the Grand Warden, but he is generally not considered to be a major threat at higher levels and you may find it more useful to save the ability for tackling a more heavily-defended section of the base or for negating a powerful threat (such as the Giga Tesla , Giga Inferno , or the Giga Bomb 's explosion). Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Movement Speed Attack Speed Range Search Radius None Melee (Ground Only) 16 1.2s 1 tile 9 tiles Level Damage per Second* Damage per Hit Hitpoints* Health Recovery Upgrade Cost Upgrade Time Hero Hall Level Required Town Hall Level Required 1 51 61.2 722.5 100 N/A N/A 1 4 76.5 91.8 1,083.75 150 N/A N/A 1 5 102 122.4 1,445 200 N/A N/A 1 6 2 104 124.8 1,481 200 5,000 2h 1 7 3 105 126 1,518 200 5,500 4h 1 7 4 108 129.6 1,556 200 6,000 8h 1 7 5 110 132 1,595 250 6,500 10h 1 7 6 112 134.4 1,635 250 7,000 12h 1 7 7 115 138 1,675 250 7,500 14h 1 7 8 116 139.2 1,717 250 8,000 16h 1 7 9 119 142.8 1,760 250 8,500 18h 1 7 10 122 146.4 1,805 310 10,000 20h 1 7 11 124 148.8 1,850 310 10,500 22h 2 8 12 127 152.4 1,896 310 11,000 1d 2 8 13 129 154.8 1,943 310 11,500 1d 2 8 14 132 158.4 1,992 310 12,000 1d 2 8 15 134 160.8 2,042 375 12,500 1d 2 8 16 137 164.4 2,093 375 13,000 1d 2 8 17 139 166.8 2,145 375 13,500 1d 2 8 18 143 171.6 2,198 375 14,000 1d 2 8 19 145 174 2,253 375 14,500 1d 2 8 20 148 177.6 2,309 450 15,000 1d 2 8 21 151 181.2 2,367 450 17,000 1d 3 9 22 154 184.8 2,427 450 19,000 1d 3 9 23 157 188.4 2,487 450 21,000 1d 3 9 24 161 193.2 2,549 450 23,000 1d 3 9 25 164 196.8 2,613 525 25,000 1d 3 9 26 167 200.4 2,678 525 27,000 2d 3 9 27 170 204 2,746 525 29,000 2d 3 9 28 173 207.6 2,814 525 31,000 2d 3 9 29 177 212.4 2,885 525 33,000 2d 3 9 30 181 217.2 2,956 625 35,000 2d 3 9 31 184 220.8 3,030 625 37,000 2d 6h 4 10 32 188 225.6 3,107 625 39,000 2d 6h 4 10 33 192 230.4 3,184 625 41,000 2d 6h 4 10 34 196 235.2 3,264 625 43,000 2d 6h 4 10 35 200 240 3,346 725 45,000 2d 6h 4 10 36 203 243.6 3,429 725 47,000 2d 12h 4 10 37 207 248.4 3,515 725 49,000 2d 12h 4 10 38 212 254.4 3,602 725 51,000 2d 12h 4 10 39 216 259.2 3,692 725 53,000 2d 12h 4 10 40 220 264 3,785 850 55,000 2d 12h 4 10 41 234 280.8 3,879 850 58,000 3d 5 11 42 239 286.8 3,976 850 61,000 3d 5 11 43 244 292.8 4,076 850 64,000 3d 5 11 44 249 298.8 4,178 850 67,000 3d 5 11 45 254 304.8 4,282 980 70,000 3d 5 11 46 259 310.8 4,389 980 73,000 3d 5 11 47 265 318 4,499 980 76,000 3d 5 11 48 270 324 4,611 980 79,000 3d 5 11 49 276 331.2 4,727 980 82,000 3d 5 11 50 282 338.4 4,845 1,125 85,000 3d 5 11 51 288 345.6 4,967 1,125 86,000 3d 6 12 52 294 352.8 5,092 1,125 87,000 3d 6 12 53 300 360 5,219 1,125 88,000 3d 6 12 54 307 368.4 5,350 1,125 89,000 3d 6 12 55 314 376.8 5,484 1,300 90,000 3d 6 12 56 320 384 5,622 1,300 93,000 3d 6 12 57 327 392.4 5,763 1,300 96,000 3d 6 12 58 334 400.8 5,908 1,300 99,000 3d 6 12 59 341 409.2 6,055 1,300 102,000 3d 6 12 60 349 418.8 6,208 1,490 105,000 3d 6 12 61 355 426 6,363 1,490 107,000 4d 6 12 62 362 434.4 6,522 1,490 109,000 4d 6 12 63 370 444 6,685 1,490 111,000 4d 6 12 64 377 452.4 6,853 1,490 113,000 4d 6 12 65 385 462 7,024 1,700 115,000 4d 6 12 66 393 471.6 7,200 1,700 117,000 4d 7 13 67 400 480 7,378 1,700 119,000 4d 7 13 68 408 489.6 7,557 1,700 121,000 4d 7 13 69 417 500.4 7,735 1,700 123,000 4d 7 13 70 425 510 7,905 1,925 125,000 4d 7 13 71 434 520.8 8,075 1,925 130,000 4d 7 13 72 442 530.4 8,245 1,925 135,000 4d 7 13 73 451 541.2 8,415 1,925 140,000 4d 7 13 74 459 550.8 8,585 1,925 145,000 4d 7 13 75 468 561.6 8,755 2,150 150,000 4d 7 13 76 475 570 8,917 2,150 155,000 4d 8 14 77 483 579.6 9,078 2,150 160,000 4d 8 14 78 490 588 9,240 2,150 165,000 4d 8 14 79 498 597.6 9,401 2,150 170,000 4d 8 14 80 506 607.2 9,563 2,350 175,000 4d 8 14 81 513 615.6 9,690 2,350 180,000 5d 8 14 82 519 622.8 9,818 2,350 185,000 5d 8 14 83 526 631.2 9,945 2,350 195,000 5d 8 14 84 533 639.6 10,073 2,350 205,000 5d 8 14 85 540 648 10,200 2,500 215,000 5d 8 14 86 547 656.4 10,328 2,500 220,000 6d 9 15 87 553 663.6 10,455 2,500 230,000 6d 9 15 88 560 672 10,583 2,500 240,000 6d 9 15 89 567 680.4 10,710 2,500 250,000 6d 9 15 90 574 688.8 10,838 2,650 255,000 6d 9 15 91 581 697.2 10,965 2,650 280,000 7d 10 16 92 587 704.4 11,093 2,650 290,000 7d 10 16 93 594 712.8 11,220 2,650 300,000 7d 10 16 94 601 721.2 11,348 2,650 310,000 7d 10 16 95 608 729.6 11,475 2,800 320,000 7d 10 16 96 615 738 11,600 2,800 340,000 8d 11 17 97 622 746.4 11,725 2,800 350,000 8d 11 17 98 629 754.8 11,850 2,800 360,000 8d 11 17 99 636 763.2 11,975 2,800 370,000 8d 11 17 100 643 771.6 12,100 2,950 380,000 8d 11 17 101 650 780 12,225 2,950 400,000 8d 12 18 102 657 788.4 12,350 2,950 410,000 8d 12 18 103 664 796.8 12,475 2,950 420,000 8d 12 18 104 671 805.2 12,600 2,950 430,000 8d 12 18 105 678 813.6 12,725 3,100 450,000 8d 12 18 106 685 822 12,850 3,100 460,000 8d 12 18 107 692 830.4 12,975 3,100 470,000 8d 12 18 108 699 838.8 13,100 3,100 475,000 8d 12 18 109 706 847.2 13,225 3,100 485,000 8d 12 18 110 713 855.6 13,350 3,250 490,000 8d 12 18 *Statistics are truncated to the whole number in-game. Hero Equipment [ ] When attacking, the Barbarian King can use two of the below pieces of Hero Equipment, which change the abilities he has and grants additional stat bonuses. The Barbarian King does not use any Hero Equipment when defending. Select the equipment below to learn more about the abilities and stat bonuses that each piece gives. Barbarian Puppet Rage Vial Earthquake Boots Vampstache Giant Gauntlet Spiky Ball Snake Bracelet Stick Horse History [ ] Date Description January 9, 2013 Announced the Barbarian King. January 10, 2013 Added the Barbarian King, with 30 levels. February 5, 2013 Reduced regeneration time at all levels: Level 1: 4h -> 1h Level 2: 4h 14m -> 1h 6m Level 3: 4h 30m -> 1h 12m Level 4: 4h 46m -> 1h 18 Level 5: 5h 3m -> 1h 24m Level 6: 5h 21m -> 1h 30m Level 7: 5h 40m -> 1h 36m Level 8: 6h 1m -> 1h 42m Level 9: 6h 23m -> 1h 48m Level 10: 6h 45m -> 1h 54m Level 11: 7h 10m -> 2h Level 12: 7h 36m -> 2h 6h Level 13: 8h 3m -> 2h 12m Level 14: 8h 32m -> 2h 18m Level 15: 9h 3m -> 2h 24m Level 16: 9h 35m -> 2h 30m Level 17: 10h 10m -> 2h 36m Level 18: 10h 46m -> 2h 42m Level 19: 11h 25m -> 2h 48m Level 20: 12h 6m -> 2h 54m Level 21: 12h 50m -> 3h Level 22: 13h 36m -> 3h 6m Level 23: 14h 25m -> 3h 12m Level 24: 15h 17m -> 3h 18m Level 25: 16h 12m -> 3h 24m Level 26: 17h 10m -> 3h 30m Level 27: 18h 12m -> 3h 36m Level 28: 19h 17m -> 3h 42m Level 29: 20h 27m -> 3h 48m Level 30: 21h 40m -> 3h 54m The Barbarian King's level and stats are now displayed correctly when visiting villages. The Barbarian King now patrol a larger area and show guard radius when tapped. May 23, 2013 Added levels 31 to 40 Barbarian King. January 29, 2014 Added the Iron Fist ability. July 3, 2014 The defensive Barbarian King now has a targeting radius around his platform. Massively reduced his damage, but greatly heals himself when activating his ability. September 16, 2014 Reduced hero regeneration times greatly on all levels. October 22, 2014 Hero icons now show hero ability status in replays. December 11, 2014 Hero ability icons now show remaining hitpoints and start flashing when low. July 1, 2015 Improved the Barbarian King's A.I, where he would less likely to target Walls , and would not continue bashing through Walls to get to a destroyed target. October 12, 2016 Changed the Barbarian King's info image. December 19, 2016 Added levels 41 to 45 Barbarian King. Reduced upgrade costs of levels 31 to 40. Changed the Barbarian King's icon and info. December 18, 2017 Added levels 46 to 50 Barbarian King. Decreased upgrade cost of levels 8 to 45 Barbarian King. March 5, 2018 Barbarian King's Iron Fist ability no longer affect Barbarians that are not summoned from his ability. June 11, 2018 Added levels 51 to 60 Barbarian King. June 26, 2018 Reduced upgrade times of levels 2 to 38 Barbarian King. Reduced regeneration times of levels 2 to 60. April 2, 2019 Converted the Barbarian King from 2D to 3D. June 18, 2019 Added levels 61 to 65 Barbarian King. December 9, 2019 Added levels 66 to 70 Barbarian King. March 30, 2020 Reduced upgrade cost for level 40 Barbarian King. New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero. Barbarian King now displays in his selected skin under the Player Profile tab. When acquiring a new skin, the UI to select the skin will automatically open. Some selected skins will be able to be purchased outside of the Gold Pass. Fixed a bug where the Barbarian King received double health recovery when his ability is used both automatically and manually at the same time. Show purple Hero level icons properly in attack confirm screen if Hero Potion is active. Fixed inconsistencies with situations where multiple boosts which affect movement speed, attack speed and damage (Barbarian King's ability) are active at the same time. June 22, 2020 Added levels 71 to 75 Barbarian King. October 12, 2020 Heroes now automatically heal when the player's base is raided. Removed guard toggle. October 26, 2020 Fixed skin names not changing when changing Hero with the arrows (in the \"Change Skin\" menus). December 7, 2020 At the end of a battle, if the Barbarian King's ability remains unused, the Hero will heal the amount of HP they would normally recover from using their ability. This will help reduce the Hero’s downtime, allowing them to be ready much sooner. A new Cosmetics tab has been added to the in-game shop where you can browse and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems. A “View Skin” option has been added when visiting. Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements. April 12, 2021 Added levels 76 to 80 Barbarian King. Polished and changed the Barbarian King's 3D model. Reduced upgrade costs and times of levels 1 to 50 Barbarian King. In particular, the cost to summon the Barbarian King was reduced to 5,000 Dark Elixir (from 10,000). Boosts on Barbarian King and other Heroes or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background. June 15, 2021 Fixed the Barbarian King occasionally doing 360-degree turns during attacks. December 9, 2021 Reduced upgrade costs from levels 26 to 64. Reduced upgrade times from levels 20 to 29. October 10, 2022 Added levels 81 to 85 Barbarian King. December 12, 2022 Changed the Barbarian King's 3D model. June 12, 2023 Added levels 86 to 90 Barbarian King. December 12, 2023 Added levels 91 to 95 Barbarian King. Increased maximum level from level 5 to 10 at Town Hall 7 and from 10 to level 20 at Town Hall 8. Reduced upgrade costs and times across all existing levels. Replaced the Iron Fist ability with Hero Equipment and a health recovery stat. As a result, the Barbarian King loses DPS and HP at every level, with much of the missing stats being given to his default Hero Equipment. Changed the description of the Barbarian King. Before, it used to read \"This colossal menace soaks up huge amounts of damage and bashes anything in his path. He guards his territory fiercely when defending, and can launch into a devastating rage when attacking once his Iron Fist ability is unlocked!\" . November 25, 2024 Added levels 96 to 100 Barbarian King. The Barbarian King can no longer unlocked by placing down his Altar and is instead unlocked when the Hero Hall 's construction is finished. His Altar is replaced by the Hero Banner obstacle. March 27, 2025 Removed regeneration time. October 6, 2025 Moved levels 81 to 85 Barbarian King from Town Hall 15 to Town Hall 14. November 17, 2025 Added levels 101 to 105 Barbarian King. May 26, 2026 Moved the Barbarian King from Town Hall 7 to Town Hall 4. Added special mechanics for level 1, where his health and damage are scaled, at 50% at Town Hall 4, 75% at Town Hall 5, and 100% at Town Hall 6. He cannot defend the village and can only be used by attacking during these aforementioned Town Hall levels until his Hero Banner is first placed, where he can then be upgraded starting at Town Hall 7. June 15, 2026 Added levels 106 to 110 Barbarian King. Hero Skins [ ] Skin Availability [ ] Below is a table that lists all Hero skins for the Barbarian King and the month in which they were available, in chronological order. Skins are divided into three classes: Gold denotes a skin that was featured as a Gold Pass skin in Season Challenges . All Hero Skins from the Gold Pass since April 2023 have been available as the first reward on the Gold track. Prior to this, they have all been the last reward on the Gold track unless specified. All Gold skins are available permanently for purchase at a price of 1,500 Gems exactly a year after the skin was originally offered in the Gold Pass. Once available in the Shop, they may also be found in Legendary-rated Treasure Chests after the loot pool is refreshed in game updates. Standard and Legendary denotes skins not available from the Gold Pass that were available only through a special offer or event. Unless otherwise stated in the notes, these skins' special offers were available in the season listed, and cost the equivalent of $3.99 USD for Standard skins, or $9.99 USD for Legendary skins. The notes section may also include additional context of an offer. Skin from collaboration are not available for re-purchase in the Cosmetics tab. Key for highlighted entries: Entries that are highlighted denote that the skin is available in the current Season Challenges season. Entries marked with a Coathanger denote a Standard or Legendary skin that is permanently available for re-purchase in the cosmetics tab at the original price when the skin was originally offered. Entries marked with a Gem denote that the skin is purchasable with Gems; all skins currently purchasable in this manner cost 1,500 . Entries marked with a Yellow Star denote that the skin is exclusive; these skins will not be available for re-purchase in the future. Skin Class Season Available Notes Gladiator King Gold April 2019 P.E.K.K.A King Gold June 2019 Skeleton King Gold October 2019 Jolly King Gold December 2019 Available as the first reward on the Gold Pass track. Primal King Gold February 2020 Clockwork King Gold May 2020 Party King Gold August 2020 Champion King Legendary October 2020, November 2021, September 2022, September 2024 The Champion King was available in a special offer for the World Finals in 2020, 2021 and 2022. In September 2024, it was purchasable in the Mini Spotlight medal event for 2,250 . Pirate King Gold November 2020 Warrior King Legendary February 2021/2022 The Warrior King was available in a Lunar New Year offer in 2021 and 2022. Rogue King Gold March 2021 Fierce King Standard June 2021 The Fierce King was available in a special offer after the June 2021 update, as the winning entry of the \"The King of Clan Wars\" skin design competition in Supercell Make. Jungle King Gold July 2021 Beat King Legendary August 2021 The Beat King was available in a special offer for the August 2021 Clashiversary. Golem King Gold November 2021 Ice King Legendary December 2021 Lunar King Legendary January-February 2022 The Lunar King was available in a special Lunar New Year offer from January 29th 2022. Shadow King Gold April 2022 Summer King Legendary June 2022 Pixel King Legendary August 2022 The Pixel King was made available as part of the 10th Clashiversary celebrations, as a reward in the silver tier of Season Challenges requiring 40 points. Clash Fest King Gold September 2022 Magic King Legendary October 2022 The Magic King was available in a special offer for the release of Town Hall 15. Beast King Gold February 2023 Painter King Legendary March 2023 The Painter King was available in a special offer in March 2023 as part of the Color Fest event. Alternatively, it could be purchased in a bundle with the other three Painter skins for $24.99 USD. Dark Ages King Gold May 2023 League King Legendary June 2023 The League King is permanently available in the Clan War Leagues Shop starting from the June 2023 update. It costs 2,000 . Future King Legendary August 2023 The Future King skin was available in a special offer for the 11th Clashiversary in August 2023. Chess King Legendary September 2023 The Chess King skin was available in a special offer during September 2023. Ghost King Legendary October 2023 The Ghost King skin was available in a special Clash-O-Ween offer in October 2023. Gingerbread King Legendary December 2023 The Gingerbread King skin was available as a part of the Cookie Rumble medal event in December 2023, where it could be bought for 4,650 . King of the North Gold January 2024 Dragon King Legendary February 2024 The Dragon King skin was available in a special Lunar New Year offer in February 2024. Space King Legendary March 2024 Egypt King Legendary April 2024 King Haaland Legendary May 2024 Based on the association football player Erling Haaland , as part of the Clash with Haaland collaboration season. Football King Legendary May 2024 Super Squad King Legendary May 2024 Based on the Barbarian King's appearance in Squad Busters , the skin is a reward milestone for 30 million pre-registrations on Squad Busters and was available to claim for free until May 29th. Wild West King Legendary June 2024 Clash Games King Gold July 2024 Anime King Legendary August 2024 Barbarian Orc Legendary September 2024 Dark Minion King Legendary October 2024 Judgment King Gold November 2024 Robo King Legendary December 2024 Fire King Legendary January 2025 Snake King Legendary February 2025 Combat King Gold March 2025 King Cody Legendary April 2025 Based on the WWE wrestler Cody Rhodes , as part of the Clashamania collaboration season. Samurai King Legendary May 2025 Barbarian Butcher Legendary June 2025 Renegade King Legendary July 2025 Clash-A-Rama King Legendary August 2025 Jelly King Legendary September 2025 Berserker King Legendary October 2025 Bruiser King Gold November 2025 Awakened King Legendary December 2025 Desert King Gold January 2026 Monkey King Legendary February 2026 Dragonscale King Legendary March 2026 Stringshredder King Legendary April 2026 Skeleton King Resurrected Legendary May 2026 Available as a reward in the Clash vs Skeletons event after contributing 200 Stars. Shadow Samurai Legendary May 2026 Anime Fury King Legendary June 2026 Majestic Barbarian King Legendary June 2026 Available as a reward from Hero's Journey once a cumulative total of 125 Hero levels is attained. Sapphire Half-Time King Legendary June 2026 Available as a reward after giving 1 million 🔥 emoji reactions in Global Chat Town Square. Zeus King Gold July 2026 King Barbarian Legendary August 2026 King Rhodes Legendary September 2026 Based on the WWE wrestler Cody Rhodes , as part of the Search for Cena collaboration season. Savage King Legendary October 2026 Titan King Legendary November 2026 Barbarian King Skins [ ] Anniversary Skin 2020 World Championship Skin 2020 Lunar New Year Skin 2021 Supercell Make skin. Concept by: oni Anniversary Skin 2021 Lunar New Year Skin 2022 Barbarian King Custom Spawned Units Initializing Skin Menu... To view the skin wardrobe, please reload the page on the desktop skin . Created by E12Dragon Alternatively, see Barbarian King/Skins for a gallery. Barbarian King Skin Features [ ] Yes: Feature is fully customized from the original Partial: Feature is subtly customized from the original No: Feature is not customized from the original Skin Preview Animation Pose Animation Selection Animation Walking Animation Attacking Animation Knockout Animation Resting Animation Constant Effects Preview Effects Pose Effects Selection Effects Deployment Effects Walking Effects Attacking Effects Ability Effects Knockout Effects Resting Effects Custom Spawns Preview Sounds Pose Sounds Selection Sounds Deployment Sounds Attacking Sounds Ability Sounds Knockout Sounds Gladiator King Yes 1 Yes 1 Yes 1 Partial Partial Partial Partial No No No No No No No No No No No Yes Yes Yes Yes No No Yes P.E.K.K.A King Yes 1 Yes 1 Yes 1 Partial Partial Partial Partial No No No Yes No No No No No No No Yes Yes Yes Yes No No Yes Skeleton King Yes Yes Yes Yes Yes Yes Yes Yes No No Yes No No No No No No No No No No No No No No Jolly King Yes Yes Yes Yes Yes Yes Yes Yes No Yes Yes No No No No No No No Yes Yes Yes Yes No No Yes Primal King Yes Yes Yes Yes Yes Yes Yes No No No Yes No No No No No No No No No No No No No No Clockwork King Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No Yes Yes Yes Yes Yes No Yes Party King Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No Yes Yes Yes Yes Yes Yes Yes Champion King Yes Yes Yes Partial Yes Yes Yes Yes Yes No Yes Yes No Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes No No Pirate King Yes Yes Yes Yes Yes Partial Yes No Yes Yes Yes No No No No No No No Yes Yes Yes Yes Yes Yes No Warrior King Yes Yes Yes Yes Yes Yes Yes No No No No Yes No No Yes No No No Yes Yes Yes Yes No Yes Yes Rogue King Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No No No No No No No No Fierce King Yes 2 Yes 2 Yes 2 Yes 2 Yes 2 Yes 2 Yes 2 No No No No No No No No No No No No No No No No No No Jungle King Yes Yes Yes Yes Yes Partial Yes Yes Yes No No No No No No No No No No No No No No No No Beat King Yes Yes Yes Yes Yes Yes Yes No Yes No Yes Yes No No No No Yes Yes Yes Yes Yes Yes Yes Yes No Golem King Yes Yes Yes Partial Yes Partial Yes No No No No No No No Yes No No No Yes Yes Yes Yes Yes Yes Yes Ice King Yes Yes Yes Yes Yes Yes Yes No No No Yes No No No Yes No No Yes Yes Yes Yes Yes Yes Yes Yes Lunar King Yes Yes Yes Yes Yes Yes Yes No No No Yes Yes No Yes Yes No No Yes Yes Yes Yes Yes Yes Yes No Shadow King Yes Yes Yes Yes Yes Yes Yes No No No No No No No Yes No No No Yes Yes Yes Yes Yes Yes No Summer King Yes Yes Yes Yes Yes Yes Yes No No No No Yes No No Yes No No No Yes Yes Yes Yes Yes Yes No Pixel King Yes Yes Yes Yes Yes Yes Yes No No No No Yes No No No No No Yes Yes Yes Yes Yes Yes Yes Yes Clash Fest King Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No Yes Yes Yes No Yes Yes No Magic King Yes Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No Yes Yes Yes Yes Yes No No No Beast King Yes Yes Yes Yes Yes Yes Yes No No No No No No No No No No No Yes Yes Yes Yes Yes Yes Yes Painter King Yes Yes Yes Yes Yes Yes Yes No No No No Yes No No No No No Yes Yes Yes Yes Yes Yes No No 1 The Gladiator and P.E.K.K.A King Preview, Pose and Selection animations were identical to the original 3D Barbarian King Model prior to its change on April 12, 2021. 2 Fierce King animations were identical to or only subtly customized from the second 3D Barbarian King Model prior to its change on December 12, 2022. Notes [ ] If you tap on the Barbarian King, he will yell a high pitched battle cry and stand still for a moment, similar to the Archer Queen . If he is wearing the Skeleton King skin, he will remove his skull and bow to the player. If he is wearing the Jolly King skin, he will wave to the player. If he is wearing the Primal King skin, he will smash the ground with his club. If he is wearing the Party King skin, he will play on his guitar and display a sign of the horns gesture, which is often associated with rock and roll and heavy metal. If he is wearing the Champion King skin, he will wave his sword around. If he is wearing the Pirate King skin, he will run his hook through his cutlass. If he is wearing the Warrior King skin, he will raise his sword towards the player. If he is wearing the Rogue King skin, he will remove his crown and bow to the player. If he is wearing the Beat King skin, he will perform on his keytar and perform a little dance. If he is wearing the Golem King skin, he will bow to the player. If he is wearing the Shadow King and Dark Minion King skin, he will taunt the player and display a throat=slit gesture. If he is wearing the Summer King skin, he will surf on his board. If he is wearing the Clash Fest King skin, he will remove his headpiece and twirl it around his hand before putting it back on again. If he is wearing the Magic King skin, he will toss his sword while it spins in the air. If he is wearing the Beast King skin, he will thump the ground and roar at the player. If he is wearing the Goblin King skin, he will put down his sword and let out a laugh. If he is wearing the Future King skin, he appears to be communicating with someone on his earpiece. If he is wearing the King of the North skin, he will spin in the air and land a blow with his axe. If he is wearing the Egypt King skin, he will put his khopesh in both of his hands and look up at the player, as if offering the weapon to them. If he is wearing the Football King skin, he will run around and cheer. If he is wearing the Clash Games King skin, he will throw a few punches and let out a cheer. If he is wearing the Robo King skin, his head will get stuck and he will spin it around to its correct position again. If he is wearing the Fire King skin, he will set his sword on fire with the flame erupting from his head. If he is wearing the King Cody skin, he will cheer to the audience and stand up on his chair. If he is wearing the Samurai King skin, he will slice up a bamboo post that appears in front of him with his katana. If he is wearing the Barbarian Butcher skin, he will trim his beard with his machete. If he is wearing the Renegade King skin, he will show off his robotic arms and slam them together. If he is wearing the Bruiser King skin, he will show off his flails and clang them into each other. If he is wearing the Desert King skin, he will pass his sword from one hand to another and spin it around. The Gladiator King, P.E.K.K.A King, Primal King, and Champion King skins have four fingered hands, while the other skins, including the default one after the Town Hall 14 update introduced a new model for the default Barbarian King skin, have five fingered hands. The four-fingered model for the Barbarian King prior to the Town Hall 14 update contradicts newer artwork of him in 2019 and 2020, which feature him with five-fingered hands. However, the 2020 loading screen image shows the Barbarian King holding his sword with four-fingered hands. This is the same case for the Jolly King skin and Skeleton King skin where they are shown with five-fingered hands in battle and picture but are shown with four fingers in the 2020 Halloween loading screen and 2020 Winter loading screen . The Fierce King, A.K.A Savage King, was created by oni on Supercell Make. The Barbarian King is the first Hero to have a skin, which is the Gladiator King, when Season Challenges were first added as part of the April 2, 2019 update. The P.E.K.K.A King, Jolly King, and Champion King are the only skins for the Barbarian King that wield a glowing sword. Many of the Barbarian King's skins feature him holding different weapons instead of a sword: With the Pirate King skin, he holds a cutlass. With the Primal King skin, he holds a large bone. With the Party King skin, he uses an axe-shaped guitar. With the Jungle King skin, he holds a macuahuitl , a wooden spiked club that was used by various Mesoamerican cultures, such as the Aztecs . With the Beat King skin, he uses a keytar . With the Fierce King, Shadow King, Beast King, King of the North and Barbarian Orc skins, he wields a large axe. With the Egypt King skin, he holds a khopesh , an Egyptian sickle-shaped sword. With the Summer King skin, he uses a surfboard. With the Painter King skin, he holds a large paintbrush. With the Gingerbread King skin, he uses an orange popsicle. With the King Haaland and Football King skins, he uses a football. With the Wild West King skin, he uses a toy horse. With the Clash Games King skin, he uses boxing gloves. With the Dark Minion King skin, he holds a curved sword similar in appearance to a shamshir or shotel . With the Judgment King skin, he uses a spiked hammer. With the Robo King and Future King skins, he uses an electric sword. With the Fire King skin, he uses a jagged sword with a fiery blade. With the Snake King skin, he wields a spiked club similar in appearance to the Kanabō , a war club that was used by samurai in feudal Japan. With the Combat King skin, he uses a combat knife. With the King Cody skin, he uses a golden chair. With the Samurai King skin, he wields a katana. With the Barbarian Butcher skin, he holds a large meat cleaver. With the Renegade King skin, he uses robotic arms. With the Jelly King skin, he attacks with large tentacles instead of a sword. With the Bruiser King skin, he wields two flails, with the spiked balls featuring a glowing energy core. With the Desert King skin, he uses a scimitar . With most of his skins, the Barbarian King will alternate between hitting the building with the sword and his fist. However, both types of strikes do equal damage. In the case of the Rogue King, he has two types of attacks using his fist (either doing a chop or a backslap), and only has one sword attack animation. An exception is the Party King skin, where all of his attacks involve his guitar (which he attacks with in two different ways, either by slamming the guitar's body at the target or doing a stabbing motion with the guitar's body as a blade). The Pirate King skin uses his sword in both his attack animations, slicing the target in two different ways. The Barbarian King has the most current skins of any Hero, which is currently 36. The King Haaland Skin is the first skin to be based on a real person in Clash of Clans. Another skin based on a real person is King Cody, who is based on Cody Rhodes , an American professional wrestler. The Super Squad King was released for free in the shop in celebration of Squad Busters reaching 30 million pre-registrations on the App Store. It was available until May 29, 2024. However, this skin is re-released and can be obtained using Supercell ID Points for 5,000 Points. The Combat King skin has a unique animation which features the Barbarian King crawling along the ground. The Barbarian King's appearance was redesigned twice. Before Hero Skins were added, the original Barbarian King pre-rendered texture had visual changes at levels 10, 20 and 41. Initially, the Barbarian King used to appear similar to a giant Barbarian , with vegas gold hair, a steel crown, steel gauntlet, and steel shoulder guard. He used a blunt sword with a stone hilt. At level 10, his gauntlet changed from steel to gold. At level 20, his shoulder guard's edge turned to gold, and the central spike turned gold as well. At level 41, his crown turned gold. Levels 1-9 (Old Sprite) Levels 10-19 (Old Sprite) Levels 20-40 (Old Sprite) Levels 41-60 (Old Sprite) Trivia [ ] General [ ] Each time he lands an attack on a building or unit creates a tiny explosion. The same occurs with the Giant or Golem as well, with or without effects depending on the scenery used. The Barbarian King lives in the Town Hall according to a tweet by Supercell . The Barbarian King likely moved to Hero Hall after its addition. When the Barbarian King \"falls\", or is knocked out in a battle, an explosion occurs and a bright beam of light is sent up into the sky temporarily. He is then seen standing dazed with stars flying around his head for the remainder of the battle. The Barbarian King is shown to be smaller than the Giants in the Clash-A-Rama! series, which contradicts a Heroes trailer saying that he is bigger than a Giant. The first person to max out the Barbarian King and Archer Queen was a player named jessiebrar (during the initial release of Heroes , the maximum level for both Heroes was 30). Prior to the January 29, 2014 update that introduced Hero abilities, and prior to the October 12, 2020 update that removed Guard button for all Heroes and made Heroes heal automatically after the raid, the original description for the Barbarian King and the Archer Queen were \" Heroes can attack enemy villages or guard your village. Heroes can be injured, but are immortal. Heal them by letting them sleep or using the Heal button. Heroes won't defend the village while sleeping. \" The Barbarian King's hair used to be vegas gold that contrasts with the Barbarian 's hair color. In his new appearance, however, his hair color is now yellow like regular Barbarians. The Barbarian King is featured as a character skin for Bull in Brawl Stars . The Barbarian King is one of three units to appear as a Hero in Squad Busters . The other being the Archer Queen and P.E.K.K.A . The Skeleton King from Clash Royale shares a name with one of the Barbarian King's skins. They share a similar summoning ability, but the Skeleton King summons Skeletons instead of Barbarians. His crown is tilting when he is defeated in battle in his default skin, however this is barely noticeable and he must be at a certain position in order to see it. Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the \"regeneration time\" statistic is still visible in Hero info screens, although it does not have an effect on gameplay. The regeneration time used to start at 10 minutes and increases by 2 minutes at every 5th level to a maximum of 48 minutes at level 95 onwards. This was fixed in a later update. [please specify what update] Comparisons [ ] The Barbarian King is the only Hero in the Home Village whose attack type is melee and can only attack ground units. The Barbarian King deals the highest damage out of all the Heroes in the game, however, in terms of Damage per Second, he ranks third among them, including most of the troops . The highest stats that the Barbarian King can achieve with combinations of equipment are: The highest hitpoints are 22,006 by equipping the maximum level Stick Horse and Snake Bracelet. The highest health recovery is 6,226 by equipping the maximum level Barbarian Puppet and Rage Vial. The highest self healing per second is 40 by equipping the maximum level Giant Gauntlet with any other equipment. The highest damage is 1,230 by equipping the maximum level Giant Gauntlet and Spiky Ball. The shortest attack speed is 0.909 seconds by equiping the maximum level Vampstache and Snake Bracelet. This also gives him a DPS of 1106. At max level, the Barbarian King has the second most HP out of any unit in the Home Village, if he equips both max-leveled Snake Bracelet and the Barbarian Puppet. The Barbarian King has the third most hitpoints if he equips both these Hero Equipments above, beating the Flying Fortress ' 18,000 HP at level 5 and placing it third, the Meteor Golem surpasses him by having 19,000 HP at level 3, with the Mountain Golem being the unit with the highest hitpoints, with up 44,000 HP at level 5. If boss troops are counted, then the Barbarian King has the sixth most hitpoints in the game, as the M.E.G.A C.O.O.K.I.E would be in fourth place with 25,000 HP, the Giant Dragon comes third with 33,000 HP, while the M.O.M.M.A is the unit with the highest hitpoints in the entire game with 55,000 HP. The Barbarian King and the Archer Queen were the first Heroes added to the game. He and the Archer Queen have the highest levels out of all the Heroes and Troops. Likewise, they are also the only Heroes to have 3-digit levels, which is 100. He is the only ground Hero who can defeat a P.E.K.K.A in a one-on-one battle without using his ability. He is the only Hero who has a Mash-A-Rama skin based on a Pet instead of a troop. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

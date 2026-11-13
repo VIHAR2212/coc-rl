@@ -1,0 +1,189 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Royal Champion",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Blacksmith level 8"
+      }
+    ],
+    [
+      {
+        "Level": "Ability Duration",
+        "Ability Attributes": "Speed Increase",
+        "Hero Boosts": "Attack Speed Increase",
+        "Upgrade Cost": "Damage per Second Increase",
+        "Blacksmith Level Required": "Attack Speed Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "7.0s",
+        "Hero Boosts": "18.0",
+        "Upgrade Cost": "+60%",
+        "Blacksmith Level Required": "20"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "7.0s",
+        "Hero Boosts": "18.0",
+        "Upgrade Cost": "+60%",
+        "Blacksmith Level Required": "24"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "7.5s",
+        "Hero Boosts": "22.3",
+        "Upgrade Cost": "+60%",
+        "Blacksmith Level Required": "28"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "7.5s",
+        "Hero Boosts": "22.3",
+        "Upgrade Cost": "+60%",
+        "Blacksmith Level Required": "32"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "7.5s",
+        "Hero Boosts": "22.3",
+        "Upgrade Cost": "+60%",
+        "Blacksmith Level Required": "36"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "8.0s",
+        "Hero Boosts": "25.5",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "40"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "8.0s",
+        "Hero Boosts": "25.5",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "44"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "8.0s",
+        "Hero Boosts": "25.5",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "48"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "8.5s",
+        "Hero Boosts": "28.7",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "52"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "8.5s",
+        "Hero Boosts": "28.7",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "56"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "8.5s",
+        "Hero Boosts": "28.7",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "60"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "9.0s",
+        "Hero Boosts": "32.0",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "64"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "9.0s",
+        "Hero Boosts": "32.0",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "68"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "9.0s",
+        "Hero Boosts": "32.0",
+        "Upgrade Cost": "+80%",
+        "Blacksmith Level Required": "72"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "9.5s",
+        "Hero Boosts": "35.1",
+        "Upgrade Cost": "+100%",
+        "Blacksmith Level Required": "76"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "9.5s",
+        "Hero Boosts": "35.1",
+        "Upgrade Cost": "+100%",
+        "Blacksmith Level Required": "80"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "9.5s",
+        "Hero Boosts": "35.1",
+        "Upgrade Cost": "+100%",
+        "Blacksmith Level Required": "84"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "10.0s",
+        "Hero Boosts": "38.3",
+        "Upgrade Cost": "+100%",
+        "Blacksmith Level Required": "88"
+      }
+    ],
+    [
+      {
+        "Date": "February 27, 2024",
+        "Description": "Added the Haste Vial."
+      },
+      {
+        "Date": "April 17, 2024",
+        "Description": "Fixed Royal Champion's attacks doing less damage when the Haste Vial ability is active. Decreased Haste Vial passive attack speed at level 9 to 18. Level 9: +11% → +10% Level 10: +12% → +11% Level 11: +13% → +12% Level 12: +13% → +12% Level 13: +14% → +13% Level 14: +15% → +14% Level 15: +15% → +14% Level 16: +16% → +15% Level 17: +17% → +16% Level 18: +18% → +16%"
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Reduced ability duration by 2 seconds at all levels."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For the original spell version, see Haste Spell . \"Casts Haste on the Royal Champion \" Summary The Haste Vial is a piece of Common Hero Equipment for the Royal Champion . It is unlocked when the Blacksmith is upgraded to level 8, which requires Town Hall level 15. The Haste Vial is a slightly cracked vial with a cubic cork with a pink liquid that resembles the Haste Spell , wrapped by a piece of dark cloth. When equipped, it enables the Royal Champion to both move and attack much faster for a short duration when she activates her ability. In addition to the ability, the Haste Vial grants additional damage per second and increased attack speed to the Royal Champion. The attack speed increase by the ability is multiplicative on top of the passive attack speed increase. For instance, at max level, the Royal Champion's passive attack rate is 116% that of normal; activating the ability doubles this to 232%. Strategies Offensive Strategies The Haste Vial greatly boosts the Royal Champion's damage potential for a short duration. Use it in the core of a base to decimate its defenses more quickly. It can alternatively be used to destroy compartments quickly, or when the Champion reaches the core of the base to run away from the Poison Bomb ,and to get some health recovery from the ability itself. Pairing this with the Royal Gem would be good, since it will increase her survivability while tackling defenses in the center of the base. You can further improve the Royal Champion's damage output during the ability by using a Rage Spell , since the Haste Vial does not increase the Royal Champion's damage per hit during her ability, allowing it to be modified by damage increases. However, this does not further increase her movement speed, so unless you are pairing the Rage Spell with other troops, you will be better not carrying or using it for this purpose alone. The Haste Vial is better when compared to the Seeking Shield if you want direct combat, while the Seeking Shield is better if you want to destroy defenses from afar and to help with cleanup. Due to her extremely fast movement speed in the ability, the Haste Vial can allow the Champion to quickly reach and destroy isolated buildings, which may enable cleanup to succeed where the Seeking Shield may fail if said buildings or defenses have enough hitpoints to survive the shield. The Haste Vial pairs well with the Hog Rider Puppet , as the Royal Champion turns invisible for a short while, allowing the Hog Riders to tank damage for her while she dashes in to damage the defenses in the core. The Rocket Spear has anti-synergy with Haste Vial as her increased attack speed means that she will throw additional spears before prior spears land, which can result in wasted rocket spears, unless she is close enough to that said defense, defeating the purpose of the extended range. Defensive Strategies Normally, the Royal Champion can run away from the Poison Bomb to avoid the Poison damage. Placing defenses around the Town Hall will make sure that the Royal Champion gets slowed down by the Poison from the Poison Bomb. Do not put traps where you think you can defeat a low-HP Royal Champion who is going to go through with a Haste Vial, as she can outrun traps when activated! However, if you put a defense there for the Champion to target, that will work well, especially if she is attacking a tanky defense such as the Town Hall Giga Inferno . Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Royal Champion Active Common Blacksmith level 8 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Ability Duration Speed Increase Attack Speed Increase Damage per Second Increase Attack Speed Increase Shiny Ore Glowy Ore 1 7.0s 18.0 +60% 20 +5% N/A N/A 8 2 7.0s 18.0 +60% 24 +6% 120 - 8 3 7.5s 22.3 +60% 28 +6% 240 20 8 4 7.5s 22.3 +60% 32 +7% 400 - 8 5 7.5s 22.3 +60% 36 +8% 600 - 8 6 8.0s 25.5 +80% 40 +8% 840 100 8 7 8.0s 25.5 +80% 44 +9% 1,120 - 8 8 8.0s 25.5 +80% 48 +10% 1,440 - 8 9 8.5s 28.7 +80% 52 +10% 1,800 200 8 10 8.5s 28.7 +80% 56 +11% 1,900 - 8 11 8.5s 28.7 +80% 60 +12% 2,000 - 8 12 9.0s 32.0 +80% 64 +12% 2,100 400 8 13 9.0s 32.0 +80% 68 +13% 2,200 - 8 14 9.0s 32.0 +80% 72 +14% 2,300 - 8 15 9.5s 35.1 +100% 76 +14% 2,400 600 8 16 9.5s 35.1 +100% 80 +15% 2,500 - 8 17 9.5s 35.1 +100% 84 +16% 2,600 - 8 18 10.0s 38.3 +100% 88 +16% 2,700 600 8 History Date Description February 27, 2024 Added the Haste Vial. April 17, 2024 Fixed Royal Champion's attacks doing less damage when the Haste Vial ability is active. Decreased Haste Vial passive attack speed at level 9 to 18. Level 9: +11% → +10% Level 10: +12% → +11% Level 11: +13% → +12% Level 12: +13% → +12% Level 13: +14% → +13% Level 14: +15% → +14% Level 15: +15% → +14% Level 16: +16% → +15% Level 17: +17% → +16% Level 18: +18% → +16% September 9, 2024 Reduced ability duration by 2 seconds at all levels. Trivia Before the April 2024 update, while the ability was active, the Royal Champion 's damage per hit was slightly reduced. This appears to occur as a result of her equipment's passive damage increases being calculated with the Champion's attack speed in the ability, rather than her normal attack speed. [ 1 ] It received a balance change and bug fix, removing the damage calculation oversight, but the passive attack speed is reduced to keeping the equipment at the same power as before. When the equipment is initially unlocked and equipped to the Royal Champion, she attacks every 1.14 seconds, and when her ability is activated, she throws her spear every 0.71 seconds for 7 seconds. When maxed out, the Royal Champion attacks every 1.03 seconds, and when the ability is activated, she throws her spear every 0.517 seconds for 10 seconds. When maxed out and activated, the Royal Champion throws a maximum of 19 spears for the entire duration, assuming no spears are wasted, if she stays in place and is not affected by defenses or Clan Castle units that can slow down her attack speed. References ↑ https://old.reddit.com/r/ClashOfClans/comments/1b52l6a/rc_does_less_damage_during_her_haste_vial_ability/ Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

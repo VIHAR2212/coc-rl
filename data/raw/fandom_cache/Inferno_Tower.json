@@ -1,0 +1,790 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "0",
+        "8": "0",
+        "9": "0"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "2",
+        "2": "2",
+        "3": "3",
+        "4": "3",
+        "5": "3",
+        "6": "3",
+        "7": "3",
+        "8": "3",
+        "9": "3"
+      }
+    ],
+    [
+      {
+        "Size": "2x2"
+      }
+    ],
+    [
+      {
+        "Level": "Initial",
+        "Damage per Second": "After 1.5s",
+        "Damage per Hit": "After 5.25s",
+        "Hitpoints": "Initial",
+        "Cost": "After 1.5s",
+        "Build Time": "After 5.25s"
+      },
+      {
+        "Level": "1",
+        "Damage per Second": "30",
+        "Damage per Hit": "80",
+        "Hitpoints": "800",
+        "Cost": "3.84",
+        "Build Time": "10.24",
+        "Experience Gained": "102.4",
+        "Town Hall Level Required": "1,500"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "35",
+        "Damage per Hit": "100",
+        "Hitpoints": "1,000",
+        "Cost": "4.48",
+        "Build Time": "12.8",
+        "Experience Gained": "128",
+        "Town Hall Level Required": "1,800"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "40",
+        "Damage per Hit": "120",
+        "Hitpoints": "1,200",
+        "Cost": "5.12",
+        "Build Time": "15.36",
+        "Experience Gained": "153.6",
+        "Town Hall Level Required": "2,100"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "45",
+        "Damage per Hit": "140",
+        "Hitpoints": "1,400",
+        "Cost": "5.76",
+        "Build Time": "17.92",
+        "Experience Gained": "179.2",
+        "Town Hall Level Required": "2,400"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "50",
+        "Damage per Hit": "150",
+        "Hitpoints": "1,500",
+        "Cost": "6.4",
+        "Build Time": "19.2",
+        "Experience Gained": "192",
+        "Town Hall Level Required": "2,700"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "55",
+        "Damage per Hit": "160",
+        "Hitpoints": "1,600",
+        "Cost": "7.04",
+        "Build Time": "20.48",
+        "Experience Gained": "204.8",
+        "Town Hall Level Required": "3,000"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "65",
+        "Damage per Hit": "180",
+        "Hitpoints": "1,800",
+        "Cost": "8.32",
+        "Build Time": "23.04",
+        "Experience Gained": "230.4",
+        "Town Hall Level Required": "3,300"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "80",
+        "Damage per Hit": "210",
+        "Hitpoints": "2,100",
+        "Cost": "10.24",
+        "Build Time": "26.88",
+        "Experience Gained": "268.8",
+        "Town Hall Level Required": "3,700"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "100",
+        "Damage per Hit": "230",
+        "Hitpoints": "2,300",
+        "Cost": "12.8",
+        "Build Time": "29.44",
+        "Experience Gained": "294.4",
+        "Town Hall Level Required": "4,000"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "120",
+        "Damage per Hit": "260",
+        "Hitpoints": "2,600",
+        "Cost": "15.36",
+        "Build Time": "33.28",
+        "Experience Gained": "332.8",
+        "Town Hall Level Required": "4,400"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "140",
+        "Damage per Hit": "290",
+        "Hitpoints": "2,900",
+        "Cost": "17.92",
+        "Build Time": "37.12",
+        "Experience Gained": "371.2",
+        "Town Hall Level Required": "4,800"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "155",
+        "Damage per Hit": "330",
+        "Hitpoints": "3,300",
+        "Cost": "19.84",
+        "Build Time": "42.24",
+        "Experience Gained": "422.4",
+        "Town Hall Level Required": "5,100"
+      }
+    ],
+    [
+      {
+        "Range": "9",
+        "Attack Speed": "0.128s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air",
+        "Number of Rounds": "1,000"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second per Target": "30",
+        "Damage per Hit": "3.84",
+        "Number of Targets": "5",
+        "HP": "1,500",
+        "Cost": "1,000,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "2",
+        "Damage per Second per Target": "35",
+        "Damage per Hit": "4.48",
+        "Number of Targets": "5",
+        "HP": "1,800",
+        "Cost": "1,200,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second per Target": "40",
+        "Damage per Hit": "5.12",
+        "Number of Targets": "5",
+        "HP": "2,100",
+        "Cost": "2,400,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "4",
+        "Damage per Second per Target": "45",
+        "Damage per Hit": "5.76",
+        "Number of Targets": "5",
+        "HP": "2,400",
+        "Cost": "3,400,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "5",
+        "Damage per Second per Target": "50",
+        "Damage per Hit": "6.4",
+        "Number of Targets": "5",
+        "HP": "2,700",
+        "Cost": "4,200,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage per Second per Target": "55",
+        "Damage per Hit": "7.04",
+        "Number of Targets": "5",
+        "HP": "3,000",
+        "Cost": "6,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "7",
+        "Damage per Second per Target": "65",
+        "Damage per Hit": "8.32",
+        "Number of Targets": "5",
+        "HP": "3,300",
+        "Cost": "8,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "8",
+        "Damage per Second per Target": "80",
+        "Damage per Hit": "10.24",
+        "Number of Targets": "6",
+        "HP": "3,700",
+        "Cost": "9,500,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "9",
+        "Damage per Second per Target": "100",
+        "Damage per Hit": "12.8",
+        "Number of Targets": "6",
+        "HP": "4,000",
+        "Cost": "10,000,000",
+        "Build Time": "6d 12h",
+        "Experience Gained": "749",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "10",
+        "Damage per Second per Target": "120",
+        "Damage per Hit": "15.36",
+        "Number of Targets": "6",
+        "HP": "4,400",
+        "Cost": "11,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "11",
+        "Damage per Second per Target": "140",
+        "Damage per Hit": "17.92",
+        "Number of Targets": "6",
+        "HP": "4,800",
+        "Cost": "16,000,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "12",
+        "Damage per Second per Target": "155",
+        "Damage per Hit": "19.84",
+        "Number of Targets": "6",
+        "HP": "5,100",
+        "Cost": "26,500,000",
+        "Build Time": "13d 12h",
+        "Experience Gained": "1,080",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "10",
+        "Attack Speed": "0.128s",
+        "Damage Type": "Multiple Targets",
+        "Unit Type Targeted": "Ground & Air",
+        "Number of Rounds": "1,000"
+      }
+    ],
+    [
+      {
+        "Charge": "Initial",
+        "Damage per Second": "After 1.5s",
+        "Damage per Hit": "After 5.25s",
+        "Hitpoints": "Initial",
+        "Cost": "After 1.5s",
+        "Build Time": "After 5.25s"
+      },
+      {
+        "Charge": "1",
+        "Damage per Second": "165",
+        "Damage per Hit": "350",
+        "Hitpoints": "3,500",
+        "Cost": "21.12",
+        "Build Time": "44.8",
+        "Experience Gained": "448",
+        "Town Hall Level Required": "5,100"
+      },
+      {
+        "Charge": "2",
+        "Damage per Second": "165",
+        "Damage per Hit": "350",
+        "Hitpoints": "3,500",
+        "Cost": "21.12",
+        "Build Time": "44.8",
+        "Experience Gained": "448",
+        "Town Hall Level Required": "5,300"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second per Target": "165",
+        "Damage per Hit": "21.12",
+        "Number of Targets": "6",
+        "HP": "5,100",
+        "Cost": "13,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second per Target": "165",
+        "Damage per Hit": "21.12",
+        "Number of Targets": "6",
+        "HP": "5,300",
+        "Cost": "8,500,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Firefighter": "Description"
+      },
+      {
+        "Firefighter": "Destroy 10 Inferno Towers in Multiplayer battles"
+      },
+      {
+        "Firefighter": "Destroy 250 Inferno Towers in Multiplayer battles"
+      },
+      {
+        "Firefighter": "Destroy 5,000 Inferno Towers in Multiplayer battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the Inferno Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Inferno Tower is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed Inferno Tower to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Inferno Tower is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the Inferno Tower to the next level, at the cost of one Hammer of Building if you have one. When the Inferno Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      }
+    ],
+    [
+      {
+        "Date": "May 23rd, 2013",
+        "Description": "Added the Inferno Tower, with two levels and one of its kind available."
+      },
+      {
+        "Date": "June 17th, 2013",
+        "Description": "Added the second Inferno Tower available at Town Hall level 10."
+      },
+      {
+        "Date": "August 27th, 2013",
+        "Description": "Added the achievement associated with the Inferno Tower, \"Firefighter\"."
+      },
+      {
+        "Date": "December 5th, 2013",
+        "Description": "Added level 3 Inferno Tower. Added Multi-Target mode, which previously had a radius of 9 tiles. Troops targeted by the Inferno Tower are no longer able to be healed. Decreased attack range from 10 to 9 in Single-Target mode. Decreased the upgrade cost at the level 2. Changed the description of the Inferno Tower. Prior to the update, the description was \"The Inferno Tower fires a mystical flame that gets more powerful the longer it stays on a target. It can target ground troops and flying units alike. Load the Tower with Dark Elixir to keep it operational.\""
+      },
+      {
+        "Date": "May 16th, 2014",
+        "Description": "Inferno Towers can now be toggled between different modes in War Base even if they are being upgraded in the Home Village. Fixed a bug where the Inferno Tower would be seen in Single-Target mode when scouting a base in Clan Wars, even if set to Multi-Target mode."
+      },
+      {
+        "Date": "July 3rd, 2014",
+        "Description": "The Multi-Target Inferno Tower is now slower at burning through big hordes of attacking troops."
+      },
+      {
+        "Date": "December 11th, 2014",
+        "Description": "Inferno Towers now shoot for a longer time before getting depleted (loading cost remains the same)."
+      },
+      {
+        "Date": "July 1st, 2015",
+        "Description": "The Single-Target Inferno Tower now charges to full power slightly faster."
+      },
+      {
+        "Date": "March 21st, 2016",
+        "Description": "Added the level 4 Inferno Tower. The Multi-Target Inferno Tower acquires new targets faster."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Made the upgraded Inferno Tower look like unloaded."
+      },
+      {
+        "Date": "June 27th, 2017",
+        "Description": "Added the level 5 Inferno Tower. Reduced upgrade time and costs at levels 2 to 4. Increased damage per second of Multi-Target at level 4. Single-Target first stage damage changed to match Multi-Target damage."
+      },
+      {
+        "Date": "December 2017",
+        "Description": "Removed the Inferno Tower's ability to block healing effects on targeted troops."
+      },
+      {
+        "Date": "March 5th, 2018",
+        "Description": "Increased damage per second of Multi-Target at levels 3 to 5: Level 3: 41 to 45 Level 4: 50 to 53 Level 5: 57 to 63 Balanced the damage per second of Single-Target to increase the time it takes to reach max damage, from 4.25 seconds to 5.25 seconds."
+      },
+      {
+        "Date": "June 11th, 2018",
+        "Description": "Added the level 6 Inferno Tower. Increased damage per second at levels 4 and 5."
+      },
+      {
+        "Date": "June 26th, 2018",
+        "Description": "Reduced build times at levels 1 to 5."
+      },
+      {
+        "Date": "June 29th, 2018",
+        "Description": "Increased the range of Multi-Target from 9 to 10."
+      },
+      {
+        "Date": "October 23rd, 2018",
+        "Description": "Added the third Inferno Tower available at Town Hall 12. Gave a small cosmetic change to the level 6 Single-Target Inferno Tower, changing its lens into a diamond shape."
+      },
+      {
+        "Date": "April 2nd, 2019",
+        "Description": "Reduced upgrade cost at level 4. Removed the Dark Elixir cost to reload the Inferno Tower, instead reloading for free when you log back into the game."
+      },
+      {
+        "Date": "June 2019",
+        "Description": "Gave the level 6 Inferno Tower a major cosmetic change. Prior to this, the level 6 Inferno Tower spoke plates reverts back to the level 4 palette with protruding gold on each side connecting to the platform, spikes replaced by pentagonal bolts, the pillar is glowing dull red, the chains and the smooth rock foundation are removed, with a new black metal plate and a shorter gray metal plate with a spike on each leg. The new appearance gave the tower a slightly lighter color scheme, lava flows to replace the chains, and an electric coil. It also reverted the diamond-shaped lens from the previous minor visual change. This was most likely done after much community discussion that it looked like a \"downgrade\"."
+      },
+      {
+        "Date": "September 11th, 2019",
+        "Description": "Decreased damage at levels 2 and 3."
+      },
+      {
+        "Date": "December 9th, 2019",
+        "Description": "Added the level 7 Inferno Tower."
+      },
+      {
+        "Date": "May 20th, 2020",
+        "Description": "Decreased damage of Single-Target at level 7 by 100."
+      },
+      {
+        "Date": "April 12th, 2021",
+        "Description": "Added the level 8 Inferno Tower. Reduced upgrade costs and times at levels 1 to 5."
+      },
+      {
+        "Date": "June 15th, 2021",
+        "Description": "Made it so that Inferno Towers visually target Unicorn instead of targeting the air above the Unicorn."
+      },
+      {
+        "Date": "December 9th, 2021",
+        "Description": "Reduced upgrade costs at levels 1 to 7."
+      },
+      {
+        "Date": "June 27th, 2022",
+        "Description": "Decreased damage at level 6."
+      },
+      {
+        "Date": "October 10th, 2022",
+        "Description": "Added the level 9 Inferno Tower."
+      },
+      {
+        "Date": "September 28th, 2023",
+        "Description": "Decreased damage of Single-Target at levels 1 to 8: Level 1: 30-1000 -> 30-800 Level 2: 36-1150 -> 35-1000 Level 3: 42-1300 -> 40-1200 Level 4: 58-1550 -> 50-1400 Level 5: 70-1750 -> 60-1600 Level 6: 80-1950 -> 70-1800 Level 7: 94-2100 -> 85-2000 Level 8: 106-2300 -> 100-2200"
+      },
+      {
+        "Date": "February 27th, 2024",
+        "Description": "Added the level 10 Inferno Tower."
+      },
+      {
+        "Date": "June 3rd, 2024",
+        "Description": "Decreased damage of Single-Target at levels 4 to 9: Level 4: 50-140-1,400 -> 45-140-1,400 Level 5: 60-160-1,600 -> 50-150-1,500 Level 6: 70-180-1,800 -> 55-160-1,600 Level 7: 85-200-2,000 -> 65-180-1,800 Level 8: 100-220-2,200 -> 80-210-2,100 Level 9: 110-240-2,400 -> 100-230-2,300"
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Added 2 Supercharge levels for the Inferno Tower."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced upgrade times at all charges: Charge 1: 4d 12h -> 2d 18h Charge 2: 6d 12h -> 4d 6h Reduced upgrade costs at all charges: Charge 2: 11,000,000 -> 6,500,000 Charge 2: 6,500,000 -> 3,300,000"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Added the level 11 Inferno Tower. Removed the Supercharges at level 10 and replaced them at level 11: Charge 1: Damage: Single-Target mode: 130-280-2,800 -> 150-310-3,100 Multi-Target mode: 130 -> 150 Cost: 6,500,000 -> 11,000,000 Time: 2d 18h -> 4d 12h Charge 2: Hitpoints: 4,600 -> 5,000 Cost: 3,300,000 -> 6,500,000 Time: 4d 6h -> 6d 12h"
+      },
+      {
+        "Date": "June 16, 2025",
+        "Description": "Gave a small cosmetic change to the level 10 and 11 Inferno Tower, adding the Dark Elixir vial."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade times at level 11 and all charges: Level 11: 22,000,000 -> 16,000,000 Charge 1: 11,000,000 -> 7,000,000 Charge 2: 6,500,000 -> 4,500,000 Reduced upgrade costs at level 11 and all charges: Level 11: 15d 12h -> 12d Charge 1: 4d 12h -> 2d 18h Charge 2: 6d 12h -> 4d 6h"
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the level 12 Inferno Tower. Removed the Supercharges at level 11."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Laser.ogg",
+        "Captions": "Inferno Tower fires a beam (Single-Target mode) or Inferno Tower fires beams (Multi-Target mode)",
+        "Description": "When the Inferno Tower attacks targets within its range; sound is looped until they are destroyed or leave the range"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow1.ogg https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow2.ogg",
+        "Captions": "Inferno Tower's beam intensifies",
+        "Description": "When a Single-Target Inferno Tower locks onto a unit, especially a tank"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_No_Ammo.ogg",
+        "Captions": "Inferno Tower extinguishes",
+        "Description": "When an Inferno Tower runs out of ammunition in a battle"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Reload.ogg",
+        "Captions": "Inferno Tower fires up",
+        "Description": "When the Inferno Tower is reloaded (sound went unused after the April 2, 2019 update)"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Picked.ogg",
+        "Captions": "Inferno Tower selected",
+        "Description": "When the Inferno is selected by a player"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Placed.ogg",
+        "Captions": "Inferno Tower placed Inferno Tower switches modes",
+        "Description": "When the Inferno Tower is placed, or when toggling between modes"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "": "Level 5"
+      }
+    ],
+    [
+      {
+        "Capital Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "2",
+        "10": "2"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "District Hall Level": "2"
+      },
+      {
+        "Number Available": "Wizard Valley",
+        "District Hall Level": "0"
+      },
+      {
+        "Number Available": "Balloon Lagoon",
+        "District Hall Level": "0"
+      },
+      {
+        "Number Available": "Dragon Cliffs",
+        "District Hall Level": "1"
+      },
+      {
+        "Number Available": "Goblin Mines",
+        "District Hall Level": "0"
+      }
+    ],
+    [
+      {
+        "Level": "Initial",
+        "Damage per Second": "After 2.5s",
+        "Hitpoints": "After 7.5s"
+      },
+      {
+        "Level": "1",
+        "Damage per Second": "200",
+        "Hitpoints": "500",
+        "Build Cost": "2,000",
+        "Capital Hall Level Required": "3,600",
+        "District Hall Level Required": "15,000"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "230",
+        "Hitpoints": "575",
+        "Build Cost": "2,300",
+        "Capital Hall Level Required": "4,000",
+        "District Hall Level Required": "30,000"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "260",
+        "Hitpoints": "650",
+        "Build Cost": "2,600",
+        "Capital Hall Level Required": "4,400",
+        "District Hall Level Required": "60,000"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "290",
+        "Hitpoints": "725",
+        "Build Cost": "2,900",
+        "Capital Hall Level Required": "4,800",
+        "District Hall Level Required": "93,000"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "320",
+        "Hitpoints": "800",
+        "Build Cost": "3,200",
+        "Capital Hall Level Required": "5,200",
+        "District Hall Level Required": "155,000"
+      }
+    ],
+    [
+      {
+        "Range": "9",
+        "Attack Speed": "0.128s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground & Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon contributes the Capital Gold you have into upgrading the Inferno Tower to the next level. When the Inferno Tower is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon marks the building's upgrade to the next level as a priority for the Clan, pinning it as a recommended upgrade for Clan members. This icon is only shown if the upgrade is possible, is not already prioritized and if the player is Leader or a Co-leader of their Clan."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon stops marking the building's upgrade to the next level as a priority for the Clan. This icon is only shown if the upgrade is possible, is being prioritized and if the player is Leader or a Co-leader of their Clan."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Laser.ogg",
+        "Captions": "Inferno Tower fires a beam",
+        "Description": "When the Inferno Tower attacks a target within its range; sound is looped until it leaves the range or is destroyed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow1.ogg https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow2.ogg",
+        "Captions": "Inferno Tower's beam intensifies",
+        "Description": "When Inferno Tower locks onto a unit, especially a tank"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Picked.ogg",
+        "Captions": "Inferno Tower selected",
+        "Description": "When the Inferno Tower is selected by a player"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Inferno_Placed.ogg",
+        "Captions": "Inferno Tower placed",
+        "Description": "When the Inferno Tower is placed"
+      }
+    ],
+    [
+      {
+        "Patch": "May 2, 2022",
+        "Type": "Major Update",
+        "Description": "The Inferno Tower was added with the release of the Clan Capital."
+      },
+      {
+        "Patch": "September 14, 2023",
+        "Type": "Balance Changes",
+        "Description": "Reduced the Captial Inferno Tower's DPS at levels 4 and 5, for its first two damage stages: Level 4: 310 -> 290 (stage 1), 775 -> 725 (stage 2) Level 5: 350 -> 320 (stage 1), 875 -> 800 (stage 2)"
+      }
+    ],
+    [
+      {
+        "Clan Capital Buildings": "Defensive Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Army Buildings"
+      },
+      {
+        "Clan Capital Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "Home Village Clan Capital [[File:{{{Alt}}}|28px|link=]] For the troops with an identical attack type, see Inferno Dragon and Electrofire Wizard . For the Clan Capital counterpart, see Inferno Tower/Clan Capital . For the defense with a similar name, see Town Hall/Inferno Artillery . \"Set the Inferno Tower's Dark Elixir fueled flame to build up unbelievable damage to single targets, or to constantly roast multiple targets at once.\" Single-Target Mode Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Multi-Target Mode Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Summary The Inferno Tower is a defensive building unlocked at Town Hall level 10 that shoots a stream of flame that burns through even the thickest armor, or can be set to multiple targets at once. It can be set to Single-Target or Multi-Target. In Single-Target mode, the Inferno Tower causes progressive damage to a Single-Target. The longer the tower stays focused on the same target, the bigger the beam grows and therefore, the more damage it deals. Its damage is low when it has newly locked on to a troop, but its flame starts overheating after the first 1.5 seconds, increasing its damage over time. The next 3.75 seconds triggers its maximum overheating state, siphoning health quickly thereby making it most effective against very high-health troops. However, in this mode, the Inferno Tower can be overwhelmed by large groups of weaker units , such as Archers . In Multi-Target mode, the Inferno Tower's overheat is compromised for hitting multiple targets. It projects multiple beams that cause constant damage over time to several targets simultaneously, without any overheating. This makes it ideal against swarms of low-health troops but is much less effective on higher-health troops such as Giants . Similar to the X-Bow , Eagle Artillery , and Scattershot , the Inferno Tower must be reloaded periodically. This is done for free automatically whenever the player logs in. However, if the Inferno Tower continues firing its ammunition without reloading, it will eventually run out of ammo and not attack. It takes 2 minutes and 8 seconds for one Inferno Tower to unload all of its ammunition. The Inferno Tower does not have a favorite target, nor does it deal more damage to any particular troop. However, in Single-Target mode, it deals more damage on average to troops with higher hitpoints, due to its progressive DPS. Strategies Defensive Strategies The Inferno Tower in Single-Target mode is weak against large numbers of low-health troops. Make sure the Inferno Tower is within range of a Mortar , Wizard Tower, and/or Bomb Tower so that it is adequately defended. When set to Single-Target mode, it is tailor-made to destroy high-hitpoint troops, such as Dragons , P.E.K.K.As , and Golems . As such, it is a perfect complement to a Wizard Tower , which is very effective against large numbers of weaker troops but struggles against those with high health pools. Positioning these two structures close to each other can substantially improve the survivability of both structures (and the rest of your base ). You can put a Scattershot near the Single-Target Inferno Tower so that the Inferno Tower can pick off a tank or a Hero while the Scattershot will just destroy swarms of low health units at once. The multiple-target mode can be used to easily overwhelm groups of lower-health troops. You can place it near storages to help stop Goblins from severely damaging them. If you choose to place it outside the core of your base, placing it in a range of the outer layer Walls can stop Wall Breakers from breaking them. It can also prove effective against Balloons , since Lava Hounds cannot fully tank for a Multi-Targeting Inferno Tower unless five (or six at level 8 and above) of them are used at once. Keep Inferno Towers separated from other important defenses, such as each other and the Eagle Artillery . If they are placed too close, a single Freeze Spell or Overgrowth Spell could freeze them all, or both will get destroyed by the ZapQuake. As each mode possesses a different advantage, it is advisable to place them in range of each other. Use the fact that they are 2x2 to hide them in pockets or smaller islands. Try your best to make them harder to reach. If you have a large clan name on your Clan Castle , you can put it near the Inferno Tower so it will block the Inferno Tower's mode. Some names may not fully cover the Inferno Tower mode though, so this means that if a smart player looks very closely at the bottom portion, it is most likely set to either a Single-Target or Multi-Target. Also, since the June 18, 2024 update, the Tactical Overview allowed the players to check the Inferno Tower modes, even if it is covered by the Clan Castle. Putting a Tornado Trap inside the range of a Single-Targeting Inferno Tower can suck high-health troops such as P.E.K.K.As or Dragons can let the Inferno Tower destroy them as the troops cannot move. Offensive Strategies This structure (especially in Single-Target mode) wreaks havoc with the most common offensive strategies where heavy units go in first to distract defenses with light units following behind them. Letting your heavy troops get in range of it when it is set to Single-Target Spells certain doom for them, even high-level Heroes. You can use Freeze Spells or Lightning Spells to stop a Single-Target Inferno Tower from piling up massive damage to a high-health troop. Doing so will not only stop the flames of the tower, but also reset its damage progression so it will have to build up damage again. If the Archer Queen is being targeted by a Single-Target Inferno Tower, using her Invisibility Vial works equally well, as the tower will no longer be able to target the Queen when she is invisible. If the Archer Queen has Frozen Arrow equipped, this can be used to slow down the tower to a certain extent, but once its damage output is maximized, there is little than can be done to save her from being defeated unless her Invisibility Vial has been activated or if the tower has just begun targeting her. Pets like Diggy or Frosty , combined with the Barbarian King , Archer Queen or Royal Champion , are an effective counter to Single-Target towers, and can make quick work of them, provided that both the Hero and their paired Pet(s) are present. Diggy can temporarily stun a tower, while Frosty can slow them down with its Frostmites . This way, the tower can be easily taken care of as long as there are not any other Single-Target towers or other powerful defenses in the area. Small troops are stronger against the Inferno Tower in Single-Target mode, as its sluggish retargeting time makes it very weak to swarms. Even Skeletons, especially in large groups, can pose a threat to it. Golems and Lava Hounds get destroyed in seconds in this mode, but if you surround it with small troops such as Archers and Barbarians , it can be defeated very quickly. In Single-Target mode, it can only target one unit at a time, so spreading out the attacking units is not an issue (unless a Wizard Tower, Bomb Tower, Mortar, or any other splash-damage defense is nearby). You can tell if an Inferno Tower is in single or multiple target mode by looking at its top. If it has flames coming out of a flat ring, it is in Single-Target mode; if it has multiple small pentagonal holes from a hollow dodecahedron frame, it is in multiple-target mode. Players can deliberately join a clan with a long name and put one Inferno Tower to the left of the Clan Castle to use the clan name to mask the mode of the Inferno Tower. However, the most long names may not fully cover the Inferno Tower's mode, as a smart player can easily identify the mode by looking closely at the bottom. Since the Tactical Overview feature was added in June 18. 2024, masking the Inferno Towers' modes behind the clan name will be useless, since the player will be able to view the modes of the Inferno Tower. The visual difference between a loaded and empty Inferno Tower is very obvious. A loaded-tower glows brightly with lava and flame, while an empty one is unlit. It takes three level 9 Lightning Spells to take down an initial level Inferno Tower. Bringing a pair of this combination can take out both Inferno Towers against Town Hall 10s. The Grand Warden 's Eternal Tome can protect a tank troop from being severely damaged by a Single-Target Inferno Tower. However, the ability does not reset the Inferno Tower's damage unless the troop leaves the Inferno Tower's range or if the player drops Lightning Spells or Freeze Spells at the Inferno Towers. Using a Healing Spell can effectively negate damage done by a Multi-Targeting Inferno Tower, however, a Single-Targeting one will quickly outpace the spell's pulse rate and healing capability. Like the X-Bow , Eagle Artillery , and Scattershot , defense targeting troops will still attack an empty Inferno Tower. If it is empty, it will be dark and will have no fire lighting it up. Upgrade Differences The Inferno Tower undergoes significant visula changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12. When initially constructed, it is a tall, narrow tower of jagged obsidian straddling a circular pool of lava separated by three legs connecting the side of the tower to the rim of the pool. At the top is a circular platform with three spokes corresponding with the location of each leg, and a lens glowing orange and red in the middle, the shape of the lens is a flat ring in Single-Target mode and is a hollow dodecahedron in Multi-Target mode. A rectangular-shaped Dark Elixir reservoir is mounted on the leg to the right. It attacks by shooting inferno beams at attacking units, which happens almost immediately when they enter its range. At level 2, the lens themselves become red and emits fire. The legs become gilded at the bottom, they and the spokes are covered by a continuous red strip at the middle. All other obsidian parts become gilded. At level 3, each spoke and leg gain a black metal plate with two golden spikes placed vertically, with the metal plates for the spoke has two steps. At level 4, the gilded platform holding the lens becomes bigger and gains thin layer, the gilded rocks at the base turns into a cylinder and covered with a layer of rough gray stone. The spokes merged with the plate, with its inner layer of the spoke plate becoming red like the strip. The legs are also merged, becoming bigger and curve in. Each spoke gets a golden chain connecting to the leg below. The spikes on all of the plates move to the side to make space for the chain. At level 5, around the lens, the rock platform glows orange. The spoke plates change to white stone, and the inner layer become gray. A circle of smooth stone blocks are inserted into the ground near each leg acting as a foundation. At level 6, the heated area of the rock now becomes another lava pool and flows down the spoke plates, which replaces the chains. The gilded pillar holding the lens is narrower in the lava pool and is surrounded by two halves of a gold ring. The circular platform is made of dark gray metal. The spoke plates are divided vertically, with the top layer being a lighter gray metal and the bottom one being darker and extends outward more, both having a groove in the middle to guide the lava flow. On the side of the platform between each plate has a crown-shaped plates. The last bit of gilded rocks at the bottom is now covered by an electric coil that has a forked wire connects to the top, presumably powering the pump for the lava, and the pillar behind glows a dull red. The layer of rough stone around the cylindrical base and its gilded layer on the base is removed, with a protruding light gray metal bit under the coil and a piece of dark gray metal in the lava. The smooth stone block foundations near the legs are removed, the legs are replaced with dark gray metal and left a groove in the middle for catching the flowing lava. The bottom of the legs have curved piece of metal with a pentagonal bolt in the middle. At level 7, the dark gray metal platform is now icy blue metal with two deep green plates covering the side at the bottom except for the corners, replacing the golden crown plates. The spoke plates are made of purplish gray metal, two purple metal piece on top of it, and two deep green spikes on the side of the spoke plate, one on either side of the lava. The pillar replaces the wire and coil with trapezoidal lava tubes that have rings to hold them in place, with a ring of icy blue metal then purple metal at the bottom. The light gray metal protrusion is replaced with icy blue metal. The legs have a deep green spike on the slanted side. The bottom metal piece is flattened, and its middle is layered with a piece of deep green metal plate, replacing the bolt. At level 8, the platform has become more triangular, the icy blue metal platform is now a thin layer of spring green metal, then a thin layer of purplish black stone, and mainly purplish gray metal. The spoke plates are now bigger and get wider further away from the center instead of parallel. It is a solid piece of purplish black stone without layers, the spikes are replaced with gold lining starting from the side and turns downward at the front, and the lava flowing down is wider. The pillar lava tubes and the rings of icy blue and purple metal are replaced by layers upon layers of gold bands, separated by the connections between the spokes and the legs. The ice blue metal protrusion on base is replaced with gold linings, and the dark gray metal in the lava turns into gold and becomes bigger. The legs are made of purplish black stone, with the part behind the lava flow being taller with an inner layer of green metal on top of the gold around the base. The slanted side has a steeper slope and the spikes are removed. The bottom plates are merged with the leg, made of the same material with the gold lining pattern. At level 9, the spring green metal platform is now indigo, with a layer of gold then indigo metal again. The spoke plates get smaller the further away from the center which make the platform's triangular silhouette even stronger, the gold lining is removed, and the plate is divided vertically again with the upper part being purplish black metal and lower being purplish gray stone. The pillar is red, with the segmented silver triangular prism replacing the gold bands, separated by purple supports. The gold and black stone with gold lining of the base is replaced with a wider indigoish black metal cylinder with a layer of gold in between. The inner part of the legs have a indigo metal triangular prism on top of light indigo gray stone leg, being much shorter and the slanted side has a gradual slope, the bottom plates are a two-step indigoish black metal. At level 10, the fire coming out from the lens is much larger. The lens now has a inner metal layer and the pillar holding it up is golden with a full ring made of gray stone surrounding it. The indigo metal platform is now white stone with its corners dulled, the lava pool is slightly covered by gray stone forming another triangular silhouette. The upper part of the spoke plate is made of red wood surrounded by brass strips on the side, both connecting to the stone ring; the lower part is made of rough greenish-gray stone. The brass strips and lower layer are split to allow the lava to flow down. The pillar is now made of a large, salmon wood trunk, with square shaped ones that have brass bands at the bottom above the legs; roots and branches spread from it, covering the spoke plates and legs. The base is replaced with two layers of gray stone, and the upper one has a hold to allow another avenue for lava to flow out to the pool. The leg and the slanted side are tighter as tree roots surround it, they are made of greenish-gray stone. The bottom plate has two layers, the top layer is made of salmon wood and bottom is jade stone. Two brass spikes are placed on the side between the layers; a thick brass piece is embedded on top of the red wood around the flowing lava to protect it. At level 11, all the salmon parts are now steel blue in color, with the exception of the main pillar which holds the lens in place. The foundation where the corner pieces receive the lava now have dark metal and grow taller. The spokes of the platform now gain steel blue eagle wings, the salmon parts are now made of dark metal, and the brass reinforcements are now golden. In Single Target mode, the lens turns white and gains wings of its respective color on each side, with a smaller, golden one inside. In Multi-Target mode however, the layers of the dodecahedron frame are swapped, with white as the inner one and gold as the outer one, but without the feathers. At level 12, the lens loses its wings and turns into glowing blue stone. The eagle wings on the spokes are replaced with square metal spikes. The pillar is made of stacked tan cylindrical slabs made of stone. The foundation becomes a lighter tan and the metal plating turns silver, gaining three bolts on the outer corners of each piece that receives the lava. The lava pool is blocked off by glowing blue stone, and behind it is an X-shaped grate held by a single bolt. The appearances and behavior of the beams change in certain conditions and at certain levels. At level 1, the inferno beams are colored orange which curves and have a shadow of smoke surrounding them. The Single-Target beam gets bigger as it charges up while three light beams are emitted from the lens with a sound effect, with the final charge having a higher pitch. At level 3, the inferno beams of both modes are now bigger and brighter. At level 8, Multi-Target mode gains an additional beam. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 0 0 0 0 10 11 12 13 14 15 16 17 18 2 2 3 3 3 3 3 3 3 Size 2x2 Single-Target Mode Level Damage per Second Damage per Hit Hitpoints Cost Build Time Experience Gained Town Hall Level Required Initial After 1.5s After 5.25s Initial After 1.5s After 5.25s 1 30 80 800 3.84 10.24 102.4 1,500 1,000,000 12h 207 10 2 35 100 1,000 4.48 12.8 128 1,800 1,200,000 1d 293 10 3 40 120 1,200 5.12 15.36 153.6 2,100 2,400,000 2d 415 10 4 45 140 1,400 5.76 17.92 179.2 2,400 3,400,000 2d 12h 464 11 5 50 150 1,500 6.4 19.2 192 2,700 4,200,000 3d 509 11 6 55 160 1,600 7.04 20.48 204.8 3,000 6,000,000 4d 587 12 7 65 180 1,800 8.32 23.04 230.4 3,300 8,000,000 5d 657 13 8 80 210 2,100 10.24 26.88 268.8 3,700 9,500,000 6d 720 14 9 100 230 2,300 12.8 29.44 294.4 4,000 10,000,000 6d 12h 749 15 10 120 260 2,600 15.36 33.28 332.8 4,400 11,000,000 7d 777 16 11 140 290 2,900 17.92 37.12 371.2 4,800 16,000,000 8d 831 17 12 155 330 3,300 19.84 42.24 422.4 5,100 26,500,000 13d 12h 1,080 18 Range Attack Speed Damage Type Unit Type Targeted Number of Rounds 9 0.128s Single Target Ground & Air 1,000 Multi-Target Mode Level Damage per Second per Target Damage per Hit Number of Targets HP Cost Build Time Experience Gained Town Hall Level Required 1 30 3.84 5 1,500 1,000,000 12h 207 10 2 35 4.48 5 1,800 1,200,000 1d 293 10 3 40 5.12 5 2,100 2,400,000 2d 415 10 4 45 5.76 5 2,400 3,400,000 2d 12h 464 11 5 50 6.4 5 2,700 4,200,000 3d 509 11 6 55 7.04 5 3,000 6,000,000 4d 587 12 7 65 8.32 5 3,300 8,000,000 5d 657 13 8 80 10.24 6 3,700 9,500,000 6d 720 14 9 100 12.8 6 4,000 10,000,000 6d 12h 749 15 10 120 15.36 6 4,400 11,000,000 7d 777 16 11 140 17.92 6 4,800 16,000,000 8d 831 17 12 155 19.84 6 5,100 26,500,000 13d 12h 1,080 18 Range Attack Speed Damage Type Unit Type Targeted Number of Rounds 10 0.128s Multiple Targets Ground & Air 1,000 Supercharges These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added. Supercharging makes buildings stronger! Tap the info button to learn more. Charge Damage per Second Damage per Hit Hitpoints Cost Build Time Experience Gained Town Hall Level Required Initial After 1.5s After 5.25s Initial After 1.5s After 5.25s 1 165 350 3,500 21.12 44.8 448 5,100 13,000,000 5d 657 18 2 165 350 3,500 21.12 44.8 448 5,300 8,500,000 7d 777 18 Charge Level Damage per Second per Target Damage per Hit Number of Targets HP Cost Build Time Experience Gained Town Hall Level Required 1 165 21.12 6 5,100 13,000,000 5d 657 18 2 165 21.12 6 5,300 8,500,000 7d 777 18 Depleted Single Target Inferno Towers Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Depleted Multi Target Inferno Towers Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Achievements Firefighter Description Rewards Rewards Destroy 10 Inferno Towers in Multiplayer battles 50 100 Destroy 250 Inferno Towers in Multiplayer battles 500 200 Destroy 5,000 Inferno Towers in Multiplayer battles 5,000 1,000 Icon Descriptions Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets. Tapping this icon begins upgrading the Inferno Tower to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Inferno Tower is at maximum level, this icon is replaced by the Supercharge! icon. Tapping this icon begins Supercharging the maxed Inferno Tower to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the Inferno Tower is at maximum charge, this icon is not shown. Tapping this icon instantly upgrades the Inferno Tower to the next level, at the cost of one Hammer of Building if you have one. When the Inferno Tower is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. History Date Description May 23rd, 2013 Added the Inferno Tower, with two levels and one of its kind available. June 17th, 2013 Added the second Inferno Tower available at Town Hall level 10. August 27th, 2013 Added the achievement associated with the Inferno Tower, \"Firefighter\". December 5th, 2013 Added level 3 Inferno Tower. Added Multi-Target mode, which previously had a radius of 9 tiles. Troops targeted by the Inferno Tower are no longer able to be healed. Decreased attack range from 10 to 9 in Single-Target mode. Decreased the upgrade cost at the level 2. Changed the description of the Inferno Tower. Prior to the update, the description was \"The Inferno Tower fires a mystical flame that gets more powerful the longer it stays on a target. It can target ground troops and flying units alike. Load the Tower with Dark Elixir to keep it operational.\" May 16th, 2014 Inferno Towers can now be toggled between different modes in War Base even if they are being upgraded in the Home Village. Fixed a bug where the Inferno Tower would be seen in Single-Target mode when scouting a base in Clan Wars, even if set to Multi-Target mode. July 3rd, 2014 The Multi-Target Inferno Tower is now slower at burning through big hordes of attacking troops. December 11th, 2014 Inferno Towers now shoot for a longer time before getting depleted (loading cost remains the same). July 1st, 2015 The Single-Target Inferno Tower now charges to full power slightly faster. March 21st, 2016 Added the level 4 Inferno Tower. The Multi-Target Inferno Tower acquires new targets faster. October 12, 2016 Made the upgraded Inferno Tower look like unloaded. June 27th, 2017 Added the level 5 Inferno Tower. Reduced upgrade time and costs at levels 2 to 4. Increased damage per second of Multi-Target at level 4. Single-Target first stage damage changed to match Multi-Target damage. December 2017 Removed the Inferno Tower's ability to block healing effects on targeted troops. March 5th, 2018 Increased damage per second of Multi-Target at levels 3 to 5: Level 3: 41 to 45 Level 4: 50 to 53 Level 5: 57 to 63 Balanced the damage per second of Single-Target to increase the time it takes to reach max damage, from 4.25 seconds to 5.25 seconds. June 11th, 2018 Added the level 6 Inferno Tower. Increased damage per second at levels 4 and 5. June 26th, 2018 Reduced build times at levels 1 to 5. June 29th, 2018 Increased the range of Multi-Target from 9 to 10. October 23rd, 2018 Added the third Inferno Tower available at Town Hall 12. Gave a small cosmetic change to the level 6 Single-Target Inferno Tower, changing its lens into a diamond shape. April 2nd, 2019 Reduced upgrade cost at level 4. Removed the Dark Elixir cost to reload the Inferno Tower, instead reloading for free when you log back into the game. June 2019 Gave the level 6 Inferno Tower a major cosmetic change. Prior to this, the level 6 Inferno Tower spoke plates reverts back to the level 4 palette with protruding gold on each side connecting to the platform, spikes replaced by pentagonal bolts, the pillar is glowing dull red, the chains and the smooth rock foundation are removed, with a new black metal plate and a shorter gray metal plate with a spike on each leg. The new appearance gave the tower a slightly lighter color scheme, lava flows to replace the chains, and an electric coil. It also reverted the diamond-shaped lens from the previous minor visual change. This was most likely done after much community discussion that it looked like a \"downgrade\". September 11th, 2019 Decreased damage at levels 2 and 3. December 9th, 2019 Added the level 7 Inferno Tower. May 20th, 2020 Decreased damage of Single-Target at level 7 by 100. April 12th, 2021 Added the level 8 Inferno Tower. Reduced upgrade costs and times at levels 1 to 5. June 15th, 2021 Made it so that Inferno Towers visually target Unicorn instead of targeting the air above the Unicorn. December 9th, 2021 Reduced upgrade costs at levels 1 to 7. June 27th, 2022 Decreased damage at level 6. October 10th, 2022 Added the level 9 Inferno Tower. September 28th, 2023 Decreased damage of Single-Target at levels 1 to 8: Level 1: 30-1000 -> 30-800 Level 2: 36-1150 -> 35-1000 Level 3: 42-1300 -> 40-1200 Level 4: 58-1550 -> 50-1400 Level 5: 70-1750 -> 60-1600 Level 6: 80-1950 -> 70-1800 Level 7: 94-2100 -> 85-2000 Level 8: 106-2300 -> 100-2200 February 27th, 2024 Added the level 10 Inferno Tower. June 3rd, 2024 Decreased damage of Single-Target at levels 4 to 9: Level 4: 50-140-1,400 -> 45-140-1,400 Level 5: 60-160-1,600 -> 50-150-1,500 Level 6: 70-180-1,800 -> 55-160-1,600 Level 7: 85-200-2,000 -> 65-180-1,800 Level 8: 100-220-2,200 -> 80-210-2,100 Level 9: 110-240-2,400 -> 100-230-2,300 September 9, 2024 Added 2 Supercharge levels for the Inferno Tower. February 10, 2025 Reduced upgrade times at all charges: Charge 1: 4d 12h -> 2d 18h Charge 2: 6d 12h -> 4d 6h Reduced upgrade costs at all charges: Charge 2: 11,000,000 -> 6,500,000 Charge 2: 6,500,000 -> 3,300,000 March 24, 2025 Added the level 11 Inferno Tower. Removed the Supercharges at level 10 and replaced them at level 11: Charge 1: Damage: Single-Target mode: 130-280-2,800 -> 150-310-3,100 Multi-Target mode: 130 -> 150 Cost: 6,500,000 -> 11,000,000 Time: 2d 18h -> 4d 12h Charge 2: Hitpoints: 4,600 -> 5,000 Cost: 3,300,000 -> 6,500,000 Time: 4d 6h -> 6d 12h June 16, 2025 Gave a small cosmetic change to the level 10 and 11 Inferno Tower, adding the Dark Elixir vial. November 17, 2025 Reduced upgrade times at level 11 and all charges: Level 11: 22,000,000 -> 16,000,000 Charge 1: 11,000,000 -> 7,000,000 Charge 2: 6,500,000 -> 4,500,000 Reduced upgrade costs at level 11 and all charges: Level 11: 15d 12h -> 12d Charge 1: 4d 12h -> 2d 18h Charge 2: 6d 12h -> 4d 6h February 23, 2026 Added the level 12 Inferno Tower. Removed the Supercharges at level 11. Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Inferno_Laser.ogg Inferno Tower fires a beam (Single-Target mode) or Inferno Tower fires beams (Multi-Target mode) When the Inferno Tower attacks targets within its range; sound is looped until they are destroyed or leave the range https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow1.ogg https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow2.ogg Inferno Tower's beam intensifies When a Single-Target Inferno Tower locks onto a unit, especially a tank https://clashofclans.fandom.com/wiki/File:Inferno_No_Ammo.ogg Inferno Tower extinguishes When an Inferno Tower runs out of ammunition in a battle https://clashofclans.fandom.com/wiki/File:Inferno_Reload.ogg Inferno Tower fires up When the Inferno Tower is reloaded (sound went unused after the April 2, 2019 update) https://clashofclans.fandom.com/wiki/File:Inferno_Picked.ogg Inferno Tower selected When the Inferno is selected by a player https://clashofclans.fandom.com/wiki/File:Inferno_Placed.ogg Inferno Tower placed Inferno Tower switches modes When the Inferno Tower is placed, or when toggling between modes Gallery Multi-Target Inferno Tower runs out of fuel during a battle Trivia The Inferno Tower greatly resembles Barad-dûr from Lord of the Rings , especially the Single-Target mode. It also shares some similarities with the Burning lens, a weapon supposedly used by Archimedes that was able to concentrate beams of light onto a selected target and start a fire after a few seconds. The Inferno Tower's ammunition consumption rate is constant, which means it does not deplete its ammo faster by charging up in Single-Target mode or hitting more targets in Multi-Target mode. According to Darian in Reddit , there are three reasons why the level 7 Inferno Tower's fire is not blue. Because the Town Hall 13 uses colder colors, the blue or even a bluish white beam tends to get muddied a bit against the color palette of the Town Hall. Having a reddish beam or a beam using warmer colors makes it stand out a bit more visually. The artists designed the Town Hall concept and color palette long before they decided what the Town Hall's weapon would be. They did not want to redesign the Town Hall or the color palette for the sake of a beam weapon. Plus, they wanted to keep the weapon's effects consistent with other Inferno Tower functions as well. Finally, and while this one is a marginal concern, some early feedback they got when they looked at blue beams was that people were expecting to have a slowing effect or freezing effect on troops it hit. They did not want to add too many slowing or freeze effects because psychologically it is incredibly frustrating to players. That is one of the reasons they have not added more Tornado Traps. A level 8 Inferno Tower deals an equal amount of damage in its initial stage (Single-Target mode) or normally in Multi-Target mode as a level 1 Single-Target Inferno Tower in its second stage. Even when depleted, the lava flow of level 6 and higher Inferno Towers continue normally. In Clash Royale, the Inferno Tower resembles a level 1 Inferno Tower from Clash of Clans. However, Inferno Towers in Clash Royale can only be set to Single-Target mode, and as such, only the Single-Target design is used in Clash Royale. When Star Leveled, the Inferno Tower gains spiked prongs, resembling a level 3 Inferno Tower from Clash of Clans. The Inferno Tower is one of the defenses to appear in Clash Quest. The level 11 Single-Target Inferno Tower is the first to modify the shape around the lens, giving it a pair of wings on each side. The level 6 Single-Target Inferno Tower used to be the first when given a minor visual change of a diamond-shape lens when players were disappointed by the visual, until it got replaced completely by the current look and the diamond is removed again. Comparisons Among all defensive buildings with limited ammunition, the Inferno Tower is the only one that can run out of ammunition in a battle if fully loaded at the beginning of the battle. The Inferno Tower takes 2 minutes 8 seconds, while the X-Bow takes 3 minutes 12 seconds, a Scattershot takes 4 minutes 33 seconds, and the Eagle Artillery takes 5 minutes. The Inferno Tower, along with the Cannon , Mortar, Hidden Tesla , Bomb Tower , and X-Bow are the only buildings that appear in Clash Royale. The Inferno Tower (in Multi-Target mode), Giga Tesla , Giga Inferno , Multi-Archer Tower and the Firespitter are the only non-splash defenses that can target both ground and air units at the same time. The Inferno Tower, along with the Elixir Collector , Archer Tower , and the Crusher are the only buildings to appear in a scenery. In its case, the Inferno Tower appears in the Snow Day Scenery and the Inferno Town scenery (the Inferno Tower on the top right has a significantly larger flat ring hole), hence the name. The Inferno Tower and the weaponized Builder's Hut are the second set of defenses to be removed from all its charges and are reapplied to their new level after an update. Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand [[File:{{{Alt}}}|28px|link=]] For the troops, see Inferno Dragon and Electrofire Wizard . For its Home Village version, see Inferno Tower/Home Village . For a similarly named defense in the Home Village, see Town Hall/Inferno Artillery . \"Bane of all big troops, the Inferno Tower can deal devastating damage to units it stays focused on.\" Ruin Level 1 Level 2 Level 3 Level 4 Level 5 Summary The Inferno Tower is a defensive building in the Clan Capital, unlocked at Capital Hall level 6. Identically to the single-target Inferno Tower in the Home Village, the Inferno Tower locks onto one target at a time, doing very high DPS that increases further the longer it attacks the same target. Unlike the Home Village rendition, however, the Inferno Tower in the Clan Capital only has one mode, which is the Single-Target mode. Strategies Defensive Strategies Like the single target Inferno Tower in the Home Village , the Inferno Tower is very deadly against large and bulky troops. This defense is especially deadly to the Mountain Golem and Flying Fortress , because of their extremely high housing spaces (160 and 100 respectively). It is best to support the Inferno Tower with splash defenses such as the Rocket Artillery or Air Bombs , to take care of any swarms protecting these troops. Placing splash damage traps like Mines and Mega Mines are also effective. Splash-damage and other similar defenses like the Bomb Tower and the Super Wizard Tower can also help in this regard. Unlike the Home Village Inferno Tower which is comparably weak against swarms especially at lower levels, the Inferno Tower in the Clan Capital can prove to be somewhat serviceable as a single-target defense against them, due to their high DPS even at stage one, which can two-shot Skeletons and destroy Barbarians , Sneaky Archers and Minions within a second. When upgraded to level 3, the Inferno Tower can one-shot Skeletons, making it even more effective against them. Offensive Strategies Swarm troops like the Sneaky Archers and the Minion Horde can wipe this defense out quickly. Sneaky Archers are ideal because of their cloak ability, which renders them invisible for a few seconds after deployment. To prevent it from devastating high-health troops, using a Lightning Spell is the most consistent and reliable option; however Hog Raider squads can prove to be more effective if the Hog Glider can get a clear shot at the Inferno. Upgrade Differences Inferno Towers undergo significant visual changes at levels 3 and 5. When initially rebuilt, the Inferno Tower is a dark tower made of obsidian with a single source of lava flowing from the peak. Atop the tower is is a circular platform with three spokes corresponding with the location of each leg, and a circular lens glowing orange and red in the middle, the shape of the lens is a flat ring. The base of the tower consists of a triangular-shaped stone fence bulging at the center to give space for the tower. At level 2, the base of the tower receives two golden metal spikes at each of the centers. The lens of the tower seems to have two emerging horns at either side. The body of the tower receives a complete castle-reinforced canal. At level 3, the base receives a stone perimeter and extends as if it approaches the peak of the tower, connected by silver-colored metal chains. The platform, where the lens sits, changes from dark-colored stone to red. At level 4, the metal chains are replaced with gold ones. The horns emerging from the lens extends once again and the fitting is replaced with gold as well. The platform of the lens is now reinforced with iron guards trimmed with gold accents. At level 5, the guards located on the base of the tower extends as it appears larger. It also receives golden metal spikes and golden trims across the corners and center, respectively. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset Capital Hall Level 1 2 3 4 5 6 7 8 9 10 Number Available 0 0 0 0 0 1 1 1 2 2 Size 3x3 Number Available District Hall Level 1 2 3 4 5 Wizard Valley 0 0 2 2 3 Balloon Lagoon 0 0 2 2 2 Dragon Cliffs 1 2 2 2 2 Goblin Mines 0 0 1 1 Level Damage per Second Hitpoints Build Cost Capital Hall Level Required District Hall Level Required Initial After 2.5s After 7.5s 1 200 500 2,000 3,600 15,000 6 1 2 230 575 2,300 4,000 30,000 7 2 3 260 650 2,600 4,400 60,000 8 3 4 290 725 2,900 4,800 93,000 9 4 5 320 800 3,200 5,200 155,000 10 5 Range Attack Speed Damage Type Unit Type Targeted 9 0.128s Single Target Ground & Air Icon Descriptions Tapping this icon displays information about the Inferno Tower, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets. Tapping this icon contributes the Capital Gold you have into upgrading the Inferno Tower to the next level. When the Inferno Tower is at maximum level, this icon is not shown. Tapping this icon marks the building's upgrade to the next level as a priority for the Clan, pinning it as a recommended upgrade for Clan members. This icon is only shown if the upgrade is possible, is not already prioritized and if the player is Leader or a Co-leader of their Clan. Tapping this icon stops marking the building's upgrade to the next level as a priority for the Clan. This icon is only shown if the upgrade is possible, is being prioritized and if the player is Leader or a Co-leader of their Clan. Sounds Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Inferno_Laser.ogg Inferno Tower fires a beam When the Inferno Tower attacks a target within its range; sound is looped until it leaves the range or is destroyed https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow1.ogg https://clashofclans.fandom.com/wiki/File:Inferno_Beam_Grow2.ogg Inferno Tower's beam intensifies When Inferno Tower locks onto a unit, especially a tank https://clashofclans.fandom.com/wiki/File:Inferno_Picked.ogg Inferno Tower selected When the Inferno Tower is selected by a player https://clashofclans.fandom.com/wiki/File:Inferno_Placed.ogg Inferno Tower placed When the Inferno Tower is placed History Patch Type Description May 2, 2022 Major Update The Inferno Tower was added with the release of the Clan Capital. September 14, 2023 Balance Changes Reduced the Captial Inferno Tower's DPS at levels 4 and 5, for its first two damage stages: Level 4: 310 -> 290 (stage 1), 775 -> 725 (stage 2) Level 5: 350 -> 320 (stage 1), 875 -> 800 (stage 2) Trivia Unlike the Inferno Tower from the Home Village, it never runs out of ammunition, has a larger space compared to its Home Village rendition, but it takes longer to charge up its attack in its full stage. Clan Capital Buildings Defensive Buildings Cannon • Spear Thrower • Air Defense • Capital Hall • Multi Cannon • Bomb Tower • Multi Mortar • Super Wizard Tower • Air Bombs • Rapid Rockets • Crusher • Hidden Mega Tesla • Giant Cannon • Rocket Artillery • Inferno Tower • Blast Bow • Mini-Minion Hive • Reflector • Goblin Thrower ( Spear Goblin ) • Super Giant Post • Raid Cart Post • Super Dragon Post • Wall Traps : Mine • Mega Mine • Log Trap • Zap Trap • Spear Trap Army Buildings Army Camp • Spell Storage Barracks : Super Barbarian Barracks • Sneaky Archer Barracks • Super Giant Barracks • Battle Ram Barracks • Minion Barracks • Super Wizard Barracks • Rocket Balloon Barracks • Skeleton Barrel Barracks • Flying Fortress Yard • Raid Cart Barracks • Power P.E.K.K.A Barracks • Hog Raider Barracks • Super Dragon Barracks • Mountain Golem Quarry • Inferno Dragon Barracks • Super Miner Barracks • Mega Sparky Workshop Spell Factories : Heal Spell Factory • Jump Spell Factory • Lightning Spell Factory • Frost Spell Factory • Rage Spell Factory • Graveyard Spell Factory • Endless Haste Spell Factory Other Buildings Capital Hall • District Hall • Airship • Decorations • Houses ( Clan House ) • Terrain The Inferno Tower is a defensive building that appears in the Home Village and Clan Capital. For their appearances in each village see the following pages: Inferno Tower/Home Village Inferno Tower/Clan Capital"
+}

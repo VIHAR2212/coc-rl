@@ -1,0 +1,158 @@
+{
+  "tables": [
+    [
+      [
+        "Level",
+        "Damage per second",
+        "Damage per hit",
+        "Damage when destroyed",
+        "",
+        "",
+        "",
+        "",
+        "Laboratory"
+      ],
+      [
+        "1",
+        "80 • 160 • 280",
+        "20 • 40 • 70",
+        "800[ 2 Tiles ]",
+        "1,700",
+        "1",
+        "None",
+        "0",
+        "None"
+      ],
+      [
+        "2",
+        "95 • 190 • 320",
+        "23.75 • 47.5 • 80",
+        "900[ 2 Tiles ]",
+        "1,900",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "3",
+        "110 • 220 • 360",
+        "27.5 • 55 • 90",
+        "1000[ 2 Tiles ]",
+        "2,100",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "4",
+        "125 • 250 • 400",
+        "31.25 • 62.5 • 100",
+        "1100[ 2 Tiles ]",
+        "2,300",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "5",
+        "140 • 280 • 440",
+        "35 • 70 • 110",
+        "1200[ 2 Tiles ]",
+        "2,500",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "6",
+        "155 • 310 • 480",
+        "38.75 • 77.5 • 120",
+        "1300[ 2 Tiles ]",
+        "2,700",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "7",
+        "170 • 340 • 520",
+        "42.5 • 85 • 130",
+        "1400[ 2 Tiles ]",
+        "2,900",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "8",
+        "185 • 370 • 560",
+        "46.25 • 92.5 • 140",
+        "1600[ 2 Tiles ]",
+        "3,200",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "9",
+        "200 • 400 • 600",
+        "50 • 100 • 150",
+        "1800[ 2 Tiles ]",
+        "3,500",
+        "1",
+        "None",
+        "0",
+        "1"
+      ],
+      [
+        "10",
+        "215 • 430 • 640",
+        "53.75 • 107.5 • 160",
+        "2000[ 2 Tiles ]",
+        "3,800",
+        "1",
+        "?",
+        "?",
+        "1"
+      ]
+    ],
+    [
+      [
+        "Level",
+        "Description"
+      ],
+      [
+        "1",
+        "Drops an exploding barrel when defeated."
+      ]
+    ],
+    [
+      [
+        "Normal",
+        "",
+        "Range",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Miner",
+        "2 m",
+        "0.6 Tiles",
+        "24",
+        "0.25 s",
+        "Single Target",
+        "Ground"
+      ]
+    ]
+  ],
+  "raw_text": "Super Miner - Clash of Clans Guide CoC Season Challenges Clan Games Defenses Resources Army Traps Other Heroes Troops Spells Obstacles العربية 简体中文 繁體中文 Deutsch English Español فارسی Suomalainen Français Bahasa Indonesia Italiano 日本語 한국어 Bahasa Melayu Nederlands Norsk Português Русский Türkçe, Tiếng Việt Cost Discount: 0% 10% 15% 20% Super Miner Level 12 Barracks Required Armed with a powerful drill and a magnificent moustache, Super Miner is ready to undermine any rival Village! Any values listed below are subject to change before update releases. Level Damage per second Damage per hit Damage when destroyed Laboratory 1 80 • 160 • 280 20 • 40 • 70 800 [ 2 Tiles ] 1,700 1 None 0 None 2 95 • 190 • 320 23.75 • 47.5 • 80 900 [ 2 Tiles ] 1,900 1 None 0 1 3 110 • 220 • 360 27.5 • 55 • 90 1000 [ 2 Tiles ] 2,100 1 None 0 1 4 125 • 250 • 400 31.25 • 62.5 • 100 1100 [ 2 Tiles ] 2,300 1 None 0 1 5 140 • 280 • 440 35 • 70 • 110 1200 [ 2 Tiles ] 2,500 1 None 0 1 6 155 • 310 • 480 38.75 • 77.5 • 120 1300 [ 2 Tiles ] 2,700 1 None 0 1 7 170 • 340 • 520 42.5 • 85 • 130 1400 [ 2 Tiles ] 2,900 1 None 0 1 8 185 • 370 • 560 46.25 • 92.5 • 140 1600 [ 2 Tiles ] 3,200 1 None 0 1 9 200 • 400 • 600 50 • 100 • 150 1800 [ 2 Tiles ] 3,500 1 None 0 1 10 215 • 430 • 640 53.75 • 107.5 • 160 2000 [ 2 Tiles ] 3,800 1 ? ? 1 Special Ability Last Blast Level Description 1 Drops an exploding barrel when defeated. Normal Range Miner 2 m 0.6 Tiles 24 0.25 s Single Target Ground This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. Enter creator code: spAnser"
+}

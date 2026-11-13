@@ -1,0 +1,156 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Resources (Damage x5)",
+        "Targets": "Ground & Air",
+        "Attack Type": "Single Target",
+        "Movement Speed": "28",
+        "Attack Speed": "0.42s",
+        "Pet House Level Required": "12",
+        "Range": "8 tiles",
+        "Special Ability": "Shine Sweep"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "110",
+        "Damage per Hit": "46.2",
+        "DPS on Resource Buildings": "550",
+        "Hitpoints": "2,150",
+        "Upgrade Cost": "N/A",
+        "Upgrade Time": "N/A",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "115",
+        "Damage per Hit": "48.3",
+        "DPS on Resource Buildings": "575",
+        "Hitpoints": "2,300",
+        "Upgrade Cost": "260,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "120",
+        "Damage per Hit": "50.4",
+        "DPS on Resource Buildings": "600",
+        "Hitpoints": "2,450",
+        "Upgrade Cost": "280,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "125",
+        "Damage per Hit": "52.5",
+        "DPS on Resource Buildings": "625",
+        "Hitpoints": "2,600",
+        "Upgrade Cost": "300,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "130",
+        "Damage per Hit": "54.6",
+        "DPS on Resource Buildings": "650",
+        "Hitpoints": "2,750",
+        "Upgrade Cost": "320,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "135",
+        "Damage per Hit": "56.7",
+        "DPS on Resource Buildings": "675",
+        "Hitpoints": "2,900",
+        "Upgrade Cost": "340,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "140",
+        "Damage per Hit": "58.8",
+        "DPS on Resource Buildings": "700",
+        "Hitpoints": "3,050",
+        "Upgrade Cost": "360,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "145",
+        "Damage per Hit": "60.9",
+        "DPS on Resource Buildings": "725",
+        "Hitpoints": "3,200",
+        "Upgrade Cost": "380,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "150",
+        "Damage per Hit": "63",
+        "DPS on Resource Buildings": "750",
+        "Hitpoints": "3,350",
+        "Upgrade Cost": "400,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "155",
+        "Damage per Hit": "65.1",
+        "DPS on Resource Buildings": "775",
+        "Hitpoints": "3,500",
+        "Upgrade Cost": "420,000",
+        "Upgrade Time": "8d",
+        "Pet House Level Required": "12"
+      }
+    ],
+    [
+      {
+        "Date": "February 20, 2026",
+        "Description": "Announced the Greedy Raven, with 10 levels."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Added the Greedy Raven."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"No scarecrow is frightning enough to keep Greedy Raven away from shiny loot! This masked bandit's swift feathers target and deal extra damage to resource buildings and egos.\" Level 1-10 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 Gallery 5 Audio 6 History 7 Trivia 7.1 Comparisons Summary [ ] The Greedy Raven is the twelfth Pet unlocked when the Pet House is upgraded to level 12, which requires Town Hall 18. The Greedy Raven appears to be a black raven with yellow irises, with a few purple daggers with a gold spine under his wings. He wears a light purple thief mask with a gold trim around the neck. When deployed, Greedy Raven flies in the air and maintains distance from the paired Hero. He flings his feathers rapidly, targeting Resource Buildings near the Hero first and deals five times the damage to them, usually within 8 tiles from them. If his Hero is knocked out or removed from battle by a Recall Spell , Greedy Raven behaves like a troop that prioritizes Resource Buildings. Strategies [ ] Offensive Strategies [ ] The Greedy Raven can be a powerful Pet if used correctly, especially in Queen or Warden Walks or Charges, as the clearing high hitpoints Storages allow him to create a funnel for your main attack and make the walk faster to prevent time fails. He can also act as a Seeking Air Mine absorber, tanking up to 2 Seeking Air Mines if sufficiently leveled, protecting the Healers behind. However, the Greedy Raven has a very long range, and is quite unlikely to go ahead of Healers. It is instead better to use Balloons to protect both Healers and the Greedy Raven. The Greedy Raven can be used to farm resources if needed, along with other troops like Valkyries or Sneaky Goblins and Hero Equipments that deal damage. Defensive Strategies [ ] Air Defenses are one of the defenses that can take the Greedy Raven down, since he only targets resource buildings, the Air Defense will have no problem to easily take him out, provided that he is within the range of said defense. Other anti-air defenses can also work in this regard, as well as aerial Skeletons , as he cannot fight back against them unless all resource buildings are destroyed. All of these can take down the Greedy Raven if defenses are placed correctly. Seeking Air Mines are the worst enemy for the Greedy Raven. Place them in areas where the attacker is most likely to deploy, but in a way that it would target a more important unit, such as a Healer. Statistics [ ] Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Targets Attack Type Movement Speed Attack Speed Pet House Level Required Range Special Ability Resources (Damage x5) Ground & Air Single Target 28 0.42s 12 8 tiles Shine Sweep Level Damage per Second Damage per Hit DPS on Resource Buildings Hitpoints Upgrade Cost Upgrade Time Pet House Level Required 1 110 46.2 550 2,150 N/A N/A 12 2 115 48.3 575 2,300 260,000 8d 12 3 120 50.4 600 2,450 280,000 8d 12 4 125 52.5 625 2,600 300,000 8d 12 5 130 54.6 650 2,750 320,000 8d 12 6 135 56.7 675 2,900 340,000 8d 12 7 140 58.8 700 3,050 360,000 8d 12 8 145 60.9 725 3,200 380,000 8d 12 9 150 63 750 3,350 400,000 8d 12 10 155 65.1 775 3,500 420,000 8d 12 Gallery [ ] Audio [ ] History [ ] Date Description February 20, 2026 Announced the Greedy Raven, with 10 levels. February 23, 2026 Added the Greedy Raven. Trivia [ ] In his design, the Greedy Raven consists of mostly black, with some purple on the daggers and mask, and a little yellow in his irises or gold in the dagger feather spine and trim around the mask. These are the colors of the three main resources , Gold, Elixir, and Dark Elixir. On the level 12 Pet House, he has collected some Gold, Gems , golden eggs, a Life Gem , and a red diamond ring in his nest and food bowl. The diamond on the ring has a very similar cut to the premium currency of Boom Beach , just slightly redder instead of magenta. Comparisons [ ] The Greedy Raven is one of the Pet to be based on a real life animal alongside the Electro Owl , Mighty Yak , Frosty , Diggy , Poison Lizard , Spirit Fox , Angry Jelly , and Sneezy . He has the second highest attack rate of all pets, only behind the Poison Lizard . The Greedy Raven is the only Pet to specifically target resource buildings. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

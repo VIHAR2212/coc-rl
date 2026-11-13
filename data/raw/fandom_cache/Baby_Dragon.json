@@ -1,0 +1,498 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash - 0.3 Tiles Radius (Ground & Air)",
+        "Housing Space": "10",
+        "Movement Speed": "20",
+        "Attack Speed": "1s",
+        "Barracks Level Required": "11",
+        "Range": "2.75 tiles",
+        "Ability Damage Increase": "100%",
+        "Ability Attack Speed Increase": "50%"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "75",
+        "Enraged Damage per Second": "225",
+        "Damage per Hit": "75",
+        "Enraged Damage per Hit": "150",
+        "Hitpoints": "1,200",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "85",
+        "Enraged Damage per Second": "255",
+        "Damage per Hit": "85",
+        "Enraged Damage per Hit": "170",
+        "Hitpoints": "1,300",
+        "Research Cost": "1,500,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "95",
+        "Enraged Damage per Second": "285",
+        "Damage per Hit": "95",
+        "Enraged Damage per Hit": "190",
+        "Hitpoints": "1,400",
+        "Research Cost": "2,000,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "105",
+        "Enraged Damage per Second": "315",
+        "Damage per Hit": "105",
+        "Enraged Damage per Hit": "210",
+        "Hitpoints": "1,500",
+        "Research Cost": "2,800,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "115",
+        "Enraged Damage per Second": "345",
+        "Damage per Hit": "115",
+        "Enraged Damage per Hit": "230",
+        "Hitpoints": "1,600",
+        "Research Cost": "3,700,000",
+        "Research Time": "2d 18h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "125",
+        "Enraged Damage per Second": "375",
+        "Damage per Hit": "125",
+        "Enraged Damage per Hit": "250",
+        "Hitpoints": "1,700",
+        "Research Cost": "4,800,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "135",
+        "Enraged Damage per Second": "405",
+        "Damage per Hit": "135",
+        "Enraged Damage per Hit": "270",
+        "Hitpoints": "1,800",
+        "Research Cost": "6,200,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "145",
+        "Enraged Damage per Second": "435",
+        "Damage per Hit": "145",
+        "Enraged Damage per Hit": "290",
+        "Hitpoints": "1,900",
+        "Research Cost": "9,500,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "155",
+        "Enraged Damage per Second": "465",
+        "Damage per Hit": "155",
+        "Enraged Damage per Hit": "310",
+        "Hitpoints": "2,000",
+        "Research Cost": "11,000,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "165",
+        "Enraged Damage per Second": "495",
+        "Damage per Hit": "165",
+        "Enraged Damage per Hit": "330",
+        "Hitpoints": "2,100",
+        "Research Cost": "13,500,000",
+        "Research Time": "7d 6h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "175",
+        "Enraged Damage per Second": "525",
+        "Damage per Hit": "175",
+        "Enraged Damage per Hit": "350",
+        "Hitpoints": "2,200",
+        "Research Cost": "16,500,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "185",
+        "Enraged Damage per Second": "555",
+        "Damage per Hit": "185",
+        "Enraged Damage per Hit": "370",
+        "Hitpoints": "2,350",
+        "Research Cost": "29,000,000",
+        "Research Time": "15d 6h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Inferno Dragon",
+        "Boost Cost": "25,000",
+        "Baby Dragon Level Required": "6"
+      }
+    ],
+    [
+      {
+        "January 4, 2016": "Date",
+        "The Baby Dragon originated from Clash Royale .": "Type"
+      },
+      {
+        "January 4, 2016": "May 22, 2016",
+        "The Baby Dragon originated from Clash Royale .": "Sneak Peek"
+      },
+      {
+        "January 4, 2016": "May 24, 2016",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "October 4, 2016",
+        "The Baby Dragon originated from Clash Royale .": "Sneak Peek"
+      },
+      {
+        "January 4, 2016": "October 12, 2016",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "December 19, 2016",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "June 11, 2018",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "June 26, 2018",
+        "The Baby Dragon originated from Clash Royale .": "Balance Changes"
+      },
+      {
+        "January 4, 2016": "October 23, 2018",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "April 2, 2019",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "March 30, 2020",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "June 22, 2020",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "October 12, 2020",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "April 12, 2021",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "December 9, 2021",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "June 12, 2023",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "February 27, 2024",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "November 25, 2024",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "February 10, 2025",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      },
+      {
+        "January 4, 2016": "March 27, 2025",
+        "The Baby Dragon originated from Clash Royale .": "Clash Anytime Update"
+      },
+      {
+        "January 4, 2016": "February 23, 2026",
+        "The Baby Dragon originated from Clash Royale .": "Update"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Baby_Dragon_deploy.ogg",
+        "Captions": "Baby Dragon deploys",
+        "Description": "When the Baby Dragon is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Baby_Dragon_rage.ogg",
+        "Captions": "Baby Dragon rages",
+        "Description": "Plays when the Baby Dragon is not within 4.5 tiles of every air unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Baby_Dragon_attack.ogg",
+        "Captions": "Baby Dragon spits",
+        "Description": "When the Baby Dragon attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Baby_Dragon_die1.ogg https://clashofclans.fandom.com/wiki/File:Baby_Dragon_die2.ogg",
+        "Captions": "Baby Dragon dies",
+        "Description": "When the Baby Dragon dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ],
+    [
+      {
+        "Attack Type": "Area Splash",
+        "Movement Speed": "24",
+        "Attack Speed": "1s",
+        "Number of Units per Army Camp": "1",
+        "Builder Barracks Level Required": "6",
+        "Range": "2.5 tiles"
+      }
+    ],
+    [
+      {
+        "Special Abilities": "Fiery Tantrum (Activated Ability)"
+      },
+      {
+        "Special Abilities": "Sneezes up a cone of fire dealing damage when activated"
+      }
+    ],
+    [
+      {
+        "Level": "5",
+        "Damage per Second": "62",
+        "Damage per Attack": "62",
+        "Hitpoints": "1,331",
+        "Tantrum Damage Bonus": "+60%",
+        "Fiery Sneeze Damage": "80-100",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "62",
+        "Damage per Attack": "62",
+        "Hitpoints": "1,331",
+        "Tantrum Damage Bonus": "+70%",
+        "Fiery Sneeze Damage": "80-100",
+        "Research Cost": "360,000",
+        "Research Time": "16h",
+        "Star Laboratory Level Required": "4"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "68",
+        "Damage per Attack": "68",
+        "Hitpoints": "1,464",
+        "Tantrum Damage Bonus": "+70%",
+        "Fiery Sneeze Damage": "80-100",
+        "Research Cost": "380,000",
+        "Research Time": "20h",
+        "Star Laboratory Level Required": "4"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "68",
+        "Damage per Attack": "68",
+        "Hitpoints": "1,464",
+        "Tantrum Damage Bonus": "+70%",
+        "Fiery Sneeze Damage": "128-160",
+        "Research Cost": "400,000",
+        "Research Time": "1d",
+        "Star Laboratory Level Required": "4"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "75",
+        "Damage per Attack": "75",
+        "Hitpoints": "1,611",
+        "Tantrum Damage Bonus": "+70%",
+        "Fiery Sneeze Damage": "128-160",
+        "Research Cost": "1,000,000",
+        "Research Time": "1d 12h",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "75",
+        "Damage per Attack": "75",
+        "Hitpoints": "1,611",
+        "Tantrum Damage Bonus": "+80%",
+        "Fiery Sneeze Damage": "128-160",
+        "Research Cost": "1,200,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "5"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "83",
+        "Damage per Attack": "83",
+        "Hitpoints": "1,772",
+        "Tantrum Damage Bonus": "+80%",
+        "Fiery Sneeze Damage": "128-160",
+        "Research Cost": "1,400,000",
+        "Research Time": "2d",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "83",
+        "Damage per Attack": "83",
+        "Hitpoints": "1,772",
+        "Tantrum Damage Bonus": "+80%",
+        "Fiery Sneeze Damage": "220-275",
+        "Research Cost": "1,600,000",
+        "Research Time": "2d 12h",
+        "Star Laboratory Level Required": "6"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "91",
+        "Damage per Attack": "91",
+        "Hitpoints": "1,949",
+        "Tantrum Damage Bonus": "+80%",
+        "Fiery Sneeze Damage": "220-275",
+        "Research Cost": "2,400,000",
+        "Research Time": "3d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "91",
+        "Damage per Attack": "91",
+        "Hitpoints": "1,949",
+        "Tantrum Damage Bonus": "+90%",
+        "Fiery Sneeze Damage": "220-275",
+        "Research Cost": "2,600,000",
+        "Research Time": "4d 12h",
+        "Star Laboratory Level Required": "7"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "100",
+        "Damage per Attack": "100",
+        "Hitpoints": "2,144",
+        "Tantrum Damage Bonus": "+90%",
+        "Fiery Sneeze Damage": "220-275",
+        "Research Cost": "3,400,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "100",
+        "Damage per Attack": "100",
+        "Hitpoints": "2,144",
+        "Tantrum Damage Bonus": "+90%",
+        "Fiery Sneeze Damage": "320-400",
+        "Research Cost": "3,600,000",
+        "Research Time": "5d 12h",
+        "Star Laboratory Level Required": "8"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "110",
+        "Damage per Attack": "110",
+        "Hitpoints": "2,358",
+        "Tantrum Damage Bonus": "+90%",
+        "Fiery Sneeze Damage": "320-400",
+        "Research Cost": "4,100,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "110",
+        "Damage per Attack": "110",
+        "Hitpoints": "2,358",
+        "Tantrum Damage Bonus": "+100%",
+        "Fiery Sneeze Damage": "320-400",
+        "Research Cost": "4,300,000",
+        "Research Time": "6d",
+        "Star Laboratory Level Required": "9"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "120",
+        "Damage per Attack": "120",
+        "Hitpoints": "2,358",
+        "Tantrum Damage Bonus": "+100%",
+        "Fiery Sneeze Damage": "320-400",
+        "Research Cost": "5,100,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "120",
+        "Damage per Attack": "120",
+        "Hitpoints": "2,358",
+        "Tantrum Damage Bonus": "+100%",
+        "Fiery Sneeze Damage": "440-550",
+        "Research Cost": "5,500,000",
+        "Research Time": "6d 12h",
+        "Star Laboratory Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "Home Village Builder Base [[File:{{{Alt}}}|28px|link=]] For his Super variant, see Inferno Dragon . For his Builder Base counterpart, see Baby Dragon . For the Hero , see Dragon Duke . \"This fire-breathing hatchling is shy around other air units , but leave it alone and it'll throw a fit! When not around other air units, Baby Dragons become enraged and gain bonus damage and attack speed.\" Level 1-2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Summary The Baby Dragon is the eleventh Elixir Troop unlocked at Barracks level 11, which requires Town Hall level 9. He is a fearsome flying unit and is capable of attacking both ground and air units by spitting fireballs that deal splash damage to buildings and units alike. He is essentially a smaller and weaker version of the Dragon , but possesses a much faster attack speed (once his Tantrum ability is active) and takes up less housing space in Army Camps . When no allied aerial units are within 4.5 tiles from the Baby Dragon, his Tantrum ability becomes active, increasing his attack rate and doubling his damage, though, his movement speed still remains the same. Baby Dragons have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Baby Dragons will proceed to attack the nearest structure. Strategies Offensive Strategies The Baby Dragon could be considered more versatile than the Dragon . He has half the housing space, a bit less than half the health, and about 40% of the DPS normally, but he inflicts much more damage when enraged. An enraged Baby Dragon has about 120% of the DPS of a Dragon (assuming both are max level for a given Laboratory level). An attack using Baby Dragons would be less vulnerable to Seeking Air Mines , since it will only destroy 10 housing space of troops , compared to the Dragon which occupies 20 housing space. However, since the quantity of troops have increased, a horde of Baby Dragons would be more vulnerable to splash damage, such as Wizard Towers , Scattershots and Air Bombs , since there are more individual units compared to the lower quantity but more durable Dragons. However, one could bring in Healing Spells to mitigate the splash damage or Rage Spells to help destroy the splash damaging defenses faster. Baby Dragons are especially good at funneling and destroying outer buildings to guide troops into the center of the base. They have relatively high health and can deal a lot of damage in their tantrums. If you intend to funnel with Baby Dragons, you can consider bringing a Balloon (and/or if available, the Ice Minion ) to check and tank Seeking Air Mines which will take out the Baby Dragon prematurely. Also consider the location of Air Defenses ; if they cover the edge, it can quickly kill the Baby Dragon. However, because of the change of the Seeking Air Mines being able to target units at a minimum of 5 housing space, Ice Minions could no longer trigger them, resulting the Baby Dragon taking severe damage, if not taken out. They also take out certain areas with only ground defenses and little air coverage such as an area with an exposed Mortar and a few collectors. The Baby Dragon's high damage means that it will take them out quickly, and potentially funneling for the main army. Baby Dragons are excellent farming troops since they deal high damage and have decent health. They can destroy outside collectors fast with their \"enraged\" ability. However, Air Defenses can cut them down, so it is recommended to have some sort of initial phase to deal with one or two of them. For example, one can use Lightning Spells and Earthquake Spells or the Giant Arrow to destroy the Air Defenses. They can take on and defeat low-level defending Archer Queens by themselves which makes them a good choice to deal with the Queen if she is easily reachable. However, nearby defenses can turn the tide in the defending Archer Queen's favor. If possible, zap the Archer Queen with the Air Defense. Keep in mind though, that Earthquake spells do no damage to troops. Baby Dragons are a common troop found in low-level Clan Castles , especially in Clan Wars . Placing a Dragon, Electro Dragon or your Barbarian King and a bunch of Wizards will quickly kill the Baby Dragon before he does significant damage to your troops. At lower Town Hall levels, the lack of effective air targeting defenses makes them a formidable threat. Therefore, it is a good idea to bring one in your Clan Castle and drop them directly on those defenses to make them untargetable from the rest of the base. From Town Hall 4 up to Town Hall 6, an alternative is to use a ground army to destroy all air targeting defenses. After all of them have been destroyed, you can freely drop the Baby Dragon from the Clan Castle to clean up anything remaining. Defensive Strategies Baby Dragons are quite powerful air troops , and as such it can be difficult to defend against them. Multiple high-level Air Defenses are critical for success against Baby Dragons. Baby Dragons are wonderful Clan Castle troops . As a flying unit , the Baby Dragon is completely immune to attacks from most ground troops , and his splash damage capability makes him especially suited for destroying groups of Barbarians and Goblins . To make use of the rage ability, a player can simply request just one Baby Dragon and fill the castle with ground troops. Note that Skeleton Traps set to air mode will also take away his rage ability, so place them away from his path. Seeking Air Mines can one-shot Baby Dragons of relative level. Place them near Air Defenses to make sure they do not get destroyed. Baby Dragons need to be alone in order for them to have their rage mechanic active. An Air Sweeper can clump them up and remove their advantage, rendering their ability useless. Upgrade Differences Initially, he appears as a small lime green Dragon with the spikes and tips of his wings being persimmon. His hands and feet are copper in color that fades back into the body, and his tongue is red. At level 3, the Baby Dragon's wings turn amber. At level 4, the Baby Dragon's wings turn into a magenta-orange gradient and his tongue also turns magenta. At level 5, the Baby Dragon gains golden bracelets on each wrist. At level 6, the Baby Dragon's wings turn blue and his tongue turns purple. At level 7, the Baby Dragon's bracelets gain icy blue ornaments. His wings also become slightly lighter in shades of blue. At level 8, the Baby Dragon's bracelets grow larger and turn completely gold, and his legs get a golden accent. His hind legs also receive golden coating of armor. At level 9, The Baby Dragon's bracelets shrink and have gold edges with light periwinkle in the middle. His wings and tongue also become light periwinkle. He also gains two shoulder guards golden shoulder pads and a mahogany 'saddle' or armor plate on his back. At level 10, the Baby Dragon's wings and tongue turn into pastel lemon. Red bands appear on his bracelets; his shoulder pads get wider; the saddle gets slightly smaller, and his tail is now on fire. At level 11, the Baby Dragon's wings, horns and tongue turn golden in color. His bracelets change their appearance similar when he was level 8, but shorter, and the red band disappears. The shoulder guards also disappear. At level 12, the Baby Dragon's back, wings and tongue turn royal blue, while his horns are cyan in color. His eyes become pitch black and his sclerae turn blue. He also gains a gray bracelet on his arms, replacing the golden ones. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Barracks Level Required Range Ability Damage Increase Ability Attack Speed Increase None Area Splash - 0.3 Tiles Radius (Ground & Air) 10 20 1s 11 2.75 tiles 100% 50% Level Damage per Second Enraged Damage per Second Damage per Hit Enraged Damage per Hit Hitpoints Research Cost Research Time Laboratory Level Required 1 75 225 75 150 1,200 N/A N/A N/A 2 85 255 85 170 1,300 1,500,000 1d 7 3 95 285 95 190 1,400 2,000,000 1d 12h 8 4 105 315 105 210 1,500 2,800,000 2d 8 5 115 345 115 230 1,600 3,700,000 2d 18h 9 6 125 375 125 250 1,700 4,800,000 3d 10 7 135 405 135 270 1,800 6,200,000 4d 11 8 145 435 145 290 1,900 9,500,000 6d 12 9 155 465 155 310 2,000 11,000,000 7d 13 10 165 495 165 330 2,100 13,500,000 7d 6h 14 11 175 525 175 350 2,200 16,500,000 10d 15 12 185 555 185 370 2,350 29,000,000 15d 6h 16 Super Troop Boost Super Troop Boost Cost Baby Dragon Level Required Inferno Dragon 25,000 6 History January 4, 2016 The Baby Dragon originated from Clash Royale . Date Type Description May 22, 2016 Sneak Peek Announced the Baby Dragon, with 4 levels. May 24, 2016 Update Added the Baby Dragon. October 4, 2016 Sneak Peek Supercell announced that the level 5 Baby Dragon will be added, move the level 4 Baby Dragon to Town Hall 10, and give levels 3 and 4 Baby Dragon unique appearances. October 12, 2016 Update Level 3 and 4 Baby Dragon now have upgrade differences. Added the level 5 Baby Dragon. Moved the level 4 Baby Dragon to Town Hall level 10 (previously was at Town Hall level 11). Reduced upgrade cost at levels 2 to 4: Level 2: 6,000,000 -> 5,000,000 Level 3: 7,000,000 -> 6,000,000 Level 4: 8,000,000 -> 7,000,000 Reduced upgrade time at levels 2 to 4: Level 2: 10d -> 8d Level 3: 12d -> 10d Level 4: 14d -> 12d December 19, 2016 Update Changed the Baby Dragon's icon. June 11, 2018 Update Added the level 6 Baby Dragon. June 26, 2018 Balance Changes Reduced upgrade time at levels 2 to 5: Level 2: 8d -> 5d 12h Level 3: 10d -> 6d 12h Level 4: 12d -> 8d Level 5: 14d -> 11d 12h October 23, 2018 Update Reduced gem donation cost of Baby Dragon from 10 to 8 gems. April 2, 2019 Update Reduced training cost at levels 1 to 6: Level 1: 10,000 -> 5,000 Level 2: 11,000 -> 6,000 Level 3: 12,000 -> 7,000 Level 4: 13,000 -> 8,000 Level 5: 14,000 -> 9,000 Level 6: 15,000 -> 10,000 Reduced upgrade time at levels 2 to 5: Level 2: 5d 12h -> 5d Level 3: 6d 12h -> 6d Level 4: 8d -> 7d Level 5: 11d 12h -> 10d March 30, 2020 Update Reduced upgrade cost at levels 2 to 4: Level 2: 5,000,000 -> 4,000,000 Level 3: 6,000,000 -> 5,000,000 Level 4: 7,000,000 -> 6,000,000 Fixed inconsistencies with situations where multiple boosts which affect movement speed, attack speed and damage (Baby Dragon tantrum) are active at the same time. Now the best boosts (and worst de-buffs) for each attribute are selected and applied. June 22, 2020 Update Added the level 7 Baby Dragon. October 12, 2020 Update Improved the AI for Baby Dragon and all other flying units by not forcing them to retarget when a Hidden Tesla appears when their current target is better. April 12, 2021 Update Added the level 8 Baby Dragon. December 9, 2021 Update Reduced upgrade costs and times for level 2 to 7 Baby Dragons (except level 6). June 12, 2023 Update Added the level 9 Baby Dragon. Reduced upgrade times for levels 6 and 7: Level 6: 8d 6h -> 7d 12h Level 7: 10d 12h -> 8d 12h Reduced upgrade costs for levels 6 and 7: Level 6: 6,300,000 -> 5,500,000 Level 7: 9,000,000 -> 7,200,000 February 27, 2024 Update Added the level 10 Baby Dragon. November 25, 2024 Update Added the level 11 Baby Dragon. February 10, 2025 Update Reduced training time from 1m 30 to 1m 25s. March 27, 2025 Clash Anytime Update Removed training time. February 23, 2026 Update Added the level 12 Baby Dragon. Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Baby_Dragon_deploy.ogg Baby Dragon deploys When the Baby Dragon is deployed https://clashofclans.fandom.com/wiki/File:Baby_Dragon_rage.ogg Baby Dragon rages Plays when the Baby Dragon is not within 4.5 tiles of every air unit https://clashofclans.fandom.com/wiki/File:Baby_Dragon_attack.ogg Baby Dragon spits When the Baby Dragon attacks https://clashofclans.fandom.com/wiki/File:Baby_Dragon_die1.ogg https://clashofclans.fandom.com/wiki/File:Baby_Dragon_die2.ogg Baby Dragon dies When the Baby Dragon dies Gallery Baby Dragon's avatar Teaser Baby Dragon Storytime Clan Games challenge Trivia You can have a maximum of 35 Baby Dragons at one time in a complete set of fully upgraded Army Camps . This number increases to 40 if you include 5 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 16 Baby Dragons with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). Additionally, a total of 6 can be summoned by a level 3 or higher Sky Wagon . These total to a maximum of 62 Baby Dragons. Like the Dragon , the Baby Dragon's shadow is oval, not dragon-shaped. The Baby Dragon's hands and feet are brown in the info image but are not in battle. The Baby Dragon's upon-death skeleton is human-shaped, similar to the other troops . The fireballs that the Baby Dragon shoots are similar to the ones fired by Lava Hounds or Lava Pups . The Baby Dragon's gender has been confirmed as a male, as the Clash Royale Baby Dragon commercial referred to the Baby Dragon as \"he\". When the Baby Dragon disappears upon death or at the end of a battle, he explodes into Dark Elixir , even though he is an Elixir troop. This is also the case with the Ice Golem and the Witch who are both Dark Elixir troops but explode into Elixir upon death or when the battle ends. The Baby Dragon is one of ten troops featured as a monster in the game Squad Busters . The others are the Wall Breaker , P.E.K.K.A , Minion , Golem , Bowler , Lava Hound , Ice Golem , Yeti , and Inferno Dragon . The Baby Dragon in Squad Busters resembles the Baby Dragon in Clash Royale . Comparisons The Baby Dragon, along with the Miner and Ice Golem , is one of the three troops in the Home Village to be directly transferred from one of Supercell 's other games, Clash Royale . The Clash of Clans counterpart is given an additional \"enraged\" ability when left alone. The Baby Dragon was one of the only troop (s) in the game that did not have upgrade differences. This trait was previously used with the Witch, before the Town Hall 11 Update . At one point, when you upgraded the Baby Dragon to level 3, his wings did not change color at all. With the October 2016 update, Levels 3 & 4 were given pink wings (Level 4 shares the same pink wings of level 5 Baby Dragons). The Baby Dragon is one of the four troops to have a spell-like effect himself, along with the Raged Barbarian , Super Barbarian and Rocket Balloon . The Baby Dragon is one of the thirteen units to appear in a Scenery, the others being the Barbarian , Goblin , Balloon , Hog Rider , Barbarian King , P.E.K.K.A , Skeleton , Archer Queen , Grand Warden , Dragon Rider , Cannon Cart , and Party Wizard . In his case, he appears in the Hog Mountain and Painter sceneries (for the latter, he is painted with various colors). The Baby Dragon is one of the troops associated with Dragons , the others are the Electro Dragon , Dragon Rider , Super Dragon , and Inferno Dragon . He is the only troop to appear in both the Home Village and the Builder Base. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven [[File:{{{Alt}}}|28px|link=]] For his Home Village counterpart, see Baby Dragon/Home Village . For his Super version, see Inferno Dragon . For the Hero , see Dragon Duke . \"Cute, snuggly and prone to fire-spitting tantrums. Rampant destruction has never been so adorable.\" Level 5-7 Level 8-11 Level 12-15 Level 16-19 Level 20 Summary The Baby Dragon is the sixth Builder Base Troop unlocked in the Builder Barracks once it has been upgraded to level 6. He is a powerful flying unit and the Builder Base version of the Baby Dragon from the Home Village. The Baby Dragon has two abilities in the Builder Base: Tantrum and Fiery Sneeze . The Tantrum ability is passive, and boosts the Baby Dragon's damage and attack speed when he is separated from other air units by a distance of at least 4.5 tiles. The Fiery Sneeze ability can be used once per battle. When activated, the Baby Dragon spews flames that damage a large area in front of him. The damage dealt by the Fiery Sneeze can be boosted by Tantrum. Compared to his Home Village counterpart, he moves slightly faster but has a slightly shorter range. Strategies Offensive Strategies Try to destroy or avoid Air Bombs and Mega Tesla as they deal the most damage to Baby Dragons. Try to destroy Firecrackers that are sniping at your Baby Dragons from afar. Keep the Baby Dragons apart so their Tantrum ability will be activated and deal extra damage. It is a good idea to use a mass Baby Dragon attack as they have many different uses. You may find it useful to hold some of your Baby Dragons in reserve during the attack so that the ones currently on the battlefield can easily utilize their Tantrum ability. Then, once these Baby Dragons start to die out, you can deploy the Baby Dragons in reserve to replace the ones you lost. Baby Dragons are great tanks for Beta Minions , allowing them to be on the field for longer when they would otherwise be wiped out, even if this means their Tantrum ability can no longer activate. The Baby Dragon can hit two buildings or Walls at once. However, like most troops with splash damage, he typically aims for the center and this will only rarely happen if he targets a Guard Post troop that happens to walk by a building. The damage delivered in one or two hits may not be significant, but can prove incredibly helpful if the building is low on health and cannot be easily attacked further. If you have the Battle Machine , you can use it to shield Baby Dragons from Archer Towers and Hidden Teslas . However, note that the Battle Machine may not be able to hold its own against other ground defenses such as Double Cannons and Crushers , which still needs to be taken out otherwise. You can use Baby Dragons to destroy Crushers and other ground-attacking defenses to give way for your ground troops, and, if possible, the Battle Machine. Once all the threatening defenses are down the ground troops can demolish the AA defenses and allow the rest of your Baby Dragons to take the base by storm. While this may not be immediately obvious, lone Baby Dragons can decimate any defense one-on-one at full health if they are at relative levels. His Fiery Sneeze ability can be useful for taking out Zappies in the O.T.T.O's Outpost as the damage one-shots them and will not interfere with other troops. The Cannon Cart in Mortar Mode can provide great value with the Baby Dragons, so that the former will snipe important defenses such as the Air Bombs and the Mega Tesla, the Baby Dragons will have a huge advantage to clear out the rest of the base, allowing their abilities to be conserved for the second base. However, this process is slow, and the attacker may run out of time if they do not perform the attack fast enough, especially because of the slow fire rate of the Mortar Mode. Defensive Strategies On defense, protect and spread out your Firecrackers and Air Bombs to prevent them from being taken out using other distraction buildings. Archer Towers set to fast attack mode are as powerful as Firecrackers when it comes to defending against Baby Dragons. Air Bombs are the Baby Dragon's arch-nemesis since they can not only deal devastating splash damage but also hard and comes in with an endless supply against it. A Mega Mine set to Air can deal heavy damage to multiple Baby Dragons. Mega Tesla are very powerful against Baby Dragons. Try to place splash damage defenses like Roaster and Air Bombs near it so that the Mega Tesla does not get distracted by smaller troops like Bats . Upgrade Differences Initially, he appears as a small lime green Dragon with the spikes and tips of his wings being persimmon. His hands and feet are colored copper that fades back into the body, and his tongue is colored red. At level 8, his wings turn amber. At level 12, his wings and tongue turn magenta, and he gains golden bracelets on each wrist. At level 16, his wings turn blue and his tongue turns purple. At level 20, his bracelets grow bigger, and his legs get a golden accent. His hind legs also receive a golden coating of armor. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Attack Type Movement Speed Attack Speed Number of Units per Army Camp Builder Barracks Level Required Range Area Splash 24 1s 1 6 2.5 tiles Special Abilities Fiery Tantrum (Activated Ability) Tantrum (Passive Ability) Sneezes up a cone of fire dealing damage when activated When separated from other air units, damage is increased Level Damage per Second Damage per Attack Hitpoints Tantrum Damage Bonus Fiery Sneeze Damage Research Cost Research Time Star Laboratory Level Required 5 62 62 1,331 +60% 80-100 N/A N/A N/A 6 62 62 1,331 +70% 80-100 360,000 16h 4 7 68 68 1,464 +70% 80-100 380,000 20h 4 8 68 68 1,464 +70% 128-160 400,000 1d 4 9 75 75 1,611 +70% 128-160 1,000,000 1d 12h 5 10 75 75 1,611 +80% 128-160 1,200,000 2d 5 11 83 83 1,772 +80% 128-160 1,400,000 2d 6 12 83 83 1,772 +80% 220-275 1,600,000 2d 12h 6 13 91 91 1,949 +80% 220-275 2,400,000 3d 12h 7 14 91 91 1,949 +90% 220-275 2,600,000 4d 12h 7 15 100 100 2,144 +90% 220-275 3,400,000 5d 12h 8 16 100 100 2,144 +90% 320-400 3,600,000 5d 12h 8 17 110 110 2,358 +90% 320-400 4,100,000 6d 9 18 110 110 2,358 +100% 320-400 4,300,000 6d 9 19 120 120 2,358 +100% 320-400 5,100,000 6d 12h 10 20 120 120 2,358 +100% 440-550 5,500,000 6d 12h 10 Trivia The Baby Dragon's gender has been confirmed as male, as the Clash Royale Baby Dragon commercial referred to Baby Dragon as \"he\". When the Baby Dragon uses his Fiery Sneeze ability, he becomes immobile for a moment. If his ability is not activated when he dies, he will use the ability anyway. The Baby Dragon and Raged Barbarian are the only Builder Base Troops not to have unique sounds when deployed, attacking, and dying. The Boxer Giant and Power P.E.K.K.A would count without their abilities unlocked. Unlike other Builder Base troops, the Baby Dragon in the Builder Base does not visually differ from the Baby Dragon from the Home Village. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

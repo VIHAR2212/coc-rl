@@ -1,0 +1,213 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Minion Prince",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Available by default"
+      }
+    ],
+    [
+      {
+        "Level": "Projectile Damage",
+        "Ability Attributes": "Slow Down",
+        "Hero Boosts": "Slow Down Duration",
+        "Upgrade Cost": "Damage per Second Increase",
+        "Blacksmith Level Required": "Hitpoint Increase"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "45",
+        "Hero Boosts": "20%",
+        "Upgrade Cost": "8s",
+        "Blacksmith Level Required": "10"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "45",
+        "Hero Boosts": "20%",
+        "Upgrade Cost": "8s",
+        "Blacksmith Level Required": "13"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "55",
+        "Hero Boosts": "25%",
+        "Upgrade Cost": "9s",
+        "Blacksmith Level Required": "18"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "55",
+        "Hero Boosts": "25%",
+        "Upgrade Cost": "9s",
+        "Blacksmith Level Required": "21"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "55",
+        "Hero Boosts": "25%",
+        "Upgrade Cost": "9s",
+        "Blacksmith Level Required": "24"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "65",
+        "Hero Boosts": "30%",
+        "Upgrade Cost": "10s",
+        "Blacksmith Level Required": "29"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "65",
+        "Hero Boosts": "30%",
+        "Upgrade Cost": "10s",
+        "Blacksmith Level Required": "32"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "65",
+        "Hero Boosts": "30%",
+        "Upgrade Cost": "10s",
+        "Blacksmith Level Required": "35"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "75",
+        "Hero Boosts": "35%",
+        "Upgrade Cost": "11s",
+        "Blacksmith Level Required": "40"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "75",
+        "Hero Boosts": "35%",
+        "Upgrade Cost": "11s",
+        "Blacksmith Level Required": "43"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "75",
+        "Hero Boosts": "35%",
+        "Upgrade Cost": "11s",
+        "Blacksmith Level Required": "46"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "100",
+        "Hero Boosts": "40%",
+        "Upgrade Cost": "13s",
+        "Blacksmith Level Required": "51"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "100",
+        "Hero Boosts": "40%",
+        "Upgrade Cost": "13s",
+        "Blacksmith Level Required": "54"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "100",
+        "Hero Boosts": "40%",
+        "Upgrade Cost": "13s",
+        "Blacksmith Level Required": "57"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "150",
+        "Hero Boosts": "45%",
+        "Upgrade Cost": "15s",
+        "Blacksmith Level Required": "62"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "150",
+        "Hero Boosts": "45%",
+        "Upgrade Cost": "15s",
+        "Blacksmith Level Required": "65"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "150",
+        "Hero Boosts": "45%",
+        "Upgrade Cost": "15s",
+        "Blacksmith Level Required": "68"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "200",
+        "Hero Boosts": "50%",
+        "Upgrade Cost": "18s",
+        "Blacksmith Level Required": "73"
+      }
+    ],
+    [
+      {
+        "Damage Radius": "5"
+      }
+    ],
+    [
+      {
+        "Date": "November 24, 2024",
+        "Description": "Announced the Dark Orb."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Description": "Added the Dark Orb."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Increased hitpoint increase Hero Boost by 500 at all levels to offset the 1,000 hitpoint nerf of the Minion Prince on defense."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg",
+        "Captions": "Hero Equipment equipped",
+        "Description": "When the Dark Orb is equipped or swapped"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg",
+        "Captions": "Hero Equipment upgraded",
+        "Description": "When the Dark Orb is upgraded"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:DarkOrb_Launch.ogg",
+        "Captions": "Minion Prince launches Dark Orb",
+        "Description": "When the ability is activated while the Dark Orb is equipped"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Damages and slows down everything it touches\" Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Sounds 5.1 Generic 5.2 Unique 6 Trivia Summary The Dark Orb is a piece of Common Hero Equipment for the Minion Prince . It is one of two pieces of Hero Equipment that the Minion Prince starts with, the other being the Henchmen Puppet . The Dark Orb appears as a black orb with a glowing magenta and cyan crack from top to bottom and glows cyan at the edge. It summons a crystal from a portal behind the Minion Prince which then travels forward for a short while at where he is facing, dealing small amount of damage and slowing defenses and defending troops in a radius around it. In addition to the ability, the Dark Orb grants additional damage and hitpoints to the Minion Prince. Strategies Offensive Strategies The Dark Orb can slow down a full compartment of defenses, which can be extra effective at the core of the base where most high value defenses reside. There are different interactions when the Dark Orb is paired with other Hero Equipment for the Minion Prince: It can be paired with Henchmen Puppet , slowing down defenses in a large area increases the effectiveness of the tanking by the Henchmen. When paired with the Metal Pants , it also allows him to take reduced damage after he fires the Dark Orb. When paired with the Noble Iron , this combo may not be as effective due to its long range when he initially attacks from a long range, wasting most of the Dark Orb's range, even if paired with the Angry Jelly . However, as the Noble Iron is a passive ability while the Dark Orb is active, you can choose to use the two separately. Because the Dark Orb deals damage while traveling a significant distance, its use can activate Invisibility Spell Towers , Giga Teslas and Giga Infernos from afar. Activating a Town Hall weapon early can prove to be a liability, so care must be taken when doing this. On the other hand, activating a Town Hall weapon can also be a benefit as it causes defense-targeting troops to start targeting the Town Hall. Be aware of where the Minion Prince is facing before using the Dark Orb, especially when he is about to change targets, as he may end up wasting it by shooting it to the side or even outwards. Defensive Strategies Avoid placing your major defenses too close to each other, as this can give a lot of value to the attacker, and the attacking army can seize the opportunity to destroy them. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Minion Prince Active Common Available by default Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Projectile Damage Slow Down Slow Down Duration Damage per Second Increase Hitpoint Increase Shiny Ore Glowy Ore 1 45 20% 8s 10 588 N/A N/A 1 2 45 20% 8s 13 603 120 - 1 3 55 25% 9s 18 617 240 20 1 4 55 25% 9s 21 631 400 - 1 5 55 25% 9s 24 647 600 - 1 6 65 30% 10s 29 661 840 100 1 7 65 30% 10s 32 675 1,120 - 1 8 65 30% 10s 35 600 1,440 - 1 9 75 35% 11s 40 719 1,800 200 1 10 75 35% 11s 43 766 1,900 - 3 11 75 35% 11s 46 813 2,000 - 3 12 100 40% 13s 51 859 2,100 400 3 13 100 40% 13s 54 906 2,200 - 5 14 100 40% 13s 57 953 2,300 - 5 15 150 45% 15s 62 1,000 2,400 600 5 16 150 45% 15s 65 1,046 2,500 - 7 17 150 45% 15s 68 1,093 2,600 - 7 18 200 50% 18s 73 1,140 2,700 600 7 Damage Radius 5 History Date Description November 24, 2024 Announced the Dark Orb. November 25, 2024 Added the Dark Orb. November 17, 2025 Increased hitpoint increase Hero Boost by 500 at all levels to offset the 1,000 hitpoint nerf of the Minion Prince on defense. Sounds Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg Hero Equipment equipped When the Dark Orb is equipped or swapped https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg Hero Equipment upgraded When the Dark Orb is upgraded Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:DarkOrb_Launch.ogg Minion Prince launches Dark Orb When the ability is activated while the Dark Orb is equipped Trivia The Dark Orb is the one of the two directional Hero Equipment, the other being the Giant Arrow . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

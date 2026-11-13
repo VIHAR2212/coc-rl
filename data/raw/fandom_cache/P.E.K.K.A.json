@@ -1,0 +1,347 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Melee Single Target (Ground)",
+        "Housing Space": "25",
+        "Movement Speed": "16",
+        "Attack Speed": "1.8s",
+        "Barracks Level Required": "10",
+        "Range": "0.8 tiles",
+        "Transport": "Ground"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "260",
+        "Damage per Attack": "468",
+        "Hitpoints": "3,000",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "290",
+        "Damage per Attack": "522",
+        "Hitpoints": "3,500",
+        "Research Cost": "600,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "320",
+        "Damage per Attack": "576",
+        "Hitpoints": "4,000",
+        "Research Cost": "1,300,000",
+        "Research Time": "18h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "360",
+        "Damage per Attack": "648",
+        "Hitpoints": "4,500",
+        "Research Cost": "2,000,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "410",
+        "Damage per Attack": "738",
+        "Hitpoints": "5,000",
+        "Research Cost": "2,100,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "470",
+        "Damage per Attack": "846",
+        "Hitpoints": "5,500",
+        "Research Cost": "2,500,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "540",
+        "Damage per Attack": "972",
+        "Hitpoints": "5,900",
+        "Research Cost": "4,500,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "660",
+        "Damage per Attack": "1,188",
+        "Hitpoints": "6,300",
+        "Research Cost": "5,000,000",
+        "Research Time": "3d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "735",
+        "Damage per Attack": "1,323",
+        "Hitpoints": "6,700",
+        "Research Cost": "5,800,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "810",
+        "Damage per Attack": "1,458",
+        "Hitpoints": "7,200",
+        "Research Cost": "10,500,000",
+        "Research Time": "5d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "875",
+        "Damage per Attack": "1,575",
+        "Hitpoints": "7,700",
+        "Research Cost": "12,000,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "940",
+        "Damage per Attack": "1,692",
+        "Hitpoints": "8,200",
+        "Research Cost": "16,000,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "1,015",
+        "Damage per Attack": "1,827",
+        "Hitpoints": "8,800",
+        "Research Cost": "28,000,000",
+        "Research Time": "14d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Description": "The P.E.K.K.A was in the original release of the game, with 2 levels."
+      },
+      {
+        "Patch": "August 30, 2012",
+        "Description": "P.E.K.K.As movement speed was increased to 16 (from 8). P.E.K.K.As no longer get affected from Spring Traps ."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Description": "Upgraded P.E.K.K.A now shows pink asterisks that represents her level. The P.E.K.K.A now has an upgrade difference at level 2."
+      },
+      {
+        "Patch": "October 27, 2012",
+        "Description": "Added the level 3 P.E.K.K.A. Decreased hitpoints at levels 2 and 3."
+      },
+      {
+        "Patch": "February 5, 2013",
+        "Description": "The P.E.K.K.As now receive 2x damage from Hidden Teslas."
+      },
+      {
+        "Patch": "March 12, 2013",
+        "Description": "Decreased training time and cost. Increased hitpoints and damage at levels 1 and 2. Changed the P.E.K.K.A's attacking animation from this to this ."
+      },
+      {
+        "Patch": "June 17, 2013",
+        "Description": "Added the level 4 P.E.K.K.A. Changed the P.E.K.K.A's textures at levels 1 to 3."
+      },
+      {
+        "Patch": "November 6, 2013",
+        "Description": "Slightly increased damage and hitpoints at level 4."
+      },
+      {
+        "Patch": "January 29, 2014",
+        "Description": "Increased hitpoints at levels 3 and 4: Level 3: 3,400 -> 3,500 Level 4: 3,800 -> 4,000"
+      },
+      {
+        "Patch": "July 3, 2014",
+        "Description": "Added the level 5 P.E.K.K.A. Reduced training cost."
+      },
+      {
+        "Patch": "July 1, 2015",
+        "Description": "Reduced training cost at all levels."
+      },
+      {
+        "Patch": "May 4, 2016",
+        "Description": "Reduced P.E.K.K.A's training time from 45 minutes to 15 minutes."
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Description": "P.E.K.K.As no longer receive 2x damage from Hidden Teslas."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Description": "Increased attack speed to 1.8 seconds (from 2.5 seconds). Changed her info and icon (2D sprites remain unchanged)."
+      },
+      {
+        "Patch": "March 8, 2017",
+        "Description": "Increased damage at levels 3 to 5: Level 3: 300 -> 310 Level 4: 340 -> 360 Level 5: 380 -> 410"
+      },
+      {
+        "Patch": "June 27, 2017",
+        "Description": "Added the level 6 P.E.K.K.A. Reduced upgrade times or costs at all levels."
+      },
+      {
+        "Patch": "March 5, 2018",
+        "Description": "Added the level 7 P.E.K.K.A. Moved the level 4 P.E.K.K.A from Town Hall 10 to Town Hall 9. Moved the level 6 P.E.K.K.A from Town Hall 11 to Town Hall 10. Reduced upgrade cost at from 10,000,000 to 8,500,000 to accommodate for the lower storage capacity of Town Hall 10."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Description": "Added the level 8 P.E.K.K.A. Increased hitpoints at levels 5 and 6. Reduced training costs at all levels."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Description": "Reduced upgrade times for levels 1 to 6."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Description": "Reduced the P.E.K.K.A's gem donation cost from 25 to 15."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Description": "The level 8 P.E.K.K.A now has her own upgrade differences."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Description": "Reduced upgrade costs at levels 2 to 7."
+      },
+      {
+        "Patch": "May 20, 2020",
+        "Description": "Grand Warden is now less likely to follow P.E.K.K.As."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Description": "Added the level 9 P.E.K.K.A."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Description": "Reduced upgrade costs and times at all levels. Increased damage per second at levels 1 to 3: Level 1: 240 -> 260 Level 2: 270 -> 290 Level 3: 310 -> 320 Increased hitpoints at levels 1 to 6: Level 1: 2,800 -> 3,000 Level 2: 3,100 -> 3,400 Level 3: 3,500 -> 3,800 Level 4: 4,000 -> 4,300 Level 5: 4,700 -> 4,800 Level 6: 5,200 -> 5,300"
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Description": "Increased hitpoints at level 2 to 7: Level 2: 3,400 -> 3,500 Level 3: 3,800 -> 4,000 Level 4: 4,300 -> 4,500 Level 5: 4,800 -> 5,000 Level 6: 5,300 -> 5,500 Level 7: 5,300 -> 5,900"
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Description": "Added the level 10 P.E.K.K.A. Reduced upgrade times at levels 8 and 9: Level 8: 10h -> 9d Level 9: 11d -> 10d Reduced upgrade costs at levels 8 and 9: Level 8: 7,700,000 -> 7,000,000 Level 9: 10,500,000 -> 8,500,000"
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Description": "Added the level 11 P.E.K.K.A."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Description": "Added the level 12 P.E.K.K.A."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Description": "Added the level 13 P.E.K.K.A. Reduced upgrade time at level 12 from 14d 12h to 10d. Reduced upgrade cost at level 12 from 22,000,000 to 16,000,000."
+      },
+      {
+        "Patch": "October 20, 2026",
+        "Description": "Increased damage at levels 8 to 13: Level 8: 610 -> 660 Level 9: 680 -> 735 Level 10: 750 -> 810 Level 11: 810 -> 875 Level 12: 870 -> 940 Level 13: 940 -> 1,015"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:PEKKA_deploy.ogg",
+        "Captions": "P.E.K.K.A deploys",
+        "Description": "When the P.E.K.K.A is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:PEKKA_attack.ogg",
+        "Captions": "Heavy sword swings",
+        "Description": "When the P.E.K.K.A attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:PEKKA_hit.ogg",
+        "Captions": "Heavy sword hits something P.E.K.K.A laughs",
+        "Description": "When the P.E.K.K.A's successfully hit a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:PEKKA_die.ogg",
+        "Captions": "P.E.K.K.A dies",
+        "Description": "When the P.E.K.K.A dies"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:PEKKA_butterfly_happy.ogg",
+        "Captions": "P.E.K.K.A admires",
+        "Description": "When a P.E.K.K.A in the Army Camp chases after a butterfly appears in the village"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:PEKKA_butterfly_sad.ogg",
+        "Captions": "P.E.K.K.A is saddened",
+        "Description": "When the butterflies disappear and the P.E.K.K.A return to the Army Camp"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy1.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy2.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy3.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy4.wav",
+        "Captions": "P.E.K.K.A deploys (beta)",
+        "Description": "When the P.E.K.K.A is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_attack.wav",
+        "Captions": "Sword swings (beta)",
+        "Description": "When the P.E.K.K.A attacks"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_hit.wav",
+        "Captions": "Heavy sword hits something (beta)",
+        "Description": "When the P.E.K.K.A's successfully hit a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die1.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die2.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die3.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die4.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die5.wav",
+        "Captions": "P.E.K.K.A dies (beta)",
+        "Description": "When the P.E.K.K.A dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her Builder Base and Clan Capital counterpart, see Power P.E.K.K.A . For her larger version, see M.O.M.M.A . \"Is P.E.K.K.A a knight? A samurai? A robot? No one knows! P.E.K.K.A's armor absorbs even the mightiest of blows.\" Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Sounds 6.1 Current 6.2 Historical 7 Gallery 8 Trivia 8.1 General 8.2 Comparisons Summary The P.E.K.K.A is the tenth Elixir Troop at Barracks level 10, which requires Town Hall level 8. She is a slow, single-target melee troop that has high damage and hitpoints. She attacks by swinging her sword at the nearest ground building or unit. P.E.K.K.As have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the P.E.K.K.As will proceed to attack the nearest structure. Strategies Offensive Strategies Because this troop has very high attack damage along with high hitpoints, it is advisable to deploy them in pairs on each corner of the opponent's village or near a bunch of enemy defensive buildings . Most buildings will not survive two attacks from this very powerful unit (up to 1,827 damage per hit at level 13), meaning two P.E.K.K.As should destroy most buildings in a single hit from both units. By deploying in pairs, Mortars will not be as effective either, as they can only damage one pair at a time as opposed to an entire group of P.E.K.K.As deployed together. Nevertheless, if the opponent's village has maximum level Walls , it may be best to deploy larger groups of P.E.K.K.As. This way, they will be able to break through Walls with one hit each or use a Jump Spell or Earthquake Spell to support the P.E.K.K.As. Pairing them with a Rage Spell can make them deal extreme amounts of damage, allowing them to destroy almost all buildings in one hit; even the Town Hall can be taken down in three hits. The P.E.K.K.A's high damage and hitpoints allow her to easily knock out opposing Heroes , especially when paired with Rage Spells, under which she is able to OHKO Grand Wardens , Archer Queens and Royal Champions even at max Level, and Barbarian Kings may take up to three hits if he is at a high enough Level. However, if a defending Archer Queen or Royal Champion is attacking from behind a Wall, they can easily do a lot of damage to the P.E.K.K.As while they are stuck behind the Walls, especially if they are high-leveled. Never train a complete P.E.K.K.A army, as they will be completely helpless against flying Clan Castle troops such as Dragons or Electro Dragons , or even Balloons and Minions , as well as swarms like Skeleton Trap Skeletons. You can, however, back her up with troops that inflict significant splash damage such as the Wizard or use a Poison Spell . P.E.K.K.As can set off and take most of the damage from Traps . Deploy some Wall Breakers or the Wall Wrecker / Log Launcher to help her funnel through an enemy base. The Golem and the P.E.K.K.A make a good combo as the former can absorb a significant amount of damage for the latter, allowing them to wreck havoc. Make sure to back them up with other troops, however, and keep an eye on defenses effective against them. P.E.K.K.As are distracted fairly quickly, so deploying various of them at the same time without clearing non-defensive buildings outside the walls, such as the Barracks is a bad idea as doing so wastes their high damage output. However, placing other tanks like the Golem or the Barbarian King while ranged units clear them up potentially allows your P.E.K.K.As to focus on defenses until reaching the Town Hall. P.E.K.K.As can sometimes be used with Siege Machines to destroy core buildings with high hitpoints to clear the center. They might also grab the Town Hall if supported with spells and other troops. Defensive Strategies The P.E.K.K.A takes over 18 housing space, preventing her from being immediately ejected by Spring Traps . However, she will still take damage from them and will be ejected if her hitpoints are low enough. She is a gamble as a Clan Castle troop due to her general weaknesses. However, against an unsuspecting attacker, who often assumes that whatever is inside has to be a Dragon or Electro Dragon , she can occasionally surprise the attacker by killing Heroes in one or two shots that come too close to her as well as delaying their troops for a good amount of time owing to her tremendous hit points. She can be devastating against strategies involving many ground-based high-health troops such as Golems , however she can be overwhelmed by swarms, eventually taking her out. Because P.E.K.K.A has a slow attack speed and only targets one unit at a time, she is ineffective against large groups of low hitpoint troops. Large numbers of Barbarians , Archers , Wizards , and even Goblins (when defending in a Clan Castle) can easily take her out. Alternatively, one can either use a Witch or any aerial troop that can target the P.E.K.K.A such as Minions . A Witch can summon Skeletons fast enough to prevent the P.E.K.K.A from reaching her and aerial troops cannot be targeted by the P.E.K.K.A. Skeleton Traps set to Ground Mode can distract the P.E.K.K.A for several seconds, buying time for defenses to attack her. Single-target Inferno Towers can quickly defeat P.E.K.K.As. However, to stall long enough, place a Giant Bomb and a Wall at least 2 tiles away so supporting ranged troops will get destroyed before the Inferno Tower gets attacked. Beware of Freeze Spells that could be used against them. The Monolith is very effective at dealing with P.E.K.K.A, as its damage scales with the target's maximum hitpoints. Since the P.E.K.K.A has high hitpoints, it will deal significant damage to her, quickly taking her out. Since she cannot target air troops, the Minion Prince can handle her safely. As such, the P.E.K.K.A should not be funneled towards a Minion Prince, unless she supported with troops that can target air troops. Poison Spell Towers can severely cripple a P.E.K.K.A on offense, forcing her to take extented times in order to destroy buildings. Similarly, a Headhunter can slow her down immensely, though unless supported by other distraction troops or Walls, she will be targeted and OHKOed by the P.E.K.K.A. Ricochet Cannons, if placed well, can deal a lot of damage to the P.E.K.K.A, and the cannonball will bounce off to a nearby support troop such as the Wizards. The same thing can also apply to the Fast Attack Multi-Gear Tower , as it is able to deal large amounts of damage to the P.E.K.K.A. Upgrade Differences The P.E.K.K.A undergoes visual changes at all levels. Initially, the P.E.K.K.A is a robot-like troop with very heavy, dark steel gray armor with pink horn tips on her helmet, and shoulder and arm guards. At level 2, the tip of her sword turns to an elixir-colored pink. At level 3, the P.E.K.K.A grows in size, and her armor and sword change from steel gray to dark brown. Her horns, eyes, spikes, and the tip of her sword also turns darker. The color of the sword handles also change to the same color as her armor. At level 4, the P.E.K.K.A obtains another sword, each sword is swung individually. Her horn tips are slightly pinker. At level 5, the P.E.K.K.A's armor color change from dark brown to dark violet. Her swords glow pink, and the spikes on her armor and the tips of her horns become pinker. The sword handles change to bronze; the swords also appear to give off pink-colored smoke. Her eyes have a faint pink glow. At level 6, the P.E.K.K.A's swords become pinker. Her \"nose\" is given a pink glow, while her eyes and the spikes glow brighter. The sword handles become purple. Her horns also start glowing. At level 7, the tips of the P.E.K.K.A's horns, the spikes on her armor, and her swords words glow amber, along with her eyes and \"nose\". The sword handles change from pink to burgundy. The P.E.K.K.A's armor becomes midnight in color. At level 8, the features of the P.E.K.K.A's armor glow fuchsia while her \"nose\" starts glowing azure. The P.E.K.K.A's armor also appears to be deep orchid, compared to that of previous levels. The tips of her horns and her swords are also changed to azure. The sword handles are now a darker violet. At level 9, the P.E.K.K.A's armor and spikes appear to be navy. Her eyes and \"nose\" start glowing white. At level 10, the P.E.K.K.A's swords glow and become white. At level 11, the P.E.K.K.A's armor color changes to jet black. The tips of her horns and her swords become neon green, and her sword handles become a darker green. The glow of the swords is removed. At level 12, the P.E.K.K.A's armor appears to be more defined and pronounced, and her horns, swords and spikes all turn entirely gold. Her eyes and \"nose\" gain a bright yellow glow. Her swords no longer have the pink-colored smoke on them. At level 13, the P.E.K.K.A's armor becomes taupe, with the features of her armor having a meteor glow on them, the sword handles and spikes on her arms are changed to the same color as her armor. Her swords, spikes and horns have a royal blue fade on them, and her \"nose\" loses its glow. Her swords regain the smoke they previously had before, but are blue instead. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Barracks Level Required Range Transport None Melee Single Target (Ground) 25 16 1.8s 10 0.8 tiles Ground Level Damage per Second Damage per Attack Hitpoints Research Cost Research Time Laboratory Level Required 1 260 468 3,000 N/A N/A N/A 2 290 522 3,500 600,000 12h 6 3 320 576 4,000 1,300,000 18h 6 4 360 648 4,500 2,000,000 1d 7 5 410 738 5,000 2,100,000 1d 12h 8 6 470 846 5,500 2,500,000 2d 8 7 540 972 5,900 4,500,000 3d 9 8 660 1,188 6,300 5,000,000 3d 12h 10 9 735 1,323 6,700 5,800,000 4d 11 10 810 1,458 7,200 10,500,000 5d 12h 13 11 875 1,575 7,700 12,000,000 7d 14 12 940 1,692 8,200 16,000,000 10d 15 13 1,015 1,827 8,800 28,000,000 14d 12h 16 History Patch Description August 2, 2012 The P.E.K.K.A was in the original release of the game, with 2 levels. August 30, 2012 P.E.K.K.As movement speed was increased to 16 (from 8). P.E.K.K.As no longer get affected from Spring Traps . September 19, 2012 Upgraded P.E.K.K.A now shows pink asterisks that represents her level. The P.E.K.K.A now has an upgrade difference at level 2. October 27, 2012 Added the level 3 P.E.K.K.A. Decreased hitpoints at levels 2 and 3. February 5, 2013 The P.E.K.K.As now receive 2x damage from Hidden Teslas. March 12, 2013 Decreased training time and cost. Increased hitpoints and damage at levels 1 and 2. Changed the P.E.K.K.A's attacking animation from this to this . June 17, 2013 Added the level 4 P.E.K.K.A. Changed the P.E.K.K.A's textures at levels 1 to 3. November 6, 2013 Slightly increased damage and hitpoints at level 4. January 29, 2014 Increased hitpoints at levels 3 and 4: Level 3: 3,400 -> 3,500 Level 4: 3,800 -> 4,000 July 3, 2014 Added the level 5 P.E.K.K.A. Reduced training cost. July 1, 2015 Reduced training cost at all levels. May 4, 2016 Reduced P.E.K.K.A's training time from 45 minutes to 15 minutes. October 12, 2016 P.E.K.K.As no longer receive 2x damage from Hidden Teslas. December 19, 2016 Increased attack speed to 1.8 seconds (from 2.5 seconds). Changed her info and icon (2D sprites remain unchanged). March 8, 2017 Increased damage at levels 3 to 5: Level 3: 300 -> 310 Level 4: 340 -> 360 Level 5: 380 -> 410 June 27, 2017 Added the level 6 P.E.K.K.A. Reduced upgrade times or costs at all levels. March 5, 2018 Added the level 7 P.E.K.K.A. Moved the level 4 P.E.K.K.A from Town Hall 10 to Town Hall 9. Moved the level 6 P.E.K.K.A from Town Hall 11 to Town Hall 10. Reduced upgrade cost at from 10,000,000 to 8,500,000 to accommodate for the lower storage capacity of Town Hall 10. June 11, 2018 Added the level 8 P.E.K.K.A. Increased hitpoints at levels 5 and 6. Reduced training costs at all levels. June 26, 2018 Reduced upgrade times for levels 1 to 6. October 23, 2018 Reduced the P.E.K.K.A's gem donation cost from 25 to 15. December 9, 2019 The level 8 P.E.K.K.A now has her own upgrade differences. March 30, 2020 Reduced upgrade costs at levels 2 to 7. May 20, 2020 Grand Warden is now less likely to follow P.E.K.K.As. October 12, 2020 Added the level 9 P.E.K.K.A. December 9, 2021 Reduced upgrade costs and times at all levels. Increased damage per second at levels 1 to 3: Level 1: 240 -> 260 Level 2: 270 -> 290 Level 3: 310 -> 320 Increased hitpoints at levels 1 to 6: Level 1: 2,800 -> 3,000 Level 2: 3,100 -> 3,400 Level 3: 3,500 -> 3,800 Level 4: 4,000 -> 4,300 Level 5: 4,700 -> 4,800 Level 6: 5,200 -> 5,300 June 27, 2022 Increased hitpoints at level 2 to 7: Level 2: 3,400 -> 3,500 Level 3: 3,800 -> 4,000 Level 4: 4,300 -> 4,500 Level 5: 4,800 -> 5,000 Level 6: 5,300 -> 5,500 Level 7: 5,300 -> 5,900 June 12, 2023 Added the level 10 P.E.K.K.A. Reduced upgrade times at levels 8 and 9: Level 8: 10h -> 9d Level 9: 11d -> 10d Reduced upgrade costs at levels 8 and 9: Level 8: 7,700,000 -> 7,000,000 Level 9: 10,500,000 -> 8,500,000 December 12, 2023 Added the level 11 P.E.K.K.A. February 10, 2025 Added the level 12 P.E.K.K.A. March 27, 2025 Removed training time. November 17, 2025 Added the level 13 P.E.K.K.A. Reduced upgrade time at level 12 from 14d 12h to 10d. Reduced upgrade cost at level 12 from 22,000,000 to 16,000,000. October 20, 2026 Increased damage at levels 8 to 13: Level 8: 610 -> 660 Level 9: 680 -> 735 Level 10: 750 -> 810 Level 11: 810 -> 875 Level 12: 870 -> 940 Level 13: 940 -> 1,015 Sounds Current Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:PEKKA_deploy.ogg P.E.K.K.A deploys When the P.E.K.K.A is deployed https://clashofclans.fandom.com/wiki/File:PEKKA_attack.ogg Heavy sword swings When the P.E.K.K.A attacks https://clashofclans.fandom.com/wiki/File:PEKKA_hit.ogg Heavy sword hits something P.E.K.K.A laughs When the P.E.K.K.A's successfully hit a unit or building https://clashofclans.fandom.com/wiki/File:PEKKA_die.ogg P.E.K.K.A dies When the P.E.K.K.A dies https://clashofclans.fandom.com/wiki/File:PEKKA_butterfly_happy.ogg P.E.K.K.A admires When a P.E.K.K.A in the Army Camp chases after a butterfly appears in the village https://clashofclans.fandom.com/wiki/File:PEKKA_butterfly_sad.ogg P.E.K.K.A is saddened When the butterflies disappear and the P.E.K.K.A return to the Army Camp Historical Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy1.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy2.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy3.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_deploy4.wav P.E.K.K.A deploys (beta) When the P.E.K.K.A is deployed https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_attack.wav Sword swings (beta) When the P.E.K.K.A attacks https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_hit.wav Heavy sword hits something (beta) When the P.E.K.K.A's successfully hit a unit or building https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die1.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die2.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die3.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die4.wav https://clashofclans.fandom.com/wiki/File:Beta_PEKKA_die5.wav P.E.K.K.A dies (beta) When the P.E.K.K.A dies Gallery P.E.K.K.A's Barracks info image P.E.K.K.A's avatar P.E.K.K.A's avatar before the June 2013 update P.E.K.K.A's old appearance with transparent background P.E.K.K.A's appearance after the June 2013 update P.E.K.K.A action figure P.E.K.K.A's Barracks info image (old) A P.E.K.K.A render A promotional image of level 5 P.E.K.K.A introduced The original 2012 loading screen that has P.E.K.K.A in the back \"Punch Up\" task (Clan Games) \"Punch Up\" task (Season Challenges) The Wizard and P.E.K.K.A in Clash Con 2015 Trivia General You can have a maximum of 14 P.E.K.K.As at one time in a complete set of fully upgraded Army Camps . This number increases to 16 if you include 2 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 4 P.E.K.K.As with four level 3 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). Additionally, a total of 2 can be summoned by a level 5 or higher Siege Barracks . These total to a maximum of 22 P.E.K.K.As. The P.E.K.K.A's name derives from the Finnish name for \" Peter \", which in turn comes from the Greek name \" Petros \", meaning stone. The acronym for P.E.K.K.A does not officially stand for anything in particular originally. Supercell held a Facebook contest on August 22, 2012 to see who could come up with the best written-out name for P.E.K.K.A as judged by the number of likes the comment received. The name \"Perfectly Enraged Knight Killer of Assassins\" was the winner. The person who submitted the acronym was called Víctor in the Facebook announcement. The P.E.K.K.A's gender has been confirmed as female, as one of the Loading Screen Hints states, \" The armor on P.E.K.K.A is so heavy that Spring Traps don't affect her \", and also several videos from the official YouTube. In Clash Royale , the P.E.K.K.A. Protector Decoration 's description says \" No one messes with her butterfly \". The level 10 Barracks , which is the level required to unlock P.E.K.K.A, has a P.E.K.K.A helmet on its roof. The image used for P.E.K.K.A on the Barracks info screen was changed during the 17 June 2013 update (the same update that added the level 4 P.E.K.K.A). She stands, ready to strike with her sword. This new look was often debated among fellow players to which one looks the 'best', along with the Dragon . The old image on the Barracks info screen was recycled and used as the card icon of the P.E.K.K.A in Clash Royale . The P.E.K.K.A used to have a pink line on top of her helmet. After her new appearance since the June 2013 update, she no longer has that. Despite being a robot, the P.E.K.K.A has the same death animation as every other troop. If the P.E.K.K.A is level 3 or higher, she has a bigger skeleton sprite than usual at death as she is also enlarged at these upgrades. She and the Giant Giant are both tied as having the largest death skeletons in the game. The P.E.K.K.A appears to float along the ground instead of walking. Despite her fearsome and mighty appearance, the P.E.K.K.A is shown to be tender in some commercials. The P.E.K.K.A is likely a reference to D.A.V.E. from Backyard Monsters . Both have names that do not stand for anything in particular, both are robotic in nature and both were considered the strongest regular troop in their respective games. According to Pocket Gamer , Clash of Clans was inspired by Backyard Monsters . The P.E.K.K.A is featured as a skin for Barbarian King in Clash of Clans . When the P.E.K.K.A is deployed, she can be heard saying \"Destroy!\" in a robotic voice. When the P.E.K.K.A hits a building, you can hear a heavy slashing sound, and a faint, low-pitched laugh. When the P.E.K.K.A is destroyed, electrical fizzles can be heard. The original description before the 12 December, 2016 update was \"Is P.E.K.K.A a knight? A samurai? A robot? No one knows! P.E.K.K.A's armor absorbs even the mightiest of blows, but it doesn't handle electricity too well.\" This was changed because prior to the 12/10/16 update, when P.E.K.K.A received double damage from Hidden Teslas . The level 9 P.E.K.K.A slightly resembles her Builder Base and Clan Capital counterpart, Power P.E.K.K.A , albeit more blue. The P.E.K.K.A used to be the final Elixir Troop unlocked until the introduction of the Baby Dragon and the Miner . A max level unsupported P.E.K.K.A (defending or attacking) can take down all max level Heroes except for the Barbarian King, the Grand Warden (if set to air mode), and the Minion Prince , (in this case, a defending P.E.K.K.A), She will prevail against an attacking Barbarian King that is at level 70 or lower. A P.E.K.K.A in the Inferno Town Challenge called M.E.G.A.P.E.K.K.A. is a significantly bigger and stronger variant, with extreme range, health and splash damage but has a very slow movement and attack speed, while hitting both ground and air targets at the same time. This idea is used again for M.O.M.M.A in the Single Player Campaign , and for K.A.N.E , who also prioritizes the Town Hall, is faster and revives when defeated, but with much less health, attack speed, and damage. The P.E.K.K.A has a passion towards butterflies. Her passion for butterflies is referenced a few times: Occasionally, a butterfly will spawn near the Trader . If an Army Camp housing a P.E.K.K.A is nearby, a P.E.K.K.A will chase after it, saying \"Butterfly\" in a raspy robotic voice. She sounds upset when the butterfly despawns. In the Clash of Clans P.E.K.K.A. commercial where the P.E.K.K.A chases a butterfly. In Clash Royale , when deployed, the P.E.K.K.A will say \" Butterfly \". In Clash Royale , the P.E.K.K.A. Protector Decoration's description saying, \" No one messes with her butterfly \". There is a Single Player Map called P.E.K.K.A's Playhouse inspired from the P.E.K.K.A. There is also an Arena in Clash Royale with the same name. The P.E.K.K.A in Clash Royale resembles the level 1 P.E.K.K.A from Clash of Clans . In Clash Royale , her Star Level 2 skin grants her a second sword similar to the Level 12 P.E.K.K.A in Clash of Clans . However, in Clash Royale, P.E.K.K.A will attack with the other sword at a slower rate, as if one attack is completed before rising the other blade (it does not act as faster DPS, but rather as P.E.K.K.A can now use both hands at normal DPS speed rate), whereas in Clash of Clans, P.E.K.K.A will swing both at a faster rate. The P.E.K.K.A's description is the opposite of the M.E.C.H.A , as the former's armor is heavier, deals much more damage and is tankier but does not deal extra damage to Walls. The first pet unlocked in the Pet House , L.A.S.S.I , is based on the P.E.K.K.A, with her name being an acronym, having a bluish colored body with pink crystals, a glowing pink eye, and a robotic appearance. Like the P.E.K.K.A, L.A.S.S.I has also been confirmed to be female. The P.E.K.K.A is one of twelve troops to be featured as a monster in the game Squad Busters . The others are the Wall Breaker , Minion , Skeleton , Lava Hound , Lava Pup , Golem , Bowler , Baby Dragon , Ice Golem , Yeti , and Inferno Dragon . The P.E.K.K.A. is one of three troops to be featured as a Hero in the game Squad Busters . The others are Barbarian King and Archer Queen . She is the only one not to be a Hero in the game. Comparisons The P.E.K.K.A is one of the eight troops to have upgrade differences at each level, the other seven being the Dragon , Yeti , Dragon Rider , Electro Titan , Headhunter , Root Rider and the Thrower . Out of all Elixir Troops , the P.E.K.K.A possesses the highest DPS and hitpoints, although the Electro Dragon has a slightly higher DPH than P.E.K.K.A, the Inferno Dragon boasts the highest damage overall, while the Wall Breaker deals the highest damage to its preferred target, to Walls . The P.E.K.K.A, Barbarian , Archer , Giant , Goblin , Wall Breaker, Balloon , Wizard , Healer , and the Dragon are the oldest units in the game. The P.E.K.K.A is one of the 13 units to appear in a Scenery, the others being the Barbarian, Goblin, Balloon, Hog Rider , Barbarian King , P.E.K.K.A, Baby Dragon, Skeleton , Archer Queen , Grand Warden , Dragon Rider, Cannon Cart , and the Party Wizard . In her case, she appears in the Inferno Town and 9th Clashiversary Scenery. The P.E.K.K.A, Barbarian, Archer, and Wall Breaker are the first units to appear in a loading screen image. The P.E.K.K.A is one of the eight troops to inspire a Hero Skin , that being the P.E.K.K.A King and P.E.Q.Q.A . The others are the Goblin , Miner , Valkyrie , Golem , Dragon , Lava Hound and Yeti . Out of all of them, she is the only troop to feature two Hero Skins. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

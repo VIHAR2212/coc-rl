@@ -1,0 +1,194 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Single Target",
+        "Housing Space": "24",
+        "Movement Speed": "32",
+        "Attack Speed": "0.25s",
+        "Range": "0.6 tiles",
+        "Special Ability": "Last Blast"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Miner Level Required": "7"
+      }
+    ],
+    [
+      {
+        "Level": "Initial",
+        "Damage per Second": "After 1.5s",
+        "Damage when Destroyed": "After 3s"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "170",
+        "Damage when Destroyed": "340",
+        "Hitpoints": "520"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "185",
+        "Damage when Destroyed": "370",
+        "Hitpoints": "560"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "205",
+        "Damage when Destroyed": "405",
+        "Hitpoints": "605"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "225",
+        "Damage when Destroyed": "440",
+        "Hitpoints": "650"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "245",
+        "Damage when Destroyed": "475",
+        "Hitpoints": "695"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "265",
+        "Damage when Destroyed": "510",
+        "Hitpoints": "740"
+      }
+    ],
+    [
+      {
+        "Patch": "December 12, 2022",
+        "Description": "Added the Super Miner, with three distinct levels."
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Description": "Increased hitpoint at level 9 from 3,200 to 3,500."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Description": "Added the level 10 Super Miner."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Description": "Added the level 11 Super Miner."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "June 30, 2025",
+        "Description": "Increased hitpoints at all levels: Level 7: 2,900 -> 3,000 Level 8: 3,200 -> 3,300 Level 9: 3,500 -> 3,600 Level 10: 3,800 -> 4,000 Level 11: 4,100 -> 4,400 Increased damages at levels 9 to 11: Level 9: 200-400-600 -> 205-405-605 Level 10: 215-430-640 -> 225-440-650 Level 11: 230-460-680 -> 245-475-695"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Description": "Added the level 12 Super Miner."
+      },
+      {
+        "Patch": "October 20, 2026",
+        "Description": "Increased hitpoints at levels 11 and 12: Level 11: 4,400 -> 4,650 Level 12: 5,000 -> 5,150"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ],
+    [
+      {
+        "": "Level 1-4"
+      }
+    ],
+    [
+      {
+        "Preferred Target": "Any",
+        "Attack Type": "Single Target",
+        "Housing Space": "25",
+        "Movement Speed": "24",
+        "Attack Speed": "0.25s",
+        "Range": "0.6 tiles",
+        "Special Ability": "Last Blast"
+      }
+    ],
+    [
+      {
+        "Level": "Initial",
+        "Damage per Second": "After 1.5s",
+        "Damage when Destroyed": "After 3s"
+      },
+      {
+        "Level": "1",
+        "Damage per Second": "160",
+        "Damage when Destroyed": "340",
+        "Hitpoints": "630"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "170",
+        "Damage when Destroyed": "370",
+        "Hitpoints": "660"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "180",
+        "Damage when Destroyed": "400",
+        "Hitpoints": "690"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "190",
+        "Damage when Destroyed": "430",
+        "Hitpoints": "720"
+      }
+    ],
+    [
+      {
+        "Patch": "October 9, 2023",
+        "Type": "Update",
+        "Description": "Added the Super Miner, with 4 levels."
+      },
+      {
+        "Patch": "November 27, 2023",
+        "Type": "Balance Change",
+        "Description": "Changed the Super Miner's damage scaling at all levels: Level 1: 170-340-510 -> 160-340-630 Level 2: 190-380-570 -> 170-370-660 Level 3: 210-420-630 -> 180-400-690 Level 4: 230-460-690 -> 190-430-720 Changed the Super Miner's health at levels 2-4: Level 2: 4,000 -> 3,900 Level 3: 4,300 -> 4,100 Level 4: 4,600 -> 4,300"
+      }
+    ],
+    [
+      {
+        "Clan Capital Army": "Troops"
+      },
+      {
+        "Clan Capital Army": "Spells"
+      }
+    ]
+  ],
+  "raw_text": "Home Village Clan Capital [[File:{{{Alt}}}|28px|link=]] For his base version, see Miner . For his Clan Capital counterpart, see Super Miner/Clan Capital . \"Armed with a powerful drill and a magnificent moustache, Super Miner is ready to undermine any rival Village !\" Level 7-12 Summary The Super Miner is a Super Troop based on the Miner . It can be unlocked by boosting the Miner when the Miner is at least level 7. Boosting the Miner requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Miner to be boosted for 3 days. The level of Super Miner you obtain from the boost corresponds to the level of Miner you have. The Super Miner uses a drill to attack, doing damage that increases the longer he attacks, similar to the Inferno Dragon . The Super Miner also carries an explosive barrel, which detonates upon his death; the bomb greatly damages all buildings and enemy ground units within a 2-tile radius. Like the Miner, the Super Miner burrows underground to attack, rendering him invulnerable to defenses while underground. When compared to the Inferno Dragon, the Super Miner only deals triple the initial damage while the former deals a lot more. Because of the Town Hall requirement, players require Town Hall 13 to boost Miners into Super Miners, although the level requirement can be achieved before Town Hall 13. However, because of the Laboratory level cap, players require a level 7 Clan Castle or greater in order to get donated one, allowing anyone Town Hall 11 or above to get one. Super Miners have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Miners will proceed to attack the nearest structure. Strategies Offensive Strategies You can use them to take out a Town Hall and core buildings as they can almost win against a Monolith and other high-end defenses. In order to do this, take out the buildings outside for them to funnel the Super miners in, as they target anything. The death bomb damage is very high, so try and keep your Super Miners alive until they reach the core to destroy defenses. The damage is not as significant compared to the Inferno Dragon , but in battle, it is only visible against tankier buildings. The Super Miner can survive for a while because he can dodge a lot of damage and is immune to most poison effects (if he does not surface into one). The Inferno Dragon's third stage damage is not even needed most of the time and the Super Miner also has a death bomb that is useful against compact bases. The Super Miner deals with splash defenses better, so use this to your advantage. Being part of the Miner family and the relative speed of destroying buildings, the Inferno Tower usually cannot do much against him. Defensive Strategies Super Miners behave similarly to regular Miners when defending, wobbling on the surface at a reduced speed instead of burrowing to reach their targets. Their main gimmick as a defender is their high death damage via the bomb, which has the potential to harm ground attacks if it detonates on top of an attacker's troops. However, outside of this, Super Miners are rather underwhelming as a defensive troop; their damage is not high enough to destroy tanks, and even four Miners will outdamage one Super Miner (in addition to having more combined HP). Additionally, Super Miners and their bombs are incapable of harming air attacks in any way. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability None Single Target 24 32 0.25s 0.6 tiles Last Blast Boost Cost Boost Duration Miner Level Required 25,000 3d 7 Level Damage per Second Damage when Destroyed Hitpoints Initial After 1.5s After 3s 7 170 340 520 1,400 3,000 8 185 370 560 1,600 3,300 9 205 405 605 1,800 3,600 10 225 440 650 2,000 4,000 11 245 475 695 2,200 4,650 12 265 510 740 2,400 5,150 History Patch Description December 12, 2022 Added the Super Miner, with three distinct levels. June 12, 2023 Increased hitpoint at level 9 from 3,200 to 3,500. December 12, 2023 Added the level 10 Super Miner. February 10, 2025 Added the level 11 Super Miner. March 27, 2025 Removed training time. June 30, 2025 Increased hitpoints at all levels: Level 7: 2,900 -> 3,000 Level 8: 3,200 -> 3,300 Level 9: 3,500 -> 3,600 Level 10: 3,800 -> 4,000 Level 11: 4,100 -> 4,400 Increased damages at levels 9 to 11: Level 9: 200-400-600 -> 205-405-605 Level 10: 215-430-640 -> 225-440-650 Level 11: 230-460-680 -> 245-475-695 November 17, 2025 Added the level 12 Super Miner. October 20, 2026 Increased hitpoints at levels 11 and 12: Level 11: 4,400 -> 4,650 Level 12: 5,000 -> 5,150 Gallery Super Miner's render from the info box but with a smile and without grass Alternate render of the Super Miner Promotional image of the Super Miner Trivia General You can have a maximum of 14 Super Miners at one time in a complete set of fully upgraded Army Camps . This number increases to 16 if you include 2 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 8 Super Miners with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 24 Super Miners. The Super Miner's appearance has a few differences in battle compared to his artwork. His vest appears more vibrant in color. The metal parts of his drill are lighter. His eyebrows and mustache are black instead of brown. The Firemite is located on top of his hat instead of his explosive. The Super Miner is most likely based off of the Mighty Miner Champion from Clash Royale. Both carry a hand drill that increases in damage over time, and both leave an explosive behind. Comparisons The Super Miner, Super Barbarian , Super Giant , Super Wizard , Rocket Balloon , and the Super Dragon are the only Super Troops that are available in the Clan Capital . The Giant Skeleton's death bomb deals much more damage than the Super Miner's. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven [[File:{{{Alt}}}|28px|link=]] For his base version, see Miner . For his Home Village variant, see Super Miner/Home Village . \"Armed with a powerful drill and a magnificent moustache, Super Miner is ready to undermine any rival Village!\" Level 1-4 Summary The Super Miner is a troop in the Clan Capital , unlocked when the Super Miner Barracks is constructed (this requires unlocking the Goblin Mines district, requiring Capital Hall level 9). The Super Miner is a troop that burrows underground to reach his target; he can bypass any Terrain (including water and cliffs) in doing so. His drill will increase in damage per second the longer he focuses on a target. The Super Miner also carries an explosive bomb which damages all ground units in an area once he is destroyed. Super Miners have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy defending troops stationed in defense posts (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Miners will proceed to attack the nearest structure. Strategy Offensive The Super Miner is effective in taking down a group of condensed buildings, because of high damage and health from defenses. Like its Home Village counterpart, he leaves an explosive bomb, being able to one-shot most defenses and severely damage higher-end ones. He can also be used as a mini-tank for other troops to come through because of its burrowing ability or can destroy key defenses such as Inferno Towers and Blast Bows . He can also go under cliffs and even water, which is useful for districts like Wizard Valley or Dragon Cliffs where other ground troops may be disadvantaged against defenses behind either of these. It is not advised to be used as a tank, because his burrowing removes such ability. Super Miners work best in large groups - a large pack can quickly destroy most buildings and burrow before most defenses can even react. Frost Spells can be used to slow defenses further, while Healing Spells are useful if the Super Miner group is expected to take large amounts of area damage (e.g. against a Capital Hall or several Bomb Towers ). Defensive Because Super Miners target anything, put Houses to distract Super Miners and add damage to it. Super Giant Posts and Raid Cart Posts are effective in distracting the Super Miner and give time for defenses to deal as much damage to them as possible. Spear Goblins also work, but a lot is needed. To defend Super Miners effectively, forcing them to stay surfaced for longer is essential. Having defenses crowded around high-hitpoint buildings such as a District Hall is one way to maximise the damage potential against them; another more effective method is to force the Super Miners to spread out into several groups, which is most easily accomplished by grouping buildings tightly. This latter method works because of variance in Super Miners' attack positions when they all target a single building; with tight grouping, it is more likely that the Super Miners will split up to select different targets. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability Any Single Target 25 24 0.25s 0.6 tiles Last Blast Level Damage per Second Damage when Destroyed Hitpoints Initial After 1.5s After 3s 1 160 340 630 1,400 3,300 2 170 370 660 1,700 3,500 3 180 400 690 2,000 3.700 4 190 430 720 2,300 3,900 History Patch Type Description October 9, 2023 Update Added the Super Miner, with 4 levels. November 27, 2023 Balance Change Changed the Super Miner's damage scaling at all levels: Level 1: 170-340-510 -> 160-340-630 Level 2: 190-380-570 -> 170-370-660 Level 3: 210-420-630 -> 180-400-690 Level 4: 230-460-690 -> 190-430-720 Changed the Super Miner's health at levels 2-4: Level 2: 4,000 -> 3,900 Level 3: 4,300 -> 4,100 Level 4: 4,600 -> 4,300 Gallery Trivia Unlike his Home Village counterpart , he requires 25 housing space, rather than 24. He also moves at a speed of 24, which is slower than the Home Village version's 36. The damage is the same for the base level, but as he levels up, he deals more damage than his Home Village version. In the artwork, the Super Miner's vest is lighter in color, but in battle, however, the vest is darker. Additionally, the metal part of his drill is lighter compared to the one in the artwork. Clan Capital Army Troops Super Barbarian • Sneaky Archers • Super Giant • Battle Ram ( Barbarian ) • Minion Horde • Super Wizard • Rocket Balloons • Skeleton Barrels ( Skeleton )  • Flying Fortress ( Skeleton Glider • Skeleton ) • Raid Cart ( Siege Cart • Barbarian ) • Power P.E.K.K.A • Hog Raiders • Super Dragon • Mountain Golem • Inferno Dragon • Super Miner • Mega Sparky Spells Healing Spell • Jump Spell • Lightning Spell • Frost Spell • Rage Spell • Graveyard Spell • Endless Haste Spell"
+}

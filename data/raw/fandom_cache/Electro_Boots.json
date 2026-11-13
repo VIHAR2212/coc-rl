@@ -1,0 +1,275 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Royal Champion",
+        "Ability Type": "Passive",
+        "Rarity": "Epic",
+        "Unlock Requirement": "Buy in Toyshop Throwdown event for 3,100 Buy in Friend or Foe event for 3,100 Buy in Cosmic Rock event for 3,100 Buy in Equipment Blast event for 3,100 or purchasable from the Trader for 1,500"
+      }
+    ],
+    [
+      {
+        "Level": "Aura Damage per Second",
+        "Ability Attributes": "Aura Damage per Hit",
+        "Hero Boosts": "Self Healing per Second",
+        "Upgrade Cost": "Hitpoint Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "132",
+        "Hero Boosts": "52.8",
+        "Upgrade Cost": "6",
+        "Blacksmith Level Required": "50"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "132",
+        "Hero Boosts": "52.8",
+        "Upgrade Cost": "8",
+        "Blacksmith Level Required": "75"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "140",
+        "Hero Boosts": "56",
+        "Upgrade Cost": "10",
+        "Blacksmith Level Required": "100"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "140",
+        "Hero Boosts": "56",
+        "Upgrade Cost": "12",
+        "Blacksmith Level Required": "125"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "140",
+        "Hero Boosts": "56",
+        "Upgrade Cost": "14",
+        "Blacksmith Level Required": "150"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "147",
+        "Hero Boosts": "58.8",
+        "Upgrade Cost": "16",
+        "Blacksmith Level Required": "175"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "147",
+        "Hero Boosts": "58.8",
+        "Upgrade Cost": "18",
+        "Blacksmith Level Required": "200"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "147",
+        "Hero Boosts": "58.8",
+        "Upgrade Cost": "20",
+        "Blacksmith Level Required": "225"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "155",
+        "Hero Boosts": "62",
+        "Upgrade Cost": "22",
+        "Blacksmith Level Required": "250"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "155",
+        "Hero Boosts": "62",
+        "Upgrade Cost": "24",
+        "Blacksmith Level Required": "275"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "155",
+        "Hero Boosts": "62",
+        "Upgrade Cost": "26",
+        "Blacksmith Level Required": "300"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "162",
+        "Hero Boosts": "64.8",
+        "Upgrade Cost": "28",
+        "Blacksmith Level Required": "325"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "162",
+        "Hero Boosts": "64.8",
+        "Upgrade Cost": "30",
+        "Blacksmith Level Required": "350"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "162",
+        "Hero Boosts": "64.8",
+        "Upgrade Cost": "32",
+        "Blacksmith Level Required": "375"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "170",
+        "Hero Boosts": "68",
+        "Upgrade Cost": "33",
+        "Blacksmith Level Required": "400"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "170",
+        "Hero Boosts": "68",
+        "Upgrade Cost": "34",
+        "Blacksmith Level Required": "425"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "170",
+        "Hero Boosts": "68",
+        "Upgrade Cost": "35",
+        "Blacksmith Level Required": "450"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "177",
+        "Hero Boosts": "70.8",
+        "Upgrade Cost": "36",
+        "Blacksmith Level Required": "475"
+      },
+      {
+        "Level": "19",
+        "Ability Attributes": "177",
+        "Hero Boosts": "70.8",
+        "Upgrade Cost": "37",
+        "Blacksmith Level Required": "500"
+      },
+      {
+        "Level": "20",
+        "Ability Attributes": "177",
+        "Hero Boosts": "70.8",
+        "Upgrade Cost": "38",
+        "Blacksmith Level Required": "525"
+      },
+      {
+        "Level": "21",
+        "Ability Attributes": "185",
+        "Hero Boosts": "74",
+        "Upgrade Cost": "39",
+        "Blacksmith Level Required": "550"
+      },
+      {
+        "Level": "22",
+        "Ability Attributes": "185",
+        "Hero Boosts": "74",
+        "Upgrade Cost": "40",
+        "Blacksmith Level Required": "575"
+      },
+      {
+        "Level": "23",
+        "Ability Attributes": "185",
+        "Hero Boosts": "74",
+        "Upgrade Cost": "41",
+        "Blacksmith Level Required": "600"
+      },
+      {
+        "Level": "24",
+        "Ability Attributes": "192",
+        "Hero Boosts": "76.8",
+        "Upgrade Cost": "42",
+        "Blacksmith Level Required": "625"
+      },
+      {
+        "Level": "25",
+        "Ability Attributes": "192",
+        "Hero Boosts": "76.8",
+        "Upgrade Cost": "43",
+        "Blacksmith Level Required": "650"
+      },
+      {
+        "Level": "26",
+        "Ability Attributes": "192",
+        "Hero Boosts": "76.8",
+        "Upgrade Cost": "44",
+        "Blacksmith Level Required": "675"
+      },
+      {
+        "Level": "27",
+        "Ability Attributes": "200",
+        "Hero Boosts": "80",
+        "Upgrade Cost": "45",
+        "Blacksmith Level Required": "700"
+      }
+    ],
+    [
+      {
+        "Aura Attack Speed": "0.4s",
+        "Aura Radius": "5 tiles"
+      }
+    ],
+    [
+      {
+        "Date": "December 11, 2024",
+        "Type": "Event",
+        "Description": "Made the Electro Boots available in the Toyshop Throwdown event."
+      },
+      {
+        "Date": "February 10,2025",
+        "Type": "Update",
+        "Description": "Decreased aura damage per second at all levels: Level 1-2: 137 -> 132 Level 3-5: 150 -> 140 Level 6-8: 162 -> 147 Level 9-11: 175 -> 155 Level 12-14: 187 -> 162 Level 15-17: 200 -> 170 Level 18-20: 212 -> 177 Level 21-23: 225 -> 185 Level 24-26: 237 -> 192 Level 27: 250 -> 200 Decreased self healing per second at levels 15 to 27: Level 15: 34 -> 33 Level 16: 36 -> 34 Level 17: 38 -> 35 Level 18: 40 -> 36 Level 19: 42 -> 37 Level 20: 44 -> 38 Level 21: 46 -> 39 Level 22: 48 -> 40 Level 23: 50 -> 41 Level 24: 52 -> 42 Level 25: 54 -> 43 Level 26: 56 -> 44 Level 27: 60 -> 45"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg",
+        "Captions": "Hero Equipment selected",
+        "Description": "When the Electro Boots is selected or swapped with another Hero Equipment"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg",
+        "Captions": "Hero Equipment upgraded",
+        "Description": "When the Electro Boots is upgraded"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:ElectroBoots_Aura.ogg",
+        "Captions": "Electric aura activates",
+        "Description": "When the Royal Champion is deployed with the Electro Boots"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Periodically damages everything around the Royal Champion \" Summary The Electro Boots is the second Epic piece of Hero Equipment for the Royal Champion . It made its debut in the Toyshop Throwdown event starting December 11, 2024. Since August 12, 2025, it may appear in the Trader , where it is obtainable for 1,500 Gems. The Electro Boots is similar to that of the Royal Champion's default skin's boots, except with two leather belt straps and a metal plate bolted in the front each, with electricity connecting from the bolts to the back, with iron soles with grooves on the bottom. When equipped, the Royal Champion gains a blue electric aura which emits lightning bolts in a clockwise motion around her which deals constant damage. This ability persists until she is knocked out from battle or is paused by recalling her, and is resumed when revived or redeployed. In addition to the ability, the Electro Boots grants additional hitpoints to the Royal Champion , and gives her self healing every second. Strategies Offensive Strategies When the Electro Boots are equipped with the Royal Champion, she summons an aura around herself, granting her the ability to damage buildings and units, whether ground or air. The aura's range is longer than Royal Champion's normal attack, in practice she will do extra damage per second of the aura to her target, on top of other non defensive buildings she skipped past, massively increasing her damage output. The Electro Boots allows the Royal Champion to counter swarms of defending Clan Castle troops, especially Archers , Witches and Lava Hounds (and their summoned units). It can also be used to destroy the Skeletons from Skeleton Traps , covering her weakness. There are different interactions if the Royal Champion uses different pieces of Equipment: When paired with the Hog Rider Puppet , it can be useful as she becomes invisible for a short duration and the Hog Riders will be safe against Skeletons from Skeleton Traps with her aura. Be careful of Traps such as Giant Bombs , though. When paired with the Haste Vial or Seeking Shield , it can be helpful as it can help to destroy defenses faster, combined with the aura damage. In a Royal Champion Charge, it is best to use the ability before recalling her. When paired with the Rocket Spear , it allows the Royal Champion to snipe defenses from afar while keeping the defending Skeletons at bay. Additionally, if she is close to nearby buildings on her long-range state, she will eventually destroy them, which can be beneficial for cleanup later on. In a Royal Champion Charge, it is best to use the ability after recalling her. If the Royal Champion took any damage, she will regenerate over time, eventually returning her to full health. At maximum level, paired with the max-level Royal Gem , she will regenerate from 1 hitpoint to full health in roughly 90 seconds [verify] , provided if she activated her ability. This is useful if you want to keep the Royal Champion alive so that she will be used in an increased number of attacks. The Spirit Fox pairs well with the Royal Champion equipped with the Electro Boots as she will be able to stay invisible for a short time while she recovers health, thus increasing her survivability. To make this even better, Invisibility Spells can also be used to turn the Royal Champion invisible again after the invisibility of the Spirit Fox ends. The Royal Champion can be a formidable attacker with the Electro Boots, whose most threatening aspect on attacking is her aura, which cannot be shut down by any means; Poison Spells from Spell Towers, cards from Headhunters , and the Poison Bomb from the Town Hall 14-16s' Giga Inferno death bombs and the freeze effect, whether from Ice Golems or the Town Hall's Frost Bomb will do nothing to stop her aura. Defensive Strategies To counter the Royal Champion, place high-damage defenses like Monoliths , Revenge Towers , and single-target Inferno Towers , as well as tanky defending units or Heroes such as the Archer Queen in a way that the Royal Champion becomes overwhelmed with damage, especially if the attacker is inexperienced, forcing her ability to be used or knocking her out from battle. You can also use high-hitpoint and damage troops in your Clan Castle such as Super Dragons and P.E.K.K.As to heavily damage her. You can also use Super Minions to damage her from afar, as she is mostly attacking defenses or other units. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Royal Champion Passive Epic Buy in Toyshop Throwdown event for 3,100 Buy in Friend or Foe event for 3,100 Buy in Cosmic Rock event for 3,100 Buy in Equipment Blast event for 3,100 or purchasable from the Trader for 1,500 Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Aura Damage per Second Aura Damage per Hit Self Healing per Second Hitpoint Increase Shiny Ore Glowy Ore Starry Ore 1 132 52.8 6 50 N/A N/A N/A 1 2 132 52.8 8 75 120 - - 1 3 140 56 10 100 240 20 - 1 4 140 56 12 125 400 - - 1 5 140 56 14 150 600 - - 1 6 147 58.8 16 175 840 100 - 1 7 147 58.8 18 200 1,120 - - 1 8 147 58.8 20 225 1,440 - - 1 9 155 62 22 250 1,800 200 10 1 10 155 62 24 275 1,900 - - 1 11 155 62 26 300 2,000 - - 1 12 162 64.8 28 325 2,100 400 20 1 13 162 64.8 30 350 2,200 - - 3 14 162 64.8 32 375 2,300 - - 3 15 170 68 33 400 2,400 600 30 3 16 170 68 34 425 2,500 - - 5 17 170 68 35 450 2,600 - - 5 18 177 70.8 36 475 2,700 600 50 5 19 177 70.8 37 500 2,800 - - 7 20 177 70.8 38 525 2,900 - - 7 21 185 74 39 550 3,000 600 100 7 22 185 74 40 575 3,100 - - 8 23 185 74 41 600 3,200 - - 8 24 192 76.8 42 625 3,300 600 120 8 25 192 76.8 43 650 3,400 - - 9 26 192 76.8 44 675 3,500 - - 9 27 200 80 45 700 3,600 600 150 9 Aura Attack Speed Aura Radius 0.4s 5 tiles History Date Type Description December 11, 2024 Event Made the Electro Boots available in the Toyshop Throwdown event. February 10,2025 Update Decreased aura damage per second at all levels: Level 1-2: 137 -> 132 Level 3-5: 150 -> 140 Level 6-8: 162 -> 147 Level 9-11: 175 -> 155 Level 12-14: 187 -> 162 Level 15-17: 200 -> 170 Level 18-20: 212 -> 177 Level 21-23: 225 -> 185 Level 24-26: 237 -> 192 Level 27: 250 -> 200 Decreased self healing per second at levels 15 to 27: Level 15: 34 -> 33 Level 16: 36 -> 34 Level 17: 38 -> 35 Level 18: 40 -> 36 Level 19: 42 -> 37 Level 20: 44 -> 38 Level 21: 46 -> 39 Level 22: 48 -> 40 Level 23: 50 -> 41 Level 24: 52 -> 42 Level 25: 54 -> 43 Level 26: 56 -> 44 Level 27: 60 -> 45 Audio Generic Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg Hero Equipment selected When the Electro Boots is selected or swapped with another Hero Equipment https://clashofclans.fandom.com/wiki/File:HeroEquipment_Upgrade.ogg Hero Equipment upgraded When the Electro Boots is upgraded Unique Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:ElectroBoots_Aura.ogg Electric aura activates When the Royal Champion is deployed with the Electro Boots Gallery Videos https://clashofclans.fandom.com/wiki/File:ElectroBoots_InAction.mp4 Electro Boots vs. Skeleton Run https://clashofclans.fandom.com/wiki/File:RC_ElectroBoots_Deployed.mp4 Electro Boots deployment sound (with default Royal Champion deployment sound) Trivia Comparisons The Electro Boots' aura is similar to Electro Titan's , except it has a bigger radius, higher damage at certain levels, the glow from the middle extends much farther and the border is more visible. Unlike the Electro Titan, the Royal Champion can jump over walls. So far, the Electro Boots is the only passive Equipment for the Royal Champion. Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

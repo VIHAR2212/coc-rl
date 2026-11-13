@@ -1,0 +1,641 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "0",
+        "4": "0",
+        "5": "0",
+        "6": "0",
+        "7": "0",
+        "8": "0",
+        "9": "2"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "3",
+        "2": "4",
+        "3": "4",
+        "4": "4",
+        "5": "4",
+        "6": "4",
+        "7": "4",
+        "8": "4",
+        "9": "4"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "60",
+        "Damage per Shot": "7.68",
+        "Hitpoints": "1,500",
+        "Cost": "1,000,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "70",
+        "Damage per Shot": "8.96",
+        "Hitpoints": "1,900",
+        "Cost": "1,200,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "80",
+        "Damage per Shot": "10.24",
+        "Hitpoints": "2,300",
+        "Cost": "2,400,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "85",
+        "Damage per Shot": "10.88",
+        "Hitpoints": "2,700",
+        "Cost": "2,500,000",
+        "Build Time": "2d 12h",
+        "Experience Gained": "464",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "95",
+        "Damage per Shot": "12.16",
+        "Hitpoints": "3,100",
+        "Cost": "3,900,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "110",
+        "Damage per Shot": "14.08",
+        "Hitpoints": "3,400",
+        "Cost": "5,000,000",
+        "Build Time": "3d 12h",
+        "Experience Gained": "549",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "130",
+        "Damage per Shot": "16.64",
+        "Hitpoints": "3,700",
+        "Cost": "6,000,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "155",
+        "Damage per Shot": "19.84",
+        "Hitpoints": "4,000",
+        "Cost": "7,000,000",
+        "Build Time": "4d 12h",
+        "Experience Gained": "623",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "185",
+        "Damage per Shot": "23.68",
+        "Hitpoints": "4,200",
+        "Cost": "9,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "205",
+        "Damage per Shot": "26.24",
+        "Hitpoints": "4,400",
+        "Cost": "9,500,000",
+        "Build Time": "5d 12h",
+        "Experience Gained": "689",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "225",
+        "Damage per Shot": "28.8",
+        "Hitpoints": "4,600",
+        "Cost": "10,000,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "235",
+        "Damage per Shot": "30.08",
+        "Hitpoints": "4,800",
+        "Cost": "16,000,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "245",
+        "Damage per Shot": "31.36",
+        "Hitpoints": "5,000",
+        "Cost": "26,000,000",
+        "Build Time": "13d 12h",
+        "Experience Gained": "1,080",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Charge Level": "1",
+        "Damage per Second": "255",
+        "Damage per Shot": "32.64",
+        "Hitpoints": "5,000",
+        "Cost": "5,500,000",
+        "Build Time": "2d 5h",
+        "Experience Gained": "436",
+        "Town Hall Level Required": "18"
+      },
+      {
+        "Charge Level": "2",
+        "Damage per Second": "255",
+        "Damage per Shot": "32.64",
+        "Hitpoints": "5,100",
+        "Cost": "3,500,000",
+        "Build Time": "3d",
+        "Experience Gained": "509",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "Range": "14",
+        "Attack Speed": "0.128s",
+        "Damage Type": "Single Target",
+        "Number of Rounds": "1,500"
+      }
+    ],
+    [
+      {
+        "Range": "11.5",
+        "Attack Speed": "0.128s",
+        "Damage Type": "Single Target",
+        "Number of Rounds": "1,500"
+      }
+    ],
+    [
+      {
+        "X-Bow Exterminator": "Description"
+      },
+      {
+        "X-Bow Exterminator": "Destroy one X-Bow in Multiplayer battles"
+      },
+      {
+        "X-Bow Exterminator": "Destroy 250 X-Bows in Multiplayer battles"
+      },
+      {
+        "X-Bow Exterminator": "Destroy 2,500 X-Bows in Multiplayer battles"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the X-Bow to the next level, if you have enough resources and a free Builder (or B.O.B ). When the X-Bow is at maximum level, this icon is replaced by the Supercharge! icon."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins Supercharging the maxed X-Bow to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the X-Bow is at maximum charge, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the X-Bow to the next level, at the cost of one Hammer of Building if you have one. When the X-Bow is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the X-Bow is currently set to Ground mode, to attack ground units only. Tapping this icon switches the X-Bow attack mode to attack both ground and air units. This icon is only displayed while the X-Bow is in Ground mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the X-Bow is currently set to Air and Ground mode, to attack both air and ground units. Tapping this icon switches the X-Bow attack mode to attack ground units only. This icon is only displayed while the X-Bow is in Air and Ground mode."
+      }
+    ],
+    [
+      {
+        "Date": "October 23, 2012",
+        "Description": "Supercell introduced the X-Bow on Facebook."
+      },
+      {
+        "Date": "October 25, 2012",
+        "Description": "Supercell published a teaser of the X-Bow on Facebook."
+      },
+      {
+        "Date": "October 27, 2012",
+        "Description": "Added the X-Bow, with one level and one of its kind available."
+      },
+      {
+        "Date": "January 10, 2013",
+        "Description": "Added levels 2 and 3 X-Bow. Added the second X-Bow available at Town Hall 9. Decreased Air & Ground Mode range from 12 to 11. Decreased number of rounds by 25%, from 2,000 to 1,500. Displayed loading cost in the info screen."
+      },
+      {
+        "Date": "January 11, 2013",
+        "Description": "Increased DPS at level 3 from 70 to 75."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Description": "Lowered reload costs at levels 2 and 3: Level 2: 75,000 -> 60,000 Level 3: 100,000 -> 70,000"
+      },
+      {
+        "Date": "May 23, 2013",
+        "Description": "Added the level 4 X-Bow. Decreased upgrade costs at levels 2 and 3. Level 2: 6,000,000 -> 5,000,000 Level 3: 8,000,000 -> 7,000,000"
+      },
+      {
+        "Date": "June 17, 2013",
+        "Description": "Added the third X-Bow available at Town Hall 10."
+      },
+      {
+        "Date": "August 27, 2013",
+        "Description": "Added the achievement associated with the X-Bow, \"X-Bow Exterminator\"."
+      },
+      {
+        "Date": "May 16, 2014",
+        "Description": "X-Bows can now be toggled between different modes in War Base even if they are being upgraded in the Home Village."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Description": "Reduced hitpoints at levels 3 and 4: Level 3: 2,400 -> 2,300 Level 4: 2,800 -> 2,700"
+      },
+      {
+        "Date": "April 30, 2015",
+        "Description": "Allowed its range to be visible even when under construction. Allowed the X-Bow to change its modes even when it is under construction. X-Bows now initially point away from the Town Hall in combat."
+      },
+      {
+        "Date": "December 10, 2015",
+        "Description": "Added the fourth X-Bow available at Town Hall 11. Reduced reload costs at levels 1 to 4: Level 1: 50,000 -> 16,000 Level 2: 60,000 -> 19,000 Level 3: 70,000 -> 22,000 Level 4: 80,000 -> 25,000"
+      },
+      {
+        "Date": "March 21, 2016",
+        "Description": "Increased damage at levels 2 to 4: Level 2: 60 -> 70 Level 3: 75 -> 90 Level 4: 80 -> 100"
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Added the level 5 X-Bow. Reduced upgrade costs at levels 2 to 4.: Level 2: 5,000,000 -> 4,000,000 Level 3: 7,000,000 -> 5,000,000 Level 4: 8,000,000 -> 7,000,000 Upgraded X-Bow now resemble its unloaded phase to indicate base weakness more clearly."
+      },
+      {
+        "Date": "December 18, 2017",
+        "Description": "Reduced damage at levels 2 to 4: Level 2: 70 -> 60 Level 3: 90 -> 80 Level 4: 100 -> 90"
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the level 6 X-Bow."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Description": "Reduced build times at levels 1 to 5: Level 1: 7d -> 4d 12h Level 2: 8d -> 5d 12h Level 3: 10d -> 6d 12h Level 4: 12d -> 8d Level 5: 14d -> 10d"
+      },
+      {
+        "Date": "October 23, 2018",
+        "Description": "Reduced damage at levels 3 to 5: Level 3: 80 -> 70 Level 4: 90 -> 80 Level 5: 110 -> 100"
+      },
+      {
+        "Date": "February 22, 2019",
+        "Description": "Increased damage at all levels: Level 1: 50 -> 60 Level 2: 60 -> 70 level 3: 70 -> 80 Level 4: 80 -> 95 Level 5: 100 -> 125 Level 6: 120 -> 155"
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Removed the Elixir cost to reload the X-Bow, instead reloading for free when you log back into the game. Reduced build times at levels 1 and 2: Level 1: 4d 12h -> 3d Level 2: 5d 12h -> 5d Reduced upgrade costs at levels 1 to 5: Level 1: 3,000,000 -> 2,000,000 Level 2: 4,000,000 -> 3,000,000 Level 3: 5,000,000 -> 4,000,000 Level 4: 7,000,000 -> 6,000,000 Level 5: 9,500,000 -> 9,000,000"
+      },
+      {
+        "Date": "June 20, 2019",
+        "Description": "Fixed a bug existed when copying or sharing layouts, in which the mode of X-Bows and Inferno Towers were taken from the active layout rather than the chosen layout."
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the level 7 X-Bow."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Description": "Village preview now shows X-Bow's attack modes properly."
+      },
+      {
+        "Date": "December 7, 2020",
+        "Description": "Added the level 8 X-Bow."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Reduced build times at levels 1 to 3, and 5: Level 1: 3d -> 2d Level 2: 5d -> 4d Level 3: 6d 12h -> 5d Level 5: 10d -> 9d Reduced upgrade costs at levels 1 to 5: Level 1: 2,000,000 -> 1,000,000 Level 2: 3,000,000 -> 2,000,000 Level 3: 4,000,000 -> 3,000,000 Level 4: 6,000,000 -> 5,000,000 Level 5: 9,000,000 -> 8,000,000 Additionally, the ground X-Bow asset is fixed to match other assets of the same level for level 5, 6, and 7. The crystals on the corners from level 5 X-Bow now glow aesthetically, and the circular piece in the center now glows red."
+      },
+      {
+        "Date": "August 12, 2021",
+        "Description": "Increased range of Air & Ground mode from 11 tiles to 11.5 tiles."
+      },
+      {
+        "Date": "September 27, 2021",
+        "Description": "Added the level 9 X-Bow."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Description": "Reduced upgrade costs at levels 2 to 7: Level 2: 2,000,000 -> 1,600,000 Level 3: 3,000,000 -> 2,400,000 Level 4: 5,000,000 -> 4,000,000 Level 5: 8,000,000 -> 7,000,000 Level 6: 12,000,000 -> 10,500,000 Level 7: 16,000,000 -> 14,000,000 Reduced build time at level 4 from 8d to 6d."
+      },
+      {
+        "Date": "June 27, 2022",
+        "Description": "Reduced DPS at levels 6 and 7: Level 6: 155 -> 150 Level 7: 175 -> 170"
+      },
+      {
+        "Date": "10th October, 2022",
+        "Description": "Added the level 10 X-Bow. Reduced upgrade times at levels 4 to 9: Level 4: 6d -> 5d 6h Level 5: 9d -> 6d 6h Level 6: 14d -> 9d 18h Level 7: 16d -> 12d Level 8: 17d -> 12d 18h Level 9: 19d -> 18d Reduced upgrade costs at levels 4 to 9: Level 4: 4,000,000 -> 3,400,000 Level 5: 7,000,000 -> 4,900,000 Level 6: 10,500,000 -> 7,400,000 Level 7: 14,000,000 -> 10,400,000 Level 8: 17,000,000 -> 12,900,000 Level 9: 18,500,000 -> 17,400,000"
+      },
+      {
+        "Date": "September 28, 2023",
+        "Description": "Reduced damage at levels 4 to 9: Level 4: 95 -> 90 Level 5: 125 -> 110 Level 6: 155 -> 130 Level 7: 170 -> 155 Level 8: 185 -> 175 Level 9: 200 -> 195"
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 11 X-Bow. Reduced upgrade times at levels 2 to 10: Level 2: 4d -> 2d 12h Level 3: 5d -> 3d 12h Level 4: 5d 6h -> 5d Level 5: 6d 6h -> 5d 6h Level 6: 9d -> 8d 12h Level 7: 9d 12h -> 9d Level 8: 10d -> 9d Level 9: 18d -> 13d Level 10: 19d -> 13d 18h Reduced upgrade costs at levels 4, 5, and 9: Level 4: 3,400,000 -> 2,500,000 Level 5: 4,900,000 -> 3,900,000 Level 9: 17,400,000 -> 14,000,000 Reduced damage at levels 7 to 10: Level 7: 155 -> 150 Level 8: 175 -> 170 Level 9: 195 -> 190 Level 10: 215 -> 205 Reduced hitpoints at levels 6 to 10: Level 6: 3,500 -> 3,400 Level 7: 3,900 -> 3,700 Level 8: 4,200 -> 4,000 Level 9: 4,500 -> 4,200 Level 10: 4,700 -> 4,400"
+      },
+      {
+        "Date": "June 3, 2024",
+        "Description": "Reduced damage at levels 4 to 9: Level 4: 90 -> 85 Level 5: 110 -> 95 Level 6: 130 -> 110 Level 7: 150 -> 130 Level 8: 170 -> 155 Level 9: 190 -> 185"
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Added 2 Supercharge levels for the X-Bow."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Added the level 12 X-Bow. Changed time and cost at level 8: Time: 7d -> 4d Cost: 7,500,000 -> 3,000,000 Removed the Supercharges at level 11 and replaced them at level 12: Charge 1: Damage: 235 -> 245 Cost: 6,000,000 -> 10,000,000 Time: 2d 12h -> 4d 12h Charge 2: Hitpoints: 4,700 -> 4,900 Cost: 3,200,000 -> 6,250,000 Time: 4d -> 6d 12h"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Changed build times at levels 1, 2, 5 to 11: Level 1: 1d -> 12h Level 2: 1d 6h -> 1d Level 5: 4d -> 3d 12h Level 6: 5d -> 4d Level 7: 6d -> 4d 12h Level 8: 4d -> 5d Level 9: 8d -> 7d Level 10: 9d -> 7d 6h Level 11: 11d 6h -> 7d 12h Changed upgrade costs at levels 2, 6 to 8, 10, and 11: Level 2: 1,600,000 -> 1,200,000 Level 6: 6,000,000 -> 5,000,000 Level 7: 7,000,000 -> 6,000,000 Level 8: 3,000,000 -> 7,000,000 Level 10: 12,000,000 -> 9,500,000 Level 11: 15,800,000 -> 10,000,000"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Reduced upgrade time at level 12 from 15d 12h to 10d 12h. Reduced upgrade cost at level 12 from 21,500,000 to 16,000,000."
+      },
+      {
+        "Date": "February 23, 2026",
+        "Description": "Reduced charge times at all charges: Charge 1: 4d 12h -> 3d Charge 2: 6d 12h -> 4d 12h Reduced charge costs at all charges: Charge 1: 10,000,000 -> 7,000,000 Charge 2: 6,250,000 -> 4,000,000"
+      },
+      {
+        "Date": "April 27, 2026",
+        "Description": "Added the level 13 X-Bow. Removed the Supercharges at level 12 Reduced upgrade times at levels 4 to 7, and 12: Level 4: 3d -> 2d 12h Level 5: 3d 12h -> 3d Level 6: 4d -> 3d 12h Level 7: 4d 6h -> 4d Level 12: 10d 12h -> 8d"
+      },
+      {
+        "Date": "June 16, 2026",
+        "Description": "Added 2 Supercharge levels for the X-Bow."
+      },
+      {
+        "Date": "October 20, 2026",
+        "Description": "Reduced charge times at all charges: Charge 1: 5d 12h -> 2d 5h Charge 2: 7d 12h -> 3d Reduced charge costs at all charges: Charge 1: 14,000,000 -> 5,500,000 Charge 2: 9,000,000 -> 3,500,000"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Shoot.ogg",
+        "Captions": "X-Bow shoots",
+        "Description": "When the X-Bow shoots a unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_reload.ogg",
+        "Captions": "X-Bow reloaded",
+        "Description": "When the X-Bow is reloaded (become unused since the April 2, 2019 update"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_no_ammo.ogg",
+        "Captions": "X-Bow deactivates",
+        "Description": "When the X-Bow runs out of ammunition during a battle"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Picked.ogg",
+        "Captions": "X-Bow selected",
+        "Description": "When the X-Bow is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg",
+        "Captions": "X-Bow placed",
+        "Description": "When the X-Bow is placed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Change_Target.ogg",
+        "Captions": "X-Bow changes mode",
+        "Description": "When the X-Bow is changed between air ground or air & ground mode"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ],
+    [
+      {
+        "Number Available": "1",
+        "Builder Hall Level": "2"
+      },
+      {
+        "Number Available": "Total",
+        "Builder Hall Level": "0"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "80",
+        "Damage per Shot": "15.36",
+        "Hitpoints": "1,700",
+        "Build Cost": "4,400,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Builder Hall Level Required": "10"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "88",
+        "Damage per Shot": "16.9",
+        "Hitpoints": "1,900",
+        "Build Cost": "4,800,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Builder Hall Level Required": "10"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "96",
+        "Damage per Shot": "18.43",
+        "Hitpoints": "2,100",
+        "Build Cost": "5,200,000",
+        "Build Time": "10d",
+        "Experience Gained": "929",
+        "Builder Hall Level Required": "10"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "106",
+        "Damage per Shot": "20.35",
+        "Hitpoints": "2,350",
+        "Build Cost": "5,600,000",
+        "Build Time": "11d",
+        "Experience Gained": "974",
+        "Builder Hall Level Required": "10"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "116",
+        "Damage per Shot": "22.27",
+        "Hitpoints": "2,600",
+        "Build Cost": "6,000,000",
+        "Build Time": "12d",
+        "Experience Gained": "1,018",
+        "Builder Hall Level Required": "10"
+      }
+    ],
+    [
+      {
+        "Range": "12",
+        "Attack Speed": "0.192s",
+        "Damage Type": "Single Target",
+        "Unit Type Targeted": "Ground Air"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon begins upgrading the X-Bow to the next level, if you have enough resources and a free Master Builder or O.T.T.O . When the X-Bow is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon instantly upgrades the X-Bow to the next level, at the cost of one Hammer of Building if you have one. When the X-Bow is at maximum level, or the Builder Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the X-Bow is currently set to Ground mode, to attack ground units only. Tapping this icon switches the X-Bow attack mode to attack air units only. This icon is only displayed while the X-Bow is in Ground mode."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets.": "This icon indicates that the X-Bow is currently set to Air mode, to attack air units only. Tapping this icon switches the X-Bow attack mode to attack ground units only. This icon is only displayed while the X-Bow is in Air mode."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Shoot.ogg",
+        "Captions": "X-Bow shoots",
+        "Description": "When the X-Bow shoots a unit"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Picked.ogg",
+        "Captions": "X-Bow selected",
+        "Description": "When the X-Bow is picked"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg",
+        "Captions": "X-Bow placed",
+        "Description": "When the X-Bow is placed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Xbow_Change_Target.ogg",
+        "Captions": "X-Bow changes mode",
+        "Description": "When the X-Bow is changed between ground or air mode"
+      }
+    ],
+    [
+      {
+        "Date": "May 15, 2023",
+        "Description": "Added the X-Bow to the Builder Base with 5 levels and 2 modes."
+      }
+    ],
+    [
+      {
+        "Builder Base Buildings": "Defensive Buildings"
+      },
+      {
+        "Builder Base Buildings": "Resource Buildings"
+      },
+      {
+        "Builder Base Buildings": "Army Buildings"
+      },
+      {
+        "Builder Base Buildings": "Other Buildings"
+      }
+    ]
+  ],
+  "raw_text": "Home Village Builder Base [[File:{{{Alt}}}|28px|link=]] For the Builder Base version, see X-Bow/Builder Base . \"The X-Bow shoots mystical bolts with terrifying power. Load it with Elixir and the X-Bow works automagically. You can set it to target ground units at long ranges, or all targets at reduced range.\" Ground Mode Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Air & Ground Mode Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Summary The X-Bow is a single-target, rapid-firing defense that is unlocked at Town Hall level 9. The X-Bow has to be loaded to work. Loading is free and takes place automatically after you log into the game, but if it fires enough shots without being reloaded it will eventually run out of ammunition and will not fire. The X-Bow holds 1,500 rounds of bolts from its box and fires 8 times per second, and takes 3 minutes and 12 seconds for one X-Bow to unload all of its ammunition. It can be configured to two modes: Ground Mode, which can only target ground troops at a range of 14 tiles. Air & Ground Mode, which can target both ground and air troops at a reduced range of 11.5 tiles. Strategies Defensive Strategies A well-placed and loaded X-Bow will dominate attacks, but to be most effective it should not be used as a front-line defense. With the second longest range of any damage-dealing defense, it is best placed behind all other defenses, typically in the center of a base. Be sure to keep your X-Bow loaded by logging into the game from time to time. An unloaded X-Bow is not only a waste of space, it is a good indicator that your base may be neglected, encouraging others to raid you. Although the X-Bow shoots rapidly, each shot causes only a relatively small amount of damage, but has a high damage per second. Support it with powerful defenses (such as Mortars , Wizard Towers , Air Defenses, Bomb Towers , or Scattershots) so it can quickly take out your enemies. The dominance of Balloon and Minion oriented attacks at and around Town Hall 9 in Clan Wars and regular raids make a strong case for keeping X-Bows set to Air and Ground in both farming and war bases. At higher levels, it is still useful to set it to Air and Ground if extra aerial defense is needed against air attacks like Lavaloon, Electro Dragons , or Bat -based attacks, or if Air Defenses are being upgraded and unavailable. Offensive Strategies The X-Bow has essentially no weaknesses (but is quite weak to swarms) unless it is set to ground-only mode, determinable by the way it is angled. If it is horizontal to the ground, it can target ground troops only within a long range. If it is tilted up, then it can attack air units as well, but at a reduced range. The X-Bow can lock on to a unit for a very long time because of its long range. This means that placing the X-Bow near the center can allow it to snipe at troops on the outer areas of your base. It also counteracts the effect of the Healer when set to Air & Ground mode. The X-Bow also counters the Queen Walk, a popular strategy consisting of the Archer Queen and Healers, with the help of other buildings. In order to attack an X-Bow, treat it like a longer-ranged Cannon or Archer Tower , but do not forget that many units can be mowed down very quickly by this defense. Distract it with high-health troops like Giants , Golems , Ice Golems , or P.E.K.K.As , and destroy it with a large group of attackers such as Archers , Minions , or Barbarians . Attacking players can see if the defender's X-Bow is loaded or not. Currently, there is no way to tell exactly how much Elixir the X-Bow has left, but a player can visually tell when it is empty. When it is loaded, you will see a small box containing what appears to be small Elixir bolts (wooden bolts at level 11). An unloaded X-Bow will be lacking the box, and the bowstring will be missing (see the image gallery below). Attacking players can also see if the X-Bow is set to ground-only or both ground and air, and also via the Tactical Overview. Take advantage of ground-only X-Bows and send in air units to destroy it first. An X-Bow that is empty is completely useless and will not fire. It still must be destroyed to achieve 100% destruction, and troops that preferentially attack defenses (e.g. Giants, Golems, Hog Riders , Ice Golems, and Balloons ) will still target an unloaded X-Bow if it is closer to them than an active defense . Upgrade Differences The X-Bow undergoes significant visual changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12. When initially constructed, the X-Bow consists of a huge crossbow with wooden limbs, hemp string, a black metal arrow track, and a wooden ammunition cartridge at the back with black metal corners and metal circles riveted on the back corners, containing elixir bolts. The X-Bow is held up by a black metal pillar by the \"muzzle\" with black metal plates and rivets, with two metal gears on its base, mounted on a base made of light-colored wood with a white stone axle surround by a black metal ring and a black, gear-shaped rim being riveted on it. It has small obsidian crystal on the corners of the stone foundation. When set to Air & Ground Mode, the X-Bow bends at \"muzzle\" and the pillar, causing the back to lean downward and allow it to aim at air troops. At level 2, the X-Bow base is replaced with normal wood, the metal ring is made with gray metal, and the gear is gilded. The stone foundation uses gray metal and gold spike replaces the obsidian crystal on the corners. At level 3, the X-Bow base is replaced with wood dyed black, the axle is now gilded, the gear is black once again and its rivets are now gold and have a spike. The stone foundation is also made of obsidian and bigger, and multiple sharper obsidian  spikes replaces the gold spike on the corners. At level 4, the X-Bow base becomes a red wheel, the gray metal ring is replaced with gray stone, the axle top is now a spike instead of flat, and a golden octagonal rim with gold plating on each angle replaces the gear. The stone foundation is now made of rough gray rocks, the tip of the spikes glow a dull red that fades as it reaches the base, as if it is red hot. At level 5, the barrel now comes with a riser (around the \"muzzle\" of a crossbow securing the bow's limbs) with small golden spike flanking both sides replacing the plates and the rivets, the tip of the barrel is golden, the plate and rivets between the X-Bow and the pillar are removed and replaced with a bolt, the ammunition cartridge and the rivet for the on the metal circles turn from wooden to gold. The X-Bow base wheel turns gray, the golden rim becomes bigger that its gold plating on the sides now goes into the ground, its inner surface turns red. The foundation matches the shape of the golden rim and is made of a red metal with a short black metal band around it, the spikes at the corners are square pyramidal instead of being more organic and wider at the base, have their tips cut off, and the glow comes from the base instead of the tip. At level 6, the limbs are now made out of metal, the ends of the bow are covered with metal, the front of the riser is covered with gold, and the spikes are replaced with a steel stirrup. The X-Bow base wheel is pink and the red inner surface is removed, the gray stone ring is gilded. The foundation is fully made of reflective black metal, the spikes are replaced with metallic corner piece flush with the top layer of the foundation, the bottom is a much less reflective black metal with a pentagonal bolt on the front. At level 7, the ends of the bow are thinner but covered with a brass band, the riser is now made of a deep green metal, the front of the riser is larger, the stirrup and the rivet are now a deep green metal spike. The X-Bow base wheel is replaced with deep turquoise wood flush to the rim, the gilded ring is made of purple metal, and the gold plating on top of the corner pieces is slightly taller and slanted. The top part of the foundation is made of a deep purple metal and the bottom is deep green metal, the corner pieces are now slightly bigger, with icy blue metal tops, dark gray metal base, and two deep green metal spikes on the base for each piece. At level 8, the X-Bow base's gold plating that go into the ground now gains a second step. Each corner piece and its spikes are slightly bigger again, and at the sides are a small purple plate that itself has an even smaller deep green plate on it, which both connects to the top and bottom of the foundation. At level 9, the ends of the bow is now covered with a wider green metal band, the riser is now made of a green metal, and the metal spike is a much lighter green. The X-Bow base wheel turns to green, the purple metal ring is made of purplish gray stone and the axle turns black, the second step of the gold plating becomes a golden bolt. The whole foundation is made of purplish gray stone, the corner pieces are bigger yet again and replaced with black stone, the top gold platings are gone and replaced with a shrank metal top which is gold and connects to the rim with a smaller green metal plate on it, the deep green metal spikes are replaced with two golden linings, the side purple plate is removed and the green plate is now purplish gray connecting to the foundation. At level 10, the ends of the bow is a bit wider and covered with a thinker silver band, the riser is now made of a purple metal, and the spike at the tip is replaced with a hollow silver upside-down triangle (the symbol of Town Hall 15). The X-Bow base wheel turns to purple flush to the rim, the stone ring is replaced with purple metal and the axle turns golden once again, the second step of the gold plating replaces the golden bolt again. The top of the foundation is made with black stone and bottom with red metal, the corner pieces slightly shrink, the metal top is now purple and cover most of the corner piece and no longer covered by the golden rim, the golden linings are removed, and the side middle-sized plate is added back using silver and the small plate is bigger made red of red metal connecting to the bottom of the foundation. At level 11, the limbs are made with white stone instead of metal, the ends of the bow is covered with a red wood ring instead of silver band, the hemp string is replaced with whiter elastic string. The arrow track is wider and made with greenish gray metal, so are the corners of the ammunition cartridge and the circles at the back, which are connected by a metal cylinder, the cartridge is made of red wood and contain wooden bolts. The riser is made of red wood, and the front has a bolt on each side and the upside-down triangular symbol is replaced by a leaf (symbol of Town Hall 16). The black gears around the pillar is smaller and darker, the X-Bow base wheel becomes brown, the metal is made of greenish gray metal and the axle is flat again but protrudes more upwards and is made of brass. The rim is also made of brass, shrinks in width, and rotates where the sides meets the corner pieces instead of the angle, and the plating and golden steps are removed. The top of the foundation is made with red wood, the middle with white stone, and bottom with gray metal, with the corner pieces also layered the same way, each corner piece is a hexagon with a brass spike on top surrounded by curling roots, and two brass supports over the middle and bottom layer of the corner piece on the sides. At level 12, the appearance changes significantly. The limbs of the crossbow are now slightly darker and are doubled, with the ends being merged into one. The color of the cartridge changes into blue, with its metal parts turning into gold, and the wooden bolts turn purple. The arrow track is now lighter in color, and the elastic string reverts back into hemp rope, but colored red, and is doubled. The riser changes to the color of the arrow track, and at the front, the leaf symbol is replaced by a stone eagle head with a gold beak and a crown. The base and foundation almost entirely turns into a dark grey stone, with the exception of the center top of the base turning gold. The octagonal rim of the base now shifts by an angle, but not the foundation itself. The sides now gain thick, dark metal plating while the corners of the foundation are now replaced with blue eagle wings. The color of the X-Bow's bolts changes throughout the levels. At level 1, the bolts are pink. At level 2, the bolts turn yellow. At level 3, the bolts turn dark blue. At level 4, the bolts turn orange and starts flaming. At level 8, the bolts turn cyan and become frosty. At level 10, the bolts turn pink and the sparks are orange. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Town Hall Level 1 2 3 4 5 6 7 8 9 Number Available 0 0 0 0 0 0 0 0 2 10 11 12 13 14 15 16 17 18 3 4 4 4 4 4 4 4 4 Level Damage per Second Damage per Shot Hitpoints Cost Build Time Experience Gained Town Hall Level Required 1 60 7.68 1,500 1,000,000 12h 207 9 2 70 8.96 1,900 1,200,000 1d 293 9 3 80 10.24 2,300 2,400,000 2d 415 9 4 85 10.88 2,700 2,500,000 2d 12h 464 10 5 95 12.16 3,100 3,900,000 3d 509 11 6 110 14.08 3,400 5,000,000 3d 12h 549 12 7 130 16.64 3,700 6,000,000 4d 587 13 8 155 19.84 4,000 7,000,000 4d 12h 623 13 9 185 23.68 4,200 9,000,000 5d 657 14 10 205 26.24 4,400 9,500,000 5d 12h 689 15 11 225 28.8 4,600 10,000,000 6d 720 16 12 235 30.08 4,800 16,000,000 8d 831 17 13 245 31.36 5,000 26,000,000 13d 12h 1,080 18 Supercharges These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added. New Level Coming! This Supercharge lasts until a new level becomes available. Depletes Soon! Charge Level Damage per Second Damage per Shot Hitpoints Cost Build Time Experience Gained Town Hall Level Required 1 255 32.64 5,000 5,500,000 2d 5h 436 18 2 255 32.64 5,100 3,500,000 3d 509 18 Ground Mode Statistics Range Attack Speed Damage Type Number of Rounds 14 0.128s Single Target 1,500 Ground & Air Mode Statistics Range Attack Speed Damage Type Number of Rounds 11.5 0.128s Single Target 1,500 Depleted Ground X-Bows Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Depleted Air & Ground X-Bows Level 1 Level 2 Level 3 Level 4 Level 5 Level 6 Level 7 Level 8 Level 9 Level 10 Level 11 Level 12 Level 13 Achievements X-Bow Exterminator Description Rewards Rewards Destroy one X-Bow in Multiplayer battles 50 50 Destroy 250 X-Bows in Multiplayer battles 100 100 Destroy 2,500 X-Bows in Multiplayer battles 1,000 200 Icon Descriptions Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets. Tapping this icon begins upgrading the X-Bow to the next level, if you have enough resources and a free Builder (or B.O.B ). When the X-Bow is at maximum level, this icon is replaced by the Supercharge! icon. Tapping this icon begins Supercharging the maxed X-Bow to the next charge, if you have enough resources and a free Builder (or B.O.B ). When the X-Bow is at maximum charge, this icon is not shown. Tapping this icon instantly upgrades the X-Bow to the next level, at the cost of one Hammer of Building if you have one. When the X-Bow is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems . Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. This icon indicates that the X-Bow is currently set to Ground mode, to attack ground units only. Tapping this icon switches the X-Bow attack mode to attack both ground and air units. This icon is only displayed while the X-Bow is in Ground mode. This icon indicates that the X-Bow is currently set to Air and Ground mode, to attack both air and ground units. Tapping this icon switches the X-Bow attack mode to attack ground units only. This icon is only displayed while the X-Bow is in Air and Ground mode. History Date Description October 23, 2012 Supercell introduced the X-Bow on Facebook. October 25, 2012 Supercell published a teaser of the X-Bow on Facebook. October 27, 2012 Added the X-Bow, with one level and one of its kind available. January 10, 2013 Added levels 2 and 3 X-Bow. Added the second X-Bow available at Town Hall 9. Decreased Air & Ground Mode range from 12 to 11. Decreased number of rounds by 25%, from 2,000 to 1,500. Displayed loading cost in the info screen. January 11, 2013 Increased DPS at level 3 from 70 to 75. February 5, 2013 Lowered reload costs at levels 2 and 3: Level 2: 75,000 -> 60,000 Level 3: 100,000 -> 70,000 May 23, 2013 Added the level 4 X-Bow. Decreased upgrade costs at levels 2 and 3. Level 2: 6,000,000 -> 5,000,000 Level 3: 8,000,000 -> 7,000,000 June 17, 2013 Added the third X-Bow available at Town Hall 10. August 27, 2013 Added the achievement associated with the X-Bow, \"X-Bow Exterminator\". May 16, 2014 X-Bows can now be toggled between different modes in War Base even if they are being upgraded in the Home Village. December 11, 2014 Reduced hitpoints at levels 3 and 4: Level 3: 2,400 -> 2,300 Level 4: 2,800 -> 2,700 April 30, 2015 Allowed its range to be visible even when under construction. Allowed the X-Bow to change its modes even when it is under construction. X-Bows now initially point away from the Town Hall in combat. December 10, 2015 Added the fourth X-Bow available at Town Hall 11. Reduced reload costs at levels 1 to 4: Level 1: 50,000 -> 16,000 Level 2: 60,000 -> 19,000 Level 3: 70,000 -> 22,000 Level 4: 80,000 -> 25,000 March 21, 2016 Increased damage at levels 2 to 4: Level 2: 60 -> 70 Level 3: 75 -> 90 Level 4: 80 -> 100 October 12, 2016 Added the level 5 X-Bow. Reduced upgrade costs at levels 2 to 4.: Level 2: 5,000,000 -> 4,000,000 Level 3: 7,000,000 -> 5,000,000 Level 4: 8,000,000 -> 7,000,000 Upgraded X-Bow now resemble its unloaded phase to indicate base weakness more clearly. December 18, 2017 Reduced damage at levels 2 to 4: Level 2: 70 -> 60 Level 3: 90 -> 80 Level 4: 100 -> 90 June 11, 2018 Added the level 6 X-Bow. June 26, 2018 Reduced build times at levels 1 to 5: Level 1: 7d -> 4d 12h Level 2: 8d -> 5d 12h Level 3: 10d -> 6d 12h Level 4: 12d -> 8d Level 5: 14d -> 10d October 23, 2018 Reduced damage at levels 3 to 5: Level 3: 80 -> 70 Level 4: 90 -> 80 Level 5: 110 -> 100 February 22, 2019 Increased damage at all levels: Level 1: 50 -> 60 Level 2: 60 -> 70 level 3: 70 -> 80 Level 4: 80 -> 95 Level 5: 100 -> 125 Level 6: 120 -> 155 April 2, 2019 Removed the Elixir cost to reload the X-Bow, instead reloading for free when you log back into the game. Reduced build times at levels 1 and 2: Level 1: 4d 12h -> 3d Level 2: 5d 12h -> 5d Reduced upgrade costs at levels 1 to 5: Level 1: 3,000,000 -> 2,000,000 Level 2: 4,000,000 -> 3,000,000 Level 3: 5,000,000 -> 4,000,000 Level 4: 7,000,000 -> 6,000,000 Level 5: 9,500,000 -> 9,000,000 June 20, 2019 Fixed a bug existed when copying or sharing layouts, in which the mode of X-Bows and Inferno Towers were taken from the active layout rather than the chosen layout. December 9, 2019 Added the level 7 X-Bow. March 30, 2020 Village preview now shows X-Bow's attack modes properly. December 7, 2020 Added the level 8 X-Bow. April 12, 2021 Reduced build times at levels 1 to 3, and 5: Level 1: 3d -> 2d Level 2: 5d -> 4d Level 3: 6d 12h -> 5d Level 5: 10d -> 9d Reduced upgrade costs at levels 1 to 5: Level 1: 2,000,000 -> 1,000,000 Level 2: 3,000,000 -> 2,000,000 Level 3: 4,000,000 -> 3,000,000 Level 4: 6,000,000 -> 5,000,000 Level 5: 9,000,000 -> 8,000,000 Additionally, the ground X-Bow asset is fixed to match other assets of the same level for level 5, 6, and 7. The crystals on the corners from level 5 X-Bow now glow aesthetically, and the circular piece in the center now glows red. August 12, 2021 Increased range of Air & Ground mode from 11 tiles to 11.5 tiles. September 27, 2021 Added the level 9 X-Bow. December 9, 2021 Reduced upgrade costs at levels 2 to 7: Level 2: 2,000,000 -> 1,600,000 Level 3: 3,000,000 -> 2,400,000 Level 4: 5,000,000 -> 4,000,000 Level 5: 8,000,000 -> 7,000,000 Level 6: 12,000,000 -> 10,500,000 Level 7: 16,000,000 -> 14,000,000 Reduced build time at level 4 from 8d to 6d. June 27, 2022 Reduced DPS at levels 6 and 7: Level 6: 155 -> 150 Level 7: 175 -> 170 10th October, 2022 Added the level 10 X-Bow. Reduced upgrade times at levels 4 to 9: Level 4: 6d -> 5d 6h Level 5: 9d -> 6d 6h Level 6: 14d -> 9d 18h Level 7: 16d -> 12d Level 8: 17d -> 12d 18h Level 9: 19d -> 18d Reduced upgrade costs at levels 4 to 9: Level 4: 4,000,000 -> 3,400,000 Level 5: 7,000,000 -> 4,900,000 Level 6: 10,500,000 -> 7,400,000 Level 7: 14,000,000 -> 10,400,000 Level 8: 17,000,000 -> 12,900,000 Level 9: 18,500,000 -> 17,400,000 September 28, 2023 Reduced damage at levels 4 to 9: Level 4: 95 -> 90 Level 5: 125 -> 110 Level 6: 155 -> 130 Level 7: 170 -> 155 Level 8: 185 -> 175 Level 9: 200 -> 195 December 12, 2023 Added the level 11 X-Bow. Reduced upgrade times at levels 2 to 10: Level 2: 4d -> 2d 12h Level 3: 5d -> 3d 12h Level 4: 5d 6h -> 5d Level 5: 6d 6h -> 5d 6h Level 6: 9d -> 8d 12h Level 7: 9d 12h -> 9d Level 8: 10d -> 9d Level 9: 18d -> 13d Level 10: 19d -> 13d 18h Reduced upgrade costs at levels 4, 5, and 9: Level 4: 3,400,000 -> 2,500,000 Level 5: 4,900,000 -> 3,900,000 Level 9: 17,400,000 -> 14,000,000 Reduced damage at levels 7 to 10: Level 7: 155 -> 150 Level 8: 175 -> 170 Level 9: 195 -> 190 Level 10: 215 -> 205 Reduced hitpoints at levels 6 to 10: Level 6: 3,500 -> 3,400 Level 7: 3,900 -> 3,700 Level 8: 4,200 -> 4,000 Level 9: 4,500 -> 4,200 Level 10: 4,700 -> 4,400 June 3, 2024 Reduced damage at levels 4 to 9: Level 4: 90 -> 85 Level 5: 110 -> 95 Level 6: 130 -> 110 Level 7: 150 -> 130 Level 8: 170 -> 155 Level 9: 190 -> 185 September 9, 2024 Added 2 Supercharge levels for the X-Bow. February 10, 2025 Added the level 12 X-Bow. Changed time and cost at level 8: Time: 7d -> 4d Cost: 7,500,000 -> 3,000,000 Removed the Supercharges at level 11 and replaced them at level 12: Charge 1: Damage: 235 -> 245 Cost: 6,000,000 -> 10,000,000 Time: 2d 12h -> 4d 12h Charge 2: Hitpoints: 4,700 -> 4,900 Cost: 3,200,000 -> 6,250,000 Time: 4d -> 6d 12h March 24, 2025 Changed build times at levels 1, 2, 5 to 11: Level 1: 1d -> 12h Level 2: 1d 6h -> 1d Level 5: 4d -> 3d 12h Level 6: 5d -> 4d Level 7: 6d -> 4d 12h Level 8: 4d -> 5d Level 9: 8d -> 7d Level 10: 9d -> 7d 6h Level 11: 11d 6h -> 7d 12h Changed upgrade costs at levels 2, 6 to 8, 10, and 11: Level 2: 1,600,000 -> 1,200,000 Level 6: 6,000,000 -> 5,000,000 Level 7: 7,000,000 -> 6,000,000 Level 8: 3,000,000 -> 7,000,000 Level 10: 12,000,000 -> 9,500,000 Level 11: 15,800,000 -> 10,000,000 November 17, 2025 Reduced upgrade time at level 12 from 15d 12h to 10d 12h. Reduced upgrade cost at level 12 from 21,500,000 to 16,000,000. February 23, 2026 Reduced charge times at all charges: Charge 1: 4d 12h -> 3d Charge 2: 6d 12h -> 4d 12h Reduced charge costs at all charges: Charge 1: 10,000,000 -> 7,000,000 Charge 2: 6,250,000 -> 4,000,000 April 27, 2026 Added the level 13 X-Bow. Removed the Supercharges at level 12 Reduced upgrade times at levels 4 to 7, and 12: Level 4: 3d -> 2d 12h Level 5: 3d 12h -> 3d Level 6: 4d -> 3d 12h Level 7: 4d 6h -> 4d Level 12: 10d 12h -> 8d June 16, 2026 Added 2 Supercharge levels for the X-Bow. October 20, 2026 Reduced charge times at all charges: Charge 1: 5d 12h -> 2d 5h Charge 2: 7d 12h -> 3d Reduced charge costs at all charges: Charge 1: 14,000,000 -> 5,500,000 Charge 2: 9,000,000 -> 3,500,000 Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Xbow_Shoot.ogg X-Bow shoots When the X-Bow shoots a unit https://clashofclans.fandom.com/wiki/File:Xbow_reload.ogg X-Bow reloaded When the X-Bow is reloaded (become unused since the April 2, 2019 update https://clashofclans.fandom.com/wiki/File:Xbow_no_ammo.ogg X-Bow deactivates When the X-Bow runs out of ammunition during a battle https://clashofclans.fandom.com/wiki/File:Xbow_Picked.ogg X-Bow selected When the X-Bow is picked https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg X-Bow placed When the X-Bow is placed https://clashofclans.fandom.com/wiki/File:Xbow_Change_Target.ogg X-Bow changes mode When the X-Bow is changed between air ground or air & ground mode Gallery Shorts Animation https://clashofclans.fandom.com/wiki/File:Ground_X-bow_InAction.mp4 Ground mode X-Bow attacking https://clashofclans.fandom.com/wiki/File:GroundAir_X-bow_InAction.mp4 Ditto, but Ground & Air mode X-Bow runs out of ammunition during a battle (animated) Trivia The name \"X-Bow\" is a play on the word \"Crossbow\", which the device resembles. The letter \"X\" resembles a cross (十), leading to this abbreviated name. In the Japanese and Korean localization of the game, the X-Bow is called the \"Large Crossbow.\" In Chinese localizations of the game, the X-Bow is called the \"X-Crossbow\" (X连弩). An unloaded X-Bow will appear loaded during Clan Wars , similar to the Eagle Artillery , Inferno Tower , and Scattershot . Unarmed Traps also will work during war. The X-Bow is one of the defenses to appear in Clash Quest. When the X-Bow is firing, you can see smoke coming out of it. Destroying X-Bows under construction also count towards the X-Bow Exterminator achievement . Its Clash Royale counterpart shoots faster than the Inferno Tower, though it is the same with its Clash of Clans counterpart. However, in Clash Royale, X-Bows only target ground and cannot be set to shoot at aerial units. They also fire 100 regular crossbow bolts instead of 1,500 elixir bolts. The color of the bolts shot from the level 8 X-Bow are identical to the color of the arrows shot from the Super Archer with both being cyan. The X-Bow may be inspired on the Polybolos, a repetition Balista used by ancient Greek. Like the X-Bow, the Polybolos was able to shoot multiple bolts without the need of being continuously recharged. The level 12 X-Bow in Air & Ground mode did not have sprites for depleted ammo in the February 2025 update. This can be seen most easily when Supercharging the X-Bow, where the ammo case will be missing for Ground mode while Air & Ground mode will still have it. It is added back in the March 2025 update. Comparisons The X-Bow is one of four defenses (the others being the Inferno Tower , Eagle Artillery , and the Scattershot ) that need to be reloaded. In ground-only mode, the X-Bow has a range of 14 tiles, the third-longest ranged damaging defensive building (the Firespitter being the second but has a limited attack radius, and Eagle Artillery being the first) in the Home Village (the Air Sweeper has a range of 15 tiles but it does no damage). If measured by the area that its firepower can cover, a centered X-Bow covers approximately 616 tiles in Ground mode and approximately 380 tiles in Air & Ground mode. At 7.8125 shots per second, the X-Bow is one of the two second-fastest shooting defenses in the game, tied with the Inferno Tower. However, the Firespitter has the highest attack speed of any defense in the game, firing projectiles once every 0.0625s in a burst. The X-Bow is one of the several defenses that appear in Clash Royale, including the Cannon , Mortar , Hidden Tesla , Bomb Tower , and the Inferno Tower. The X-Bow is one of the six defenses that can be set into a different mode, the others being the Inferno Tower, Cannon, Air Sweeper, Archer Tower , Mortar and the Multi-Gear Tower . Home Village Buildings Defensive Buildings Cannon • Archer Tower • Mortar • Air Defense • Wizard Tower • Air Sweeper • Hidden Tesla • Bomb Tower • X-Bow • Inferno Tower • Eagle Artillery • Scattershot • Builder's Hut • Spell Tower • Monolith • Multi-Archer Tower • Ricochet Cannon • Multi-Gear Tower • Firespitter • Revenge Tower • Super Wizard Tower • Wall Crafting Station : Hot Candle • Hero Hunter • Cake-A-Pult Town Hall : Giga Tesla • Giga Inferno ( TH13 • TH14 • TH15 • TH16 ) • Inferno Artillery • Guardians ( Longshot • Smasher • Logger ) Traps : Bomb • Spring Trap • Air Bomb • Giant Bomb • Seeking Air Mine • Skeleton Trap • Tornado Trap • Giga Bomb Resource Buildings Town Hall ( Magic Items ) • Gold Mine • Elixir Collector • Dark Elixir Drill • Gold Storage • Elixir Storage • Dark Elixir Storage • Clan Castle ( Treasury ) Army Buildings Army Camp • Barracks • Dark Barracks • Laboratory • Spell Factory • Hero Hall • Hero Banner • Dark Spell Factory • Blacksmith • Workshop • Pet House Other Buildings Builder's Hut • Helper Hut • B.O.B's Hut • Decorations • Obstacles • Boat • Airship • Forge • Loot Cart • Trader's Shop • Strongman's Caravan • Super Sauna • Goblin Workers' Stand [[File:{{{Alt}}}|28px|link=]] For the Home Village version, see X-Bow/Home Village . \"The X-Bow shoots powerful bolts with terrifying power. You can set it to target ground units or air units.\" Ground Mode Level 1 Level 2 Level 3 Level 4 Level 5 Air Mode Level 1 Level 2 Level 3 Level 4 Level 5 Summary The X-Bow is a single-target, rapid-firing defense that is unlocked at Builder Hall 10. It attacks by shooting blue Elixir at units from a long range. It can be configured to two modes - Ground Mode, which can only target ground troops, or Air Mode, which can only target air units. Unlike the Home Village version , the X-Bow can never target both ground and air troops at the same time and has the same range in both modes, at 12 tiles. Unlike the regular X-Bow from the Home Village, it does not need to be reloaded after a defense. Strategies Defensive Strategy The X-Bow's major niche is its very long range - second only to the Lava Launcher (which has a considerable blind spot). This makes up for its relatively low damage per second, and makes it an excellent tool to deny Cannon Carts , Beta Minions , or Battle Copter from safely picking off buildings, depending on the mode it is set to. It can be placed in the center of the base to enable it to cover as much of the base as possible, or as a frontline defense to deter long-range attacks on one side. If deployed on the frontline to take out long-range troops, you can block off the X-Bow with high-hitpoint non-defensive buildings. This gives the X-Bow as much time as possible to fire upon said troops, making it difficult for them to get value. The X-Bow should be placed in the second stage of the Builder Base when designing a base. This is to avoid enemy attacks tailoring their army to avoid the X-Bow in the first stage. Conversely, placing the X-Bow on the first stage can influence what attackers will choose for the first stage, and consequently what they will have to attack the second stage if they make it there. This, however is generally only relevant at higher trophy levels, where attackers are more likely to have multiple different troops upgraded to a competitive level. There should be at least a 2 tile gap between the X-Bow and any building on the outside of the base to help protect it against Electrofire Wizards , which can chain their lightning across one tile gaps. Because the X-Bow is incapable of targeting both ground and air at the same time, do defend it with complementary defenses depending on the mode set for it. When set to ground mode, some aerial coverage should be afforded, and vice versa. Offensive Strategy The X-Bow is not a major threat if it is facing a tank troop on its own, since it has the second-lowest DPS of any single-target defense, ahead of only the Archer Tower in long range mode. This does not mean it should be ignored completely (unless it cannot target the troops that are being used); because of its long range, it can pile up lots of damage over a period of time if one is focused on taking out other defenses. Against long-range units, the X-Bow should be watched out for, because it easily outranges them all even through their niche. Beta Minions and Cannon Carts will be quickly destroyed, while the Battle Copter will be weakened by a prolonged encounter with the X-Bow. If the X-Bow is connected to a building on the edge of the base via 1 tile gaps, you can use Electrofire Wizards in Electro Mode to damage it. Note that the Electrofire Wizards can only chain through 3 buildings before hitting the X-Bow, keep this in mind when planning your attack. Because of the X-Bow's high hitpoints, chain damage on its own is unlikely to destroy the X-Bow, especially if the X-Bow is hit late into the chain. In order to avoid damage from the X-Bow, you can use troops that the X-Bow cannot target, for example, if the X-Bow is set to ground, favor using air troops, and if the X-Bow is set to air, favor using ground troops. Upgrade Differences X-Bows undergo significant visual changes at all levels. Their upgrade differences mostly correspond to X-Bows in the Home Village of equal level. [ 1 ] When initially constructed, the X-Bow consists of a huge crossbow-like structure mounted on a base made of light-colored wood with a stone axle and a black, gear-shaped rim being riveted on it. It has small black stone on the corners of the stone foundation. When set to target air, the box gains wings at the rear. At level 2, the X-Bow base is replaced with normal wood, the gear is gilded. The stone foundation turns black and gold spike replaces the black stone on the corners. At level 3, the X-Bow base is replaced with wood dyed black, the axle is now gilded, the gear is black once again but still has gold rivets. The stone foundation has a slightly deeper shade of black and bigger and sharper black spikes replaces the gold spike. At level 4, the X-Bow base becomes a blue wheel with a gray axle, a golden octagonal rim with gold plating on each angle replaces the gear. The stone foundation is now made of rough gray rocks, the tip of the spikes glow a brighter blue than its base. At level 5, the X-Bow base's wheel turns gray, the golden rim becomes bigger that its gold plating on the sides now goes into the ground, its inner surface turns black. The stone foundation is now covered with a blue casing, complete with a metal band around it, there are more small spikes at the edges of the foundation with the main one becoming more pronounced, the glow comes from the base of the spikes. ↑ It uses hemp rope instead of a straight string, there are hemp ropes on the bow around the barrel, the ends of the bow are covered with metal, the small box where it would housing the elixir is light blue. The small gears on the base are shinier, and at level 4 and beyond the palette is blue instead of red. Instead of tilting the X-Bow upward for Ground & Air Mode, the entire X-Bow is raised for Air Mode. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Number Available Builder Hall Level 1 2 3 4 5 6 7 8 9 10 Total 0 0 0 0 0 0 0 0 0 1 Size 3x3 Level Damage per Second Damage per Shot Hitpoints Build Cost Build Time Experience Gained Builder Hall Level Required 1 80 15.36 1,700 4,400,000 7d 777 10 2 88 16.9 1,900 4,800,000 8d 831 10 3 96 18.43 2,100 5,200,000 10d 929 10 4 106 20.35 2,350 5,600,000 11d 974 10 5 116 22.27 2,600 6,000,000 12d 1,018 10 Range Attack Speed Damage Type Unit Type Targeted 12 0.192s Single Target Ground Air Icon Descriptions Tapping this icon displays information about the X-Bow, such as Level, Damage Per Second, Hitpoints, Range, Damage Type, and Targets. Tapping this icon begins upgrading the X-Bow to the next level, if you have enough resources and a free Master Builder or O.T.T.O . When the X-Bow is at maximum level, this icon is not shown. Tapping this icon instantly upgrades the X-Bow to the next level, at the cost of one Hammer of Building if you have one. When the X-Bow is at maximum level, or the Builder Hall requirements for the next level are not met, this icon is not shown. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems . Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building. Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost. This icon indicates that the X-Bow is currently set to Ground mode, to attack ground units only. Tapping this icon switches the X-Bow attack mode to attack air units only. This icon is only displayed while the X-Bow is in Ground mode. This icon indicates that the X-Bow is currently set to Air mode, to attack air units only. Tapping this icon switches the X-Bow attack mode to attack ground units only. This icon is only displayed while the X-Bow is in Air mode. Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Xbow_Shoot.ogg X-Bow shoots When the X-Bow shoots a unit https://clashofclans.fandom.com/wiki/File:Xbow_Picked.ogg X-Bow selected When the X-Bow is picked https://clashofclans.fandom.com/wiki/File:Xbow_Placed.ogg X-Bow placed When the X-Bow is placed https://clashofclans.fandom.com/wiki/File:Xbow_Change_Target.ogg X-Bow changes mode When the X-Bow is changed between ground or air mode History Date Description May 15, 2023 Added the X-Bow to the Builder Base with 5 levels and 2 modes. Trivia The X-Bow, along with the Walls , Army Camps , and Archer Towers are the only Builder Base buildings that have the same name but have a different design than their Home Village versions. This is likely due to the fact that the tower itself has a system where it can be set into different set of modes and adding cohesion to the steampunk theme. The Builder Base X-Bow and Archer Tower are the only defensive buildings in Builder Base that have two modes. The Builder X-Bow shoots slower than its Home Village rendition, firing once every 0.192s compared to 0.128s. The X-Bow is one of the defenses and traps in Builder Base that can be \"lifted\" to switch to air mode, the others being the Mine and Mega Mine . It is the only defense in the Builder Base to do so. The X-Bow is the only defense in the Builder Base to have only 5 total levels. In spite of this, it does not start at a higher level to match the max levels of other units of its type, unlike with Builder Base Troops and Battle Copter . Builder Base Buildings Defensive Buildings Cannon • Double Cannon • Archer Tower • Hidden Tesla • Firecrackers • Crusher • Guard Post • Air Bombs • Multi Mortar • O.T.T.O's Outpost ( Zappy ) • Roaster • Giant Cannon • Mega Tesla • Lava Launcher • X-Bow • Walls Traps : Push Trap • Spring Trap • Mine • Mega Mine Resource Buildings Builder Hall ( Magic Items ) • Gold Mine • Elixir Collector • Gold Storage • Elixir Storage • Gem Mine • B.O.B Control Army Buildings Builder Barracks • Army Camp • Star Laboratory • Battle Machine Altar • Reinforcement Camp • Healing Hut • Battle Copter Altar Other Buildings Boat • Decorations • Obstacles • B.O.T.O's Shack • Clock Tower • Elixir Cart The X-Bow is a defensive building that appears in the Home Village and Builder Base. For its appearances in each village see the following pages: X-Bow/Home Village X-Bow/Builder Base"
+}

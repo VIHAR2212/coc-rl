@@ -76,5 +76,22 @@
     * Unapplied items (Air Sweeper push mechanics, Traps, Heroes, other troops) cataloged in `data/reference/unconfirmed_th8_items.json` with `stats_verified: false` and NOT loaded into the simulator.
   - (5) **Verification:** `pytest -q` -> `20 passed in 30.76s`, `check_env` passed with zero errors, `python evaluate.py` completed across all 120 combos (600 episodes) with zero regressions.
 
+## Milestone M1e (CITATION SPOT-CHECK & TRUSTWORTHINESS AUDIT)
+- **Status:** PASSED (Attempt 1)
+- **Passed:**
+  - (1) **Stratified Reproducible Sampling:** Sampled 150 rows from `data/reference/clash_explorer_all.csv` proportional to stratum size across `(village, category, thRequired)` using `seed=42` (129 Home Village, 21 Builder Base across 10 unit/building categories).
+  - (2) **Live URL Verification & Caching:** Wrote `scripts/citation_spot_check.py` with 1.0s rate limiting and local caching (`data/raw/fandom_cache/`, `data/raw/cocguide_cache/`). Evaluated whether Level, HP, and DPS in each row matched the cited page.
+    * Overall result: **53 matches (35.3%)**, **89 mismatches (59.3%)**, **7 unreachable URLs (4.7%)**, **1 page lacking value (0.7%)**.
+    * Source sites: Fandom (35.6% match over 149 citations), coc.guide (15.3% match over 98 citations), third-party mirrors (0% match / dead links).
+  - (3) **Audit Report (`data/reference/CITATION_CHECK.md`):**
+    * Documented match rates across all categories (e.g. Defense 60.0%, Elixir Troops 58.3%, Hero Equipment 0.0%, Super Troops 0.0%).
+    * Analyzed `"confidence": "HIGH"` labels: **NOT justified** (147/150 rows labeled HIGH, yet only 35.4% matched). Source app creator assigned HIGH confidence blanketly without validating against live pages or accounting for patch drifts or string placeholders.
+    * Detailed 10 concrete mismatch examples with row vs page values and root cause analysis.
+  - (4) **Troop Level & Discrepancy Breakdown:**
+    * In simulator (Fandom Lab 6): Giant, Barbarian, Archer, Goblin, and Wall Breaker are all **Level 5**.
+    * In explorer data: Giant, Barbarian, Archer, and Goblin are listed at **Level 6** for TH8 because the author mistakenly mapped Laboratory 6 to Level 6 (instead of Lab 5 -> L4, Lab 6 -> L5).
+    * Even comparing at the **same level (Level 5)**, there are **real underlying stat disagreements** due to balance patches: Giant HP (900 vs 670, a 230-HP gap), Archer (40 HP / 20 DPS vs 44 HP / 22 DPS), Goblin (65 vs 52 HP), and Wall Breaker (43 vs 46 DPS), while Barbarian matches exactly (105 HP / 23 DPS).
+  - (5) **Verification & Integrity:** Zero simulator changes, zero stat changes. `pytest -q` -> `20 passed in 21.21s`, `check_env` passed with zero errors.
+
 ## Current Step: FINAL_REPORT.txt
 - **Next action:** Update `FINAL_REPORT.txt` with M7b evidence, commit in small steps, and push to `origin/main`.

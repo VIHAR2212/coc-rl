@@ -1,0 +1,130 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash (Ground Only)",
+        "Housing Space": "20",
+        "Movement Speed": "24",
+        "Attack Speed": "1.1s",
+        "Range": "0.6 tiles",
+        "Special Ability": "Farewell Gift"
+      }
+    ],
+    [
+      {
+        "Boost Cost": "25,000",
+        "Boost Duration": "3d",
+        "Valkyrie Level Required": "7"
+      }
+    ],
+    [
+      {
+        "Level": "7",
+        "Damage per Second": "250",
+        "Damage per Hit": "275",
+        "Hitpoints": "2,400"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "300",
+        "Damage per Hit": "330",
+        "Hitpoints": "2,700"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "325",
+        "Damage per Hit": "357.5",
+        "Hitpoints": "2,900"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "350",
+        "Damage per Hit": "385",
+        "Hitpoints": "3,400"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "375",
+        "Damage per Hit": "412.5",
+        "Hitpoints": "3,900"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "405",
+        "Damage per Hit": "445.5",
+        "Hitpoints": "4,500"
+      }
+    ],
+    [
+      {
+        "Date": "October 10, 2020",
+        "Description": "Announced the Super Valkyrie, with levels 7 and 8."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Description": "Added the Super Valkyrie."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Description": "Added the level 9 Super Valkyrie."
+      },
+      {
+        "Date": "June 27, 2022",
+        "Description": "Increased hitpoints at levels 7 to 9: Level 7: 2,000 -> 2,400 Level 8: 2,300 -> 2,700 Level 9: 2,500 -> 2,900 Increased attack speed from 1.8s to 1.1s (Damage per Second is unchanged). Reduced movement speed from 28 to 24. Increased radius of the dropped Rage Spell from 3.5 tiles to 4 tiles."
+      },
+      {
+        "Date": "June 12, 2023",
+        "Description": "Added the level 10 Super Valkyrie."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 11 Super Valkyrie."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Reduced training time from 3m 45s to 2m 55s."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "January 12, 2026",
+        "Description": "Allowed defensive Super Valkyrie's death rage to affect Defenses."
+      },
+      {
+        "Date": "April 27, 2026",
+        "Description": "Added the level 12 Super Valkyrie."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her base version, see Valkyrie . For the spell, see Rage Spell . For the defensive spell, see Spell Tower#Rage Spell Tower . \"Not only are Super Valkyries superior to regular Valkyries in every way, they're also way more angry!\" Level 7-12 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Statistics 4 History 5 Gallery 6 Trivia 6.1 Comparisons Summary The Super Valkyrie is a Super Troop based on the Valkyrie . It can be unlocked by boosting the Valkyrie when the Valkyrie is at least level 7. Boosting the Valkyrie requires 25,000 Dark Elixir or a Super Potion , and doing so allows the Valkyrie to be boosted for 3 days. The level of Super Valkyrie you obtain from the boost corresponds to the level of Valkyrie you have. Because of the level requirement, players require Town Hall 12 in order to boost Valkyries into Super Valkyries. However, because of the Laboratory level cap, players require a level 6 Clan Castle or greater in order to get donated one, allowing anyone Town Hall 10 or above to get one. The Super Valkyrie is a Valkyrie with increased hitpoints and damage, but drops a Rage Spell -like effect on death (although this effect is visually different from a Rage Spell, it behaves identically with some exceptions). The first attack of the Super Valkyrie is much slower that those of the regular Valkyrie's, but is compensated by attacking faster than the latter after every subsequent attack. The Super Valkyrie's Rage Spell is identical to a level 4 Rage Spell in terms of damage increase and speed increase. However, her Rage Spell affects a smaller area (4 tile radius, compared to the Rage Spell's 5) and lasts shorter than a regular Rage Spell. The Rage Spell can also affect defenses, though the potency of it on defenses is +60% damage, the same as with Rage Spells dropped by a Rage Spell Tower or Smasher . Super Valkyries have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Super Valkyries will proceed to attack the nearest structure. Strategies Offensive Strategies It is best to send a Super Valkyrie with other troops to make the most of her rage effect. This can be particularly helpful in critical situations such as near a Town Hall , or when you run out of Haste Spells or Rage Spells . Another reason to do this is because the Super Valkyrie’s rage effect is much smaller than an actual Rage Spell, so you will need troops closer nearby if you want them to use it. Alternatively, you can use her as a frontliner to power other troops or by using a siege machine and strategically timing the Super Valkyrie's death, you can use the Rage Spell to power through the core of a base and even mitigate damage caused by Poison Bombs at Town Halls 14 to 16. The Super Valkyrie can also be used alongside regular Valkyries, since the former can tank for the latter, and the Rage effect can help the Valkyries wipe the core of the base. Alternatively, you can use it as a mini-tank at first, and the Rage effect can help troops tackle the base faster. The Super Valkyrie can also be used in Queen Charges to tank for the Queen, and the dropped Rage Spell can help power the Queen Charge. However, for this to be effective, the Super Valkyrie must be in a position where she dies to boost both the Archer Queen and Healers, otherwise, either of the two aforementioned will not be raged up. Super Valkyrie can be place in Troop Launcher to act as a Rage Spell at the core of the base, some filler troops of lower housing space is needed to let it launch Super Valkyries later. Defensive Strategies A Super Valkyrie may not be the best choice for a Clan Castle troop, as she is unable to attack air troops and can easily be taken out from them. However, her rage effect will boost nearby troops on her death, so combining her with other well-rounded defensive troops can benefit them. Alternatively, you can just sacrifice her and power the core defenses for a massive boost. But, If the opponent lures her well, the Rage Spell potential might be wasted completely. However, the Rage Spell Tower is a better alternative if you have unlocked it, while the rage effect is worse, it is much more consistent as it cannot be baited, and it is much more reliable compared with the Super Valkyrie, and can potentially be rechargeable. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Range Special Ability None Area Splash (Ground Only) 20 24 1.1s 0.6 tiles Farewell Gift Boost Cost Boost Duration Valkyrie Level Required 25,000 3d 7 Level Damage per Second Damage per Hit Hitpoints 7 250 275 2,400 8 300 330 2,700 9 325 357.5 2,900 10 350 385 3,400 11 375 412.5 3,900 12 405 445.5 4,500 History Date Description October 10, 2020 Announced the Super Valkyrie, with levels 7 and 8. October 12, 2020 Added the Super Valkyrie. April 12, 2021 Added the level 9 Super Valkyrie. June 27, 2022 Increased hitpoints at levels 7 to 9: Level 7: 2,000 -> 2,400 Level 8: 2,300 -> 2,700 Level 9: 2,500 -> 2,900 Increased attack speed from 1.8s to 1.1s (Damage per Second is unchanged). Reduced movement speed from 28 to 24. Increased radius of the dropped Rage Spell from 3.5 tiles to 4 tiles. June 12, 2023 Added the level 10 Super Valkyrie. December 12, 2023 Added the level 11 Super Valkyrie. February 10, 2025 Reduced training time from 3m 45s to 2m 55s. March 27, 2025 Removed training time. January 12, 2026 Allowed defensive Super Valkyrie's death rage to affect Defenses. April 27, 2026 Added the level 12 Super Valkyrie. Gallery Super Valkyrie icon Concept designs of Super Valkyrie. More concept designs of Super Valkyrie. 3D model of Super Valkyrie. Super Valkyrie Explained! New Troop for Clash of Clans Update! Trivia You can have a maximum of 17 Super Valkyries at one time in a complete set of fully upgraded Army Camps . This number increases to 19 if you include 2 that can fit into a level 8 or higher Clan Castle . On the battlefield, you can clone an additional 8 Super Valkyries with four level 8 or higher Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 27 Super Valkyries. The Super Valkyrie's ability has the same mechanic as the Lumberjack from Clash Royale, except her Rage does not deal damage upon dropped, has a larger radius, and buffs troops' damage instead of increasing their attack speed. Comparisons The Super Valkyrie is the third troop to have a spell effect on death, with the Electro Dragon being the first and the Ice Golem as the second. The Super Valkyrie is one of the six Super Troops to have a Super Troop logo, the others being the Super Giant , Rocket Balloon , Super Wizard , Super Witch , and the Super Bowler . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

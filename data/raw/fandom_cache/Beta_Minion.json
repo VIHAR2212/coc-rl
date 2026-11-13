@@ -1,0 +1,228 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Attack Type": "Single Target",
+        "Movement Speed": "38",
+        "Attack Speed": "1s",
+        "Builder Barracks Level Required": "4",
+        "Range": "4 tiles",
+        "Special Ability": "Power Shot"
+      }
+    ],
+    [
+      {
+        "Level": "# of Attacks",
+        "Damage per Second": "Damage per Hit"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "60",
+        "Damage per Attack": "60",
+        "Hitpoints": "200",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "4",
+        "Research Cost": "60",
+        "Research Time": "N/A",
+        "Star Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "60",
+        "Damage per Attack": "60",
+        "Hitpoints": "200",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "4",
+        "Research Cost": "75",
+        "Research Time": "50,000",
+        "Star Laboratory Level Required": "4h"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "65",
+        "Damage per Attack": "65",
+        "Hitpoints": "220",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "4",
+        "Research Cost": "75",
+        "Research Time": "110,000",
+        "Star Laboratory Level Required": "8h"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "65",
+        "Damage per Attack": "65",
+        "Hitpoints": "220",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "5",
+        "Research Cost": "75",
+        "Research Time": "220,000",
+        "Star Laboratory Level Required": "12h"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "72",
+        "Damage per Attack": "72",
+        "Hitpoints": "242",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "5",
+        "Research Cost": "75",
+        "Research Time": "330,000",
+        "Star Laboratory Level Required": "18h"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "72",
+        "Damage per Attack": "72",
+        "Hitpoints": "242",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "5",
+        "Research Cost": "90",
+        "Research Time": "360,000",
+        "Star Laboratory Level Required": "1d"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "81",
+        "Damage per Attack": "81",
+        "Hitpoints": "266",
+        "Units per Army Camp": "3",
+        "Power Shot Ability": "5",
+        "Research Cost": "90",
+        "Research Time": "900,000",
+        "Star Laboratory Level Required": "1d 12h"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "81",
+        "Damage per Attack": "81",
+        "Hitpoints": "266",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "5",
+        "Research Cost": "90",
+        "Research Time": "1,100,000",
+        "Star Laboratory Level Required": "2d"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "90",
+        "Damage per Attack": "90",
+        "Hitpoints": "293",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "5",
+        "Research Cost": "90",
+        "Research Time": "1,300,000",
+        "Star Laboratory Level Required": "2d"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "90",
+        "Damage per Attack": "90",
+        "Hitpoints": "293",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "5",
+        "Research Cost": "110",
+        "Research Time": "1,500,000",
+        "Star Laboratory Level Required": "2d 12h"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "99",
+        "Damage per Attack": "99",
+        "Hitpoints": "322",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "5",
+        "Research Cost": "110",
+        "Research Time": "2,300,000",
+        "Star Laboratory Level Required": "3d 12h"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "99",
+        "Damage per Attack": "99",
+        "Hitpoints": "322",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "6",
+        "Research Cost": "110",
+        "Research Time": "2,500,000",
+        "Star Laboratory Level Required": "4d 12h"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "108",
+        "Damage per Attack": "108",
+        "Hitpoints": "355",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "6",
+        "Research Cost": "110",
+        "Research Time": "3,300,000",
+        "Star Laboratory Level Required": "5d 12h"
+      },
+      {
+        "Level": "16",
+        "Damage per Second": "108",
+        "Damage per Attack": "108",
+        "Hitpoints": "355",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "6",
+        "Research Cost": "130",
+        "Research Time": "3,500,000",
+        "Star Laboratory Level Required": "5d 12h"
+      },
+      {
+        "Level": "17",
+        "Damage per Second": "117",
+        "Damage per Attack": "117",
+        "Hitpoints": "390",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "6",
+        "Research Cost": "130",
+        "Research Time": "4,000,000",
+        "Star Laboratory Level Required": "6d"
+      },
+      {
+        "Level": "18",
+        "Damage per Second": "117",
+        "Damage per Attack": "117",
+        "Hitpoints": "390",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "7",
+        "Research Cost": "130",
+        "Research Time": "4,200,000",
+        "Star Laboratory Level Required": "6d"
+      },
+      {
+        "Level": "19",
+        "Damage per Second": "126",
+        "Damage per Attack": "126",
+        "Hitpoints": "429",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "7",
+        "Research Cost": "130",
+        "Research Time": "4,800,000",
+        "Star Laboratory Level Required": "6d 12h"
+      },
+      {
+        "Level": "20",
+        "Damage per Second": "126",
+        "Damage per Attack": "126",
+        "Hitpoints": "429",
+        "Units per Army Camp": "4",
+        "Power Shot Ability": "7",
+        "Research Cost": "150",
+        "Research Time": "5,400,000",
+        "Star Laboratory Level Required": "6d 12h"
+      }
+    ],
+    [
+      {
+        "Builder Base Army": "Troops"
+      },
+      {
+        "Builder Base Army": "Heroes"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For its Home Village counterpart, see Minion . For its Clan Capital counterpart, see Minion Horde . For the Super Troop with a similar ability, see Super Minion . \"Attacks targets from a distance, glows in the dark, and is a maniac on the dance floor.\" Level 3-6 Level 7-10 Level 11-14 Level 15-18 Level 19-20 Contents 1 Summary 2 Strategies 2.1 Offensive Strategy 2.2 Defensive Strategy 3 Upgrade Differences 4 Statistics 5 Trivia 5.1 Comparisons Summary The Beta Minion is the fourth Builder Base Troop unlocked at Builder Barracks level 4, and is the first flying troop in Builder Base. It is a fast, weak, ranged flying unit with a special deployment ability. It is a Builder Base troop version of the Minion . It appears to be a Minion, albeit greener and has glowing features. Like the regular Minion, the Beta Minion's main method of attack is throwing exploding Dark Elixir. Beta Minions have no preferred target when attacking; they will simply attack the closest building to them. However, once they become aware of enemy Guard Post troops or Zappies (either by being attacked themselves or being near another friendly troop under attack), they will leave their previously targeted building and engage the enemy troops instead. Once all of the nearby enemy troops are defeated, they will proceed to attack the nearest building from their current location. Its ability, Power Shot , allows the Beta Minion to throw its first few attacks from a long range (about 8.5 tiles), doing increased damage per attack in the process. Strategies Offensive Strategy It is extremely useful to carry a small number of Beta Minions (one Army Camp's worth) to pick off buildings that are defended by ground defenses only ( Cannons , Double Cannons , Crushers , Lava Launcher , and Multi Mortar ). They are good to pick off buildings even if there is an anti-air defense in range, because of its Long Shot ability. It can pick off an Army Camp before its Long Shot ability finishes if it is highly upgraded. Beta Minions are surprisingly good against any defense, because their long range enables them to hit from seven tiles away. Once these hits stop it will probably die, however, Archer Towers and Firecrackers and any other air defenses should be taken out before deploying Beta Minions. Air Bombs and Roaster also deal heavy splash damage, so it is a good idea to avoid deploying your Beta Minions in one place. Using Boxer Giants as a distraction when using Beta Minions to attack other buildings is a good idea since the Boxer Giants will attack the defensive buildings and keep them occupied while the Beta Minions attack all the outside buildings, achieving at least 50% damage. Note that while Boxer Giants can be used to destroy Firecrackers, Roaster, and Air Bombs, the Giants will not occupy their attention while they are being attacked (they will still attack your Beta Minions). They work well with Drop Ships , as the Drop Ships can absorb damage from defenses, allowing the Beta Minions to do lots of damage. Baby Dragons also work as a substitute to Drop Ships when the latter is not unlocked or at a low level, even if using Baby Dragons in this manner does not allow them to use their ability. Defensive Strategy Obvious lanes of approach can be trapped with Mines that are set to air and/or a Hidden Tesla . Setting Archer Towers to fast attack can help dispose of Beta Minions quickly. However, it is not recommended to have them exposed as the Beta Minions can outrange the Archer Towers in this case while using their Long Shot ability. Air Bombs are a significant defense when defending against swarms of Beta Minions, as they are capable of destroying multiple Beta Minions in one bomb. While a Roaster works fine against swarms of air troops, the Air Bombs have an advantage in the sense that it cannot be distracted by ground troops. Cramming your base into a corner of the map can eliminate the full use of the Long Shot ability on the sides closest to the edge of the map. Upgrade Differences Initially, the Beta Minion resembles the regular Minion, but is green and has a noticeable glow. At level 7, the Beta Minion's horns grow larger. At level 11, the Beta Minion's wings turn green. The body and arms also turn brighter. At level 15, the Beta Minion's wings and horns turn purple. At level 19, the Beta Minion’s wings and horns turn black. Statistics Gold Pass modifiers Input Gold Pass boost to modify the statistics in the tables below accordingly Apply Reset Attack Type Movement Speed Attack Speed Builder Barracks Level Required Range Special Ability Single Target 38 1s 4 4 tiles Power Shot Level Damage per Second Damage per Attack Hitpoints Units per Army Camp Power Shot Ability Research Cost Research Time Star Laboratory Level Required # of Attacks Damage per Hit 3 60 60 200 3 4 60 N/A N/A N/A 4 60 60 200 3 4 75 50,000 4h 3 5 65 65 220 3 4 75 110,000 8h 3 6 65 65 220 3 5 75 220,000 12h 3 7 72 72 242 3 5 75 330,000 18h 4 8 72 72 242 3 5 90 360,000 1d 4 9 81 81 266 3 5 90 900,000 1d 12h 5 10 81 81 266 4 5 90 1,100,000 2d 5 11 90 90 293 4 5 90 1,300,000 2d 6 12 90 90 293 4 5 110 1,500,000 2d 12h 6 13 99 99 322 4 5 110 2,300,000 3d 12h 7 14 99 99 322 4 6 110 2,500,000 4d 12h 7 15 108 108 355 4 6 110 3,300,000 5d 12h 8 16 108 108 355 4 6 130 3,500,000 5d 12h 8 17 117 117 390 4 6 130 4,000,000 6d 9 18 117 117 390 4 7 130 4,200,000 6d 9 19 126 126 429 4 7 130 4,800,000 6d 12h 10 20 126 126 429 4 7 150 5,400,000 6d 12h 10 Trivia The Beta Minion throws Dark Elixir and explodes into a Dark Elixir bubble explosion upon death, even though the Builder Base has no Dark Elixir, and that the Beta Minion is associated with Builder Elixir. Like its Home Village counterpart, Beta Minions \"sneeze\" when an Army Camp is tapped on. Comparisons The Beta Minion is the only Builder Base Troop version of one of the Home Village troops to have unique sounds of being deployed, attacking, and dying. The Beta Minion, along with the Raged Barbarian and Sneaky Archer are the only Builder Base Troops to have an ability that's temporary. Builder Base Army Troops Raged Barbarian • Sneaky Archer • Boxer Giant • Beta Minion • Bomber • Baby Dragon • Cannon Cart • Night Witch ( Bat ) • Drop Ship ( Skeleton ) • Power P.E.K.K.A • Hog Glider • Electrofire Wizard Heroes Battle Machine • Battle Copter"
+}

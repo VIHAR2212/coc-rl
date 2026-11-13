@@ -1,0 +1,251 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "User": "Archer Queen",
+        "Ability Type": "Active",
+        "Rarity": "Common",
+        "Unlock Requirement": "Available by default"
+      }
+    ],
+    [
+      {
+        "Level": "Summoned Archers",
+        "Ability Attributes": "Archer Invisibility Duration",
+        "Hero Boosts": "Damage per Second Increase",
+        "Upgrade Cost": "HP Recovery Increase",
+        "Blacksmith Level Required": "Shiny Ore"
+      },
+      {
+        "Level": "1",
+        "Ability Attributes": "5",
+        "Hero Boosts": "3.5s",
+        "Upgrade Cost": "28",
+        "Blacksmith Level Required": "176"
+      },
+      {
+        "Level": "2",
+        "Ability Attributes": "5",
+        "Hero Boosts": "3.5s",
+        "Upgrade Cost": "37",
+        "Blacksmith Level Required": "193"
+      },
+      {
+        "Level": "3",
+        "Ability Attributes": "10",
+        "Hero Boosts": "4.0s",
+        "Upgrade Cost": "46",
+        "Blacksmith Level Required": "209"
+      },
+      {
+        "Level": "4",
+        "Ability Attributes": "10",
+        "Hero Boosts": "4.0s",
+        "Upgrade Cost": "54",
+        "Blacksmith Level Required": "226"
+      },
+      {
+        "Level": "5",
+        "Ability Attributes": "10",
+        "Hero Boosts": "4.0s",
+        "Upgrade Cost": "61",
+        "Blacksmith Level Required": "242"
+      },
+      {
+        "Level": "6",
+        "Ability Attributes": "15",
+        "Hero Boosts": "4.5s",
+        "Upgrade Cost": "68",
+        "Blacksmith Level Required": "259"
+      },
+      {
+        "Level": "7",
+        "Ability Attributes": "15",
+        "Hero Boosts": "4.5s",
+        "Upgrade Cost": "78",
+        "Blacksmith Level Required": "275"
+      },
+      {
+        "Level": "8",
+        "Ability Attributes": "15",
+        "Hero Boosts": "4.5s",
+        "Upgrade Cost": "88",
+        "Blacksmith Level Required": "292"
+      },
+      {
+        "Level": "9",
+        "Ability Attributes": "20",
+        "Hero Boosts": "5.0s",
+        "Upgrade Cost": "99",
+        "Blacksmith Level Required": "308"
+      },
+      {
+        "Level": "10",
+        "Ability Attributes": "20",
+        "Hero Boosts": "5.0s",
+        "Upgrade Cost": "110",
+        "Blacksmith Level Required": "323"
+      },
+      {
+        "Level": "11",
+        "Ability Attributes": "20",
+        "Hero Boosts": "5.0s",
+        "Upgrade Cost": "120",
+        "Blacksmith Level Required": "341"
+      },
+      {
+        "Level": "12",
+        "Ability Attributes": "25",
+        "Hero Boosts": "5.5s",
+        "Upgrade Cost": "127",
+        "Blacksmith Level Required": "358"
+      },
+      {
+        "Level": "13",
+        "Ability Attributes": "25",
+        "Hero Boosts": "5.5s",
+        "Upgrade Cost": "134",
+        "Blacksmith Level Required": "374"
+      },
+      {
+        "Level": "14",
+        "Ability Attributes": "25",
+        "Hero Boosts": "5.5s",
+        "Upgrade Cost": "140",
+        "Blacksmith Level Required": "396"
+      },
+      {
+        "Level": "15",
+        "Ability Attributes": "30",
+        "Hero Boosts": "6.0s",
+        "Upgrade Cost": "145",
+        "Blacksmith Level Required": "418"
+      },
+      {
+        "Level": "16",
+        "Ability Attributes": "30",
+        "Hero Boosts": "6.0s",
+        "Upgrade Cost": "150",
+        "Blacksmith Level Required": "440"
+      },
+      {
+        "Level": "17",
+        "Ability Attributes": "30",
+        "Hero Boosts": "6.0s",
+        "Upgrade Cost": "154",
+        "Blacksmith Level Required": "462"
+      },
+      {
+        "Level": "18",
+        "Ability Attributes": "35",
+        "Hero Boosts": "6.5s",
+        "Upgrade Cost": "159",
+        "Blacksmith Level Required": "484"
+      }
+    ],
+    [
+      {
+        "Archer Queen Level": "1-10",
+        "Archer Puppet Level": "1"
+      },
+      {
+        "Archer Queen Level": "11-20",
+        "Archer Puppet Level": "2"
+      },
+      {
+        "Archer Queen Level": "21-25",
+        "Archer Puppet Level": "3"
+      },
+      {
+        "Archer Queen Level": "26-30",
+        "Archer Puppet Level": "4"
+      },
+      {
+        "Archer Queen Level": "31-35",
+        "Archer Puppet Level": "5"
+      },
+      {
+        "Archer Queen Level": "36-40",
+        "Archer Puppet Level": "6"
+      },
+      {
+        "Archer Queen Level": "41-45",
+        "Archer Puppet Level": "7"
+      },
+      {
+        "Archer Queen Level": "46-50",
+        "Archer Puppet Level": "8"
+      },
+      {
+        "Archer Queen Level": "51-55",
+        "Archer Puppet Level": "9"
+      },
+      {
+        "Archer Queen Level": "56-60",
+        "Archer Puppet Level": "10"
+      },
+      {
+        "Archer Queen Level": "61-65",
+        "Archer Puppet Level": "11"
+      },
+      {
+        "Archer Queen Level": "66-70",
+        "Archer Puppet Level": "12"
+      },
+      {
+        "Archer Queen Level": "71-75",
+        "Archer Puppet Level": "13"
+      },
+      {
+        "Archer Queen Level": "76-80",
+        "Archer Puppet Level": "14"
+      },
+      {
+        "Archer Queen Level": "81-90",
+        "Archer Puppet Level": "15"
+      }
+    ],
+    [
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the Archer Puppet, separated from the original Royal Cloak ability of the Archer Queen."
+      },
+      {
+        "Date": "September 9, 2024",
+        "Description": "Archers summoned by the Archer Puppet are now granted invisibility, ranging from 3.5s to 6.5s long, increasing by 0.5 seconds for every third level of the Archer Puppet. Archer spawning speed has been changed to spawn 5 every second."
+      },
+      {
+        "Date": "February 10, 2025",
+        "Description": "Increased passive damage increase at all levels by 10%: Level 1: 26 -> 28 Level 2: 34 -> 37 Level 3: 42 -> 46 Level 4: 49 -> 54 Level 5: 55 -> 61 Level 6: 62 -> 68 Level 7: 71 -> 78 Level 8: 80 -> 88 Level 9: 90 -> 99 Level 10: 100 -> 110 Level 11: 109 -> 120 Level 12: 115 -> 127 Level 13: 122 -> 134 Level 14: 127 -> 140 Level 15: 132 -> 145 Level 16: 136 -> 150 Level 17: 140 -> 154 Level 18: 144 -> 159 Increased health recovery at all levels by 10%: Level 1: 160 -> 176 Level 2: 175 -> 193 Level 3: 190 -> 209 Level 4: 205 -> 226 Level 5: 220 -> 242 Level 6: 235 -> 259 Level 7: 250 -> 275 Level 8: 265 -> 292 Level 9: 280 -> 308 Level 10: 295 -> 323 Level 11: 310 -> 341 Level 12: 325 -> 358 Level 13: 340 -> 374 Level 14: 360 -> 396 Level 15: 380 -> 418 Level 16: 400 -> 440 Level 17: 420 -> 462 Level 18: 440 -> 484"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] \"Summons a gang of invisible Archers \" Contents 1 Summary 2 Strategies 2.1 Offensive Strategy 2.2 Defensive Strategy 3 Statistics 3.1 Equipment Migration 4 History 5 Trivia Summary The Archer Puppet is a piece of Hero Equipment for the Archer Queen . It is one of the two Hero Equipment that is unlocked alongside her, the other being the Invisibility Vial . The Archer Puppet enables the Archer Queen to summon a number of Archers when using her ability. These Archers are granted temporary invisibility, but the Queen is not made invisible at the same time, unless she is using other equipment that grants her invisibility. The Archers spawned by the ability are equal in Level to the Level of Archers that the player has researched in the Laboratory . For example, if the player has upgraded Archers to Level 5 in the Laboratory, the ability will spawn Level 5 Archers. In addition to the ability, the Archer Puppet grants additional damage per second to the Archer Queen, and increases the amount of health she recovers when using the ability. Strategies Offensive Strategy The Archer Puppet's Archers can give the Archer Queen additional damage, and distract defenses once they turn visible. However, because the Archer Puppet does not grant invisibility to the Archer Queen herself, defenses will continue to fire upon the Queen, and may also harm invisible Archers through splash damage, unless the Archer Queen is herself using equipment that grants her this, namely the Invisibility Vial or the Magic Mirror . Without an invisibility-granting equipment, the Archer Queen remains vulnerable until the Archers become visible, but spells such as Freeze Spells and Invisibility Spells can buy time for this to happen. At all Levels, the invisibility time of the Archers are shorter than what the Queen has from the Invisibility Vial, allowing them to be targeted first to tank for the Queen. The Archers can assist the Queen in doing additional damage as long as they do not get hit or fall victim to a ground trap. They can also be used to counter the Multi-Archer Tower as the tower will spread its fire to three targets as long as the Archers stay alive, but this requires the Archers to first turn visible. As with usage of the Barbarian Puppet , one should take caution in using the ability near empty spaces in the base, as the summoned Archers can be instantly wiped out by a Bomb or Giant Bomb . To maximize the effectiveness of the ability, it is recommended that Archers are upgraded as much as possible in the Laboratory, even if they are not used elsewhere in the army, as the Level of Archers spawned correspond to the Level of Archers you have in your Laboratory. Defensive Strategy Despite the invisibility, splash defenses and traps can still damage the Archers if they are in the splash radius, mainly cause by the Archer Queen being the target. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ Apply Reset User Ability Type Rarity Unlock Requirement Archer Queen Active Common Available by default Level Ability Attributes Hero Boosts Upgrade Cost Blacksmith Level Required Summoned Archers Archer Invisibility Duration Damage per Second Increase HP Recovery Increase Shiny Ore Glowy Ore 1 5 3.5s 28 176 N/A N/A N/A 2 5 3.5s 37 193 120 - 1 3 10 4.0s 46 209 240 20 1 4 10 4.0s 54 226 400 - 1 5 10 4.0s 61 242 600 - 1 6 15 4.5s 68 259 840 100 1 7 15 4.5s 78 275 1,120 - 1 8 15 4.5s 88 292 1,440 - 1 9 20 5.0s 99 308 1,800 200 1 10 20 5.0s 110 323 1,900 - 3 11 20 5.0s 120 341 2,000 - 3 12 25 5.5s 127 358 2,100 400 3 13 25 5.5s 134 374 2,200 - 5 14 25 5.5s 140 396 2,300 - 5 15 30 6.0s 145 418 2,400 600 5 16 30 6.0s 150 440 2,500 - 7 17 30 6.0s 154 462 2,600 - 7 18 35 6.5s 159 484 2,700 600 7 Equipment Migration When the Hero Equipment update was released, players' starting Hero Equipment was leveled up for free, without requiring the appropriate Blacksmith level, so that Heroes' capabilities remained roughly the same before and after the update. The level of Hero Equipment obtained from this process depended on the player's Hero level, and is archived in this table below. Archer Queen Level Archer Puppet Level 1-10 1 11-20 2 21-25 3 26-30 4 31-35 5 36-40 6 41-45 7 46-50 8 51-55 9 56-60 10 61-65 11 66-70 12 71-75 13 76-80 14 81-90 15 History Date Description December 12, 2023 Added the Archer Puppet, separated from the original Royal Cloak ability of the Archer Queen. September 9, 2024 Archers summoned by the Archer Puppet are now granted invisibility, ranging from 3.5s to 6.5s long, increasing by 0.5 seconds for every third level of the Archer Puppet. Archer spawning speed has been changed to spawn 5 every second. February 10, 2025 Increased passive damage increase at all levels by 10%: Level 1: 26 -> 28 Level 2: 34 -> 37 Level 3: 42 -> 46 Level 4: 49 -> 54 Level 5: 55 -> 61 Level 6: 62 -> 68 Level 7: 71 -> 78 Level 8: 80 -> 88 Level 9: 90 -> 99 Level 10: 100 -> 110 Level 11: 109 -> 120 Level 12: 115 -> 127 Level 13: 122 -> 134 Level 14: 127 -> 140 Level 15: 132 -> 145 Level 16: 136 -> 150 Level 17: 140 -> 154 Level 18: 144 -> 159 Increased health recovery at all levels by 10%: Level 1: 160 -> 176 Level 2: 175 -> 193 Level 3: 190 -> 209 Level 4: 205 -> 226 Level 5: 220 -> 242 Level 6: 235 -> 259 Level 7: 250 -> 275 Level 8: 265 -> 292 Level 9: 280 -> 308 Level 10: 295 -> 323 Level 11: 310 -> 341 Level 12: 325 -> 358 Level 13: 340 -> 374 Level 14: 360 -> 396 Level 15: 380 -> 418 Level 16: 400 -> 440 Level 17: 420 -> 462 Level 18: 440 -> 484 Trivia The Archer Puppet resembles a voodoo doll of an Archer . A voodoo doll is an effigy that is typically used for the insertion of pins. Such practices are found in various forms in the magical traditions of many cultures around the world. The Archer Puppet is one of the first equipment to be added to the game, alongside the Barbarian Puppet , Rage Vial , Earthquake Boots , Vampstache , Invisibility Vial , Giant Arrow , Healer Puppet , Eternal Tome , Life Gem , Rage Gem , Healing Tome , Royal Gem , and Seeking Shield . The Archer Puppet is one of the equipment that spawn additional troops when activated, the others being Barbarian Puppet, Healer Puppet, Action Figure , Hechnmen Puppet , Lavaloon Puppet , and Hog Rider Puppet . The Archer Puppet is one of the Common equipment that do not require the Blacksmith to be built in order to unlock them, the others being Barbarian Puppet, Rage Vial, and Invisibility Vial. If the player does not have Archers unlocked, the Archer Puppet will spawn a minimum of Level 1 Archers. Despite requiring a Level 7 Blacksmith in order to have a Level 15 Archer Puppet, it can be obtained from as low as a Level 1 Blacksmith. This can happen due to the Equipment Migration in the Town Hall 16 Update (see Statistics above). Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}
