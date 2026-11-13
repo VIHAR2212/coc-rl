@@ -22,6 +22,22 @@
     "wall_breaker_l5": 8,
     "barbarian_l5": 64,
     "archer_l5": 60
+  },
+  "mass_dragons": {
+    "dragon_l3": 10
+  },
+  "gowiva": {
+    "golem_l2": 2,
+    "valkyrie_l2": 8,
+    "wizard_l5": 14,
+    "wall_breaker_l5": 6,
+    "archer_l5": 8
+  },
+  "hog_rush": {
+    "hog_rider_l4": 28,
+    "wizard_l5": 10,
+    "archer_l5": 10,
+    "barbarian_l5": 10
   }
 }
 

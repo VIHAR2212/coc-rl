@@ -1,0 +1,384 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "": ""
+      }
+    ],
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "0",
+        "2": "0",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "1"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "1",
+        "2": "1",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "1"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Hitpoints": "500",
+        "Build Cost": "5,000",
+        "Build Time": "1m",
+        "Experience Gained": "7",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "2",
+        "Hitpoints": "550",
+        "Build Cost": "25,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "3",
+        "Hitpoints": "600",
+        "Build Cost": "50,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "4",
+        "Hitpoints": "650",
+        "Build Cost": "100,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "5",
+        "Hitpoints": "700",
+        "Build Cost": "200,000",
+        "Build Time": "8h",
+        "Experience Gained": "169",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "6",
+        "Hitpoints": "750",
+        "Build Cost": "400,000",
+        "Build Time": "16h",
+        "Experience Gained": "240",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Hitpoints": "830",
+        "Build Cost": "800,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Hitpoints": "950",
+        "Build Cost": "1,300,000",
+        "Build Time": "1d 18h",
+        "Experience Gained": "388",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Hitpoints": "1,070",
+        "Build Cost": "2,100,000",
+        "Build Time": "2d 18h",
+        "Experience Gained": "487",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Hitpoints": "1,140",
+        "Build Cost": "3,800,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Hitpoints": "1,210",
+        "Build Cost": "5,500,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Hitpoints": "1,280",
+        "Build Cost": "8,100,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Hitpoints": "1,350",
+        "Build Cost": "10,800,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "14",
+        "Hitpoints": "1,400",
+        "Build Cost": "13,000,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "15",
+        "Hitpoints": "1,450",
+        "Build Cost": "18,000,000",
+        "Build Time": "10d",
+        "Experience Gained": "929",
+        "Town Hall Level Required": "17"
+      },
+      {
+        "Level": "16",
+        "Hitpoints": "1,500",
+        "Build Cost": "27,000,000",
+        "Build Time": "16d",
+        "Experience Gained": "1,175",
+        "Town Hall Level Required": "18"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon begins upgrading the Laboratory to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Laboratory is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon instantly upgrades the Laboratory to the next level, at the cost of one Hammer of Building if you have one. When the Laboratory is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon boosts your Laboratory for 1 hour by a factor of twenty-four, at the cost of one Research Potion . This icon is only shown if you have at least one Research Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon opens up the Laboratory interface, allowing you to upgrade your Troops ' and Spells ' levels."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Laboratory, such as Level and Hitpoints.": "Tapping this icon will gives the player the option to assign a Lab Assistant to that upgrade. This icon only is only shown if you have unlocked Lab Assistant"
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "Game Release",
+        "Description": "Introduced the Laboratory, with 6 levels."
+      },
+      {
+        "Date": "September 19, 2012",
+        "Type": "Update",
+        "Description": "Upgraded troops are now visualized, giving them upgrade differences. Upgraded troops now have pink asterisks that represent their levels."
+      },
+      {
+        "Date": "February 5, 2013",
+        "Type": "Update",
+        "Description": "Added the level 7 Laboratory. The Laboratory now emits light inside the entrance when upgrading troops or spells."
+      },
+      {
+        "Date": "March 12, 2013",
+        "Type": "Update",
+        "Description": "The Laboratory screen now lets you browse available upgrades even while an upgrade is already in progress."
+      },
+      {
+        "Date": "May 23, 2013",
+        "Type": "Update",
+        "Description": "Added the level 8 Laboratory. Reduced upgrade costs at levels 5 to 7: Level 5: 540,000 -> 500,000 Level 6: 1,080,000 -> 1,000,000 Level 7: 3,000,000 -> 2,500,000"
+      },
+      {
+        "Date": "October 28, 2013",
+        "Type": "Maintenance Break",
+        "Description": "Fixed a bug where players were shown to have researched troop levels higher than their Laboratory level would allow them to. Their extra levels were also reverted back in this maintenance break."
+      },
+      {
+        "Date": "April 9, 2014",
+        "Type": "Update",
+        "Description": "Increased hitpoint at level 8 from 350 to 370."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Type": "Update",
+        "Description": "Redesigned level display to a symbol of numbers instead of numbers of pink asterisks. Increased hitpoints at all levels: Level 1: 250 -> 500 Level 2: 270 -> 550 Level 3: 280 -> 600 Level 4: 290 -> 650 Level 5: 310 -> 700 Level 6: 330 -> 750 Level 7: 350 -> 800 Level 8: 370 -> 850"
+      },
+      {
+        "Date": "July 1, 2015",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 7 and 8: Level 7: 800 -> 830 Level 8: 850 -> 950"
+      },
+      {
+        "Date": "December 10, 2015",
+        "Type": "Update",
+        "Description": "Added the level 9 Laboratory."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 10 Laboratory."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 2 to 9: Level 2: 5h ->  3h Level 3: 12h -> 8h Level 4: 1d -> 16h Level 5: 2d -> 1d 8h Level 6: 4d -> 2d 16h Level 7: 5d -> 3d 8h Level 8: 6d -> 4d Level 9: 7d -> 6d"
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 1 to 8 (except 3): Level 1: 30m -> 1m Level 2: 3h -> 2h Level 4: 16h -> 10h Level 5: 1d 18h -> 12h Level 6: 2d 16h -> 1d Level 7: 3d 8h -> 2d Level 8: 4d -> 3d Reduced upgrade costs at levels 7 and 8: Level 7: 2,500,000 -> 2,000,000 Level 8: 4,000,000 -> 3,000,000"
+      },
+      {
+        "Date": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 11 Laboratory. Resized the Laboratory from 4x4 to 3x3."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Research Potions now boost the Laboratory speed by 24x instead of 10x."
+      },
+      {
+        "Date": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 12 Laboratory. Ongoing Lab upgrade timer now continues normally when Lab is upgraded and can be finished with Gems or a Book. New unit/spell upgrades still cannot be started before the Lab upgrade is completed. Lab research screen is now accessible during Lab upgrade. The level badge flame now continues burning in combat hud when all troops/spells are deployed."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Type": "Update",
+        "Description": "Added horizontal scroll indicators to the Laboratory screen."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 3 to 11."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 13 laboratory."
+      },
+      {
+        "Date": "December 12, 2022",
+        "Type": "Update",
+        "Description": "Upgrades in the Laboratory can be started even while the Building is being upgraded."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 14 laboratory. Reduced upgrade costs at level 12 from 11,500,000 to 8,100,000."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Type": "Update",
+        "Description": "Added the level 15 Laboratory."
+      },
+      {
+        "Date": "November 17, 2025",
+        "Type": "Update",
+        "Description": "Added the level 16 Laboratory. Reduced upgrade time at level 15 from 16d to 10d. Reduced upgrade cost at level 15 from 20,000,000 to 18,000,000."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barracks_Select.ogg",
+        "Captions": "Laboratory selected",
+        "Description": "When the Laboratory is selected"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Barracks_Place.ogg",
+        "Captions": "Laboratory placed",
+        "Description": "When the Laboratory is placed or swapped with another building"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:LabUpgradeStart.ogg",
+        "Captions": "Laboratory upgrade begins",
+        "Description": "When the player confirms to upgrade something in the Laboratory"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:LabUpgradeEnd.ogg",
+        "Captions": "Laboratory upgrade is finished",
+        "Description": "When the research time is completed"
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}

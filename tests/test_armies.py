@@ -11,7 +11,7 @@ def test_armies_fill_th8_capacity_exactly():
     assert ARMY_LIMIT == 200
     assert armies_raw["_housing_capacity"] == ARMY_LIMIT
     armies = {k: v for k, v in armies_raw.items() if not k.startswith("_")}
-    assert 3 <= len(armies) <= 4
+    assert 3 <= len(armies) <= 10
     for name, comp in armies.items():
         used = sum(count * troops[k]["housing"] for k, count in comp.items())
         assert used == ARMY_LIMIT, f"{name} uses {used} != {ARMY_LIMIT}"

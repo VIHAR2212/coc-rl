@@ -1,0 +1,327 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash 0.3 Tile Radius (Ground & Air)",
+        "Housing Space": "4",
+        "Movement Speed": "16",
+        "Attack Speed": "1.5s",
+        "Barracks Level Required": "7",
+        "Range": "3 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "50",
+        "Damage per Attack": "75",
+        "Hitpoints": "75",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "70",
+        "Damage per Attack": "105",
+        "Hitpoints": "90",
+        "Research Cost": "120,000",
+        "Research Time": "4h",
+        "Laboratory Level Required": "3"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "90",
+        "Damage per Attack": "135",
+        "Hitpoints": "108",
+        "Research Cost": "300,000",
+        "Research Time": "5h",
+        "Laboratory Level Required": "4"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "125",
+        "Damage per Attack": "187.5",
+        "Hitpoints": "135",
+        "Research Cost": "600,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "170",
+        "Damage per Attack": "255",
+        "Hitpoints": "165",
+        "Research Cost": "1,200,000",
+        "Research Time": "18h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "185",
+        "Damage per Attack": "277.5",
+        "Hitpoints": "180",
+        "Research Cost": "2,000,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "200",
+        "Damage per Attack": "300",
+        "Hitpoints": "195",
+        "Research Cost": "2,500,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "215",
+        "Damage per Attack": "322.5",
+        "Hitpoints": "210",
+        "Research Cost": "3,100,000",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "230",
+        "Damage per Attack": "345",
+        "Hitpoints": "230",
+        "Research Cost": "4,000,000",
+        "Research Time": "2d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "245",
+        "Damage per Attack": "367.5",
+        "Hitpoints": "250",
+        "Research Cost": "5,500,000",
+        "Research Time": "3d 12h",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "260",
+        "Damage per Attack": "390",
+        "Hitpoints": "270",
+        "Research Cost": "10,000,000",
+        "Research Time": "5d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "275",
+        "Damage per Attack": "412.5",
+        "Hitpoints": "290",
+        "Research Cost": "11,500,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "290",
+        "Damage per Attack": "435",
+        "Hitpoints": "310",
+        "Research Cost": "16,000,000",
+        "Research Time": "10d 12h",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "310",
+        "Damage per Attack": "465",
+        "Hitpoints": "330",
+        "Research Cost": "27,000,000",
+        "Research Time": "14d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Wizard",
+        "Boost Cost": "25,000",
+        "Wizard Level Required": "9"
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Type": "The Wizard was in the original release of the game, with 5 levels."
+      },
+      {
+        "Date": "September 19, 2012",
+        "Type": "Update",
+        "Description": "The upgraded Wizard now shows pink asterisks that represent his level. The Wizard at levels 3-4, and 5 now have upgrade differences."
+      },
+      {
+        "Date": "August 30, 2012",
+        "Type": "Update",
+        "Description": "The Wizard's attacks gain visual effects."
+      },
+      {
+        "Date": "October 27, 2012",
+        "Type": "Update",
+        "Description": "Reduced training cost of Wizard."
+      },
+      {
+        "Date": "March 12, 2013",
+        "Type": "Update",
+        "Description": "The Wizard now does splash damage. The Wizard's upon death sound was changed. Prior to the update, the Wizard's upon death sounded like this ."
+      },
+      {
+        "Date": "August 27, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Wizard. Reduced the training time from 10m to 8m."
+      },
+      {
+        "Date": "May 4, 2016",
+        "Type": "Balance Changes",
+        "Description": "Reduced the training time from 8m to 5m."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Added the level 7 Wizard. Increased hitpoint and damage at level 6. Moved the level 6 to Town Hall from 10 to 9."
+      },
+      {
+        "Date": "June 27, 2017",
+        "Type": "Update",
+        "Description": "Added the level 8 Wizard. Reduced upgrade times and costs at levels 6 to 7 Wizard."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 9 Wizard."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 1 to 7."
+      },
+      {
+        "Date": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Reduced Gem donation cost from 5 to 3 gems."
+      },
+      {
+        "Date": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 5 to 8. Reduced training costs at all levels."
+      },
+      {
+        "Date": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs at levels 5 to 7."
+      },
+      {
+        "Date": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Added the level 10 Wizard."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times at all levels. Increased hitpoints at levels 4 to 7: Level 4: 130 -> 135 Level 5: 156 -> 165 Level 6: 175 -> 180 Level 7: 190 -> 195"
+      },
+      {
+        "Date": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Wizard."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 12 Wizard."
+      },
+      {
+        "Date": "November 25, 2024",
+        "Type": "Update",
+        "Description": "Added the level 13 Wizard. Reduced upgrade times at levels 3, 4, 6, 7, and 9 to 12: Level 3: 12h -> 10h Level 4: 18h -> 16h Level 6: 2d -> 1d 12h Level 7: 2d 16h -> 2d Level 9: 5d 6h -> 4d Level 10: 7d -> 5d 12h Level 11: 11d -> 8d Level 12: 14d -> 11d Reduced upgrade costs at levels 8 to 12: Level 8: 5,000,000 -> 4,000,000 Level 9: 5,800,000 -> 5,000,000 Level 10: 8,5000,000 -> 7,200,000 Level 11: 15,000,000 -> 13,5000,000 Level 12: 19,200,000 -> 16,5000,000"
+      },
+      {
+        "Date": "February 10, 2025",
+        "Type": "Update",
+        "Description": "The Wizards' fireballs gain new visual appearances, depending on their level."
+      },
+      {
+        "Date": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Date": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 8 to 11: Level 8: 2d 12h -> 2d 6h Level 9: 3d -> 2d 12h Level 10: 4d -> 3d 12h Level 11: 6d 18h -> 5d 12h"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Added the level 14 Wizard. Reduced upgrade time at level 13 from 14d to 10d 12h. Reduced upgrade cost at level 13 from 21,000,000 to 16,000,000."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_deploy.ogg",
+        "Captions": "Wizard deploys",
+        "Description": "When the Wizard is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_fireballhit.ogg https://clashofclans.fandom.com/wiki/File:Wizard_attack2.ogg https://clashofclans.fandom.com/wiki/File:Wizard_attack3.ogg",
+        "Captions": "Wizard casts fireball",
+        "Description": "When the Wizard attack with fireball"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_hit.ogg",
+        "Captions": "Fireball hits something",
+        "Description": "When the Wizard's fireball hits a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_die.ogg",
+        "Captions": "Wizard dies",
+        "Description": "When the Wizard dies"
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_deploy_beta1.wav https://clashofclans.fandom.com/wiki/File:Wizard_deploy_beta2.wav https://clashofclans.fandom.com/wiki/File:Wizard_deploy_beta3.wav",
+        "Captions": "Wizard deploys (beta)",
+        "Description": "When the Wizard is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Wizard_die_old.wav",
+        "Captions": "Wizard dies (old)",
+        "Description": "When the Wizard dies (removed since March 12, 2013 Update)"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}

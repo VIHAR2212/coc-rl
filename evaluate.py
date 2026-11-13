@@ -91,6 +91,13 @@ def run_baselines(
         writer.writeheader()
         writer.writerows(all_rows)
 
+    m5b_csv = RESULTS_DIR / "baselines_m5b.csv"
+    if output_csv.resolve() != m5b_csv.resolve():
+        with m5b_csv.open("w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(all_rows)
+
     print(f"\nSaved {len(all_rows)} episodes to {output_csv} in {time.perf_counter() - t0:.1f}s")
     print(f"\n{'Strategy':<14} {'Base':<14} {'Army':<14} {'Mean Dest':>10} {'3-Star':>9}")
     print("-" * 65)

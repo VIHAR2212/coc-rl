@@ -1,0 +1,327 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Area Splash 1 Tile Radius (Ground Only)",
+        "Housing Space": "8",
+        "Movement Speed": "24",
+        "Attack Speed": "1.8s",
+        "Dark Barracks Level Required": "3",
+        "Range": "0.5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "94",
+        "Damage per Hit": "169.2",
+        "Hitpoints": "750",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "106",
+        "Damage per Hit": "190.8",
+        "Hitpoints": "850",
+        "Research Cost": "3,000",
+        "Research Time": "8h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "119",
+        "Damage per Hit": "214.2",
+        "Hitpoints": "950",
+        "Research Cost": "5,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "133",
+        "Damage per Hit": "239.4",
+        "Hitpoints": "1,050",
+        "Research Cost": "10,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "148",
+        "Damage per Hit": "266.4",
+        "Hitpoints": "1,300",
+        "Research Cost": "16,000",
+        "Research Time": "1d 18h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "167",
+        "Damage per Hit": "300.6",
+        "Hitpoints": "1,500",
+        "Research Cost": "31,500",
+        "Research Time": "2d",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "185",
+        "Damage per Hit": "333",
+        "Hitpoints": "1,650",
+        "Research Cost": "55,000",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "196",
+        "Damage per Hit": "352.8",
+        "Hitpoints": "1,800",
+        "Research Cost": "77,500",
+        "Research Time": "3d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "208",
+        "Damage per Hit": "374.4",
+        "Hitpoints": "2,000",
+        "Research Cost": "105,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "223",
+        "Damage per Hit": "401.4",
+        "Hitpoints": "2,400",
+        "Research Cost": "120,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "238",
+        "Damage per Hit": "428.4",
+        "Hitpoints": "2,600",
+        "Research Cost": "170,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "255",
+        "Damage per Hit": "459",
+        "Hitpoints": "2,900",
+        "Research Cost": "340,000",
+        "Research Time": "14d",
+        "Laboratory Level Required": "15"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Valkyrie",
+        "Boost Cost": "25,000",
+        "Valkyrie Level Required": "7"
+      }
+    ],
+    [
+      {
+        "Patch": "March 11, 2013",
+        "Type": "Sneak Peek",
+        "Description": "Supercell published a teaser of Valkyrie."
+      },
+      {
+        "Patch": "March 12, 2013",
+        "Type": "Update",
+        "Description": "Added the Valkyrie, with 4 levels. She was one of the first Dark Elixir troops to be added, along with the Minion and Hog Rider ."
+      },
+      {
+        "Patch": "April 17, 2013",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 2 and 3."
+      },
+      {
+        "Patch": "July 29, 2013",
+        "Type": "Update",
+        "Description": "Increased damage at all levels. Reduced training costs at levels 1 to 3."
+      },
+      {
+        "Patch": "September 30, 2013",
+        "Type": "Update",
+        "Description": "Increased damage at all levels."
+      },
+      {
+        "Patch": "January 29, 2014",
+        "Type": "Update",
+        "Description": "Increased hitpoints by about 20% at all levels."
+      },
+      {
+        "Patch": "July 3, 2014",
+        "Type": "Update",
+        "Description": "Reworked the Valkyrie's targeting AI to attack between two buildings within her attack range, making full use of her area splash damage. If one of the buildings is destroyed and if there are any adjacent buildings close by, she will move between the two buildings for a more efficient attack."
+      },
+      {
+        "Patch": "July 4, 2014",
+        "Type": "Maintenance Break",
+        "Description": "Fixed a bug where the Valkyrie would not hit ranged targets under some circumstances."
+      },
+      {
+        "Patch": "September 16, 2014",
+        "Type": "Update",
+        "Description": "Reduced training time from 15 minutes to 8 minutes."
+      },
+      {
+        "Patch": "March 21, 2016",
+        "Type": "Update",
+        "Description": "Added the level 5 Valkyrie. At all levels, the Valkyrie's damage was increased as was her initial attack speed (attacking almost immediately after reaching her target), but her hitpoints were also reduced. Reduced upgrade times at levels 2 to 4 by 2 days. The sounds that she makes when attacking was also changed to sound similar to the Valkyrie in Clash Royale ."
+      },
+      {
+        "Patch": "March 24, 2016",
+        "Type": "Maintenance Break",
+        "Description": "Slightly reduced hitpoints at level 2 to 4."
+      },
+      {
+        "Patch": "May 4, 2016",
+        "Type": "Balance Changes",
+        "Description": "Reduced training time from 8 minutes to 5 minutes."
+      },
+      {
+        "Patch": "October 12, 2016",
+        "Type": "Update",
+        "Description": "Reduced training time from 5 minutes to 3 minutes."
+      },
+      {
+        "Patch": "October 11, 2017",
+        "Type": "Update",
+        "Description": "Added the level 6 Valkyrie."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 7 Valkyrie."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 2 to 6."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Reduced the gem cost donation from 8 to 6."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced training costs at all levels. Reduced upgrade times at level 2 to 5."
+      },
+      {
+        "Patch": "September 11, 2019",
+        "Type": "Balance Changes",
+        "Description": "Increased hitpoints at level 7 from 1,300 to 1,400."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Town Hall 13 Update",
+        "Description": "Increased hitpoints at level 7 from 1,400 to 1,450."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Added the level 8 Valkyrie. Reduced upgrade costs at levels 2 to 5."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Update",
+        "Description": "Reduced the upgrade costs and times at level 2 to 6. Added the Super Valkyrie , her Super Troop counterpart which could be boosted when upgraded to level 7."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 9 Valkyrie. Reduced upgrade costs and times at level 2 to 7."
+      },
+      {
+        "Patch": "August 12, 2021",
+        "Type": "Maintenance Break",
+        "Description": "Increased hitpoints at level 9 from 1,850 to 1,900."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 2 to 7. Increased hitpoints at levels 2 to 6: Level 2: 800 -> 850 Level 3: 850 -> 950 Level 4: 900 -> 1,050 Level 5: 1,100 -> 1,200 Level 6: 1,200 -> 1,300"
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Type": "Update",
+        "Description": "Increased hitpoints at levels 5 to 9: Level 5: 1,200 -> 1,300 Level 6: 1,300 -> 1,500 Level 7: 1,450 -> 1,650 Level 8: 1,650 -> 1,800 Level 9: 1,900 -> 2,000"
+      },
+      {
+        "Patch": "June 12, 2023",
+        "Type": "Update",
+        "Description": "Added the level 10 Valkyrie. Reduced upgrade times at levels 7 and 8: Level 7: 7d 18h -> 7d Level 8: 12d -> 10d Reduced upgrade costs at levels 7 and 8: Level 7: 123,000 -> 110,000 Level 8: 195,000 -> 155,000"
+      },
+      {
+        "Patch": "June 3, 2024",
+        "Type": "Balance Changes",
+        "Description": "Increased damage at levels 6 to 8: Level 6: 163 -> 167 Level 7: 178 -> 185 Level 8: 193 -> 196"
+      },
+      {
+        "Patch": "September 9, 2024",
+        "Type": "Update",
+        "Description": "Reduced hitpoint at level 11 from 2,800 to 2,600."
+      },
+      {
+        "Patch": "December 12, 2023",
+        "Type": "Town Hall 16 Update",
+        "Description": "Added the level 11 Valkyrie."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 1m 30s to 1m 10s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Maintenance Break",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Added the level 12 Valkyrie."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For her Super variant, see Super Valkyrie . \"A master of the two-handed axe, this glorious warrior runs between nearby buildings and can shred several troops or buildings at once with her whirlwind blow!\" Level 1-2 Level 3-4 Level 5 Level 6-7 Level 8 Level 9 Level 10 Level 11 Level 12 Contents 1 Summary 2 Strategies 2.1 Offensive Strategy 2.2 Defensive Strategy 3 Upgrade Differences 4 Statistics 5 History 6 Gallery 7 Trivia Summary The Valkyrie is the third Dark Elixir Troop to be unlocked, once the Dark Barracks is upgraded to level 3, which requires Town Hall level 8. On her artwork, she appears to be a fierce warrior with orange hair and eyebrows, blue eyes, and is dressed in a long leather loincloth with matching leather brassiere and knee-high boots. She wields a massive double-bladed axe, which is about half of her size. Valkyries have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Valkyries will proceed to attack the nearest structure. The Valkyries spin their axes around them as their method of attack, allowing them to attack multiple targets around them at once. They will run in between the buildings to do this when it is an ideal option. However, they will not run past a building to maximize spin effect. Strategies Offensive Strategy The Valkyrie can easily take out any exposed hero if there is a moderate number of Valkyries; this makes the whole attack easier and more effective. However, using Valkyries only for that purpose is a bad idea. Sending in one or two Valkyries along with an army of tough single-target troops is a very good idea, since the Valkyries can mow down trash buildings quicker than the normal troops and can quickly defeat hordes of weak defending ground troops (from the Clan Castle or Skeleton Traps ). The way Valkyries attack is by getting between at least two buildings and damaging all at the same time, but if the buildings are not close to each other, then watch out for traps hidden around them. (e.g., A Barracks near another one around a hidden Bomb ). This gives them a very high DPS per housing space considering this fact. Valkyries will immediately move to a different target right after killing an enemy troops or buildings, therefore resetting their attack pattern with little to no delay, potentially attacking multiple times every second as long as she keeps on one-shotting melee enemy troops such as Barbarians . Valkyries are a worthy substitute for P.E.K.K.As in high-level attacks. They are relatively tanky and much faster than P.E.K.K.As. Their ability to eliminate Clan Castle troops, heroes and the core of a defending village with their area of effect attack is impressive and their effectiveness, when paired with Healing Spells , is also favorable when compared to P.E.K.K.As. Valkyries cannot attack defending air troops, so use a unit that can target air such as the Archer Queen to deal with them. Poison Spells can also help to slow these defending air units down. Valkyries, when granted access to the core of the base, can destroy it with no problem. Help them get to the core with your Jump Spells and assist them with Rage , Clone , and Freeze Spells once they are inside. Rage Spells combined with Valkyries can make them freakishly fast; they can wipe out buildings extremely quickly, and easily kill defending heroes. She is used in a Town Hall 8 trophy pushing army popularly known as GoVaWi ( Golem , Valkyrie and Wizard ). It is showcased in the Whirl Power level in Practice Mode . She is also used in a Town Hall 16 strategy which includes spamming mass Valkyries and using tanks, Heroes, and Rage Spells to deal massive damage, and is very popular and overpowered at that Town Hall. At Town Hall 11s through 14s, with the rise of Electro Dragons and many bases built to counter this troop, the Valkyrie will lose a lot of effectiveness at these Town hall levels, as the buildings are more spread out, essentially making one of their main gimmicks worthless, so unless you are lucky and run into a good base that can prove effective or if you are in a lower league, using a Valkyrie-based army is not recommended. However, you can carry a Valkyrie or two to act as a mini-tank and to remove some swarms, as well as to send them in the main army to destroy ground Clan Castle troops. However, at Town Hall 15 and above, Valkyries can be paired with Root Riders , since the latter will destroy layers of walls while the Valkyries will destroy buildings inside the compartments, and can deal with defending Skeletons that are attacking the Root Riders. Defensive Strategy Valkyries are extremely powerful troops and can be an issue to deal with; they do a lot of damage and have quite a bit of health (although nowhere near as much as a Dragon , P.E.K.K.A, or Golem, they are quite versatile due to a lower capacity). Valkyries have health very similar to that of a Giant or Baby Dragon . Since her damage has a splash component, she can damage multiple buildings at once. Thus, it is not advised to group buildings together when defending against Valkyries. One exception is putting an Army Camp and another building together, as the Army Camp's hitbox is different from other buildings, as it does not extend out to the outside of the building, but can only be damaged at the center. Whenever Valkyries destroy a building, they will reposition themselves, which during that time, they could get shot down. Try to put buildings with different hitpoints together to hinder a Valkyrie army. Valkyries are wonderful Clan Castle troops. Their splash damage makes them extremely effective against large groups of lightly armored, melee-range troops such as Barbarians and Goblins , though they are also very capable against groups of ranged troops such as Archers and even Wizards as well. On several occasions, players have reported Valkyries to have single-handedly destroyed entire Goblin and Barbarian raids. She can only attack ground troops , however, and is completely ineffective against aerial units . Her moderate health allows her to survive a few hits. Like with most troops, however, the Valkyrie is somewhat vulnerable to the Poison Spell . At Town Hall 3, you can fill your Clan Castle troops with Valkyries and the rest are Archers. It will make your opponent hard to defeat her. The Valkyrie is particularly deadly when deployed among Barbarians as part of the Clan Castle complement; although she is a much more powerful troop, she is approximately the same size and can easily be missed in a group of Barbarians. Often it will take a few moments for the attacking player to notice her and understand why their ground troops are dying so quickly. The Valkyrie attacks nearby buildings that are close to each other, such as a Barracks near another one, so put traps around those buildings while making them close to each other as possible to deal damage or get rid of them. Spring Traps are not so effective against Valkyries for several reasons. Valkyries won't stop on top of a Spring Trap next to a building if the building is close to a Wall or another building. Even without the benefit of a Haste Spell or Rage Spell, they can sometimes outrun Spring Traps . However, to make Spring Traps more effective against Valkyries, you can place multiple spring traps in a narrow hallway with walls, where the Valkyries will spring off one by one, while also being constantly under fire from defenses. Pairing this with distracting troops like defending Heroes, Skeleton Traps, and even Clan Castle troops can increase the spring traps' effectiveness, as when they engage with said troops, they will stop, buying enough time for the Spring Traps to fully activate before the Valkyries are able to escape. The activation of the Town Hall weapon or the triggering of a Hidden Tesla can stun them for a brief period, allowing the Spring Traps to bounce them off. Upgrade Differences The Valkyrie undergoes significant visual changes at all levels except for levels 6 and 7. Initially, the Valkyrie is a fit, skinny woman with orange hair and eyebrows and blue eyes, wielding a steel axe. She wears a bra-like chest cover and a cloth covering the lower half of her body. At level 3, the Valkyrie's steel axe turns to a golden one. At level 4, the Valkyrie attains a golden spin in her attack. At level 5, the Valkyrie wears a black, furry tunic, similar to the level 6 Giant . The right side of her axe turns slightly brighter. At level 6, the Valkyrie wears a crown with a V-shaped symbol on her head. At level 8, the Valkyrie's crown becomes slightly thicker and wing-like appendages are added. The blades of her axe become silver, and a thick golden knob is added. A decorative spike is now on the top of the axe. She looks similar to the Valkyrie Queen Skin . At level 9, the Valkyrie's crown and bracelet turn neon yellow. The center of her axe turns neon yellow and tapers to green. At level 10, the Valkyrie's crown symbol turns into a golden equilateral triangle (similar to the one found on Town Hall level 15). The knob, shoulder and eye of her axe turn magenta, and it has a gold plate with a pattern on it in the center. Her axe blades also become larger and sharper. At level 11, the Valkyrie gains a new crown with a green diamond-shaped symbol resembling a leaf and two spike-shaped appendages curved upwards at the tips. The magenta parts of her axe turn green again while the blade changes to a shape resembling its level 8-9 versions, albeit bigger and is made out of gold. The handle of her axe also becomes gold. At level 12, the Valkyrie again gets a new crown but is now made of metal, the appendages on her crown also gets changed back to its previous levels, except they turn taupe and appear to be parallel to each other, the leaf symbol on the front gets replaced by a glowing blue crystal. Her tunic and shoes turn deep sea blue, and her bracelets also turn darker. Her axe becomes bigger, the blades turn dark metal and appear flatter, and its handle reverts to wood. The green parts of her axe are now blue with a glowing effect. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range None Area Splash 1 Tile Radius (Ground Only) 8 24 1.8s 3 0.5 tiles Level Damage per Second Damage per Hit Hitpoints Research Cost Research Time Laboratory Level Required 1 94 169.2 750 N/A N/A N/A 2 106 190.8 850 3,000 8h 6 3 119 214.2 950 5,000 1d 7 4 133 239.4 1,050 10,000 1d 12h 7 5 148 266.4 1,300 16,000 1d 18h 8 6 167 300.6 1,500 31,500 2d 9 7 185 333 1,650 55,000 2d 6h 10 8 196 352.8 1,800 77,500 3d 11 9 208 374.4 2,000 105,000 4d 12h 12 10 223 401.4 2,400 120,000 5d 13 11 238 428.4 2,600 170,000 6d 14 12 255 459 2,900 340,000 14d 15 Super Troop Boost Super Troop Boost Cost Valkyrie Level Required Super Valkyrie 25,000 7 History Patch Type Description March 11, 2013 Sneak Peek Supercell published a teaser of Valkyrie. March 12, 2013 Update Added the Valkyrie, with 4 levels. She was one of the first Dark Elixir troops to be added, along with the Minion and Hog Rider . April 17, 2013 Update Reduced upgrade times at levels 2 and 3. July 29, 2013 Update Increased damage at all levels. Reduced training costs at levels 1 to 3. September 30, 2013 Update Increased damage at all levels. January 29, 2014 Update Increased hitpoints by about 20% at all levels. July 3, 2014 Update Reworked the Valkyrie's targeting AI to attack between two buildings within her attack range, making full use of her area splash damage. If one of the buildings is destroyed and if there are any adjacent buildings close by, she will move between the two buildings for a more efficient attack. July 4, 2014 Maintenance Break Fixed a bug where the Valkyrie would not hit ranged targets under some circumstances. September 16, 2014 Update Reduced training time from 15 minutes to 8 minutes. March 21, 2016 Update Added the level 5 Valkyrie. At all levels, the Valkyrie's damage was increased as was her initial attack speed (attacking almost immediately after reaching her target), but her hitpoints were also reduced. Reduced upgrade times at levels 2 to 4 by 2 days. The sounds that she makes when attacking was also changed to sound similar to the Valkyrie in Clash Royale . March 24, 2016 Maintenance Break Slightly reduced hitpoints at level 2 to 4. May 4, 2016 Balance Changes Reduced training time from 8 minutes to 5 minutes. October 12, 2016 Update Reduced training time from 5 minutes to 3 minutes. October 11, 2017 Update Added the level 6 Valkyrie. June 11, 2018 Update Added the level 7 Valkyrie. June 26, 2018 Balance Changes Reduced upgrade times at levels 2 to 6. October 23, 2018 Update Reduced the gem cost donation from 8 to 6. April 2, 2019 Update Reduced training costs at all levels. Reduced upgrade times at level 2 to 5. September 11, 2019 Balance Changes Increased hitpoints at level 7 from 1,300 to 1,400. December 9, 2019 Town Hall 13 Update Increased hitpoints at level 7 from 1,400 to 1,450. March 30, 2020 Update Added the level 8 Valkyrie. Reduced upgrade costs at levels 2 to 5. October 12, 2020 Update Reduced the upgrade costs and times at level 2 to 6. Added the Super Valkyrie , her Super Troop counterpart which could be boosted when upgraded to level 7. April 12, 2021 Update Added the level 9 Valkyrie. Reduced upgrade costs and times at level 2 to 7. August 12, 2021 Maintenance Break Increased hitpoints at level 9 from 1,850 to 1,900. December 9, 2021 Update Reduced upgrade times at levels 2 to 7. Increased hitpoints at levels 2 to 6: Level 2: 800 -> 850 Level 3: 850 -> 950 Level 4: 900 -> 1,050 Level 5: 1,100 -> 1,200 Level 6: 1,200 -> 1,300 June 27, 2022 Update Increased hitpoints at levels 5 to 9: Level 5: 1,200 -> 1,300 Level 6: 1,300 -> 1,500 Level 7: 1,450 -> 1,650 Level 8: 1,650 -> 1,800 Level 9: 1,900 -> 2,000 June 12, 2023 Update Added the level 10 Valkyrie. Reduced upgrade times at levels 7 and 8: Level 7: 7d 18h -> 7d Level 8: 12d -> 10d Reduced upgrade costs at levels 7 and 8: Level 7: 123,000 -> 110,000 Level 8: 195,000 -> 155,000 June 3, 2024 Balance Changes Increased damage at levels 6 to 8: Level 6: 163 -> 167 Level 7: 178 -> 185 Level 8: 193 -> 196 September 9, 2024 Update Reduced hitpoint at level 11 from 2,800 to 2,600. December 12, 2023 Town Hall 16 Update Added the level 11 Valkyrie. February 10, 2025 Update Reduced training time from 1m 30s to 1m 10s. March 27, 2025 Maintenance Break Removed training time. April 27, 2026 Update Added the level 12 Valkyrie. Gallery Valkyrie's avatar Valkyrie's old look Valkyrie breaking through a piece of wood In-game model Ride of the Valkyries Clan Games challenge Valkyrie behind dead troops Trivia The Valkyrie has the same original face design as the Archer . You can have a maximum of 44 Valkyries at one time in a complete set of fully upgraded Army Camps . This number increases to 50 if you include 6 that can fit into a level 11 or higher Clan Castle . On the battlefield, you can clone an additional 24 Valkyries with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). These total to a maximum of 74 Valkyries. In Norse mythology, Valkyries collect spirits of the dead to take to Valhalla , one of the Norse afterlives. Most depictions show them riding on horseback, however, in Clash of Clans , they do not ride horses and instead travel on foot. When the Valkyrie attacks, grass flies off from around her. In Clash Royale , the fur coat that she wears in her original card artwork, that has been removed from the game, resembles a level 5 Valkyrie in Clash of Clans . In the game files, the Valkyrie is labeled as \"warriorgirl\". The Valkyrie is featured as a skin for the Archer Queen . She is one of five troops to be featured as a Hero skin, the others being the Goblin , P.E.K.K.A , Miner , and the Golem . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

@@ -48,6 +48,12 @@ class Troop:
     damage_vs_walls: float = 0.0
     splash_radius: float = 0.0
     is_flying: bool = False
+    wall_jumper: bool = False
+    whirlwind: bool = False
+    death_damage: float = 0.0
+    death_splash_radius: float = 0.0
+    splits_into: int = 0
+    split_troop: str = ""
     max_hp: float = 0.0
     target: "Building | None" = field(default=None, repr=False)
     path: list = field(default_factory=list, repr=False)

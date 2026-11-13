@@ -93,22 +93,23 @@
     * Even comparing at the **same level (Level 5)**, there are **real underlying stat disagreements** due to balance patches: Giant HP (900 vs 670, a 230-HP gap), Archer (40 HP / 20 DPS vs 44 HP / 22 DPS), Goblin (65 vs 52 HP), and Wall Breaker (43 vs 46 DPS), while Barbarian matches exactly (105 HP / 23 DPS).
   - (5) **Verification & Integrity:** Zero simulator changes, zero stat changes. `pytest -q` -> `20 passed in 21.21s`, `check_env` passed with zero errors.
 
-## Current Step: STAGE 1 (M7b Part A) -> COMPLETED. Proceeding to STAGE 2 (M5b).
-- **Stage 1 (M7b Part A) Status:** COMPLETED
-  - (1) Determinism & Seed Variance Check: Ran 100 seeded episodes across 16 held-out pairs (`base07`..`base10` x 4 armies) for all 5 agents. Non-zero variance confirmed across 10-14 of 16 pairs (invariants are 0% or 100% destruction).
-  - (2) Held-Out Evaluation (`results/m7b_partA.csv`):
-    * `maskable_ppo`: 31.78% dest [95% CI 19.51, 45.62], 0.57 stars [0.18, 1.04], 5.38% 3-star [0.00, 15.00]
-    * `left_wave`: 27.32% dest [95% CI 13.53, 43.27], 0.70 stars [0.25, 1.23], 6.25% 3-star [0.00, 18.75]
-    * `smart_funnel`: 22.82% dest [95% CI 11.29, 36.67], 0.41 stars [0.10, 0.81], 4.19% 3-star [0.00, 12.56]
-    * `surround`: 9.77% dest [95% CI 3.77, 17.82], 0.11 stars [0.00, 0.32], 0.00% 3-star
-    * `random_masked`: 8.69% dest [95% CI 3.78, 14.94], 0.03 stars [0.00, 0.09], 0.00% 3-star
-    * **PPO vs Best Baseline (`left_wave`):** Beats on destruction (+4.46 pp [95% CI +0.01, +9.10]); DOES NOT beat on stars (-0.128 stars [95% CI -0.309, +0.008]).
-  - (3) PPO Action Diagnostics (`results/ppo_action_diagnostics.csv`):
-    * Evaluated models: `models/ppo_m7b_seed42.zip..44.zip` (trained 2026-11-12).
-    * Single sector collapse (>90% army in one sector): 0 of 16 pairs. Single sector fraction is 0.0 across 15 pairs and 0.33 on 1 pair (`barch` on `base08`).
-    * Distinct sectors per episode: 2.00 to 3.53 sectors.
-    * Action entropy: 1.695 to 3.361 nats.
-    * Wall Breaker deployment fraction: 100% when available in army (`goblin_giant` and `mixed_wb`), at average step 12.8 to 32.1.
-  - (4) TH8 Level Check (`data/TH8_LEVEL_CHECK.md`): Verified from Fandom Laboratory & Town Hall tables that Giant, Barbarian, Archer, Goblin, and Wall Breaker are strictly Level 5 at TH8 (Laboratory Level 6). Stop Condition 2 is NOT triggered.
-  - (5) Integrity Checks: `pytest -q` -> 20 passed in 15.63s; `check_env` BOTH OK.
-- **Next action:** Commit Stage 1 deliverables, push to origin/main, then start STAGE 2 (M5b).
+## Current Step: STAGE 2 (M5b) -> COMPLETED. Proceeding to STAGE 3 (M7b Part B).
+- **Stage 2 (M5b) Status:** COMPLETED
+  - (1) **TH8 Roster Documentation (`data/TH8_ROSTER.md`):** Cataloged all TH8 unlocked troops with max research levels at Laboratory 6 and source URLs from Fandom Barracks, Dark Barracks, and Laboratory tables.
+  - (2) **Raw Fandom Scrapes:** Downloaded / verified cached raw json files for Wizard, Valkyrie, Hog Rider, Golem, Dragon, Balloon, and Minion in `data/raw/`.
+  - (3) **Normalized Troop Stats (`data/troops.json`):** Appended 8 new troop definitions without altering ANY existing stats. Set `stats_verified: true` for Wizard L5, Dragon L3, and Balloon L5 where Fandom and secondary sources (`coc.guide` / `clash_explorer_all.json`) agree 100%. Set `stats_verified: false` with explanatory notes for Valkyrie L2, Hog Rider L4, Golem L2, Golemite L2, and Minion L4 where minor balance patch variations exist.
+  - (4) **Implemented Mechanics in `sim/`:**
+    * Wizard: Ranged area splash damage (`splash_radius=0.3`) affecting target and adjacent buildings.
+    * Valkyrie: 360-degree melee whirlwind splash (`splash_radius=1.0`) damaging all buildings in reach.
+    * Hog Rider: Wall-jumper (ignores walls completely during movement) with defense targeting.
+    * Golem: High-HP tank targeting defenses; on death explodes dealing 400 area splash damage and splits into 2 Golemites (1080 HP each, defense targeting, 80 death splash damage).
+    * Flying Troops (Dragon, Balloon, Minion): Immune to ground-only defenses (Cannon, Mortar, Bomb Tower), targeted by Air Defense, Archer Tower, Wizard Tower, and Hidden Tesla; flies directly over walls.
+    * Balloon: Defense targeting + 108 death bomb damage upon destruction.
+    * Dragon: Flying ranged area splash breath attack.
+  - (5) **Unit Tests (`tests/test_mechanics_m5b.py`):** 7 dedicated unit tests covering every single mechanic passed (`7 passed in 0.48s`). Entire pytest suite: `27 passed in 15.60s`. `check_env` BOTH OK.
+  - (6) **Expanded TH8 Armies (`data/armies.json`):** Added `mass_dragons` (10x Dragon L3), `gowiva` (2x Golem, 8x Valkyrie, 14x Wizard, 6x WB, 8x Archer), and `hog_rush` (28x Hog Rider, 10x Wizard, 10x Archer, 10x Barbarian), each strictly filling the 200-housing space capacity.
+  - (7) **Re-run All Baselines (`results/baselines_m5b.csv`):** Evaluated all 3 strategies (`left_wave`, `surround`, `smart_funnel`) across all 10 bases and all 7 armies (210 combinations x 100 seeded episodes = 21,000 total episodes; saved to `results/baselines_m5b.csv` and `results/baselines.csv`):
+    * `left_wave`: 60.01% mean destruction, 43.36% 3-star rate, 1.59 mean stars (BEST)
+    * `smart_funnel`: 46.99% mean destruction, 32.79% 3-star rate, 1.17 mean stars
+    * `surround`: 35.63% mean destruction, 20.40% 3-star rate, 0.77 mean stars
+- **Next action:** Commit Stage 2 deliverables, push to origin/main, then execute STAGE 3 (50k smoke run, 3-seed long training, held-out evaluation, and update FINAL_REPORT.txt).

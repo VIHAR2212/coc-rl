@@ -1,5 +1,7 @@
 """Gymnasium wrapper adding valid-edge sector actions, TH grid channel, and action masks."""
+import json
 import math
+from pathlib import Path
 from typing import Any
 
 import gymnasium as gym
@@ -41,7 +43,8 @@ class ActionMaskCoCEnv(gym.Env):
         super().__init__()
         self.base_pool = [bases] if isinstance(bases, str) else list(bases)
         if armies is None:
-            self.army_pool = ["giant_barch", "barch", "goblin_giant", "mixed_wb"]
+            raw_armies = json.loads((Path(__file__).resolve().parent.parent / "data" / "armies.json").read_text(encoding="utf-8"))
+            self.army_pool = [k for k in raw_armies if not k.startswith("_")]
         elif isinstance(armies, str):
             self.army_pool = [armies]
         else:
@@ -66,6 +69,8 @@ class ActionMaskCoCEnv(gym.Env):
         self._sector_cursor: list[int] = [0] * self.num_sectors
         self._th_grid = np.zeros((1, self.env.grid, self.env.grid), dtype=np.float32)
         self._ep_idx = 0
+        self._unique_sectors: set[int] = set()
+        self._sector_deploy_counts: list[int] = [0] * self.num_sectors
 
     def _rebuild_sectors(self) -> None:
         ring = edge_ring_tiles(self.env)
@@ -108,6 +113,8 @@ class ActionMaskCoCEnv(gym.Env):
         self.env = CoCEnv(base_file=chosen_base, army=chosen_army, render_mode=self.render_mode)
         obs, info = self.env.reset(seed=seed)
         self._rebuild_sectors()
+        self._unique_sectors = set()
+        self._sector_deploy_counts = [0] * self.num_sectors
         info = dict(info)
         info.update({"base": chosen_base, "army": chosen_army})
         return self._wrap_obs(obs), info
@@ -146,6 +153,19 @@ class ActionMaskCoCEnv(gym.Env):
         prev_dest = self.env.destruction
         prev_th = self.env.th_destroyed
         obs, reward, term, trunc, info = self.env.step(raw_act)
+
+        if act > 0:
+            idx = act - 1
+            sec = idx % self.num_sectors
+            if sec not in self._unique_sectors:
+                self._unique_sectors.add(sec)
+                # Anti-collapse bonus: reward spreading attack across multiple sectors
+                reward += 0.5
+            self._sector_deploy_counts[sec] += 1
+            tot = sum(self._sector_deploy_counts)
+            # Anti-collapse penalty: discourage single-sector clumping (>50% troops in 1 sector)
+            if tot > 10 and (self._sector_deploy_counts[sec] / tot) > 0.5:
+                reward -= 0.1
 
         if self.shaping_mode == "stars_aware":
             # Bonus for crossing 50% (1 star), Town Hall (+25 on top of +50 = +75), and 100% (3 stars).

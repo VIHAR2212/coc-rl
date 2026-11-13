@@ -135,6 +135,12 @@ class CoCEnv(gym.Env):
             damage_vs_walls=t.get("damage_vs_walls", 0.0),
             splash_radius=t.get("splash_radius", 0.0),
             is_flying=bool(t.get("is_flying", False)),
+            wall_jumper=bool(t.get("wall_jumper", False)),
+            whirlwind=bool(t.get("whirlwind", False)),
+            death_damage=float(t.get("death_damage", 0.0)),
+            death_splash_radius=float(t.get("death_splash_radius", 0.0)),
+            splits_into=int(t.get("splits_into", 0)),
+            split_troop=str(t.get("split_troop", "")),
         ))
 
     def _pick_target(self, tr):
@@ -210,39 +216,43 @@ class CoCEnv(gym.Env):
             dx, dy = tr.target.cx - tr.x, tr.target.cy - tr.y
             d = math.hypot(dx, dy) or 1e-6
             if d - tr.target.size / 2 > tr.range_tiles:
-                if tr.path_target_id != id(tr.target) or tr.path_wall_ver != self._wall_version:
-                    path = self._get_path(tr, tr.target)
-                    if path is None and not tr.target.is_wall:
-                        walls = [b for b in self.buildings if b.hp > 0 and b.is_wall]
-                        if walls:
-                            tx, ty = tr.x, tr.y
-                            tcx, tcy = tr.target.cx, tr.target.cy
-                            hypot = math.hypot
-                            wall = min(
-                                walls,
-                                key=lambda w: hypot(w.cx - tx, w.cy - ty) + 0.5 * hypot(w.cx - tcx, w.cy - tcy),
-                            )
-                            tr.target = wall
-                            path = self._get_path(tr, wall)
-                            dx, dy = tr.target.cx - tr.x, tr.target.cy - tr.y
-                            d = math.hypot(dx, dy) or 1e-6
-                    tr.path = path or []
-                    tr.path_wall_ver = self._wall_version
-                    tr.path_target_id = id(tr.target)
                 step_dist = tr.speed * dt
-                if tr.path:
-                    wx, wy = tr.path[0]
-                    wdx, wdy = wx - tr.x, wy - tr.y
-                    wd = math.hypot(wdx, wdy)
-                    if wd <= max(0.15, step_dist):
-                        tr.x, tr.y = wx, wy
-                        tr.path.pop(0)
-                    else:
-                        tr.x += wdx / wd * step_dist
-                        tr.y += wdy / wd * step_dist
-                else:
+                if tr.is_flying or tr.wall_jumper:
                     tr.x += dx / d * step_dist
                     tr.y += dy / d * step_dist
+                else:
+                    if tr.path_target_id != id(tr.target) or tr.path_wall_ver != self._wall_version:
+                        path = self._get_path(tr, tr.target)
+                        if path is None and not tr.target.is_wall:
+                            walls = [b for b in self.buildings if b.hp > 0 and b.is_wall]
+                            if walls:
+                                tx, ty = tr.x, tr.y
+                                tcx, tcy = tr.target.cx, tr.target.cy
+                                hypot = math.hypot
+                                wall = min(
+                                    walls,
+                                    key=lambda w: hypot(w.cx - tx, w.cy - ty) + 0.5 * hypot(w.cx - tcx, w.cy - tcy),
+                                )
+                                tr.target = wall
+                                path = self._get_path(tr, wall)
+                                dx, dy = tr.target.cx - tr.x, tr.target.cy - tr.y
+                                d = math.hypot(dx, dy) or 1e-6
+                        tr.path = path or []
+                        tr.path_wall_ver = self._wall_version
+                        tr.path_target_id = id(tr.target)
+                    if tr.path:
+                        wx, wy = tr.path[0]
+                        wdx, wdy = wx - tr.x, wy - tr.y
+                        wd = math.hypot(wdx, wdy)
+                        if wd <= max(0.15, step_dist):
+                            tr.x, tr.y = wx, wy
+                            tr.path.pop(0)
+                        else:
+                            tr.x += wdx / wd * step_dist
+                            tr.y += wdy / wd * step_dist
+                    else:
+                        tr.x += dx / d * step_dist
+                        tr.y += dy / d * step_dist
             else:
                 if tr.favorite == "walls" and tr.damage_vs_walls > 0:
                     tx, ty = tr.target.cx, tr.target.cy
@@ -251,6 +261,27 @@ class CoCEnv(gym.Env):
                         if b.alive and math.hypot(b.cx - tx, b.cy - ty) <= rad:
                             self._damage_building(b, tr.damage_vs_walls if b.is_wall else tr.dps)
                     tr.hp = 0.0
+                elif tr.whirlwind:
+                    tx, ty = tr.x, tr.y
+                    rad = tr.splash_radius or 1.0
+                    dmg = tr.dps * dt
+                    for b in self.buildings:
+                        if b.alive:
+                            bx = min(max(tx, b.x), b.x + b.size)
+                            by = min(max(ty, b.y), b.y + b.size)
+                            if math.hypot(bx - tx, by - ty) <= rad:
+                                self._damage_building(b, dmg)
+                elif tr.splash_radius > 0:
+                    tgt = tr.target
+                    rad = tr.splash_radius
+                    dmg = tr.dps * dt
+                    self._damage_building(tgt, dmg)
+                    for b in self.buildings:
+                        if b.alive and b is not tgt:
+                            dx = max(0.0, max(b.x - (tgt.x + tgt.size), tgt.x - (b.x + b.size)))
+                            dy = max(0.0, max(b.y - (tgt.y + tgt.size), tgt.y - (b.y + b.size)))
+                            if math.hypot(dx, dy) <= rad:
+                                self._damage_building(b, dmg)
                 else:
                     self._damage_building(tr.target, tr.dps * dt)
         still_flying = []
@@ -312,7 +343,39 @@ class CoCEnv(gym.Env):
                 b.cooldown += b.attack_speed
             else:
                 b.cooldown = 0.0
-        self.troops = [t for t in troops if t.hp > 0]
+        new_troops = []
+        for t in troops:
+            if t.hp <= 0:
+                if t.death_damage > 0:
+                    rad = t.death_splash_radius or 1.2
+                    for b in self.buildings:
+                        if b.alive:
+                            bx = min(max(t.x, b.x), b.x + b.size)
+                            by = min(max(t.y, b.y), b.y + b.size)
+                            if math.hypot(bx - t.x, by - t.y) <= rad:
+                                self._damage_building(b, t.death_damage)
+                if t.splits_into > 0 and t.split_troop in self.troop_defs:
+                    sdef = self.troop_defs[t.split_troop]
+                    for s_idx in range(t.splits_into):
+                        soff = 0.35 if s_idx == 0 else -0.35
+                        new_troops.append(Troop(
+                            sdef["name"], t.x + soff, t.y + soff,
+                            sdef["hp"], sdef["dps"], sdef["attack_speed"],
+                            sdef["range_tiles"], sdef["speed_tiles_per_s"],
+                            sdef["favorite"], sdef["housing"],
+                            damage_vs_walls=sdef.get("damage_vs_walls", 0.0),
+                            splash_radius=sdef.get("splash_radius", 0.0),
+                            is_flying=bool(sdef.get("is_flying", False)),
+                            wall_jumper=bool(sdef.get("wall_jumper", False)),
+                            whirlwind=bool(sdef.get("whirlwind", False)),
+                            death_damage=float(sdef.get("death_damage", 0.0)),
+                            death_splash_radius=float(sdef.get("death_splash_radius", 0.0)),
+                            splits_into=int(sdef.get("splits_into", 0)),
+                            split_troop=str(sdef.get("split_troop", "")),
+                        ))
+        alive = [t for t in troops if t.hp > 0]
+        alive.extend(new_troops)
+        self.troops = alive
         self.tick += 1
 
     def _destruction_now(self):
@@ -422,9 +485,15 @@ class CoCEnv(gym.Env):
         t_colors = {
             "Giant": (245, 140, 40), "Barbarian": (250, 225, 65), "Archer": (235, 85, 175),
             "Wall Breaker": (240, 240, 245), "Goblin": (70, 235, 90),
+            "Wizard": (80, 160, 255), "Valkyrie": (230, 90, 40), "Hog Rider": (180, 100, 50),
+            "Golem": (90, 80, 80), "Golemite": (130, 120, 120), "Dragon": (200, 50, 200),
+            "Balloon": (190, 50, 50), "Minion": (60, 140, 240),
         }
         t_radii = {
             "Giant": 9, "Barbarian": 6, "Archer": 5, "Wall Breaker": 5, "Goblin": 5,
+            "Wizard": 6, "Valkyrie": 7, "Hog Rider": 7,
+            "Golem": 11, "Golemite": 6, "Dragon": 10,
+            "Balloon": 7, "Minion": 5,
         }
         for tr in self.troops:
             if tr.alive:

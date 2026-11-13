@@ -1,0 +1,282 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "None",
+        "Attack Type": "Ranged (Ground & Air)",
+        "Housing Space": "2",
+        "Movement Speed": "32",
+        "Attack Speed": "1s",
+        "Dark Barracks Level Required": "1",
+        "Range": "2.75 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "38",
+        "Damage per Hit": "38",
+        "Hitpoints": "58",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "41",
+        "Damage per Hit": "41",
+        "Hitpoints": "63",
+        "Research Cost": "1,000",
+        "Research Time": "6h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "44",
+        "Damage per Hit": "44",
+        "Hitpoints": "68",
+        "Research Cost": "2,500",
+        "Research Time": "8h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "47",
+        "Damage per Hit": "47",
+        "Hitpoints": "73",
+        "Research Cost": "5,000",
+        "Research Time": "12h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "50",
+        "Damage per Hit": "50",
+        "Hitpoints": "78",
+        "Research Cost": "10,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "54",
+        "Damage per Hit": "54",
+        "Hitpoints": "84",
+        "Research Cost": "15,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "58",
+        "Damage per Hit": "58",
+        "Hitpoints": "90",
+        "Research Cost": "31,500",
+        "Research Time": "1d 18h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "62",
+        "Damage per Hit": "62",
+        "Hitpoints": "96",
+        "Research Cost": "47,500",
+        "Research Time": "2d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "66",
+        "Damage per Hit": "66",
+        "Hitpoints": "102",
+        "Research Cost": "75,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "70",
+        "Damage per Hit": "70",
+        "Hitpoints": "108",
+        "Research Cost": "100,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "74",
+        "Damage per Hit": "74",
+        "Hitpoints": "114",
+        "Research Cost": "115,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "78",
+        "Damage per Hit": "78",
+        "Hitpoints": "120",
+        "Research Cost": "160,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "84",
+        "Damage per Hit": "84",
+        "Hitpoints": "130",
+        "Research Cost": "220,000",
+        "Research Time": "9d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "92",
+        "Damage per Hit": "92",
+        "Hitpoints": "140",
+        "Research Cost": "335,000",
+        "Research Time": "14d",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Super Minion",
+        "Boost Cost": "25,000",
+        "Minion Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Patch": "March 12, 2013",
+        "Type": "Update",
+        "Description": "Added the Minion, with five levels."
+      },
+      {
+        "Patch": "April 17, 2013",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times. Reduced hitpoint at level 5."
+      },
+      {
+        "Patch": "January 29, 2014",
+        "Type": "Update",
+        "Description": "Added the level 6 Minion."
+      },
+      {
+        "Patch": "December 10, 2015",
+        "Type": "Update",
+        "Description": "Added the level 7 Minion."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 8 Minion."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Added the level 9 Minion. Reduced upgrade costs at level 6."
+      },
+      {
+        "Patch": "October 12, 2020",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade costs and times at lower levels."
+      },
+      {
+        "Patch": "April 12, 2021",
+        "Type": "Update",
+        "Description": "Added the level 10 Minion."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Balance Changes",
+        "Description": "Changed damage."
+      },
+      {
+        "Patch": "June 27, 2022",
+        "Type": "Update",
+        "Description": "Removed training cost."
+      },
+      {
+        "Patch": "October 10, 2022",
+        "Type": "Update",
+        "Description": "Added the level 11 Minion."
+      },
+      {
+        "Patch": "February 27, 2024",
+        "Type": "Update",
+        "Description": "Added the level 12 Minion."
+      },
+      {
+        "Patch": "November 25, 2024",
+        "Type": "Update",
+        "Description": "Added the level 13 Minion."
+      },
+      {
+        "Patch": "February 10, 2025",
+        "Type": "Update",
+        "Description": "Reduced training time from 18s to 16s."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Update",
+        "Description": "Added the level 14 Minion. Increase damage at level 13 from 82 to 84. Increase hitpoint at level 13 from 126 to 130. Reduced upgrade time at level 13 from 14d to 9d. Reduced upgrade cost at level 13 from 255,000 to 220,000."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Minion_Deploy.ogg",
+        "Captions": "Minion deploys",
+        "Description": "When the Minion is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Minion_Attack.ogg",
+        "Captions": "Spitting Dark Elixir",
+        "Description": "When the Minion is attacking something"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Minion_Hit.ogg",
+        "Captions": "Dark Elixir hits target",
+        "Description": "When the Minion is succesfully hits a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Minion_Death.ogg",
+        "Captions": "Minion dies",
+        "Description": "When the Minion dies"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ],
+  "raw_text": "[[File:{{{Alt}}}|28px|link=]] For its Super counterpart, see Super Minion . For the Hero , see Minion Prince . For the other counterparts, see Minion (disambiguation) . \"This terror of the skies was born out of Dark Elixir . Undetectable by the Seeking Air Mine , Minions materialize with ease, but are fragile in our world.\" Level 1-2 Level 3-4 Level 5 Level 6 Level 7-8 Level 9 Level 10 Level 11 Level 12 Level 13 Level 14 Contents 1 Summary 2 Strategies 2.1 Offensive Strategies 2.2 Defensive Strategies 3 Upgrade Differences 4 Statistics 5 History 6 Audio 7 Gallery 8 Trivia Summary The Minion is the first Dark Elixir Troop unlocked in the game, and is automatically unlocked once the Dark Barracks has finished being built. It is a fast and weak air troop with short range, spitting Dark Elixir to damage its targets. Its appearance is that of a light blue gargoyle with two large horns, stubby silver wings, and large hands with sharp vicious claws covered in what seems to be Dark Elixir. Minions are immune to being targeted by Seeking Air Mines due to them taking 2 housing space. Minions have no preferred target when attacking; they will simply attack the closest building . However, if they become aware of enemy Clan Castle troops , Heroes , or Skeleton Trap skeletons (either by being attacked themselves or by being near another friendly troop under attack), and can fight back against them, they will leave their previously targeted building and instead engage the enemy troops. Once all of the nearby enemy troops are defeated, the Minions will proceed to attack the nearest structure. Strategies Offensive Strategies Minions are generally very useful utility troops despite their obvious weakness of low health. It is extremely useful to carry a small number of Minions (3 or so) to pick off buildings that are defended by ground defenses only ( Mortars , Cannons , Bomb Towers , and Ground Mode X-Bows ). This is especially useful in Clan Wars , as they move fast and can easily take out the passive distraction buildings once the majority of the base is destroyed. The same also applies to buildings at the corners since they will be usually unprotected and can be easily destroyed by 1 Minion. Minions are relatively inexpensive and take up only 2 housing space, making them well suited to use in a group rush strategy, providing if there is enough tanking and spell support. Minions are a part of a very efficient farming attack strategy for Town Hall 7s, 8s, 9s, and even 10s, called Balloonion. It often consists of Rage Spells , Minions, Haste Spells , Poison Spell , and Balloons . The player will make a wall of Balloons where the air-targeting defenses mostly are, and if needed, support them with either a Haste Spell or a Rage Spell. Then, they deploy the Minions to clean up behind once the first layer of defenses are taken down. However, Air Bombs can seriously ruin this attack if many Balloons or Minions were clumped up because Air Bombs can fully take out Minions and leave Balloons damaged, or even destroyed completely unless a well-timed Healing Spell is dropped to prevent the Balloons from being destroyed. Lavaloonion is a variant of this strategy where Lava Hounds are used to shield the Minions and Balloons, which can be effective as Lava Hounds can occupy enemy anti-air defenses for extended periods, allowing the Minions and Balloons to destroy everything. Since they are vulnerable to the Air Bomb, try to look for places where one could be potentially hiding and use stronger air troops or a single Minion to waste it. As is the case with all flying units , Archer Towers , Wizard Towers , and Air Defenses (if possible) should be taken out before deploying Minions. Using Giants as a distraction when using Minions to attack other buildings is a good idea since the Giants can destroy defensive buildings and occupy those like the Archer Tower while the Minions can demolish buildings nearby since they do not have any preferred targets. However, beware of Air Defenses since the Giants cannot occupy its attention. Like Balloons, Minions are exceptionally useful in the Single Player Campaign . You can simply destroy all of the Air Defenses, Archer Towers, Wizard Towers and any Goblin Castle troops that can target air, then deploy a single Minion. It will destroy every building. It takes a bit of patience, but it pays off at the end. In the Single Player Campaign, there is no time limit, so one unthreatened Minion will eventually destroy every building. Important note: In many cases, a single Minion will take enough time to destroy the remaining buildings that your game will time out due to inactivity, which will cause your attack to end prematurely and be unsuccessful (regardless of how many stars you had earned to that point). To prevent this from happening either deploy multiple Minions, move your screen around, tap in the red zone, or simply change the view every few moments by panning or zooming. Minions can overpower Air Defenses as they are single-target defenses, and will take too much time to retarget, allowing Minions to inflict massive damage. However, they are still very weak to faster turrets with area splash or multi-target such as the Multi-Target Inferno Towers, Wizard Towers, Multi-Archer Towers , or Super Wizard Towers . For splash damage defenses, you can tank them with the Lava Hound or Dragon. Beware of Seeking Air Mines, Single-Target Inferno Towers and any potential Clan Castle Troops. However, in the case of the Inferno Artillery , it will nearly be impossible due to its extremely high hitpoints and is able to deal splash damage to multiple targets. In Queen Walks, placing a Minion when a defending Lava Hound is defeated can save a lot of your Healer's health. Defensive Strategies Try to place Air Bombs near locations where Minions are likely to be placed in swarms. In this regard, place all Air Bombs deeper inside your base. With sufficient firepower, Minions cannot trigger it before they were easily destroyed by the defenses. Remember that Seeking Air Mines will not work. However, Air Bombs will. Properly cover the Air Defenses, Wizard Towers, X-Bows, and Archer Towers so that Minions can't sneak in and be protected by stronger individual troops. Minions in large numbers are unstoppable if they are not dealt with splash damage or rapid-fire. However, this can be countered if the opponent chooses to use Lava Hounds, since these defenses will not be able to take the Lava Hound out quickly before they are demolished by Minions. Minions are decent defenders to have in the Clan Castle. They occupy less space and have moderate damage, on top of being aerial troops. This allows them to devastate strategies that rely on troops unable to hit aerial units. Since Minions are normally used as cleanup troops, they rarely come alone. Try to counter strategies they do well with instead. Upgrade Differences The Minion undergoes significant visual changes at levels 3, 5, 6, 7, 9, 10, 11, 12, 13 and 14. Initially, the Minion appears to be a light-blue gargoyle with a small pair of wings on its back, two horns on its head, and large hands covered in Dark Elixir . At level 3, its skin changes from light blue to indigo, with its horns and forearms being dark violet. At level 5, its skin turns slate gray, and its horns and forearms both turn black. It grows a bit bigger, and the eyes also glow a ghostly white, making it resemble a fully-fledged gargoyle. At level 6, its skin turns dark purple. Its horns and wings also turn plum. At level 7, its skin becomes wine-colored. Its horns and wings at the tips are colored tangerine. At level 9, its skin reverts to how it was at levels 3 and 4, except being slightly brighter, and its horns and wings turn purple with a violet and blue fade from top to middle. Light blue spikes appear on its back. It appears to be bigger and bulkier than its previous levels. At level 10, its skin turns gray with a viridian fade on it. The bottom parts of its horns become burgundy, its wings become deep sea blue, and the tip of its horns and wings become turquoise. At level 11, the horns and wings of the Minion become teal and its tips glow white. At level 12, its skin gets changed back again, but to its level 7 and 8 appearances, and its horns and wings are blue and get slightly darker. The glow on the tip of its wings and horns is now pink. At level 13, its skin is now steel blue, and its horns and wings are now entirely gold and lose their glow. It also gains a gold bracelet on each arm. Its eyes also start glowing blue. At level 14, its skin is changed to grullo, and its eyes, wings and horns are cyan in color. Its horns receive a navy fade on them. The gold bracelets are replaced with metal ones with a cyan stripe running across them. It also has a long cyan crack on its head which extends down till its nape. Statistics Statistic Modifiers Input values into these modifiers below to modify the statistics in the tables below accordingly ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ ⓘ Gold Pass modifiers ⓘ Apply Reset Preferred Target Attack Type Housing Space Movement Speed Attack Speed Dark Barracks Level Required Range None Ranged (Ground & Air) 2 32 1s 1 2.75 tiles Level Damage per Second Damage per Hit Hitpoints Research Cost Research Time Laboratory Level Required 1 38 38 58 N/A N/A N/A 2 41 41 63 1,000 6h 5 3 44 44 68 2,500 8h 6 4 47 47 73 5,000 12h 6 5 50 50 78 10,000 1d 7 6 54 54 84 15,000 1d 12h 8 7 58 58 90 31,500 1d 18h 9 8 62 62 96 47,500 2d 10 9 66 66 102 75,000 3d 11 10 70 70 108 100,000 4d 12 11 74 74 114 115,000 4d 12h 13 12 78 78 120 160,000 5d 14 13 84 84 130 220,000 9d 15 14 92 92 140 335,000 14d 16 Super Troop Boost Super Troop Boost Cost Minion Level Required Super Minion 25,000 8 History Patch Type Description March 12, 2013 Update Added the Minion, with five levels. April 17, 2013 Balance Changes Reduced upgrade times. Reduced hitpoint at level 5. January 29, 2014 Update Added the level 6 Minion. December 10, 2015 Update Added the level 7 Minion. June 11, 2018 Update Added the level 8 Minion. March 30, 2020 Update Added the level 9 Minion. Reduced upgrade costs at level 6. October 12, 2020 Balance Changes Reduced upgrade costs and times at lower levels. April 12, 2021 Update Added the level 10 Minion. December 9, 2021 Balance Changes Changed damage. June 27, 2022 Update Removed training cost. October 10, 2022 Update Added the level 11 Minion. February 27, 2024 Update Added the level 12 Minion. November 25, 2024 Update Added the level 13 Minion. February 10, 2025 Update Reduced training time from 18s to 16s. March 27, 2025 Clash Anytime Update Removed training time. November 17, 2025 Update Added the level 14 Minion. Increase damage at level 13 from 82 to 84. Increase hitpoint at level 13 from 126 to 130. Reduced upgrade time at level 13 from 14d to 9d. Reduced upgrade cost at level 13 from 255,000 to 220,000. Audio Sound Effect Captions Description https://clashofclans.fandom.com/wiki/File:Minion_Deploy.ogg Minion deploys When the Minion is deployed https://clashofclans.fandom.com/wiki/File:Minion_Attack.ogg Spitting Dark Elixir When the Minion is attacking something https://clashofclans.fandom.com/wiki/File:Minion_Hit.ogg Dark Elixir hits target When the Minion is succesfully hits a unit or building https://clashofclans.fandom.com/wiki/File:Minion_Death.ogg Minion dies When the Minion dies Gallery Minion icon Minion's old look Old Minion's level 6 look Trivia The Minion was added in the March 12, 2013 update, along with the Hog Rider and Valkyrie , making them the first Dark Elixir Troop to be added to the game. The design of the Minions resembles gargoyles . The gargoyle is a fantasy and horror monster inspired by the gargoyle architectural element . While they were believed in mythology to frighten away evil spirits, the idea of such statues physically coming to life is a more recent notion. They are usually made of magically animated or transformed stone, but have animal or chimera traits and are often guardians of a place such as a cathedral or castle. They can also be depicted as vessels for demonic possession or as a living species resembling statues. In the Japanese and French language settings of the game, the Minion's name translates to \"Gargoyle\". You can have a maximum of 176 Minions at one time in a complete set of fully upgraded Army Camps . This number increases to 203 if you include 27 that can fit into a level 13 or higher Clan Castle . On the battlefield, you can clone an additional 96 Minions with four fully upgraded Clone Spells (three from the regular spell inventory and one from a level 10 or higher Clan Castle). Additionally, a total of 30 can be summoned by a level 3 or higher Sky Wagon . These total to a maximum of 329 Minions. Tapping on the Army Camp will make the Minion \"sneeze,\" and they \"sneeze\" more when at levels 6 to 8. The Minion is the fastest flying unit, and one of the fastest troops overall along with the Goblin , Sneaky Goblin , and Headhunter . Minions, Goblins, and Sneaky Goblins can move up to 7.8 tiles per second under the effect of a maximum-level Haste Spell . The Minion, referred to as \"gargoyle\", was suggested by a person on the forums , on January 13, 2013. The Minion is the only flying troop that is undetectable by the Seeking Air Mine . This does not include sub-troops like the Lava Pup and Ice Pup . As part of the June 17, 2013 update, the colors of the levels 1-2 Minion and the levels 3-4 Minion were swapped. Twister , a Supercell Community Forum moderator, has confirmed that this was an unintended change and was reverted on June 24, 2013. Compared to their Clash Royale counterpart, the Minion vomits Dark Elixir, rather than throwing it with their arms. This might explain why the Minions in Clash of Clans have a noticeably longer range than those in Clash Royale . The Minion is one of ten troops featured as a monster in the game Squad Busters . The others are the Wall Breaker , P.E.K.K.A , Lava Hound , Golem , Bowler , Baby Dragon , Ice Golem , Yeti , and Inferno Dragon . The Minion in Squad Busters resembles the level 1 Minion in Clash of Clans . A moving Minion can outrun an Air Bomb . The Star Level 3 skins of the Minions and Minion Horde in Clash Royale resemble the level 3 Minion in Clash of Clans . Home Village Army Elixir Troops Barbarian • Archer • Giant • Goblin • Wall Breaker • Balloon • Wizard • Healer • Dragon • P.E.K.K.A • Baby Dragon • Miner • Electro Dragon • Yeti ( Yetimite ) • Dragon Rider • Electro Titan • Root Rider • Thrower • Meteor Golem ( Meteormite ) Dark Elixir Troops Minion • Hog Rider • Valkyrie • Golem ( Golemite ) • Witch ( Skeleton )  • Lava Hound ( Lava Pup ) • Bowler • Ice Golem • Headhunter • Apprentice Warden • Druid ( Bear ) • Furnace ( Firemite ) • Ruin Witch ( Ruin Knight ) Super Troops Super Barbarian • Super Archer • Super Giant • Sneaky Goblin • Super Wall Breaker • Rocket Balloon • Super Wizard • Super Dragon • Inferno Dragon • Super Miner • Super Yeti ( Electromite ) • Super Minion • Super Hog Rider ( Super Hog • Super Rider ) • Super Valkyrie • Super Witch ( Big Boy ) • Ice Hound ( Ice Pup ) • Super Bowler Heroes & Hero Equipment Barbarian King : Barbarian Puppet • Rage Vial • Earthquake Boots • Vampstache • Giant Gauntlet • Spiky Ball • Snake Bracelet ( Snake ) • Stick Horse Archer Queen : Archer Puppet • Invisibility Vial • Giant Arrow • Healer Puppet • Frozen Arrow • Magic Mirror • Action Figure ( Giant Giant ) • Monolith Arrow Minion Prince : Henchmen Puppet ( Henchmen ) • Dark Orb • Metal Pants • Noble Iron • Dark Crown • Meteor Staff • Portal Pendant Grand Warden : Eternal Tome • Life Gem • Rage Gem • Healing Tome • Fireball • Lavaloon Puppet ( Lavaloon • Lavaloon Pup ) • Heroic Torch Royal Champion : Royal Gem • Seeking Shield • Hog Rider Puppet • Haste Vial • Rocket Spear • Electro Boots • Frost Flake Dragon Duke : Fire Heart • Flame Blower • Stun Blaster • Electro Fangs • Rocket Backpack • Revenge Deck Elixir Spells Lightning Spell • Healing Spell • Rage Spell • Jump Spell • Freeze Spell • Clone Spell • Invisibility Spell • Recall Spell • Revive Spell • Totem Spell Dark Spells Poison Spell • Earthquake Spell • Haste Spell • Skeleton Spell ( Skeleton ) • Bat Spell ( Bat ) • Overgrowth Spell • Ice Block Spell • Angry Spell Siege Machines Wall Wrecker • Battle Blimp • Stone Slammer • Siege Barracks • Log Launcher • Flame Flinger • Battle Drill • Troop Launcher • Sky Wagon Pets L.A.S.S.I • Electro Owl • Mighty Yak • Unicorn • Frosty ( Frostmite ) • Diggy • Poison Lizard • Phoenix • Spirit Fox • Angry Jelly • Sneezy ( Booger ) • Greedy Raven"
+}

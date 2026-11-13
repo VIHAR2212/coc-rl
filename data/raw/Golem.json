@@ -1,0 +1,358 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Melee (Ground Only)",
+        "Housing Space": "30",
+        "Movement Speed": "12",
+        "Attack Speed": "2.4s",
+        "Dark Barracks Level Required": "4",
+        "Range": "1 tile",
+        "Death Damage Radius": "1.5 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "35",
+        "Damage per Hit": "84",
+        "Damage Upon Death": "350",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "5,100",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "40",
+        "Damage per Hit": "96",
+        "Damage Upon Death": "400",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "5,400",
+        "Research Cost": "4,000",
+        "Research Time": "16h",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "45",
+        "Damage per Hit": "108",
+        "Damage Upon Death": "450",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "5,700",
+        "Research Cost": "6,000",
+        "Research Time": "1d 12h",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "50",
+        "Damage per Hit": "120",
+        "Damage Upon Death": "500",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "6,000",
+        "Research Cost": "10,000",
+        "Research Time": "2d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "55",
+        "Damage per Hit": "132",
+        "Damage Upon Death": "550",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "6,300",
+        "Research Cost": "18,500",
+        "Research Time": "2d 6h",
+        "Laboratory Level Required": "8"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "60",
+        "Damage per Hit": "144",
+        "Damage Upon Death": "600",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "6,600",
+        "Research Cost": "26,500",
+        "Research Time": "2d 12h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "65",
+        "Damage per Hit": "156",
+        "Damage Upon Death": "650",
+        "Golemites spawned Upon Death": "2",
+        "Hitpoints": "7,000",
+        "Research Cost": "38,500",
+        "Research Time": "2d 18h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "70",
+        "Damage per Hit": "168",
+        "Damage Upon Death": "700",
+        "Golemites spawned Upon Death": "3",
+        "Hitpoints": "7,500",
+        "Research Cost": "50,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "75",
+        "Damage per Hit": "180",
+        "Damage Upon Death": "750",
+        "Golemites spawned Upon Death": "3",
+        "Hitpoints": "7,900",
+        "Research Cost": "62,500",
+        "Research Time": "3d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "80",
+        "Damage per Hit": "192",
+        "Damage Upon Death": "800",
+        "Golemites spawned Upon Death": "3",
+        "Hitpoints": "8,200",
+        "Research Cost": "80,000",
+        "Research Time": "4d",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "85",
+        "Damage per Hit": "204",
+        "Damage Upon Death": "850",
+        "Golemites spawned Upon Death": "3",
+        "Hitpoints": "8,500",
+        "Research Cost": "105,000",
+        "Research Time": "5d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "90",
+        "Damage per Hit": "216",
+        "Damage Upon Death": "900",
+        "Golemites spawned Upon Death": "3",
+        "Hitpoints": "8,800",
+        "Research Cost": "122,500",
+        "Research Time": "5d 12h",
+        "Laboratory Level Required": "13"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "95",
+        "Damage per Hit": "228",
+        "Damage Upon Death": "950",
+        "Golemites spawned Upon Death": "4",
+        "Hitpoints": "9,200",
+        "Research Cost": "175,000",
+        "Research Time": "6d",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "14",
+        "Damage per Second": "100",
+        "Damage per Hit": "240",
+        "Damage Upon Death": "1,000",
+        "Golemites spawned Upon Death": "4",
+        "Hitpoints": "9,600",
+        "Research Cost": "230,000",
+        "Research Time": "10d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "15",
+        "Damage per Second": "120",
+        "Damage per Hit": "288",
+        "Damage Upon Death": "1,050",
+        "Golemites spawned Upon Death": "4",
+        "Hitpoints": "10,600",
+        "Research Cost": "350,000",
+        "Research Time": "14d 12h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "November 16, 2012": "Patch",
+        "tiffosco suggested adding Golem.": "Description"
+      },
+      {
+        "November 16, 2012": "April 17, 2013",
+        "tiffosco suggested adding Golem.": "Added Golem with 4 levels."
+      },
+      {
+        "November 16, 2012": "May 23, 2013",
+        "tiffosco suggested adding Golem.": "Added the level 5 Golem. Reduced upgrade time at level 2 to 4."
+      },
+      {
+        "November 16, 2012": "January 26,2016",
+        "tiffosco suggested adding Golem.": "Golem and Golemites received 3x damage from the Eagle Artillery ."
+      },
+      {
+        "November 16, 2012": "May 4, 2016",
+        "tiffosco suggested adding Golem.": "Reduced training time from 45 minutes to 15 minutes."
+      },
+      {
+        "November 16, 2012": "October 12, 2016",
+        "tiffosco suggested adding Golem.": "Reduced training time from 15 minutes to 10 minutes."
+      },
+      {
+        "November 16, 2012": "December 19, 2016",
+        "tiffosco suggested adding Golem.": "Added the level 6 Golem. Decreased upgrade times at levels 2 to 5. Gave the Golem a new artwork in the icon and info."
+      },
+      {
+        "November 16, 2012": "October 11, 2017",
+        "tiffosco suggested adding Golem.": "Added the level 7 Golem."
+      },
+      {
+        "November 16, 2012": "December 18, 2017",
+        "tiffosco suggested adding Golem.": "Increased hitpoints at levels 1 to 3."
+      },
+      {
+        "November 16, 2012": "June 11, 2018",
+        "tiffosco suggested adding Golem.": "Added the level 8 Golem. The Eagle Artillery no longer deals 3x damage to Golems and Golemites."
+      },
+      {
+        "November 16, 2012": "June 26, 2018",
+        "tiffosco suggested adding Golem.": "Reduced upgrade times at levels 2 to 7: Level 2: 6d -> 4d Level 3: 8d -> 5d 12h Level 4: 10d -> 6d 12h Level 5: 12d -> 8d Level 6: 14d -> 9d 12h Level 7: 14d -> 11d 12h"
+      },
+      {
+        "November 16, 2012": "October 23, 2018",
+        "tiffosco suggested adding Golem.": "Reduced training cost for Golem. Reduced gem donation cost from 30 to 20 Gems."
+      },
+      {
+        "November 16, 2012": "April 2, 2019",
+        "tiffosco suggested adding Golem.": "Reduced training cost for Golem at all levels."
+      },
+      {
+        "November 16, 2012": "June 18, 2019",
+        "tiffosco suggested adding Golem.": "Added the level 9 Golem. Increased Golem and Golemite's death damage at levels 5 to 8. Increased death damage radius at all levels."
+      },
+      {
+        "November 16, 2012": "September 11, 2019",
+        "tiffosco suggested adding Golem.": "Gave the Golem and Golemites three balance changes: DPS adjusted across all levels to be consistent with DPS of Golemites (new DPS is now exactly five times the DPS of the Golemites). Golemite levels 1 to 3 HP increased. Level 8 and 9 Golems spawn 3 Golemites instead of 2."
+      },
+      {
+        "November 16, 2012": "March 30, 2020",
+        "tiffosco suggested adding Golem.": "Reduced upgrade costs at levels 2 to 7. Healer AI made less likely to target Golemites."
+      },
+      {
+        "November 16, 2012": "June 22, 2020",
+        "tiffosco suggested adding Golem.": "Added the level 10 Golem. Reduced training cost at levels 7 to 9: Level 7: 600 -> 575 Level 8: 700 -> 650 Level 9: 800 -> 725"
+      },
+      {
+        "November 16, 2012": "October 12, 2020",
+        "tiffosco suggested adding Golem.": "Reduced upgrade costs and times at levels 2 to 8."
+      },
+      {
+        "November 16, 2012": "April 12, 2021",
+        "tiffosco suggested adding Golem.": "Reduced upgrade costs and times at levels 2 to 9."
+      },
+      {
+        "November 16, 2012": "September 27, 2021",
+        "tiffosco suggested adding Golem.": "Added the level 11 Golem."
+      },
+      {
+        "November 16, 2012": "December 9, 2021",
+        "tiffosco suggested adding Golem.": "Reduced upgrade times at levels 2 to 4."
+      },
+      {
+        "November 16, 2012": "October 10, 2022",
+        "tiffosco suggested adding Golem.": "Added the level 12 Golem."
+      },
+      {
+        "November 16, 2012": "June 12, 2023",
+        "tiffosco suggested adding Golem.": "Reduced research costs and times at levels 8 to 10."
+      },
+      {
+        "November 16, 2012": "December 6, 2023",
+        "tiffosco suggested adding Golem.": "Added the level 13 Golem. Healer AI made less likely to target Golems and Golemites."
+      },
+      {
+        "November 16, 2012": "December 12, 2023",
+        "tiffosco suggested adding Golem.": "Healer AI made even less likely to target Golems and Golemites."
+      },
+      {
+        "November 16, 2012": "June 3, 2024",
+        "tiffosco suggested adding Golem.": "Increased hitpoints at levels 7 to 11: Level 7: 6,900 -> 7,000 Level 8: 7,200 -> 7,500 Level 9: 7,500 -> 7,900 Level 10: 8,000 -> 8,200 Level 11: 8,400 -> 8,500"
+      },
+      {
+        "November 16, 2012": "February 10, 2025",
+        "tiffosco suggested adding Golem.": "Reduced training time from 5m to 4m 20s."
+      },
+      {
+        "November 16, 2012": "March 24, 2025",
+        "tiffosco suggested adding Golem.": "Added the level 14 Golem."
+      },
+      {
+        "November 16, 2012": "March 27, 2025",
+        "tiffosco suggested adding Golem.": "Removed training time."
+      },
+      {
+        "November 16, 2012": "November 17, 2025",
+        "tiffosco suggested adding Golem.": "Reduced upgrade time at level 14 from 14d to 10d. Reduced upgrade cost at level 14 from 270,000 to 230,000."
+      },
+      {
+        "November 16, 2012": "April 27, 2026",
+        "tiffosco suggested adding Golem.": "Added the level 15 Golem. Reduced upgrade time at level 13 from 6d 10h to 6d."
+      }
+    ],
+    [
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Golem_deploy.ogg",
+        "Captions": "Golem deploys",
+        "Description": "When the Golem is deployed"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Golem_attack.ogg",
+        "Captions": "Golem winds up",
+        "Description": "When the Golem is about to attack"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Golem_atk_hit.ogg",
+        "Captions": "Golem hits something",
+        "Description": "When the Golem's attack successfully hits a unit or building"
+      },
+      {
+        "Sound Effect": "https://clashofclans.fandom.com/wiki/File:Golem_death.ogg",
+        "Captions": "Golem splits",
+        "Description": "When the Golem dies and splits into Golemites"
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}

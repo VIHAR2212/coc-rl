@@ -47,5 +47,34 @@ Log of every observation, action-space, and reward-design iteration for Mileston
     - **`-0.05`** penalty for choosing `Wait` while troops remain in `army_left`
   - **Why:** Encourages pushing attacks over 50% and targeting the Town Hall sector instead of stopping at ~45% peripheral percentage.
 - **Training schedule:** 3 random seeds (`42, 43, 44`), each running Stage 1 (`base03.json`, `25,000` steps) followed by Stage 2 (`base02..base04`, `500,000` steps) with TensorBoard logging.
-- **Outcome (M7b):** Pending 3-seed training and 24-pair evaluation.
+- **Outcome (M7b Part A):**
+  - Held-out evaluation on `base07..10` x 4 armies (16 independent pairs, 100 seeded episodes each, 8,000 total episodes; `results/m7b_partA.csv`):
+    * `maskable_ppo`: **31.78%** dest [95% CI 19.51, 45.62], **0.57** stars [0.18, 1.04]
+    * `left_wave`: **27.32%** dest [95% CI 13.53, 43.27], **0.70** stars [0.25, 1.23]
+    * `smart_funnel`: **22.82%** dest [95% CI 11.29, 36.67], **0.41** stars [0.10, 0.81]
+    * `surround`: **9.77%** dest [95% CI 3.77, 17.82], **0.11** stars [0.00, 0.32]
+    * `random_masked`: **8.69%** dest [95% CI 3.78, 14.94], **0.03** stars [0.00, 0.09]
+  - PPO beats best baseline on destruction (+4.46 pp), but DOES NOT beat best baseline on stars (-0.128 stars).
+  - Diagnostic (`results/ppo_action_diagnostics.csv`): Zero single-sector collapse across all 16 pairs (collapse rate < 90% everywhere), entropy 1.70-3.36 nats, distinct sectors per ep 2.0-3.5, Wall Breakers deployed 100% of episodes when present.
+
+---
+
+## M7b Part B — Anti-Collapse Reward Shaping, Expanded TH8 Roster & Mechanics
+- **Motivation:**
+  - In Part A, PPO beat the baseline on raw destruction (+4.46 pp) but lagged on stars (0.57 vs 0.70) because it prioritized safe exterior percentage rather than committing forces to break the core and take the Town Hall / cross the 50% star threshold.
+  - Furthermore, M5b expanded the sim to 13 troops (adding Wizard, Valkyrie, Hog Rider, Golem, Dragon, Balloon, Minion) and 7 TH8 armies (GoWiVa, Mass Dragons, Hog Rush).
+- **Action & State Space Updates (`sim/rl_wrapper.py`):**
+  - Expanded discrete action space to `Discrete(209)` = `1 + 13 troops * 16 perimeter sectors`.
+  - Dynamically loads all armies from `data/armies.json` into `army_pool`.
+  - Army feature vector length increased to 15 (13 troop ratios + time remaining + destruction).
+- **Anti-Collapse Reward Shaping (`ActionMaskCoCEnv.step()`):**
+  - **Sector spread bonus:** **`+0.5`** reward on the first deployment in each unique perimeter sector (`sec not in self._unique_sectors`). Encourages multi-angle pinching and flanking rather than single-vector funneling.
+  - **Over-concentration penalty:** **`-0.1`** penalty if a single sector receives > 50% of all deployed units once total deployments exceed 10.
+  - **Entropy regularizer:** `ent_coef` increased to `0.02` (up from `0.015`) to maintain high exploration entropy over all 209 actions.
+  - **Stars-aware terms preserved:** `+25.0` at 50% destruction, `+25.0` additional on Town Hall, `+50.0` at 100% destruction, `-0.05` wait penalty.
+  - Training split excludes trivial `base01.json` (`TRAIN_BASES = ["base02.json", "base03.json", "base04.json"]`).
+- **Validation Pipeline:**
+  1. 50k smoke run (`scripts/smoke_run_50k.py`) to verify action entropy, sectors used > 1.0, and WB deployment before long training.
+  2. Multi-seed training (3 seeds x 300k+ steps in Stage 2) with TensorBoard logging.
+  3. Held-out benchmark on `base07..10` saved to `results/m7b_partB.csv`.
 

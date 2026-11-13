@@ -1,0 +1,288 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "Preferred Target": "Defenses",
+        "Attack Type": "Area Splash 1.2 Tile Radius (Ground Only)",
+        "Housing Space": "5",
+        "Movement Speed": "10",
+        "Attack Speed": "3s",
+        "Barracks Level Required": "6",
+        "Range": "0.5 tiles",
+        "Death Damage Radius": "1.2 tiles"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Damage per Second": "25",
+        "Damage per Attack": "75",
+        "Damage Upon Death": "25",
+        "Hitpoints": "150",
+        "Research Cost": "N/A",
+        "Research Time": "N/A",
+        "Laboratory Level Required": "N/A"
+      },
+      {
+        "Level": "2",
+        "Damage per Second": "32",
+        "Damage per Attack": "96",
+        "Damage Upon Death": "32",
+        "Hitpoints": "180",
+        "Research Cost": "100,000",
+        "Research Time": "4h",
+        "Laboratory Level Required": "2"
+      },
+      {
+        "Level": "3",
+        "Damage per Second": "48",
+        "Damage per Attack": "144",
+        "Damage Upon Death": "48",
+        "Hitpoints": "216",
+        "Research Cost": "400,000",
+        "Research Time": "6h",
+        "Laboratory Level Required": "4"
+      },
+      {
+        "Level": "4",
+        "Damage per Second": "72",
+        "Damage per Attack": "216",
+        "Damage Upon Death": "72",
+        "Hitpoints": "280",
+        "Research Cost": "720,000",
+        "Research Time": "18h",
+        "Laboratory Level Required": "5"
+      },
+      {
+        "Level": "5",
+        "Damage per Second": "108",
+        "Damage per Attack": "324",
+        "Damage Upon Death": "108",
+        "Hitpoints": "390",
+        "Research Cost": "1,300,000",
+        "Research Time": "1d",
+        "Laboratory Level Required": "6"
+      },
+      {
+        "Level": "6",
+        "Damage per Second": "162",
+        "Damage per Attack": "486",
+        "Damage Upon Death": "162",
+        "Hitpoints": "545",
+        "Research Cost": "2,750,000",
+        "Research Time": "3d",
+        "Laboratory Level Required": "7"
+      },
+      {
+        "Level": "7",
+        "Damage per Second": "198",
+        "Damage per Attack": "594",
+        "Damage Upon Death": "214",
+        "Hitpoints": "690",
+        "Research Cost": "4,400,000",
+        "Research Time": "3d 6h",
+        "Laboratory Level Required": "9"
+      },
+      {
+        "Level": "8",
+        "Damage per Second": "236",
+        "Damage per Attack": "708",
+        "Damage Upon Death": "268",
+        "Hitpoints": "840",
+        "Research Cost": "5,000,000",
+        "Research Time": "3d 12h",
+        "Laboratory Level Required": "10"
+      },
+      {
+        "Level": "9",
+        "Damage per Second": "256",
+        "Damage per Attack": "768",
+        "Damage Upon Death": "322",
+        "Hitpoints": "940",
+        "Research Cost": "7,000,000",
+        "Research Time": "4d 12h",
+        "Laboratory Level Required": "11"
+      },
+      {
+        "Level": "10",
+        "Damage per Second": "276",
+        "Damage per Attack": "828",
+        "Damage Upon Death": "352",
+        "Hitpoints": "1,040",
+        "Research Cost": "10,000,000",
+        "Research Time": "7d",
+        "Laboratory Level Required": "12"
+      },
+      {
+        "Level": "11",
+        "Damage per Second": "290",
+        "Damage per Attack": "870",
+        "Damage Upon Death": "375",
+        "Hitpoints": "1,140",
+        "Research Cost": "14,000,000",
+        "Research Time": "8d 12h",
+        "Laboratory Level Required": "14"
+      },
+      {
+        "Level": "12",
+        "Damage per Second": "304",
+        "Damage per Attack": "912",
+        "Damage Upon Death": "398",
+        "Hitpoints": "1,240",
+        "Research Cost": "17,500,000",
+        "Research Time": "11d",
+        "Laboratory Level Required": "15"
+      },
+      {
+        "Level": "13",
+        "Damage per Second": "326",
+        "Damage per Attack": "978",
+        "Damage Upon Death": "425",
+        "Hitpoints": "1,360",
+        "Research Cost": "28,000,000",
+        "Research Time": "14d 18h",
+        "Laboratory Level Required": "16"
+      }
+    ],
+    [
+      {
+        "Super Troop": "Rocket Balloon",
+        "Boost Cost": "25,000",
+        "Balloon Level Required": "8"
+      }
+    ],
+    [
+      {
+        "Patch": "August 2, 2012",
+        "Type": "The Balloon was added in the original release of the game, with 5 levels."
+      },
+      {
+        "Patch": "September 19, 2012",
+        "Type": "Update",
+        "Description": "The upgraded Balloon now shows pink asterisks that represent its level. The Balloon now has an upgrade differences at levels 3-4 and 5."
+      },
+      {
+        "Patch": "February 5, 2013",
+        "Type": "Update",
+        "Description": "Added the level 6 Balloon."
+      },
+      {
+        "Patch": "April 17, 2013",
+        "Type": "Update",
+        "Description": "Made Balloons to deal additional damage upon death."
+      },
+      {
+        "Patch": "August 27, 2013",
+        "Type": "Update",
+        "Description": "Decreased training time from 10m to 8m."
+      },
+      {
+        "Patch": "May 4, 2016",
+        "Type": "Balance Changes",
+        "Description": "Reduced training time from 8m to 5m."
+      },
+      {
+        "Patch": "May 24, 2016",
+        "Type": "Update",
+        "Description": "Added the level 7 Balloon."
+      },
+      {
+        "Patch": "December 19, 2016",
+        "Type": "Update",
+        "Description": "The Balloon now attacks slightly sooner after reaching its target."
+      },
+      {
+        "Patch": "June 11, 2018",
+        "Type": "Update",
+        "Description": "Added the level 8 Balloon."
+      },
+      {
+        "Patch": "June 26, 2018",
+        "Type": "Balance Changes",
+        "Description": "Reduced upgrade times at levels 1 to 6."
+      },
+      {
+        "Patch": "October 23, 2018",
+        "Type": "Update",
+        "Description": "Reduced gem donation cost of Balloon from 5 to 3 gems."
+      },
+      {
+        "Patch": "April 2, 2019",
+        "Type": "Update",
+        "Description": "Reduced upgrade times at levels 5 to 7. Reduced upgrade costs at all levels."
+      },
+      {
+        "Patch": "December 9, 2019",
+        "Type": "Update",
+        "Description": "Added the level 9 Balloon."
+      },
+      {
+        "Patch": "March 30, 2020",
+        "Type": "Update",
+        "Description": "Reduced upgrade cost of level 6 Balloon."
+      },
+      {
+        "Patch": "June 15, 2021",
+        "Type": "Update",
+        "Description": "Added the level 10 Balloon."
+      },
+      {
+        "Patch": "December 9, 2021",
+        "Type": "Update",
+        "Description": "Reduced upgrade costs and times of levels 2 to 8."
+      },
+      {
+        "Patch": "March 27, 2025",
+        "Type": "Clash Anytime Update",
+        "Description": "Removed training time."
+      },
+      {
+        "Patch": "June 16, 2025",
+        "Type": "Update",
+        "Description": "Added the level 12 Balloon."
+      },
+      {
+        "Patch": "October 6, 2025",
+        "Type": "Ranked Battle Update",
+        "Description": "Reduced upgrade times at levels 7 to 10: Level 7: 3d 12h -> 3d 6h Level 8: 4d -> 3d 12h Level 9: 5d -> 4d 12h Level 10: 7d 12h -> 7d"
+      },
+      {
+        "Patch": "November 17, 2025",
+        "Type": "Town Hall 18 Update",
+        "Description": "Reduced upgrade time at levels 12 from 15d 12h to 11d. Reduced upgrade cost at level 12 from 22,500,000 to 17,500,000."
+      },
+      {
+        "Patch": "April 27, 2026",
+        "Type": "Update",
+        "Description": "Added the level 13 Balloon."
+      }
+    ],
+    [
+      {
+        "Home Village Army": "Elixir Troops"
+      },
+      {
+        "Home Village Army": "Dark Elixir Troops"
+      },
+      {
+        "Home Village Army": "Super Troops"
+      },
+      {
+        "Home Village Army": "Heroes & Hero Equipment"
+      },
+      {
+        "Home Village Army": "Elixir Spells"
+      },
+      {
+        "Home Village Army": "Dark Spells"
+      },
+      {
+        "Home Village Army": "Siege Machines"
+      },
+      {
+        "Home Village Army": "Pets"
+      }
+    ]
+  ]
+}

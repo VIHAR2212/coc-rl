@@ -1,0 +1,410 @@
+{
+  "infobox": {},
+  "tables": [
+    [
+      {
+        "": ""
+      }
+    ],
+    [
+      {
+        "Town Hall Level": "Number Available",
+        "1": "1",
+        "2": "1",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "1"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "10",
+        "2": "11",
+        "3": "12",
+        "4": "13",
+        "5": "14",
+        "6": "15",
+        "7": "16",
+        "8": "17",
+        "9": "18"
+      },
+      {
+        "Town Hall Level": "",
+        "1": "1",
+        "2": "1",
+        "3": "1",
+        "4": "1",
+        "5": "1",
+        "6": "1",
+        "7": "1",
+        "8": "1",
+        "9": "1"
+      }
+    ],
+    [
+      {
+        "Size": "3x3"
+      }
+    ],
+    [
+      {
+        "Level": "1",
+        "Unlocked Unit": "Barbarian",
+        "Hitpoints": "100",
+        "Build Cost": "100",
+        "Build Time": "10s",
+        "Experience Gained": "3",
+        "Town Hall Level Required": "1"
+      },
+      {
+        "Level": "2",
+        "Unlocked Unit": "Archer",
+        "Hitpoints": "200",
+        "Build Cost": "500",
+        "Build Time": "15s",
+        "Experience Gained": "3",
+        "Town Hall Level Required": "1*"
+      },
+      {
+        "Level": "3",
+        "Unlocked Unit": "Giant",
+        "Hitpoints": "250",
+        "Build Cost": "2,500",
+        "Build Time": "2m",
+        "Experience Gained": "10",
+        "Town Hall Level Required": "1*"
+      },
+      {
+        "Level": "4",
+        "Unlocked Unit": "Goblin",
+        "Hitpoints": "300",
+        "Build Cost": "5,000",
+        "Build Time": "30m",
+        "Experience Gained": "42",
+        "Town Hall Level Required": "2"
+      },
+      {
+        "Level": "5",
+        "Unlocked Unit": "Wall Breaker",
+        "Hitpoints": "360",
+        "Build Cost": "20,000",
+        "Build Time": "2h",
+        "Experience Gained": "84",
+        "Town Hall Level Required": "3"
+      },
+      {
+        "Level": "6",
+        "Unlocked Unit": "Balloon",
+        "Hitpoints": "420",
+        "Build Cost": "120,000",
+        "Build Time": "4h",
+        "Experience Gained": "120",
+        "Town Hall Level Required": "4"
+      },
+      {
+        "Level": "7",
+        "Unlocked Unit": "Wizard",
+        "Hitpoints": "500",
+        "Build Cost": "270,000",
+        "Build Time": "6h",
+        "Experience Gained": "146",
+        "Town Hall Level Required": "5"
+      },
+      {
+        "Level": "8",
+        "Unlocked Unit": "Healer",
+        "Hitpoints": "575",
+        "Build Cost": "600,000",
+        "Build Time": "12h",
+        "Experience Gained": "207",
+        "Town Hall Level Required": "6"
+      },
+      {
+        "Level": "9",
+        "Unlocked Unit": "Dragon",
+        "Hitpoints": "650",
+        "Build Cost": "1,000,000",
+        "Build Time": "1d",
+        "Experience Gained": "293",
+        "Town Hall Level Required": "7"
+      },
+      {
+        "Level": "10",
+        "Unlocked Unit": "P.E.K.K.A",
+        "Hitpoints": "730",
+        "Build Cost": "1,400,000",
+        "Build Time": "1d 12h",
+        "Experience Gained": "360",
+        "Town Hall Level Required": "8"
+      },
+      {
+        "Level": "11",
+        "Unlocked Unit": "Baby Dragon",
+        "Hitpoints": "810",
+        "Build Cost": "2,600,000",
+        "Build Time": "2d",
+        "Experience Gained": "415",
+        "Town Hall Level Required": "9"
+      },
+      {
+        "Level": "12",
+        "Unlocked Unit": "Miner",
+        "Hitpoints": "900",
+        "Build Cost": "3,700,000",
+        "Build Time": "4d",
+        "Experience Gained": "587",
+        "Town Hall Level Required": "10"
+      },
+      {
+        "Level": "13",
+        "Unlocked Unit": "Electro Dragon",
+        "Hitpoints": "980",
+        "Build Cost": "6,000,000",
+        "Build Time": "5d",
+        "Experience Gained": "657",
+        "Town Hall Level Required": "11"
+      },
+      {
+        "Level": "14",
+        "Unlocked Unit": "Yeti",
+        "Hitpoints": "1,050",
+        "Build Cost": "7,000,000",
+        "Build Time": "6d",
+        "Experience Gained": "720",
+        "Town Hall Level Required": "12"
+      },
+      {
+        "Level": "15",
+        "Unlocked Unit": "Dragon Rider",
+        "Hitpoints": "1,150",
+        "Build Cost": "9,000,000",
+        "Build Time": "7d",
+        "Experience Gained": "777",
+        "Town Hall Level Required": "13"
+      },
+      {
+        "Level": "16",
+        "Unlocked Unit": "Electro Titan",
+        "Hitpoints": "1,250",
+        "Build Cost": "11,000,000",
+        "Build Time": "7d 12h",
+        "Experience Gained": "804",
+        "Town Hall Level Required": "14"
+      },
+      {
+        "Level": "17",
+        "Unlocked Unit": "Root Rider",
+        "Hitpoints": "1,350",
+        "Build Cost": "12,600,000",
+        "Build Time": "8d",
+        "Experience Gained": "831",
+        "Town Hall Level Required": "15"
+      },
+      {
+        "Level": "18",
+        "Unlocked Unit": "Thrower",
+        "Hitpoints": "1,450",
+        "Build Cost": "15,000,000",
+        "Build Time": "9d",
+        "Experience Gained": "881",
+        "Town Hall Level Required": "16"
+      },
+      {
+        "Level": "19",
+        "Unlocked Unit": "Meteor Golem",
+        "Hitpoints": "1,520",
+        "Build Cost": "26,000,000",
+        "Build Time": "10d 12h",
+        "Experience Gained": "952",
+        "Town Hall Level Required": "17"
+      }
+    ],
+    [
+      {
+        "Discover New Troops": "Description"
+      },
+      {
+        "Discover New Troops": "Unlock Archer in the Barracks"
+      },
+      {
+        "Discover New Troops": "Unlock Wall Breaker in the Barracks"
+      },
+      {
+        "Discover New Troops": "Unlock Dragon in the Barracks"
+      }
+    ],
+    [
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon begins upgrading the Barracks to the next level, if you have enough resources and a free Builder (or B.O.B ). When the Barracks is at maximum level, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon instantly upgrades the Barracks to the next level, at the cost of one Hammer of Building if you have one. When the Barracks is at maximum level, or if the Town Hall requirements for the next level are not met, this icon is not shown."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of the displayed number of Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Building . This icon is only shown if you have at least one Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, instantly finishes that upgrade at the cost of one Book of Everything . This icon is only shown if you have at least one Book of Everything but do not have a Book of Building."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, gives the player the option to assign a Builder's Apprentice to that Building. This icon only is only shown if you have unlocked Builder's Apprentice for 500 Gems ."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, boosts all your Builders for 1 hour by a factor of ten, at the cost of one Builder Potion . This icon is only shown if you have at least one Builder Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon, which is displayed only while an upgrade is in progress, cancels the current upgrade and refunds half of the upgrade cost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon boosts your troop training for 1 hour, reducing the time required to train troops by a factor of four for the duration of the boost."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon boosts your troop and Siege Machine training, spell brewing and hero regeneration for 1 hour, reducing the time by a factor of four for the duration of the boost, at the cost of one Training Potion . This icon is only shown if you have at least one Training Potion."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon resumes a paused boost to your troop training. This icon is only shown if you have an active troop training boost that was paused by a maintenance break."
+      },
+      {
+        "": "",
+        "Tapping this icon displays information about the Barracks, such as Level and Hitpoints.": "Tapping this icon opens up the troop training interface, allowing you to train troops."
+      }
+    ],
+    [
+      {
+        "Date": "August 2, 2012",
+        "Description": "Introduction of the Barracks, with 10 levels."
+      },
+      {
+        "Date": "November 19, 2012",
+        "Description": "Barracks can now be boosted using gems, starting at level 4. Barracks now emit a warm glow of light when training troops."
+      },
+      {
+        "Date": "January 10, 2013",
+        "Description": "Reduced upgrade cost at level 8 from 1,000,000 to 700,000."
+      },
+      {
+        "Date": "March 12, 2013",
+        "Description": "Its queued troops no longer count towards the \"Troop capacity after training\" count in the Barracks' training screen if the Barracks is being upgraded."
+      },
+      {
+        "Date": "May 23, 2013",
+        "Description": "You can now browse through Barracks by tapping arrows."
+      },
+      {
+        "Date": "December 5, 2013",
+        "Description": "Added \"Training capacity\" to Barracks info and upgrade screens."
+      },
+      {
+        "Date": "January 8, 2014",
+        "Description": "Reduced boost cost from 25 gems to 20 gems. Increased boost duration from 45m to 4h."
+      },
+      {
+        "Date": "January 29, 2014",
+        "Description": "Reduced boost cost and duration from 4h per 20 gems to 2h per 10 gems."
+      },
+      {
+        "Date": "December 11, 2014",
+        "Description": "Swapped the level 3 and 4 unlock order; Giants are now the third troop unlocked and the Goblins are the fourth. Increased hitpoints at levels 2 to 10: Level 2: 270 -> 290 Level 3: 280 -> 330 Level 4: 290 -> 370 Level 5: 310 -> 410 Level 6: 320 -> 450 Level 7: 340 -> 490 Level 8: 350 -> 530 Level 9: 390 -> 570 Level 10: 420 -> 610"
+      },
+      {
+        "Date": "July 1, 2015",
+        "Description": "Improved the Barracks interface: Train your army with a new Training button just above Attack - no more Barracks-hunting. Army Overview lets you view, request troops and edit your army, including spells! Increased hitpoints at levels 5 to 10: Level 5: 410 -> 420 Level 6: 450 -> 470 Level 7: 490 -> 520 Level 8: 530 -> 600 Level 9: 570 -> 720 Level 10: 610 -> 860"
+      },
+      {
+        "Date": "December 10, 2015",
+        "Description": "Reduced army boosts to 5 gems for 1 hour of boost. Troops can now be queued in sequence like the Spell Factory ."
+      },
+      {
+        "Date": "March 21, 2016",
+        "Description": "Army Overview now shows time until training/brewing is complete, also accounting for active boosts."
+      },
+      {
+        "Date": "May 24, 2016",
+        "Description": "Added level 11 and 12 Barracks, with the introduction of the Baby Dragon and Miner . Troops/spells can be dragged anywhere into a training queue - training progress is transferred. Changed the \"Training Finished\" sound effect from this to this ."
+      },
+      {
+        "Date": "October 12, 2016",
+        "Description": "Revamped Army Training, merging all Barracks and Dark Barracks queues into a single queue (whose capacity is now dependent on Army Camp levels rather than Barracks levels), and adjusting troops' training times to be inversely proportional to the number of Barracks capable of training a troop. This was first suggested by Keeper3082 on forums, on October 25, 2012. Added Quick Train, a feature allowing players to save specific army presets and quickly train said presets with a single button. Increased boost cost to 30 gems - though this boosted all Barracks and Dark Barracks at once; boosting individual Barracks was no longer possible."
+      },
+      {
+        "Date": "June 11, 2018",
+        "Description": "Added the level 13 Barracks, with the introduction of the Electro Dragon ."
+      },
+      {
+        "Date": "June 26, 2018",
+        "Description": "Reduced upgrade times at levels 3 to 12: Level 3: 2h -> 1h Level 4: 4h -> 3h Level 5: 10h -> 8h Level 6: 16h -> 12h Level 7: 1d -> 16h Level 8: 2d -> 1d 12h Level 9: 4d -> 2d 12h Level 10: 6d -> 4d Level 11: 8d -> 6d Level 12: 10d -> 7d"
+      },
+      {
+        "Date": "April 2, 2019",
+        "Description": "Reduced upgrade times at levels 2 to 13: Level 2: 30m -> 1m Level 3: 1h -> 15m Level 4: 3h -> 1h Level 5: 8h -> 4h Level 6: 12h -> 8h Level 7: 16h -> 12h Level 8: 1d 12h -> 16h Level 9: 2d 12h -> 1d Level 10: 4d -> 2d Level 11: 6d -> 3d Level 12: 7d -> 5d Level 13: 12d -> 8d Reduced upgrade costs at levels 9 to 12: Level 9: 1,500,000 -> 1,000,000 Level 10: 2,000,000 -> 1,500,000 Level 11: 3,000,000 -> 2,500,000 Level 12: 4,000,000 -> 3,250,000"
+      },
+      {
+        "Date": "December 9, 2019",
+        "Description": "Added the level 14 Barracks, with the introduction of the Yeti ."
+      },
+      {
+        "Date": "June 15, 2021",
+        "Description": "Added the level 15 Barracks, with the introduction of the Dragon Rider ."
+      },
+      {
+        "Date": "December 9, 2021",
+        "Description": "Reduced upgrade costs at levels 6 to 12."
+      },
+      {
+        "Date": "October 10, 2022",
+        "Description": "Added the level 16 Barracks, with the introduction of the Electro Titan . Merged the Barracks into one building; training time at maximum availability was unchanged. Doubled the upgrade costs and times of level 5 to 15 Barracks to compensate for only needing to upgrade one Barracks. Troops can now be trained in the Barracks while it is upgrading, but at a reduced speed of 50%."
+      },
+      {
+        "Date": "December 12, 2023",
+        "Description": "Added the level 17 Barracks, with the introduction of the Root Rider . Reduced upgrade costs at levels 9 and 10: Level 9: 1,200,000 -> 1,000,000 Level 10: 1,700,000 -> 1,400,000 Reduced upgrade times at levels 15 and 16: Level 15: 10d 12h -> 9d 12h Level 16: 16d -> 12d"
+      },
+      {
+        "Date": "November 15, 2024",
+        "Description": "Added the level 18 Barracks, with the introduction of the Thrower ."
+      },
+      {
+        "Date": "November 15, 2024",
+        "Description": "Reduced upgrade times at levels 2 to 4: Level 2: 1m -> 30s Level 3: 10m -> 5m Level 4: 1h -> 30m"
+      },
+      {
+        "Date": "March 24, 2025",
+        "Description": "Reduced upgrade costs at levels 8, 13, 15, and 18: Level 8: 800,000 -> 600,000 Level 13: 6,500,000 -> 6,000,000 Level 15: 10,000,000 -> 9,000,000 Level 18: 21,000,000 -> 15,000,000 Reduced upgrade times at levels 2 to 13 (except 4), 17, and 18: Level 2: 30s -> 15s Level 3: 5m -> 2m Level 5: 4h -> 2h Level 6: 12h -> 4h Level 7: 18h -> 6h Level 8: 1d -> 12h Level 9: 1d 12h -> 1d Level 10: 2d 12h -> 1d 12h Level 11: 3d -> 2d Level 12: 5d -> 4d Level 13: 6d -> 5d Level 17: 12d -> 9d Level 18: 15d -> 11d"
+      },
+      {
+        "Date": "November 17, 2025",
+        "Description": "Added the level 19 Barracks, with the introduction of the Meteor Golem ."
+      }
+    ],
+    [
+      {
+        "Home Village Buildings": "Defensive Buildings"
+      },
+      {
+        "Home Village Buildings": "Resource Buildings"
+      },
+      {
+        "Home Village Buildings": "Army Buildings"
+      },
+      {
+        "Home Village Buildings": "Other Buildings"
+      }
+    ]
+  ]
+}
