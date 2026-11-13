@@ -1,0 +1,733 @@
+[
+  {
+    "troopName": "Barbarian",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference. Attacks closest target regardless of type (resource, defense, or army camp).",
+    "distractionAndAggro": "Easily distracted by defending Clan Castle troops, defending Heroes, or Skeleton Traps within aggro radius (approximately 7 tiles). Once engaged, will abandon its target building to chase and fight defending units.",
+    "wallInteraction": "Will path around walls if the pathing detour is less than approximately 12 tiles. If completely enclosed or the detour is too long, will target the nearest wall segment blocking the direct line to its target building.",
+    "deathAndSpawnEffects": "Leaves a grave stone. No death damage or spawned units in standard form.",
+    "pathfindingNotes": "Uses basic greedy nearest-target pathfinding. High propensity to clump together in swarms, making it vulnerable to splash defenses (Wizard Towers, Mortars).",
+    "sources": [
+      {
+        "title": "Fandom: Barbarian AI & Behaviors",
+        "url": "https://clashofclans.fandom.com/wiki/Barbarian"
+      },
+      {
+        "title": "coc.guide: Barbarian Mechanics",
+        "url": "https://coc.guide/troop/barbarian"
+      }
+    ]
+  },
+  {
+    "troopName": "Archer",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building. Attacks closest target within its 3.5 tile range regardless of type.",
+    "distractionAndAggro": "Distracted by defending CC troops, Heroes, or Skeletons within 7 tiles. Can shoot over walls at defending units without having to path close to them.",
+    "wallInteraction": "Attacks over walls if the target building is within 3.5 tiles from outside the wall. If the target is recessed deeper than 3.5 tiles, will either walk around through open breaches or attack the blocking wall segment if no route exists.",
+    "deathAndSpawnEffects": "None upon death. Vulnerable to Giant Bombs and Mortar shells which can one-shot entire packs.",
+    "pathfindingNotes": "Ranged standoff distance means Archers often stay spread along perimeter walls. When attacking CC troops over walls, can take down air or ground units alike.",
+    "sources": [
+      {
+        "title": "Fandom: Archer AI",
+        "url": "https://clashofclans.fandom.com/wiki/Archer"
+      },
+      {
+        "title": "coc.guide: Archer",
+        "url": "https://coc.guide/troop/archer"
+      }
+    ]
+  },
+  {
+    "troopName": "Giant",
+    "category": "Elixir Troop",
+    "targetPriority": "Defenses exclusively. Will bypass all non-defensive buildings (Town Hall, Clan Castle, Storages) until every single defense on the map is demolished.",
+    "distractionAndAggro": "COMPLETELY IGNORES defending Clan Castle troops, defending Heroes, and Skeleton Traps while any defense remains active on the map, even while taking heavy fire from them. Only retaliates after all defenses are destroyed.",
+    "wallInteraction": "Does not jump walls. Paths through open compartments if the route is reasonably short; otherwise targets and attacks the wall segment enclosing its targeted defense.",
+    "deathAndSpawnEffects": "None on death. Acts as high HP meat shield for squishier damage dealers (Wizards, Archers).",
+    "pathfindingNotes": "Groups of Giants tend to lock onto the same defense, hammering walls in unison. Spring Traps can fling up to 3 Giants (15 housing space total per spring trap trigger).",
+    "sources": [
+      {
+        "title": "Fandom: Giant AI & Targeting",
+        "url": "https://clashofclans.fandom.com/wiki/Giant"
+      },
+      {
+        "title": "coc.guide: Giant",
+        "url": "https://coc.guide/troop/giant"
+      }
+    ]
+  },
+  {
+    "troopName": "Goblin",
+    "category": "Elixir Troop",
+    "targetPriority": "Resource buildings (Gold Mines, Elixir Collectors, Dark Elixir Drills, Storages, Town Hall, Clan Castle). Deals 2x damage against these targets.",
+    "distractionAndAggro": "Completely immune to distraction by defending CC troops, Heroes, and Skeletons until ALL resource structures on the entire map are eliminated.",
+    "wallInteraction": "Will run through gaps in walls or path long distances around walls to reach open resource buildings. Only attacks walls if a resource building is completely sealed inside.",
+    "deathAndSpawnEffects": "None. Extremely fast (32 movement speed), often triggering and running past Spring Traps before they launch.",
+    "pathfindingNotes": "Prioritizes closest resource building. Because Town Hall counts as a storage/resource building, Goblins will target the Town Hall with 2x damage once nearby.",
+    "sources": [
+      {
+        "title": "Fandom: Goblin AI",
+        "url": "https://clashofclans.fandom.com/wiki/Goblin"
+      },
+      {
+        "title": "coc.guide: Goblin",
+        "url": "https://coc.guide/troop/goblin"
+      }
+    ]
+  },
+  {
+    "troopName": "Wall Breaker",
+    "category": "Elixir Troop",
+    "targetPriority": "Walls that enclose or protect active buildings. Deals 40x damage against Wall segments in a 2-tile splash area.",
+    "distractionAndAggro": "Does not target troops or buildings. Will not be distracted by defending CC troops or heroes; stays locked onto its targeted wall segment.",
+    "wallInteraction": "Seeks walls containing unbreached compartments with structures inside. If a compartment has already been opened, seeks the nearest enclosed compartment.",
+    "deathAndSpawnEffects": "Kamikaze unit: sacrifices itself upon detonating at the wall. If killed en route, detonates a small death blast with reduced wall damage.",
+    "pathfindingNotes": "Highly vulnerable to Mortars and Bomb Towers en route. Optimal deployment is behind a tank (Giant/Golem) or inside a Rage/Wardens Aura.",
+    "sources": [
+      {
+        "title": "Fandom: Wall Breaker Targeting Mechanics",
+        "url": "https://clashofclans.fandom.com/wiki/Wall_Breaker"
+      },
+      {
+        "title": "coc.guide: Wall Breaker",
+        "url": "https://coc.guide/troop/wall-breaker"
+      }
+    ]
+  },
+  {
+    "troopName": "Balloon",
+    "category": "Elixir Troop",
+    "targetPriority": "Defenses exclusively. Bypasses all non-defensive buildings until every defense on the map is destroyed.",
+    "distractionAndAggro": "Does not retarget onto CC troops or Heroes while defenses remain. Can only damage ground targets with normal attacks, making it unable to fight defending air CC troops.",
+    "wallInteraction": "Air unit: completely ignores walls and ground obstacles.",
+    "deathAndSpawnEffects": "Death Damage: Upon destruction, crashes down and drops an emergency bomb dealing full base DPS damage to everything in a 1.2-tile ground radius.",
+    "pathfindingNotes": "Groups of Balloons drop bombs synchronously; moving slow (10 speed), they are commonly assisted with Haste and Freeze spells to breach Air Defenses and Wizard Towers.",
+    "sources": [
+      {
+        "title": "Fandom: Balloon Targeting & Death Bomb",
+        "url": "https://clashofclans.fandom.com/wiki/Balloon"
+      },
+      {
+        "title": "coc.guide: Balloon",
+        "url": "https://coc.guide/troop/balloon"
+      }
+    ]
+  },
+  {
+    "troopName": "Wizard",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference. Attacks ground or air targets in range.",
+    "distractionAndAggro": "Easily distracted by defending CC troops, Heroes, or Skeletons within 7 tiles. Fires high-damage fireball projectiles with 0.3 tile splash that can hit clusters.",
+    "wallInteraction": "Can shoot over walls from 3-tile range. Attacks walls only if target building is unreachable and no open route exists.",
+    "deathAndSpawnEffects": "None. Fragile glass cannon requiring frontline meat shields.",
+    "pathfindingNotes": "Ideal funneling and DPS cleanup troop; devastating inside Clan Castle defensive payloads.",
+    "sources": [
+      {
+        "title": "Fandom: Wizard",
+        "url": "https://clashofclans.fandom.com/wiki/Wizard"
+      },
+      {
+        "title": "coc.guide: Wizard",
+        "url": "https://coc.guide/troop/wizard"
+      }
+    ]
+  },
+  {
+    "troopName": "Healer",
+    "category": "Elixir Troop",
+    "targetPriority": "Friendly damaged ground troops and ground Heroes. Does not heal air troops or flying Grand Warden.",
+    "distractionAndAggro": "Does not attack enemies. Swaps targets based on health loss of nearby friendly ground units. If target dies, seeks closest engaged damaged ground unit within 12 tiles.",
+    "wallInteraction": "Air unit: flies over walls freely.",
+    "deathAndSpawnEffects": "None on death. Does not trigger Air Traps (Seeking Air Mine, Air Bomb) on deployment, but can be targeted by Air Defenses and Inferno Towers.",
+    "pathfindingNotes": "Healer Stacking Penalty: Healing output per healer scales down progressively when more than 4 healers target the same unit (reduced to ~50% at 6 healers).",
+    "sources": [
+      {
+        "title": "Fandom: Healer AI & Stacking Penalty",
+        "url": "https://clashofclans.fandom.com/wiki/Healer"
+      },
+      {
+        "title": "coc.guide: Healer",
+        "url": "https://coc.guide/troop/healer"
+      }
+    ]
+  },
+  {
+    "troopName": "Dragon",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference. Attacks ground and air targets with fiery breath (0.3 tile splash).",
+    "distractionAndAggro": "Distracted by defending CC troops, Heroes, or Skeletons in 7-tile radius. Can incinerate defending Lava Pups, Minions, or ground troops.",
+    "wallInteraction": "Air unit: flies freely over all walls.",
+    "deathAndSpawnEffects": "None upon death. Highly resistant to single-target traps but vulnerable to high-level Air Defenses.",
+    "pathfindingNotes": "Wide flight hitbox and 3-tile attack range can cause Dragons to path in wide perimeter sweeps if edges are not funneled cleanly.",
+    "sources": [
+      {
+        "title": "Fandom: Dragon AI",
+        "url": "https://clashofclans.fandom.com/wiki/Dragon"
+      },
+      {
+        "title": "coc.guide: Dragon",
+        "url": "https://coc.guide/troop/dragon"
+      }
+    ]
+  },
+  {
+    "troopName": "P.E.K.K.A",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building. Attacks single targets with massive melee blade strikes.",
+    "distractionAndAggro": "Easily distracted by defending CC troops, Heroes, and Skeletons within 7 tiles. Susceptible to distraction by Skeleton Traps, which can tie up its slow 1.8s attack rate.",
+    "wallInteraction": "Paths around walls if pathing is clear; chops down walls if compartment is sealed or detour exceeds 10 tiles.",
+    "deathAndSpawnEffects": "None. Extremely durable high-HP armored juggernaut.",
+    "pathfindingNotes": "Prone to circling outer perimeter buildings (\"walking the dog\") if funneling troops are not placed to direct it into base compartments.",
+    "sources": [
+      {
+        "title": "Fandom: P.E.K.K.A AI",
+        "url": "https://clashofclans.fandom.com/wiki/P.E.K.K.A"
+      },
+      {
+        "title": "coc.guide: P.E.K.K.A",
+        "url": "https://coc.guide/troop/pekka"
+      }
+    ]
+  },
+  {
+    "troopName": "Baby Dragon",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference. Targets ground and air.",
+    "distractionAndAggro": "Distracted by defending CC troops, Heroes, and Skeleton Traps. Maintains splash attack against clustered defenders.",
+    "wallInteraction": "Air unit: flies over walls without impediment.",
+    "deathAndSpawnEffects": "None on death.",
+    "pathfindingNotes": "Tantrum Mechanic: Gains +100% damage and +80% attack speed when placed more than 4.5 tiles away from any other friendly air troop. Premier outside funneling troop.",
+    "sources": [
+      {
+        "title": "Fandom: Baby Dragon Tantrum Mechanics",
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon"
+      },
+      {
+        "title": "coc.guide: Baby Dragon",
+        "url": "https://coc.guide/troop/baby-dragon"
+      }
+    ]
+  },
+  {
+    "troopName": "Miner",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference.",
+    "distractionAndAggro": "Distracted by defending ground CC troops and Heroes when surfaced. Re-burrows underground to travel to them.",
+    "wallInteraction": "Burrows underneath all walls. Completely ignores wall obstacles during movement.",
+    "deathAndSpawnEffects": "None on death. Completely immune to damage and untargetable while submerged underground between attacks.",
+    "pathfindingNotes": "Traps trigger when Miner surfaces on top of them, but not while traveling submerged. Paired commonly with Hog Riders in \"Hybrid\" attacks.",
+    "sources": [
+      {
+        "title": "Fandom: Miner AI & Underground State",
+        "url": "https://clashofclans.fandom.com/wiki/Miner"
+      },
+      {
+        "title": "coc.guide: Miner",
+        "url": "https://coc.guide/troop/miner"
+      }
+    ]
+  },
+  {
+    "troopName": "Electro Dragon",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building. Attacks ground and air with chain lightning.",
+    "distractionAndAggro": "Distracted by defending troops and heroes within aggro range. Chain lightning can arc from buildings onto defending troops or heroes.",
+    "wallInteraction": "Air unit: flies over walls unimpeded.",
+    "deathAndSpawnEffects": "Death Lightning: On defeat, unleashes a storm of 5 lightning bolts striking nearby enemy structures and defenders for massive localized damage.",
+    "pathfindingNotes": "Chain lightning bounces up to 5 times if targets are separated by 1 tile or less (including diagonally across 1-tile gaps). Slow attack animation (3.5s charge up), reset by Air Sweepers.",
+    "sources": [
+      {
+        "title": "Fandom: Electro Dragon Chain Mechanics",
+        "url": "https://clashofclans.fandom.com/wiki/Electro_Dragon"
+      },
+      {
+        "title": "coc.guide: Electro Dragon",
+        "url": "https://coc.guide/troop/electro-dragon"
+      }
+    ]
+  },
+  {
+    "troopName": "Yeti",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference. Melee strikes.",
+    "distractionAndAggro": "Distracted by defending ground troops and heroes in aggro range.",
+    "wallInteraction": "Yeti must path around walls or break them down. Yetimites spawned from its back jump over walls effortlessly.",
+    "deathAndSpawnEffects": "Yetimite Explosion: Spawns remaining Yetimites on death. Yetimites jump walls, target defenses with 4x damage, and trigger suicide detonations.",
+    "pathfindingNotes": "Taking incremental chunks of damage causes Yetimites to spawn from its backpack, dismantling core defenses from range.",
+    "sources": [
+      {
+        "title": "Fandom: Yeti & Yetimite AI",
+        "url": "https://clashofclans.fandom.com/wiki/Yeti"
+      },
+      {
+        "title": "coc.guide: Yeti",
+        "url": "https://coc.guide/troop/yeti"
+      }
+    ]
+  },
+  {
+    "troopName": "Dragon Rider",
+    "category": "Elixir Troop",
+    "targetPriority": "Defenses exclusively. Bypasses non-defensive buildings until all defenses are destroyed.",
+    "distractionAndAggro": "Does not retarget onto CC troops or Heroes while defenses stand.",
+    "wallInteraction": "Air unit: flies over walls with 4-tile attack range.",
+    "deathAndSpawnEffects": "Crash Landing: Deals up to 1100 death damage upon crashing into the ground on defeat.",
+    "pathfindingNotes": "Ranged defensive sniper that can pick off defenses over walls without flying directly over Air Sweeper or Inferno cones.",
+    "sources": [
+      {
+        "title": "Fandom: Dragon Rider",
+        "url": "https://clashofclans.fandom.com/wiki/Dragon_Rider"
+      },
+      {
+        "title": "coc.guide: Dragon Rider",
+        "url": "https://coc.guide/troop/dragon-rider"
+      }
+    ]
+  },
+  {
+    "troopName": "Electro Titan",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building. Attacks ground and air.",
+    "distractionAndAggro": "Distracted by defending units within aggro range. In addition, its passive electric aura continuously shocks everything within 3.5 tiles.",
+    "wallInteraction": "Attacks walls if route is blocked; aura chips away at walls and nearby buildings passively.",
+    "deathAndSpawnEffects": "Aura terminates on death. High HP tank with ground/air threat coverage.",
+    "pathfindingNotes": "Electric Aura disintegrates Skeleton Traps, Clan Castle swarms, and Bats instantly without needing to spend an attack animation on them.",
+    "sources": [
+      {
+        "title": "Fandom: Electro Titan Aura AI",
+        "url": "https://clashofclans.fandom.com/wiki/Electro_Titan"
+      },
+      {
+        "title": "coc.guide: Electro Titan",
+        "url": "https://coc.guide/troop/electro-titan"
+      }
+    ]
+  },
+  {
+    "troopName": "Root Rider",
+    "category": "Elixir Troop",
+    "targetPriority": "Defenses exclusively.",
+    "distractionAndAggro": "Ignores defending CC troops and heroes while defenses remain on the map.",
+    "wallInteraction": "Earth Trample: Walks directly through Wall segments, smashing and permanently destroying them with zero attack delay, creating open paths for following ground armies.",
+    "deathAndSpawnEffects": "None on death.",
+    "pathfindingNotes": "Completely revolutionizes ground pathfinding by breaking compartments open effortlessly as it travels toward defenses.",
+    "sources": [
+      {
+        "title": "Fandom: Root Rider Wall Trampling AI",
+        "url": "https://clashofclans.fandom.com/wiki/Root_Rider"
+      },
+      {
+        "title": "coc.guide: Root Rider",
+        "url": "https://coc.guide/troop/root-rider"
+      }
+    ]
+  },
+  {
+    "troopName": "Meteor Golem",
+    "category": "Elixir Troop",
+    "targetPriority": "Defenses exclusively.",
+    "distractionAndAggro": "Colossal tank that ignores defending units until defenses fall.",
+    "wallInteraction": "Breaks through walls or paths around short gaps.",
+    "deathAndSpawnEffects": "Meteor Shockwave: On death triggers cataclysmic shockwave (1200-1500 area damage) and spawns 2 Meteor Mites.",
+    "pathfindingNotes": "Town Hall 18 permanent flagship tank; absorbs heavy fire from TH18 Guardians and Monoliths.",
+    "sources": [
+      {
+        "title": "Supercell News: TH18 Crash Lands",
+        "url": "https://supercell.com/en/games/clashofclans/blog/"
+      },
+      {
+        "title": "Fandom: Meteor Golem",
+        "url": "https://clashofclans.fandom.com/wiki/Meteor_Golem"
+      }
+    ]
+  },
+  {
+    "troopName": "Hog Rider",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Defenses exclusively. Bypasses all non-defenses until all defensive structures are destroyed.",
+    "distractionAndAggro": "Ignores defending CC troops, Heroes, and Skeleton Traps while defenses remain. Retaliates against defenders only after all defenses are destroyed.",
+    "wallInteraction": "Wall Leaper: Effortlessly leaps over every wall segment in the game without slowing down.",
+    "deathAndSpawnEffects": "None on death. Susceptible to Giant Bombs and Spring Traps (3 Hog Riders launched per Spring Trap).",
+    "pathfindingNotes": "Fast (24 speed) target-to-target pathing in clusters; pairs with Heal Spells over splash zones.",
+    "sources": [
+      {
+        "title": "Fandom: Hog Rider AI",
+        "url": "https://clashofclans.fandom.com/wiki/Hog_Rider"
+      },
+      {
+        "title": "coc.guide: Hog Rider",
+        "url": "https://coc.guide/troop/hog-rider"
+      }
+    ]
+  },
+  {
+    "troopName": "Golem",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Defenses exclusively. Ignores all non-defensive buildings.",
+    "distractionAndAggro": "Completely ignores defending CC troops and heroes while defenses stand. High HP holds aggro of defending Single-Target Infernos and Eagle Artillery.",
+    "wallInteraction": "Paths through openings or attacks blocking wall segments directly.",
+    "deathAndSpawnEffects": "Death Explosion & Golemite Split: Deals 350-1000 death damage knocking back defenders, then splits into 2 Golemites with 20% HP and damage.",
+    "pathfindingNotes": "Primary wall-breach anchor for ground assault armies. Heavy housing space (30) is immune to Spring Traps.",
+    "sources": [
+      {
+        "title": "Fandom: Golem AI & Golemite Mechanics",
+        "url": "https://clashofclans.fandom.com/wiki/Golem"
+      },
+      {
+        "title": "coc.guide: Golem",
+        "url": "https://coc.guide/troop/golem"
+      }
+    ]
+  },
+  {
+    "troopName": "Headhunter",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Enemy Heroes exclusively. Deals 4x damage against heroes.",
+    "distractionAndAggro": "Tracks down enemy Barbarian King, Archer Queen, Grand Warden, Royal Champion, or Minion Prince. Jumps walls to reach them.",
+    "wallInteraction": "Jumps over walls automatically.",
+    "deathAndSpawnEffects": "None. Attacks inflict Poison Spell effect, slowing hero movement by 35% and attack rate by 50%.",
+    "pathfindingNotes": "Essential for neutralizing defending enemy heroes that threaten war armies.",
+    "sources": [
+      {
+        "title": "Fandom: Headhunter Poison AI",
+        "url": "https://clashofclans.fandom.com/wiki/Headhunter"
+      },
+      {
+        "title": "coc.guide: Headhunter",
+        "url": "https://coc.guide/troop/headhunter"
+      }
+    ]
+  },
+  {
+    "troopName": "Apprentice Warden",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Nearest building without preference. Attacks ground and air.",
+    "distractionAndAggro": "Distracted by defending units within 7-tile aggro radius.",
+    "wallInteraction": "Ground unit; paths around walls or attacks them.",
+    "deathAndSpawnEffects": "Life Aura vanishes when the Apprentice Warden is defeated.",
+    "pathfindingNotes": "Life Aura grants +20% to +28% HP to all friendly units in 7-tile radius. Stacks with Grand Warden aura up to capped threshold.",
+    "sources": [
+      {
+        "title": "Fandom: Apprentice Warden Life Aura",
+        "url": "https://clashofclans.fandom.com/wiki/Apprentice_Warden"
+      },
+      {
+        "title": "coc.guide: Apprentice Warden",
+        "url": "https://coc.guide/troop/apprentice-warden"
+      }
+    ]
+  },
+  {
+    "troopName": "Druid",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Friendly ground units (Healer form) -> Defenses exclusively (Bear form).",
+    "distractionAndAggro": "Does not attack in Healer form. In Bear form, focuses solely on defenses and ignores defending CC troops until defenses fall.",
+    "wallInteraction": "Jumps over walls in Bear form; paths around walls in Druid form.",
+    "deathAndSpawnEffects": "Shapeshift upon \"death\": When Druid HP hits 0, immediately transforms into a giant raging Bear with 100% full health bar.",
+    "pathfindingNotes": "Dual-role hybrid unit providing early healing and late-stage defensive demolition.",
+    "sources": [
+      {
+        "title": "Fandom: Druid Shapeshifting Mechanics",
+        "url": "https://clashofclans.fandom.com/wiki/Druid"
+      },
+      {
+        "title": "coc.guide: Druid",
+        "url": "https://coc.guide/troop/druid"
+      }
+    ]
+  },
+  {
+    "troopName": "Sneaky Goblin",
+    "category": "Super Troop",
+    "targetPriority": "Resource buildings (Gold, Elixir, Dark Elixir, Town Hall, Clan Castle) with 2x damage.",
+    "distractionAndAggro": "Completely immune to distraction during its 5-second stealth cloak. Cannot be targeted by defenses or defending troops while cloaked.",
+    "wallInteraction": "Runs around walls if route exists; paired with Jump Spell or Wall Breakers to reach core Town Hall directly.",
+    "deathAndSpawnEffects": "None. Premier Town Hall sniping and farming unit.",
+    "pathfindingNotes": "Invisible to Hidden Teslas, Scattershots, and Monoliths during first 5 seconds. Can trigger traps while cloaked without being targeted by defenses.",
+    "sources": [
+      {
+        "title": "Fandom: Sneaky Goblin Cloak AI",
+        "url": "https://clashofclans.fandom.com/wiki/Sneaky_Goblin"
+      },
+      {
+        "title": "coc.guide: Sneaky Goblin",
+        "url": "https://coc.guide/troop/sneaky-goblin"
+      }
+    ]
+  },
+  {
+    "troopName": "Super Wall Breaker",
+    "category": "Super Troop",
+    "targetPriority": "Walls protecting active structures. Deals 40x damage to walls.",
+    "distractionAndAggro": "Cannot be distracted. Rolls barrel bomb directly into targeted wall.",
+    "wallInteraction": "Explodes directly at wall segment with 2-tile radius blast.",
+    "deathAndSpawnEffects": "Guaranteed Mega Bomb: Even if killed by defenses before reaching wall, its barrel rolls forward and explodes with full wall damage.",
+    "pathfindingNotes": "Guaranteed wall breach; immune to failed attempts caused by point defenses or Spring Traps.",
+    "sources": [
+      {
+        "title": "Fandom: Super Wall Breaker Guaranteed Blast",
+        "url": "https://clashofclans.fandom.com/wiki/Super_Wall_Breaker"
+      },
+      {
+        "title": "coc.guide: Super Wall Breaker",
+        "url": "https://coc.guide/troop/super-wall-breaker"
+      }
+    ]
+  },
+  {
+    "troopName": "Thrower",
+    "category": "Elixir Troop",
+    "targetPriority": "Nearest building without preference. Throws spears at both ground and air targets across 6 tiles.",
+    "distractionAndAggro": "Distracted by defending Clan Castle troops, Heroes, and Skeletons within aggro range; engages air CC units safely from range.",
+    "wallInteraction": "Attacks over walls from 6-tile standoff distance; only paths around or targets walls if target building is further than 6 tiles inside.",
+    "deathAndSpawnEffects": "None upon death.",
+    "pathfindingNotes": "High HP (up to 2,800) and long 6-tile range make Throwers durable ranged anchors behind tanks without walking into short-range defenses.",
+    "sources": [
+      {
+        "title": "Fandom: Thrower",
+        "url": "https://clashofclans.fandom.com/wiki/Thrower"
+      },
+      {
+        "title": "coc.guide: Thrower",
+        "url": "https://coc.guide/troop/thrower"
+      }
+    ]
+  },
+  {
+    "troopName": "Furnace",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Stationary spawner; does not move or target buildings directly. Spawned Firemites target nearest buildings (ground and air).",
+    "distractionAndAggro": "Furnace itself remains fixed at deployment tile. Spawned Firemites lock onto nearby structures or defending troops.",
+    "wallInteraction": "Stationary on deployment; Firemites leap over walls to reach targets and leave lingering fire pools.",
+    "deathAndSpawnEffects": "Gradually loses HP over ~60s lifetime. If destroyed early, remaining unspawned Firemites are lost. Note: Multiple fire pools do not stack damage.",
+    "pathfindingNotes": "Healing the Furnace stops Firemite spawning once healed past decay thresholds; deploy as a steady lane-clearing funnel spawner.",
+    "sources": [
+      {
+        "title": "Fandom: Furnace",
+        "url": "https://clashofclans.fandom.com/wiki/Furnace"
+      },
+      {
+        "title": "ClashPerk: Furnace",
+        "url": "https://clashperk.com"
+      }
+    ]
+  },
+  {
+    "troopName": "Ruin Witch",
+    "category": "Dark Elixir Troop",
+    "targetPriority": "Does not attack standing buildings on offense. Seeks destroyed building rubble (excluding walls) to reanimate into Ruin Knights.",
+    "distractionAndAggro": "Holds position until a building is destroyed, then paths to debris. When defending in Clan Castle, fires low-DPS vacuum attack.",
+    "wallInteraction": "Ground unit; paths around walls to reach rubble piles.",
+    "deathAndSpawnEffects": "Spends 4 seconds channeling on building rubble to summon a durable melee Ruin Knight (up to 10 active max; non-decaying HP post-rebalance).",
+    "pathfindingNotes": "Requires frontline DPS troops or spells to create initial building rubble before she begins producing Ruin Knights.",
+    "sources": [
+      {
+        "title": "Fandom: Ruin Witch",
+        "url": "https://clashofclans.fandom.com/wiki/Ruin_Witch"
+      },
+      {
+        "title": "CoC War Base: Ruin Witch",
+        "url": "https://cocwarbase.com"
+      }
+    ]
+  },
+  {
+    "troopName": "Super Yeti",
+    "category": "Super Troop",
+    "targetPriority": "Nearest building without preference. Melee ground attacker.",
+    "distractionAndAggro": "Distracted by defending CC troops and Heroes; Electromites spawn whenever taking damage.",
+    "wallInteraction": "Paths around short detours or punches through blocking wall segments.",
+    "deathAndSpawnEffects": "Shock and Awe: Releases Electromites (9–14 scaling by level) that rush targets and fire 3-target chain lightning.",
+    "pathfindingNotes": "35-housing-space powerhouse combining Yeti tankiness with Electro Dragon-style chain damage bursts via Electromites.",
+    "sources": [
+      {
+        "title": "Fandom: Super Yeti",
+        "url": "https://clashofclans.fandom.com/wiki/Super_Yeti"
+      },
+      {
+        "title": "Supercell Blog: Super Yeti",
+        "url": "https://supercell.com/en/games/clashofclans/blog/"
+      }
+    ]
+  },
+  {
+    "troopName": "Sneaky Archer",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building within 3.5 tiles without preference.",
+    "distractionAndAggro": "Completely ignored by defenses while Cloak is active; distracted by Guard Post troops once visible.",
+    "wallInteraction": "Shoots over walls within 3.5-tile range.",
+    "deathAndSpawnEffects": "None. Ideal for sniping perimeter defenses or exposed Builder Halls under Cloak.",
+    "pathfindingNotes": "Staggered deployments maximize Cloak uptime and avoid Crushers and Roasters.",
+    "sources": [
+      {
+        "title": "Fandom: Sneaky Archer (BB)",
+        "url": "https://clashofclans.fandom.com/wiki/Sneaky_Archer_(Builder_Base)"
+      }
+    ]
+  },
+  {
+    "troopName": "Raged Barbarian",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building without preference.",
+    "distractionAndAggro": "Quickly pulled by Guard Post Barbarians and Archers.",
+    "wallInteraction": "Attacks blocking wall segments under initial Rage speed/damage surge.",
+    "deathAndSpawnEffects": "None. High opening burst during the first few seconds after deployment.",
+    "pathfindingNotes": "Watch out for Crushers and Giant Cannons; deploy in small waves rather than one clump.",
+    "sources": [
+      {
+        "title": "Fandom: Raged Barbarian",
+        "url": "https://clashofclans.fandom.com/wiki/Raged_Barbarian"
+      }
+    ]
+  },
+  {
+    "troopName": "Beta Minion",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building; first several shots benefit from Long Shot extended range (7–8.5 tiles).",
+    "distractionAndAggro": "Distracted by Guard Post troops; ignores ground-only defenses.",
+    "wallInteraction": "Air unit: flies over walls freely.",
+    "deathAndSpawnEffects": "None. Highly vulnerable to Air Bombs, Roasters, and Mega Mines.",
+    "pathfindingNotes": "Long Shot allows picking off perimeter defenses guarded by Crushers without entering Crusher range.",
+    "sources": [
+      {
+        "title": "Fandom: Beta Minion",
+        "url": "https://clashofclans.fandom.com/wiki/Beta_Minion"
+      }
+    ]
+  },
+  {
+    "troopName": "Hog Glider",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest defense exclusively while gliding and after dismounting.",
+    "distractionAndAggro": "Ignores Guard Post troops while defenses remain standing.",
+    "wallInteraction": "Flies over walls on the glider; dismounted Hog Rider jumps over walls.",
+    "deathAndSpawnEffects": "Crashes glider into target defense, stunning it before releasing a ground Hog Rider.",
+    "pathfindingNotes": "Pair stun impacts onto Multi Mortars, Mega Teslas, or Roasters to protect fragile follow-up troops.",
+    "sources": [
+      {
+        "title": "Fandom: Hog Glider",
+        "url": "https://clashofclans.fandom.com/wiki/Hog_Glider"
+      }
+    ]
+  },
+  {
+    "troopName": "Bomber",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest structure with massive bonus splash multiplier against Walls.",
+    "distractionAndAggro": "Distracted by Guard Post troops; splash bombs damage nearby structures behind walls.",
+    "wallInteraction": "Active Bouncing Bomb ability shatters deep compartments across multiple wall layers.",
+    "deathAndSpawnEffects": "None.",
+    "pathfindingNotes": "BB 2.0 single-unit camp slot survives longer and allows timed Bouncing Bomb activations across stages.",
+    "sources": [
+      {
+        "title": "Fandom: Bomber",
+        "url": "https://clashofclans.fandom.com/wiki/Bomber"
+      }
+    ]
+  },
+  {
+    "troopName": "Night Witch",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building (ground and air); spawned Bats swarm nearest targets.",
+    "distractionAndAggro": "Bats distract single-target defenses like Mega Tesla and Double Cannon.",
+    "wallInteraction": "Night Witch walks around walls; her spawned Bats fly directly over them.",
+    "deathAndSpawnEffects": "Active Bat Swarm releases an instant flock of enraged Bats; vulnerable to Roasters.",
+    "pathfindingNotes": "Deploy in distant corner to build Bat mass before reaching air splash defenses.",
+    "sources": [
+      {
+        "title": "Fandom: Night Witch",
+        "url": "https://clashofclans.fandom.com/wiki/Night_Witch"
+      }
+    ]
+  },
+  {
+    "troopName": "Electrofire Wizard",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building or Guard Post unit (ground and air).",
+    "distractionAndAggro": "Engages Guard Post units; Change Mode toggles between Inferno single-target ramp and 4-target Electro chain.",
+    "wallInteraction": "Shoots over walls from 3.5 tiles.",
+    "deathAndSpawnEffects": "None.",
+    "pathfindingNotes": "Use Electro Mode to clear clustered trash and Guard Post troops, then toggle Inferno Mode for high-HP Builder Hall or Mega Tesla.",
+    "sources": [
+      {
+        "title": "Fandom: Electrofire Wizard",
+        "url": "https://clashofclans.fandom.com/wiki/Electrofire_Wizard"
+      }
+    ]
+  },
+  {
+    "troopName": "Cannon Cart",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building (ground only).",
+    "distractionAndAggro": "Engages Guard Post ground troops.",
+    "wallInteraction": "Shoots over walls at 4.5 tiles (Cannon Mode) or extended Mortar Mode range to outrange Crushers and Cannons.",
+    "deathAndSpawnEffects": "In Mortar Mode becomes stationary; toggling back to Cannon Mode restores mobility.",
+    "pathfindingNotes": "Premier tactical sniper in Builder Base 2.0 by alternating Mortar Mode to outrange point defenses.",
+    "sources": [
+      {
+        "title": "Fandom: Cannon Cart",
+        "url": "https://clashofclans.fandom.com/wiki/Cannon_Cart"
+      }
+    ]
+  },
+  {
+    "troopName": "Boxer Giant",
+    "category": "Builder Base Troop",
+    "targetPriority": "Defenses exclusively.",
+    "distractionAndAggro": "Ignores Guard Post troops while defenses remain standing.",
+    "wallInteraction": "Punches through blocking walls.",
+    "deathAndSpawnEffects": "Power Punch empowers opening strike; active Boxer Block grants temporary damage invulnerability shield.",
+    "pathfindingNotes": "Pop Boxer Block right before a Crusher slam or Double Cannon volley to maximize tank value.",
+    "sources": [
+      {
+        "title": "Fandom: Boxer Giant",
+        "url": "https://clashofclans.fandom.com/wiki/Boxer_Giant"
+      }
+    ]
+  },
+  {
+    "troopName": "Baby Dragon (BB)",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building (ground and air).",
+    "distractionAndAggro": "Tantrum passive triggers bonus DPS when isolated from friendly air troops.",
+    "wallInteraction": "Air unit: flies over walls freely.",
+    "deathAndSpawnEffects": "Active Fiery Sneeze blasts a directional cone of heavy fire damage across multiple structures.",
+    "pathfindingNotes": "Space Baby Dragons apart to preserve Tantrum enrage while aiming Fiery Sneeze at Air Bombs and Roasters.",
+    "sources": [
+      {
+        "title": "Fandom: Baby Dragon (BB)",
+        "url": "https://clashofclans.fandom.com/wiki/Baby_Dragon_(Builder_Base)"
+      }
+    ]
+  },
+  {
+    "troopName": "Drop Ship",
+    "category": "Builder Base Troop",
+    "targetPriority": "Defenses exclusively.",
+    "distractionAndAggro": "Ignores Guard Post defenders; dropped Skeletons distract ground defenses and Crushers.",
+    "wallInteraction": "Air unit: flies over walls freely.",
+    "deathAndSpawnEffects": "Active Skeleton Bomb deals heavy crash blast and releases an extra Skeleton cluster; also deals death crash damage on defeat.",
+    "pathfindingNotes": "Core tank for Beta Minion air armies, soaking Seeking Air Mines and Firecrackers.",
+    "sources": [
+      {
+        "title": "Fandom: Drop Ship",
+        "url": "https://clashofclans.fandom.com/wiki/Drop_Ship"
+      }
+    ]
+  },
+  {
+    "troopName": "Power P.E.K.K.A",
+    "category": "Builder Base Troop",
+    "targetPriority": "Nearest building without preference.",
+    "distractionAndAggro": "Easily pulled by Guard Post units; massive single-target swings.",
+    "wallInteraction": "Cuts through walls quickly with high per-hit damage or breaks them with Overcharge.",
+    "deathAndSpawnEffects": "Overcharge (Active or Death): Triggers massive surrounding area shockwave.",
+    "pathfindingNotes": "Use Overcharge inside dense defensive cores to crack Crushers, Builder Hall, and surrounding walls simultaneously.",
+    "sources": [
+      {
+        "title": "Fandom: Power P.E.K.K.A",
+        "url": "https://clashofclans.fandom.com/wiki/Power_P.E.K.K.A"
+      }
+    ]
+  }
+]

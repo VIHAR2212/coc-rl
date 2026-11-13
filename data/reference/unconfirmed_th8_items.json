@@ -1,0 +1,121 @@
+{
+  "_note": "TH8 items from Clash Explorer and Fandom wiki that are not loaded by the simulator. Traps, heroes, spells, and complex mechanics remain unconfirmed/unloaded per Milestone M1d acceptance criteria.",
+  "air_sweeper_l4": {
+    "name": "Air Sweeper",
+    "level": 4,
+    "hp": 900,
+    "dps": 0,
+    "push_tiles": 2.8,
+    "range_tiles": 15.0,
+    "size": 2,
+    "targets": "air",
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Pushback physics and air targeting not modeled in ground simulator."
+  },
+  "bomb_l5": {
+    "name": "Bomb",
+    "level": 5,
+    "dps": 72,
+    "damage_radius_tiles": 1.5,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Hidden trap trigger mechanic not implemented in sim."
+  },
+  "giant_bomb_l3": {
+    "name": "Giant Bomb",
+    "level": 3,
+    "dps": 250,
+    "damage_radius_tiles": 2.0,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Hidden trap trigger mechanic not implemented in sim."
+  },
+  "spring_trap_l3": {
+    "name": "Spring Trap",
+    "level": 3,
+    "spring_capacity": 15,
+    "trigger_radius_tiles": 0.7,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Hidden trap ejection mechanic not implemented in sim."
+  },
+  "seeking_air_mine_l2": {
+    "name": "Seeking Air Mine",
+    "level": 2,
+    "damage": 1800,
+    "trigger_radius_tiles": 4.0,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Air trap mechanic not modeled in ground simulator."
+  },
+  "barbarian_king_l10": {
+    "name": "Barbarian King",
+    "level": 10,
+    "hp": 2046,
+    "dps": 168,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Hero activation and Iron Fist ability not implemented in sim."
+  },
+  "dark_elixir_storage_l3": {
+    "name": "Dark Elixir Storage",
+    "level": 3,
+    "hp": 2400,
+    "size": 3,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Out of scope (passive storage building)."
+  },
+  "clan_castle_l4": {
+    "name": "Clan Castle",
+    "level": 4,
+    "hp": 2600,
+    "size": 3,
+    "housing": 25,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Clan Castle defensive troop deployment not modeled."
+  },
+  "wizard_l5": {
+    "name": "Wizard",
+    "level": 5,
+    "hp": 156,
+    "dps": 170,
+    "housing": 4,
+    "range_tiles": 3.0,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Not included in current 5-troop roster (M2b)."
+  },
+  "dragon_l3": {
+    "name": "Dragon",
+    "level": 3,
+    "hp": 2300,
+    "dps": 180,
+    "housing": 20,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Flying unit; flight pathing not modeled."
+  },
+  "pekka_l3": {
+    "name": "P.E.K.K.A",
+    "level": 3,
+    "hp": 3500,
+    "dps": 310,
+    "housing": 25,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Heavy ground unit; not included in M2b armies."
+  },
+  "hog_rider_l4": {
+    "name": "Hog Rider",
+    "level": 4,
+    "hp": 530,
+    "dps": 92,
+    "housing": 5,
+    "stats_verified": false,
+    "loaded_in_sim": false,
+    "reason": "Wall-jumping mechanic not modeled."
+  }
+}
