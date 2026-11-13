@@ -139,3 +139,4 @@ From the Laboratory upgrade table:
 - The wiki explicitly, consistently, and unreservedly confirms that **Level 5** is the maximum level available for all 5 troops at Town Hall 8.
 - The external dataset `clash-of-clans-data-researcher-&-csv-explorer` erroneously aligned troop level with Laboratory level (assuming Lab 6 implies Troop Level 6), whereas Supercell's actual progression unlocks Level 5 troops in Laboratory 6.
 - **Stop Condition 2 is NOT triggered. Level 5 in our simulator is 100% correct.**
+

@@ -1,0 +1,49 @@
+model_file,model_date,base,army,episodes,sectors_used,avg_distinct_sectors_per_ep,action_entropy,wb_deploy_fraction,wb_avg_step,single_sector_fraction,is_single_sector_over_90pct
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base07.json,giant_barch,100,"[0, 9, 12]",3.0,1.0282,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base07.json,barch,100,"[0, 9]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base07.json,goblin_giant,100,"[1, 7, 9, 12]",4.0,1.2793,0.0,84.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base07.json,mixed_wb,100,"[0, 1, 9, 12]",4.0,1.0928,1.0,12.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base08.json,giant_barch,100,"[0, 9, 12]",3.0,1.0282,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base08.json,barch,100,"[0, 9]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base08.json,goblin_giant,100,"[1, 7, 9, 12]",4.0,1.3639,0.0,84.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base08.json,mixed_wb,100,"[0, 1, 9, 12]",4.0,1.0928,1.0,12.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base09.json,giant_barch,100,"[0, 9, 12]",3.0,1.2214,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base09.json,barch,100,"[0, 9]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base09.json,goblin_giant,100,"[1, 7, 9, 12]",4.0,1.1619,0.0,84.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base09.json,mixed_wb,100,"[0, 1, 9, 12]",4.0,1.1188,1.0,12.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base10.json,giant_barch,100,"[0, 9, 12]",3.0,1.262,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base10.json,barch,100,"[0, 9]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base10.json,goblin_giant,100,"[1, 7, 9, 12]",4.0,1.3863,0.0,84.0,0.0,False
+ppo_m7b_seed42.zip,2026-11-13 18:25:50,base10.json,mixed_wb,100,"[0, 1, 9, 12]",4.0,1.3624,1.0,12.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base07.json,giant_barch,100,"[9, 11, 13]",3.0,1.0282,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base07.json,barch,100,"[9, 11]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base07.json,goblin_giant,100,"[6, 8, 11, 13]",4.0,1.1378,0.0,124.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base07.json,mixed_wb,100,"[6, 9, 11, 13]",4.0,1.1265,1.0,136.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base08.json,giant_barch,100,"[9, 11, 13]",3.0,1.3307,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base08.json,barch,100,"[9, 11]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base08.json,goblin_giant,100,"[6, 8, 11, 13]",4.0,1.3572,0.0,124.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base08.json,mixed_wb,100,"[2, 6, 9, 11, 13]",4.01,1.1799,1.0,136.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base09.json,giant_barch,100,"[9, 11, 13]",3.0,1.2278,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base09.json,barch,100,"[9, 11]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base09.json,goblin_giant,100,"[6, 8, 11, 13]",4.0,1.3864,0.0,124.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base09.json,mixed_wb,100,"[6, 9, 11, 13]",4.0,1.2562,1.0,136.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base10.json,giant_barch,100,"[9, 11, 13]",3.0,1.3279,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base10.json,barch,100,"[9, 11]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base10.json,goblin_giant,100,"[6, 8, 11, 13]",4.0,1.1623,0.0,124.0,0.0,False
+ppo_m7b_seed43.zip,2026-11-13 18:45:13,base10.json,mixed_wb,100,"[6, 9, 11, 13]",4.0,1.1265,1.0,136.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base07.json,giant_barch,100,"[11, 12, 14]",3.0,1.0282,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base07.json,barch,100,"[11, 14]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base07.json,goblin_giant,100,"[5, 12, 14]",2.08,1.1053,0.0,68.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base07.json,mixed_wb,100,"[11, 12, 14]",3.0,1.0928,1.0,0.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base08.json,giant_barch,100,"[5, 11, 12, 14]",4.0,1.302,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base08.json,barch,100,"[11, 14]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base08.json,goblin_giant,100,"[5, 12, 14]",3.0,1.1843,0.0,68.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base08.json,mixed_wb,100,"[5, 11, 12, 14]",4.0,1.1447,1.0,0.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base09.json,giant_barch,100,"[5, 11, 14]",3.0,1.1597,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base09.json,barch,100,"[11, 14]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base09.json,goblin_giant,100,"[5, 12, 14]",3.0,1.302,0.0,68.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base09.json,mixed_wb,100,"[5, 11, 12, 14]",4.0,1.0928,1.0,0.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base10.json,giant_barch,100,"[5, 11, 14]",3.0,1.3254,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base10.json,barch,100,"[11, 14]",2.0,0.687,0.0,-1.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base10.json,goblin_giant,100,"[5, 12, 14]",3.0,1.2394,0.0,68.0,0.0,False
+ppo_m7b_seed44.zip,2026-11-13 19:05:15,base10.json,mixed_wb,100,"[5, 11, 12, 14]",4.0,1.1265,1.0,0.0,0.0,False

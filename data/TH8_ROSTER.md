@@ -122,3 +122,4 @@ At Town Hall 8:
 - **Type:** Fast Flying Troop (immune to ground-only defenses)
 - **Targets:** Air & Ground
 - **Movement Speed:** 32 raw (4.0 tiles/s)
+

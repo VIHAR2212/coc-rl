@@ -7,3 +7,4 @@ for name in ['Giant', 'Barbarian', 'Archer', 'Wall_Breaker', 'Goblin']:
         for r in t:
             if r.get('Level') in ['4', '5', '6', '7']:
                 print(f"  Level {r['Level']}: Lab Req = {r.get('Laboratory Level Required')} | HP = {r.get('Hitpoints')} | DPS = {r.get('Damage per Second')}")
+

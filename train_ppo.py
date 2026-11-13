@@ -133,7 +133,7 @@ def train_single_seed(
         batch_size=512,
         n_epochs=3,
         gamma=0.99,
-        ent_coef=0.015,
+        ent_coef=0.02,
         policy_kwargs=policy_kwargs,
         tensorboard_log="runs/",
         seed=seed,

@@ -113,3 +113,34 @@
     * `smart_funnel`: 46.99% mean destruction, 32.79% 3-star rate, 1.17 mean stars
     * `surround`: 35.63% mean destruction, 20.40% 3-star rate, 0.77 mean stars
 - **Next action:** Commit Stage 2 deliverables, push to origin/main, then execute STAGE 3 (50k smoke run, 3-seed long training, held-out evaluation, and update FINAL_REPORT.txt).
+
+## Current Step: STAGE 3 (M7b Part B) -> COMPLETED.
+- **Stage 3 (M7b Part B) Status:** COMPLETED
+  - (1) **Reward Shaping & Anti-Collapse (`sim/rl_wrapper.py`):**
+    * Added unique sector spread bonus (`+0.5` per new sector).
+    * Added single-sector clumping penalty (`-0.1` if >50% troops deployed to a single sector).
+    * Preserved stars-aware rewards (+25 at 50%, +25 on TH, +50 at 100%, -0.05 wait penalty).
+    * Increased entropy regularizer (`ent_coef = 0.02`). Excluded trivial `base01.json` from training.
+  - (2) **50k-Step Smoke Run (`scripts/smoke_run_50k.py`):** PASSED.
+    * Average distinct sectors = 3.50 (> 1.0 required).
+    * Single-sector collapse rate = 0.0% (< 90% required).
+    * Wall Breaker deployment fraction = 100% when present in army.
+  - (3) **Multi-Seed Long Training (`train_ppo.py`):** PASSED.
+    * Trained 3 random seeds (42, 43, 44) across 25k Stage 1 and 300k Stage 2 steps each (975k total steps).
+    * Saved `models/ppo_m7b_seed42.zip`, `models/ppo_m7b_seed43.zip`, `models/ppo_m7b_seed44.zip`, and `results/reward_curves.png`.
+  - (4) **Held-Out Evaluation (`results/m7b_partB.csv`):**
+    * Evaluated 16 independent (base, army) pairs across `base07..10` over 100 seeded episodes each per seed and baseline:
+      - `maskable_ppo`: **28.89%** dest [95% CI 18.40, 40.90] | **0.37** stars [0.12, 0.69] | **2.54%** 3-star
+      - `left_wave`: **27.32%** dest [95% CI 13.53, 43.27] | **0.70** stars [0.25, 1.23] | **6.25%** 3-star
+      - `smart_funnel`: **22.82%** dest [95% CI 11.29, 36.67] | **0.41** stars [0.10, 0.81] | **4.19%** 3-star
+      - `surround`: **9.77%** dest [95% CI 3.77, 17.82] | **0.11** stars [0.00, 0.32] | **0.00%** 3-star
+      - `random_masked`: **8.69%** dest [95% CI 3.78, 14.94] | **0.03** stars [0.00, 0.09] | **0.00%** 3-star
+    * **Paired delta (PPO vs left_wave):** +1.57 pp destruction [95% CI -4.49, +7.59]; -0.328 stars [95% CI -0.645, -0.044].
+    * PPO beats best baseline on destruction (+1.57 pp); DOES NOT beat best baseline on stars (-0.328 stars).
+  - (5) **Action Diagnostics (`results/ppo_action_diagnostics_partB.csv`):**
+    * Single sector collapse: 0 of 48 runs (0.0% collapse rate across all seeds and pairs).
+    * Distinct sectors per episode: 2.0 to 4.0 sectors.
+    * Action entropy: 0.687 to 1.386 nats.
+    * Wall Breaker deployment fraction: 100% when present in army (`mixed_wb`).
+  - (6) **Integrity & Checks:** `pytest -q` -> 27 passed in 19.18s; `check_env` BOTH OK.
+- **Final Result:** All 3 STAGES (Stage 1, Stage 2, Stage 3) completed in order without breaking constraints.
