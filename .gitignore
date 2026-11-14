@@ -11,4 +11,6 @@ models/**/*.zip
 *.png
 *.jpg
 *.gif
+!docs/showcase/*.gif
+docs/gallery/*.gif
 *.log
