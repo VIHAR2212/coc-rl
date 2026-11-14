@@ -485,9 +485,9 @@ class CoCEnv(gym.Env):
         t_colors = {
             "Giant": (245, 140, 40), "Barbarian": (250, 225, 65), "Archer": (235, 85, 175),
             "Wall Breaker": (240, 240, 245), "Goblin": (70, 235, 90),
-            "Wizard": (80, 160, 255), "Valkyrie": (230, 90, 40), "Hog Rider": (180, 100, 50),
-            "Golem": (90, 80, 80), "Golemite": (130, 120, 120), "Dragon": (200, 50, 200),
-            "Balloon": (190, 50, 50), "Minion": (60, 140, 240),
+            "Wizard": (70, 150, 255), "Valkyrie": (225, 60, 40), "Hog Rider": (165, 95, 45),
+            "Golem": (80, 75, 75), "Golemite": (140, 135, 135), "Dragon": (185, 55, 215),
+            "Balloon": (210, 45, 45), "Minion": (45, 195, 235),
         }
         t_radii = {
             "Giant": 9, "Barbarian": 6, "Archer": 5, "Wall Breaker": 5, "Goblin": 5,
@@ -499,8 +499,32 @@ class CoCEnv(gym.Env):
             if tr.alive:
                 pos = (int(tr.x * cell), int(tr.y * cell))
                 rad = t_radii.get(tr.name, 5)
-                pg.draw.circle(surf, t_colors.get(tr.name, (255, 255, 255)), pos, rad)
-                pg.draw.circle(surf, (20, 20, 20), pos, rad, 1)
+                col = t_colors.get(tr.name, (255, 255, 255))
+                name = tr.name
+                if name == "Golem" or name == "Golemite":
+                    rect = pg.Rect(pos[0] - rad, pos[1] - rad, rad * 2, rad * 2)
+                    pg.draw.rect(surf, col, rect)
+                    pg.draw.rect(surf, (20, 20, 20), rect, 1)
+                elif name == "Dragon":
+                    pts = [(pos[0], pos[1] - rad), (pos[0] + rad, pos[1]), (pos[0], pos[1] + rad), (pos[0] - rad, pos[1])]
+                    pg.draw.polygon(surf, col, pts)
+                    pg.draw.polygon(surf, (20, 20, 20), pts, 1)
+                elif name == "Minion":
+                    pts = [(pos[0], pos[1] - rad), (pos[0] + rad, pos[1] + rad), (pos[0] - rad, pos[1] + rad)]
+                    pg.draw.polygon(surf, col, pts)
+                    pg.draw.polygon(surf, (20, 20, 20), pts, 1)
+                elif name == "Balloon":
+                    pg.draw.circle(surf, col, pos, rad)
+                    pg.draw.circle(surf, (20, 20, 20), pos, rad, 1)
+                    pg.draw.rect(surf, (80, 40, 20), (pos[0] - 2, pos[1] + rad, 4, 3))
+                elif name == "Wall Breaker":
+                    pg.draw.circle(surf, col, pos, rad)
+                    pg.draw.circle(surf, (20, 20, 20), pos, rad, 1)
+                    pg.draw.circle(surf, (40, 40, 40), pos, 2)
+                else:
+                    pg.draw.circle(surf, col, pos, rad)
+                    pg.draw.circle(surf, (20, 20, 20), pos, rad, 1)
+
                 if tr.max_hp > 0 and tr.hp < tr.max_hp:
                     bar_w = max(8, rad * 2)
                     bar_h = 2
@@ -512,24 +536,67 @@ class CoCEnv(gym.Env):
 
         stars = int(self.destruction >= 0.5) + int(self.th_destroyed) + int(self.destruction >= 1.0)
         rem = max(0.0, BATTLE_SECONDS - self.tick / TICKS_PER_SEC)
-        hud = self._font.render(f"time left: {rem:5.1f}s  dest={self.destruction*100:5.1f}%  stars={stars}", True, (255, 255, 255))
+        alive_count = sum(1 for tr in self.troops if tr.alive)
+        dep_count = sum(self.army_template.values()) - sum(self.army_left.values())
+        hud = self._font.render(
+            f"time left: {rem:5.1f}s  dest={self.destruction*100:5.1f}%  stars={stars}  troops: {alive_count}/{dep_count}",
+            True,
+            (255, 255, 255),
+        )
         pg.draw.rect(surf, (20, 25, 20), (4, 4, hud.get_width() + 10, hud.get_height() + 6))
         surf.blit(hud, (9, 7))
 
-        # Small troop legend in bottom-left
-        leg_items = [
-            ("Giant", (245, 140, 40), 6),
-            ("Barb", (250, 225, 65), 5),
-            ("Arch", (235, 85, 175), 4),
-            ("WB", (240, 240, 245), 4),
-            ("Gobl", (70, 235, 90), 4),
-        ]
+        # Troop legend in bottom-left covering all troop types
+        all_legend = {
+            "Giant": ("Giant", (245, 140, 40), 6, "circle"),
+            "Barbarian": ("Barb", (250, 225, 65), 5, "circle"),
+            "Archer": ("Arch", (235, 85, 175), 4, "circle"),
+            "Wall Breaker": ("WB", (240, 240, 245), 4, "wb"),
+            "Goblin": ("Gobl", (70, 235, 90), 4, "circle"),
+            "Wizard": ("Wiz", (70, 150, 255), 5, "circle"),
+            "Valkyrie": ("Valk", (225, 60, 40), 5, "circle"),
+            "Hog Rider": ("Hog", (165, 95, 45), 5, "circle"),
+            "Golem": ("Gol", (80, 75, 75), 6, "square"),
+            "Golemite": ("Glmt", (140, 135, 135), 4, "square"),
+            "Dragon": ("Drag", (185, 55, 215), 6, "diamond"),
+            "Balloon": ("Loon", (210, 45, 45), 5, "balloon"),
+            "Minion": ("Min", (45, 195, 235), 4, "triangle"),
+        }
+
+        active_names = [self.troop_defs[k]["name"] for k, cnt in self.army_template.items() if cnt > 0]
+        if "Golem" in active_names:
+            active_names.append("Golemite")
+        display_names = [n for n in all_legend if n in active_names] if active_names else list(all_legend.keys())
+        leg_items = [all_legend[n] for n in display_names if n in all_legend]
+
         leg_x, leg_y = 6, size_px - 22
-        pg.draw.rect(surf, (20, 25, 20), (4, size_px - 26, 330, 22))
-        for name, col, rad in leg_items:
-            pg.draw.circle(surf, col, (leg_x + rad, leg_y + 8), rad)
-            pg.draw.circle(surf, (20, 20, 20), (leg_x + rad, leg_y + 8), rad, 1)
-            ltxt = self._font.render(name, True, (230, 230, 230))
+        total_leg_w = min(size_px - 10, max(280, sum(rad * 2 + len(lbl) * 8 + 16 for lbl, _, rad, _ in leg_items) + 12))
+        pg.draw.rect(surf, (20, 25, 20), (4, size_px - 26, total_leg_w, 22))
+        for lbl, col, rad, shape in leg_items:
+            center = (leg_x + rad, leg_y + 8)
+            if shape == "square":
+                pg.draw.rect(surf, col, (center[0] - rad, center[1] - rad, rad * 2, rad * 2))
+                pg.draw.rect(surf, (20, 20, 20), (center[0] - rad, center[1] - rad, rad * 2, rad * 2), 1)
+            elif shape == "diamond":
+                pts = [(center[0], center[1] - rad), (center[0] + rad, center[1]), (center[0], center[1] + rad), (center[0] - rad, center[1])]
+                pg.draw.polygon(surf, col, pts)
+                pg.draw.polygon(surf, (20, 20, 20), pts, 1)
+            elif shape == "triangle":
+                pts = [(center[0], center[1] - rad), (center[0] + rad, center[1] + rad), (center[0] - rad, center[1] + rad)]
+                pg.draw.polygon(surf, col, pts)
+                pg.draw.polygon(surf, (20, 20, 20), pts, 1)
+            elif shape == "balloon":
+                pg.draw.circle(surf, col, center, rad)
+                pg.draw.circle(surf, (20, 20, 20), center, rad, 1)
+                pg.draw.rect(surf, (80, 40, 20), (center[0] - 2, center[1] + rad, 4, 2))
+            elif shape == "wb":
+                pg.draw.circle(surf, col, center, rad)
+                pg.draw.circle(surf, (20, 20, 20), center, rad, 1)
+                pg.draw.circle(surf, (40, 40, 40), center, 2)
+            else:
+                pg.draw.circle(surf, col, center, rad)
+                pg.draw.circle(surf, (20, 20, 20), center, rad, 1)
+            ltxt = self._font.render(lbl, True, (230, 230, 230))
             surf.blit(ltxt, (leg_x + rad * 2 + 4, leg_y + 1))
             leg_x += rad * 2 + ltxt.get_width() + 14
 

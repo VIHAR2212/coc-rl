@@ -1,6 +1,7 @@
 """Record side-by-side battle GIFs comparing Left Wave vs MaskablePPO across held-out bases."""
 
 import argparse
+import csv
 import math
 import shutil
 import sys
@@ -23,6 +24,7 @@ DEFAULT_MODEL = "models/ppo_m7b_seed42.zip"
 DOCS_DIR = ROOT / "docs"
 GALLERY_DIR = DOCS_DIR / "gallery"
 SHOWCASE_DIR = DOCS_DIR / "showcase"
+LOGS_DIR = GALLERY_DIR / "logs"
 
 
 def _clean_troop_name(troop_key: str) -> str:
@@ -67,6 +69,8 @@ def record_side_by_side(
     env_lw.reset(seed=seed)
     frames_lw = []
     actions_lw = []
+    counts_lw = []
+    deploy_events_lw = []
     done_lw = False
     step_lw = 0
     last_deploy_lw = "None"
@@ -80,10 +84,15 @@ def record_side_by_side(
             ang = math.atan2(act[2] - 22, act[1] - 22)
             sec = int(((ang + math.pi) / (2 * math.pi)) * 16) % 16
             last_deploy_lw = f"{tr} @ s{sec}"
+            deploy_events_lw.append((round(step_lw * 1.0, 1), tr, sec, 1))
+
+        alive_lw = sum(1 for tr in env_lw.troops if tr.alive)
+        dep_lw = sum(env_lw.army_template.values()) - sum(env_lw.army_left.values())
 
         if step_lw % sample_every == 0:
             frames_lw.append(Image.fromarray(frame))
             actions_lw.append(last_deploy_lw)
+            counts_lw.append((alive_lw, dep_lw))
 
         _, _, term, trunc, info_lw = env_lw.step(act)
         done_lw = term or trunc
@@ -92,6 +101,9 @@ def record_side_by_side(
     final_lw = Image.fromarray(env_lw.render())
     frames_lw.append(final_lw)
     actions_lw.append(last_deploy_lw)
+    alive_lw = sum(1 for tr in env_lw.troops if tr.alive)
+    dep_lw = sum(env_lw.army_template.values()) - sum(env_lw.army_left.values())
+    counts_lw.append((alive_lw, dep_lw))
     th_lw = bool(env_lw.th_destroyed)
     env_lw.close()
 
@@ -100,6 +112,8 @@ def record_side_by_side(
     obs, _ = env_ppo.reset(seed=seed)
     frames_ppo = []
     actions_ppo = []
+    counts_ppo = []
+    deploy_events_ppo = []
     done_ppo = False
     step_ppo = 0
     last_deploy_ppo = "None"
@@ -115,10 +129,15 @@ def record_side_by_side(
             sec = (act - 1) % 16
             tr = _clean_troop_name(env_ppo.troop_keys[k])
             last_deploy_ppo = f"{tr} @ s{sec}"
+            deploy_events_ppo.append((round(step_ppo * 1.0, 1), tr, sec, 1))
+
+        alive_ppo = sum(1 for tr in env_ppo.env.troops if tr.alive)
+        dep_ppo = sum(env_ppo.env.army_template.values()) - sum(env_ppo.env.army_left.values())
 
         if step_ppo % sample_every == 0:
             frames_ppo.append(Image.fromarray(frame))
             actions_ppo.append(last_deploy_ppo)
+            counts_ppo.append((alive_ppo, dep_ppo))
 
         obs, _, term, trunc, info_ppo = env_ppo.step(act)
         done_ppo = term or trunc
@@ -127,12 +146,42 @@ def record_side_by_side(
     final_ppo = Image.fromarray(env_ppo.render())
     frames_ppo.append(final_ppo)
     actions_ppo.append(last_deploy_ppo)
+    alive_ppo = sum(1 for tr in env_ppo.env.troops if tr.alive)
+    dep_ppo = sum(env_ppo.env.army_template.values()) - sum(env_ppo.env.army_left.values())
+    counts_ppo.append((alive_ppo, dep_ppo))
     th_ppo = bool(env_ppo.env.th_destroyed)
     env_ppo.close()
 
-    # 3. Composite frames
+    # 3. Write deployment logs to docs/gallery/logs/
+    stem = f"{Path(base_file).stem}_{army}"
+    LOGS_DIR.mkdir(parents=True, exist_ok=True)
+
+    lw_log_path = LOGS_DIR / f"{stem}_left_wave.csv"
+    with open(lw_log_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["second", "troop_type", "sector", "count"])
+        for ev in deploy_events_lw:
+            writer.writerow(ev)
+
+    ppo_log_path = LOGS_DIR / f"{stem}_ppo.csv"
+    with open(ppo_log_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["second", "troop_type", "sector", "count"])
+        for ev in deploy_events_ppo:
+            writer.writerow(ev)
+
+    comb_log_path = LOGS_DIR / f"{stem}.csv"
+    with open(comb_log_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["agent", "second", "troop_type", "sector", "count"])
+        for ev in deploy_events_lw:
+            writer.writerow(["left_wave", *ev])
+        for ev in deploy_events_ppo:
+            writer.writerow(["ppo", *ev])
+
+    # 4. Composite frames
     w_panel, h_panel = 616, 616
-    h_top = 32
+    h_top = 52
     h_bot = 46
     sep = 4
     w_total = w_panel * 2 + sep
@@ -167,6 +216,8 @@ def record_side_by_side(
         f_ppo = frames_ppo[min(i, len(frames_ppo) - 1)]
         a_lw = actions_lw[min(i, len(actions_lw) - 1)]
         a_ppo = actions_ppo[min(i, len(actions_ppo) - 1)]
+        cnt_lw = counts_lw[min(i, len(counts_lw) - 1)]
+        cnt_ppo = counts_ppo[min(i, len(counts_ppo) - 1)]
 
         comp = Image.new("RGB", (w_total, h_total), (20, 24, 20))
         comp.paste(f_lw, (0, h_top))
@@ -174,12 +225,20 @@ def record_side_by_side(
 
         draw = ImageDraw.Draw(comp)
 
-        # Top HUD bar
+        # Top HUD bar (h_top = 52)
         draw.rectangle([0, 0, w_total, h_top], fill=(24, 30, 24))
-        draw.text((12, 8), f"LEFT_WAVE | Deploy: {a_lw}", fill=(255, 215, 0), font=font_bold)
-        draw.text((w_panel + sep + 12, 8), f"MASKABLE PPO | Deploy: {a_ppo}", fill=(0, 220, 255), font=font_bold)
-        title_txt = f"{base_file} | {army}"
-        draw.text((w_total // 2 - 60, 8), title_txt, fill=(200, 200, 200), font=font_reg)
+
+        # Row 1: Centered Title
+        title_txt = f"{base_file}  \u2014  {army} (seed {seed})"
+        t_bbox = font_bold.getbbox(title_txt)
+        t_w = t_bbox[2] - t_bbox[0]
+        draw.text(((w_total - t_w) // 2, 6), title_txt, fill=(240, 240, 240), font=font_bold)
+
+        # Row 2: Per-panel HUDs with troops alive / deployed counter
+        hud_lw = f"LEFT_WAVE | Deploy: {a_lw} | Troops: {cnt_lw[0]}/{cnt_lw[1]}"
+        hud_ppo = f"MASKABLE PPO | Deploy: {a_ppo} | Troops: {cnt_ppo[0]}/{cnt_ppo[1]}"
+        draw.text((12, 28), hud_lw, fill=(255, 215, 0), font=font_bold)
+        draw.text((w_panel + sep + 12, 28), hud_ppo, fill=(0, 220, 255), font=font_bold)
 
         # Vertical Separator
         draw.rectangle([w_panel, 0, w_panel + sep, h_total], fill=(10, 10, 10))
@@ -312,70 +371,75 @@ def main():
     parser.add_argument("--seed", type=int, default=0, help="Simulation seed.")
     parser.add_argument("--duration", type=int, default=250, help="Frame duration in ms.")
     parser.add_argument("--time-limit", type=int, default=600, help="Maximum execution time in seconds.")
+    parser.add_argument("--showcase-only", action="store_true", help="Only record the 4 showcase battles.")
     args = parser.parse_args()
 
     t_start = time.perf_counter()
     print("=" * 80)
     print("RECORD GALLERY: Side-by-Side Battles (left_wave vs MaskablePPO)")
+    print(f"Showcase Only: {args.showcase_only}")
     print(f"Bases: {args.bases}")
     print(f"Armies: {args.armies}")
     print(f"Model: {args.model} | Seed: {args.seed} | Duration: {args.duration}ms")
     print(f"Output Gallery: {GALLERY_DIR}")
     print(f"Output Showcase: {SHOWCASE_DIR}")
+    print(f"Output Logs: {LOGS_DIR}")
     print("=" * 80, flush=True)
 
     GALLERY_DIR.mkdir(parents=True, exist_ok=True)
     SHOWCASE_DIR.mkdir(parents=True, exist_ok=True)
+    LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
     from sb3_contrib import MaskablePPO
     model = MaskablePPO.load(args.model, device="cpu")
 
+    showcase_combos = [
+        ("base09.json", "hog_rush", "ppo_win_base09_hog_rush.gif"),
+        ("base08.json", "gowiva", "ppo_loss_base08_gowiva.gif"),
+        ("base10.json", "giant_barch", "three_star_base10_giant_barch.gif"),
+        ("base07.json", "giant_barch", "failure_base07_giant_barch.gif"),
+    ]
+
+    if args.showcase_only:
+        targets_to_run = [(b, a) for b, a, _ in showcase_combos]
+    else:
+        targets_to_run = [(b, a) for b in args.bases for a in args.armies]
+
     records = []
-    total_combos = len(args.bases) * len(args.armies)
+    total_combos = len(targets_to_run)
     idx = 0
 
-    for b in args.bases:
-        for a in args.armies:
-            idx += 1
-            if time.perf_counter() - t_start > args.time_limit:
-                print(f"Time limit reached ({args.time_limit}s), stopping.", flush=True)
-                break
+    for b, a in targets_to_run:
+        idx += 1
+        if time.perf_counter() - t_start > args.time_limit:
+            print(f"Time limit reached ({args.time_limit}s), stopping.", flush=True)
+            break
 
-            stem = f"{Path(b).stem}_{a}"
-            gif_path = GALLERY_DIR / f"{stem}.gif"
-            t0 = time.perf_counter()
-            print(f"[{idx}/{total_combos}] Recording {stem} ...", end="", flush=True)
+        stem = f"{Path(b).stem}_{a}"
+        gif_path = GALLERY_DIR / f"{stem}.gif"
+        t0 = time.perf_counter()
+        print(f"[{idx}/{total_combos}] Recording {stem} ...", end="", flush=True)
 
-            res = record_side_by_side(
-                base_file=b,
-                army=a,
-                model=model,
-                out_path=gif_path,
-                seed=args.seed,
-                duration=args.duration,
-            )
-            records.append(res)
-            dt = time.perf_counter() - t0
-            print(f" Done ({dt:.1f}s, {res['frames']} frames, {res['size_kb']} KB) | Outcome: {res['outcome']}", flush=True)
+        res = record_side_by_side(
+            base_file=b,
+            army=a,
+            model=model,
+            out_path=gif_path,
+            seed=args.seed,
+            duration=args.duration,
+        )
+        records.append(res)
+        dt = time.perf_counter() - t0
+        print(f" Done ({dt:.1f}s, {res['frames']} frames, {res['size_kb']} KB) | Outcome: {res['outcome']}", flush=True)
 
-    # Write gallery index.md
-    index_path = GALLERY_DIR / "index.md"
-    generate_index_markdown(records, index_path)
-    print(f"\nWrote gallery index to {index_path}", flush=True)
+    # Write gallery index.md if full run
+    if not args.showcase_only:
+        index_path = GALLERY_DIR / "index.md"
+        generate_index_markdown(records, index_path)
+        print(f"\nWrote gallery index to {index_path}", flush=True)
 
-    # Select the 4 most instructive GIFs
-    # 1. PPO Win: base09_hog_rush (100% 3-star vs 59.3% 1-star)
-    # 2. PPO Loss: base08_gowiva (100% 3-star LW vs 40.7% 0-star PPO)
-    # 3. 3-Star Wipe: base10_giant_barch (100% 3-star for both)
-    # 4. Failure: base07_giant_barch (0 stars for both, stall)
-    showcase_targets = {
-        "ppo_win_base09_hog_rush.gif": "base09_hog_rush.gif",
-        "ppo_loss_base08_gowiva.gif": "base08_gowiva.gif",
-        "three_star_base10_giant_barch.gif": "base10_giant_barch.gif",
-        "failure_base07_giant_barch.gif": "base07_giant_barch.gif",
-    }
-
-    print("\n--- Copying 4 Most Instructive Showcase GIFs ---", flush=True)
+    # Copy showcase targets to docs/showcase/
+    print("\n--- Updating Showcase GIFs & Logs ---", flush=True)
     showcase_lines = [
         "# Showcase Battles: Left Wave vs MaskablePPO",
         "",
@@ -383,8 +447,9 @@ def main():
         "",
     ]
 
-    for showcase_name, source_name in showcase_targets.items():
-        src = GALLERY_DIR / source_name
+    for b, a, showcase_name in showcase_combos:
+        stem = f"{Path(b).stem}_{a}"
+        src = GALLERY_DIR / f"{stem}.gif"
         dst = SHOWCASE_DIR / showcase_name
         if src.exists():
             shutil.copy2(src, dst)
@@ -395,6 +460,14 @@ def main():
             showcase_lines.append(f"### `{showcase_name}` ({size_kb:.1f} KB)\n![{showcase_name}]({showcase_name})\n")
         else:
             print(f"Warning: source GIF {src} not found", flush=True)
+
+        # Mirror logs to showcase-named CSVs for convenience
+        sc_stem = Path(showcase_name).stem
+        for suffix in ["_left_wave.csv", "_ppo.csv", ".csv"]:
+            src_log = LOGS_DIR / f"{stem}{suffix}"
+            if src_log.exists():
+                dst_log = LOGS_DIR / f"{sc_stem}{suffix}"
+                shutil.copy2(src_log, dst_log)
 
     (SHOWCASE_DIR / "README.md").write_text("\n".join(showcase_lines), encoding="utf-8")
     print(f"\nAll tasks finished in {time.perf_counter() - t_start:.1f}s.", flush=True)
