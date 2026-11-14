@@ -31,7 +31,7 @@ M4 (WALLS AND PATHING) — PASSED (Attempt 3)
 M5 (DEFENSE REALISM) — PASSED (Attempt 1)
 - Commits: f88e533, de111a2
 - Evidence:
-  (a) Mortar min_range_tiles (4.0) and splash_radius (1.5), Wizard Tower splash_radius (1.0), Air Defense targets="air", attack_speed-based discrete shots (dps * attack_speed), and PendingProjectile delay queue implemented in sim/entities.py and sim/env.py. Missing projectile_delay wiki stat was flagged in data/DISCREPANCIES.md and a TODO in sim/env.py rather than invented (defaults to 0.0).
+  (a) Mortar min_range_tiles (4.0) and splash_radius (1.5), Wizard Tower splash_radius (1.0), Air Defense targets="air", attack_speed-based discrete shots (dps * attack_speed), and PendingProjectile delay queue implemented in sim/entities.py and sim/env.py. Missing projectile_delay wiki stat was flagged in data/DISCREPANCIES.md and noted as a placeholder comment in sim/env.py rather than invented (defaults to 0.0).
   (b) tests/test_defenses_m5.py (5 unit tests, one per mechanic) passed in pytest -q -> 15 passed in 11.04s; check_env OK.
   (c) At M5 time the TH8 flying troops were out of scope: data/raw/ and data/troops.json contained only the 5 M1 ground troops, so M5 shipped the flight plumbing (Troop.is_flying + Air Defense air-only filtering, unit-tested) with no flying troop data to fly. SUPERSEDED by Stage 2 (commit c49a9d1): Dragon L3, Balloon L5 and Minion L4 were scraped into data/troops.json and now actually fly over walls and are immune to ground-only defenses; see tests/test_mechanics_m5b.py::test_flying_troops_ground_defense_immunity_and_air_defense.
   (d) python -u evaluate.py ran end-to-end across all bases and armies, showing realistic splash punishment on stacked barch vs giant_barch.
@@ -172,27 +172,49 @@ M7c (WHY DOES PART B PPO TRAIL left_wave ON STARS?) - COMPLETED (2026-11-14)
   2. Per-army mean stars (Part B / left_wave): giant_barch 0.88/1.25, goblin_giant 0.25/0.94,
      mixed_wb 0.36/0.62, barch 0.00/0.00, mass_dragons 3.00/3.00, gowiva 1.76/2.24, hog_rush 2.78/1.86.
      PPO wins only hog_rush, ties the trivially-won mass_dragons, and loses on 4 of 7 armies.
-  3. Stars in sim/env.py are [dest>=50%] + [Town Hall destroyed] + [dest>=100%], so the ground-army gap is a
-     Town-Hall conversion gap, not a 50% gap: PPO is at least as good on mean destruction there (3-seed mean
-     28.9% vs 27.3%, though seed 44 alone is lower at 24.1%) but kills the TH much less often. Direct measurement
-     (results/m7c_star_diagnostic.csv, 50 episodes per agent-pair on the 16 ground pairs, 5,600 episodes total;
-     the three components add up to the mean stars):
-       left_wave:                 reach 50% 31.1%, TH killed 33.5%, reach 100%  6.3%  -> 0.71 stars
-       Part B seed 42/43/44:      reach 50% 29.8/20.8/ 6.3%, TH killed 24.3/23.9/0.0%,
-                                  reach 100%  6.3/ 1.4/ 0.0%                    -> 0.60/0.46/0.06 stars
-       Ablation seed 42/43/44:    reach 50% 12.5/ 6.3/14.6%, TH killed 12.5/ 1.6/ 6.8%,
-                                  reach 100%  4.0/ 0.4/ 6.3%                    -> 0.29/0.08/0.28 stars
-     The Town Hall term is the biggest single difference (left_wave 33.5% vs ~16% averaged over the Part B seeds,
-     and only ~7% for the ablation). PPO's extra destruction is peripheral: it clears exterior buildings without
-     finishing the deep Town Hall, so fewer 2-star and 3-star conversions.
-  4. Mechanism: left_wave masses all troops on one flank, which on open layouts (base10.json) ends in 100% wipes
-     (3-star 25.0% on giant_barch vs 10.2% for PPO). PPO keeps a multi-sector attack, so its extra destruction is
-     peripheral: it does NOT cross 50% more often (29.8/20.8/6.3% for the three Part B seeds vs 31.1% for
-     left_wave, i.e. at best equal and usually less), and even when it does cross 50% it converts into a Town Hall
-     kill far less often (24.3/23.9/0.0% vs 33.5%). The spread itself is not caused by the anti-collapse bonus
-     (removing it did not reduce spread and made every metric worse - see the ablation), so the next lever, if any,
-     is rewarding the deep Town Hall directly. Caveat: ent_coef=0.02 was kept in the ablation, so this run does not
-     rule out entropy regularisation (rather than the anti-collapse terms) as a driver of the spreading.
+  3. Star Decomposition on the 16 Ground Pairs (results/m7c_star_diagnostic.csv, 50 episodes per pair):
+     Stars in sim/env.py are the sum of three binary milestones: [dest >= 50%] + [Town Hall destroyed] + [dest >= 100%].
+     Direct measurement across the 16 ground-army pairs (800 episodes per agent; component rates sum to mean stars):
+     Agent                          Mean Dest %    >=50% Dest %    TH-Kill %    3-Star %    Mean Stars
+     left_wave                      27.42%         31.12%          33.50%        6.25%      0.71
+     Part B seed 42                 31.84%         29.75%          24.25%        6.25%      0.60
+     Part B seed 43                 30.77%         20.75%          23.88%        1.38%      0.46
+     Part B seed 44                 24.13%          6.25%           0.00%        0.00%      0.06
+     Part B 3-seed mean             28.91%         18.92%          16.04%        2.54%      0.37
+     Ablation seed 42               26.20%         12.50%          12.50%        4.00%      0.29
+     Ablation seed 43               20.44%          6.25%           1.62%        0.38%      0.08
+     Ablation seed 44               22.19%         14.62%           6.75%        6.25%      0.28
+     Ablation 3-seed mean           22.94%         11.12%           6.96%        3.54%      0.22
+     The measured deficit is dual: left_wave reaches 50% destruction in 31.12% of episodes vs 18.92% for Part B
+     PPO (-12.20 pp deficit), kills the Town Hall in 33.50% vs 16.04% (-17.46 pp deficit), and 3-stars in 6.25% vs
+     2.54% (-3.71 pp deficit).
+  4. Mechanism Analysis (Empirical Findings & Hypotheses):
+     - What the data supports (measured facts):
+       * PPO does NOT cross 50% more often than left_wave. Across the 16 ground pairs, left_wave crosses 50% in
+         31.12% of episodes, whereas Part B seeds cross 50% in 29.75% (seed 42), 20.75% (seed 43), and 6.25%
+         (seed 44), averaging only 18.92%.
+       * left_wave kills the central Town Hall at more than double PPO's rate (33.50% vs 16.04% 3-seed mean).
+       * Despite trailing on both star milestones, PPO achieves equal or slightly higher average destruction
+         (28.91% vs 27.42% in this 50-episode diagnostic; 28.89% vs 27.32% in the 100-episode sweep). On non-3-star
+         attacks, PPO averages 27.29% to 30.50% destruction (seeds 42 & 43) vs 22.58% for left_wave. PPO consistently
+         chips away outer perimeter buildings across multiple flanks, producing steady moderate damage.
+       * left_wave exhibits bimodal outcomes: by concentrating 100% of troops on a single flank (1.0 distinct
+         sectors, 0.0 entropy), it overwhelms local defenses on open or favorable layouts like base10.json (achieving
+         75.0% TH-kill and 75.0% >=50% rates, with 25.0% 3-stars on giant_barch). When blocked by heavy walls or
+         splash, it dies early with low destruction.
+       * The multi-sector dispersion is NOT caused by the anti-collapse reward shaping (+0.5 sector bonus, -0.1
+         clumping penalty): removing anti-collapse shaping in the M7c ablation did not concentrate attacks (distinct
+         sectors remained 3.15 vs 3.04 for Part B; entropy 1.03 vs 1.04 nats), but caused performance to collapse
+         across all metrics (TH kill fell to 6.96%, >=50% fell to 11.12%, destruction fell to 22.95%, stars to 0.22).
+     - Hypotheses on remaining unmeasured factors (explicitly unverified):
+       * [Hypothesis 1 - Dispersion Driver]: Because explicit anti-collapse reward terms were ruled out by the
+         ablation, the policy's persistent multi-sector spreading is hypothesized to be driven by policy entropy
+         regularisation (ent_coef=0.02) and/or the high cardinality of the discrete edge deployment action space.
+         (Unmeasured: an ablation with ent_coef=0.0 was not trained).
+       * [Hypothesis 2 - Core Penetration Failure]: It is hypothesized that troops split into smaller detachments
+         across 2 to 4 perimeter sectors lack the concentrated mass required to breach interior walls and survive point
+         defenses, preventing them from penetrating core compartments to reach the central Town Hall.
+         (Unmeasured: spatial and temporal troop survival trajectories were not logged).
   5. Caveat on the 28-pair aggregate: it is dominated by army balance. mass_dragons is a free 100% 3-star for
      every agent (random_masked included: 96.2% destruction), and hog_rush gives PPO 96.6% vs left_wave 78.6%.
      Those two armies offset the ground-army star deficit; they are simulator-balance effects, not policy skill.
@@ -201,6 +223,39 @@ M7c (WHY DOES PART B PPO TRAIL left_wave ON STARS?) - COMPLETED (2026-11-14)
      single seed's TH-kill rate rests on n=800 episodes (16 pairs x 50) with a binomial 95% margin of about
      +/-3 pp; the 3-seed aggregate is tighter, and the left_wave-vs-PPO difference (33.5% vs 16.0%) is far
      outside that margin.
+
+- Ground-Armies-Only and Non-Dragon Breakdowns (16 and 24 held-out pairs):
+  * 16 Ground-Army Pairs (4 Original Armies: giant_barch, barch, goblin_giant, mixed_wb x 4 held-out bases;
+    bootstrap 95% CIs over independent pairs; paired deltas vs left_wave):
+    Agent                          Dest % [95% CI]          Stars [95% CI]       3-star % [95% CI]      dDest vs left_wave       dStars
+    left_wave                      27.32 [13.53, 43.27]     0.70 [0.25, 1.23]     6.25 [ 0.00, 18.75]   -                        -
+    smart_funnel                   22.82 [11.29, 36.67]     0.41 [0.10, 0.81]     4.19 [ 0.00, 12.56]    -4.50 [-16.35,  +6.88]  -0.294 [-0.747, +0.124]
+    surround                        9.77 [ 3.77, 17.82]     0.11 [0.00, 0.32]     0.00 [ 0.00,  0.00]   -17.55 [-27.95,  -8.07]  -0.597 [-1.031, -0.208]
+    random_masked                   8.69 [ 3.78, 14.94]     0.03 [0.00, 0.09]     0.00 [ 0.00,  0.00]   -18.63 [-29.95,  -8.46]  -0.672 [-1.161, -0.241]
+    Part B seed 42                 31.81 [18.70, 46.87]     0.60 [0.18, 1.12]     6.25 [ 0.00, 18.75]    +4.50 [ -2.42, +11.48]  -0.098 [-0.411, +0.197]
+    Part B seed 43                 30.68 [19.65, 42.52]     0.46 [0.12, 0.86]     1.38 [ 0.00,  4.12]    +3.36 [ -4.13, +10.69]  -0.246 [-0.621, +0.071]
+    Part B seed 44                 24.16 [15.10, 34.49]     0.06 [0.00, 0.19]     0.00 [ 0.00,  0.00]    -3.16 [-10.61,  +4.22]  -0.640 [-1.108, -0.236]
+    Part B 3-seed                  28.89 [18.40, 40.90]     0.37 [0.12, 0.69]     2.54 [ 0.00,  7.63]    +1.57 [ -4.49,  +7.59]  -0.328 [-0.645, -0.044]
+    Ablation seed 42               26.34 [16.07, 39.09]     0.30 [0.00, 0.76]     4.50 [ 0.00, 13.50]    -0.98 [ -8.26,  +6.01]  -0.407 [-0.798, -0.077]
+    Ablation seed 43               20.40 [ 9.80, 33.40]     0.08 [0.00, 0.25]     0.25 [ 0.00,  0.75]    -6.92 [-11.95,  -2.21]  -0.619 [-1.069, -0.229]
+    Ablation seed 44               22.19 [10.09, 37.11]     0.28 [0.00, 0.70]     6.25 [ 0.00, 18.75]    -5.13 [ -9.58,  -1.20]  -0.424 [-0.787, -0.111]
+    Ablation 3-seed                22.98 [12.28, 36.41]     0.22 [0.00, 0.57]     3.67 [ 0.00, 11.00]    -4.34 [ -9.40,  +0.24]  -0.483 [-0.863, -0.152]
+
+  * 24 Held-Out Pairs (All Armies Excluding mass_dragons: 4 original + gowiva + hog_rush x 4 held-out bases;
+    bootstrap 95% CIs over independent pairs; paired deltas vs left_wave):
+    Agent                          Dest % [95% CI]          Stars [95% CI]       3-star % [95% CI]      dDest vs left_wave       dStars
+    left_wave                      45.59 [30.74, 60.69]     1.15 [0.67, 1.65]    24.46 [ 8.62, 41.25]   -                        -
+    smart_funnel                   33.15 [20.69, 46.77]     0.66 [0.28, 1.09]    13.75 [ 3.38, 26.59]   -12.44 [-25.28,  +0.15]  -0.495 [-1.003, +0.014]
+    surround                       18.32 [ 9.52, 28.75]     0.27 [0.05, 0.57]     3.71 [ 0.00, 11.12]   -27.27 [-38.10, -17.15]  -0.879 [-1.330, -0.455]
+    random_masked                  21.94 [12.22, 33.09]     0.31 [0.07, 0.62]     6.12 [ 0.42, 14.75]   -23.65 [-33.08, -14.73]  -0.839 [-1.259, -0.446]
+    Part B seed 42                 48.29 [34.66, 62.32]     1.07 [0.61, 1.56]    20.96 [ 7.21, 37.62]    +2.70 [ -6.36, +11.14]  -0.081 [-0.507, +0.331]
+    Part B seed 43                 47.85 [35.15, 60.92]     1.03 [0.60, 1.49]    19.17 [ 5.75, 35.17]    +2.25 [ -5.24,  +9.59]  -0.119 [-0.510, +0.247]
+    Part B seed 44                 46.10 [32.27, 60.65]     0.92 [0.45, 1.44]    21.96 [ 8.00, 39.25]    +0.50 [ -6.70,  +7.97]  -0.235 [-0.679, +0.223]
+    Part B 3-seed                  47.41 [34.47, 60.97]     1.01 [0.60, 1.46]    20.69 [ 7.26, 36.71]    +1.82 [ -5.25,  +8.90]  -0.145 [-0.506, +0.226]
+    Ablation seed 42               43.53 [29.99, 57.79]     0.84 [0.39, 1.34]    19.79 [ 4.54, 36.46]    -2.06 [ -9.25,  +4.94]  -0.316 [-0.697, +0.053]
+    Ablation seed 43               38.80 [25.13, 53.50]     0.72 [0.29, 1.22]    15.50 [ 3.33, 30.83]    -6.80 [-14.24,  +0.27]  -0.434 [-0.888, +0.007]
+    Ablation seed 44               40.74 [26.31, 55.82]     0.79 [0.37, 1.26]    18.83 [ 5.46, 34.62]    -4.85 [-11.82,  +2.19]  -0.364 [-0.740, +0.014]
+    Ablation 3-seed                41.02 [27.34, 55.54]     0.78 [0.36, 1.25]    18.04 [ 5.17, 33.61]    -4.57 [-11.34,  +2.11]  -0.371 [-0.754, +0.010]
 - Part A vs Part B vs ablation on the same pairs:
   * Part A CANNOT be re-evaluated on 28 pairs: its three checkpoints were overwritten in place by Part B training
     on 2026-11-13 18:25-19:05 (see the Part A section), and they were trained on the 81-action pre-Stage-2
@@ -222,7 +277,7 @@ None.
 - Visual inspection: Verify docs/baseline_attack.gif (baseline on base03), docs/ppo_attack.gif (PPO on base06), results/reward_curves.png, and interactive play_human.py look smooth and believable.
 - Movement speed calibration: SPEED_TO_TILES_PER_S = 0.125 in scripts/normalize.py remains unverified (speed_verified: false in data/troops.json) and needs calibration against real CoC gameplay footage.
 - Missing wiki / unverified stats flagged rather than invented (data/DISCREPANCIES.md):
-  * Defense projectile flight delay / projectile speed (projectile_delay in data/defenses.json defaults to 0.0 with a TODO in sim/env.py).
+  * Defense projectile flight delay / projectile speed (projectile_delay in data/defenses.json defaults to 0.0 with a placeholder comment in sim/env.py).
   * Giant L5 HP discrepancy between Fandom (900) and coc.guide (800) -> stats_verified: false.
   * Goblin 2x resource damage (dps_vs_resources: 64) is stored in data/troops.json but not yet differentiated from base dps (32).
   * Flying troops are implemented (Stage 2, commit c49a9d1), not skipped: Dragon L3 and Balloon L5 are in data/troops.json with stats_verified: true and are used by the mass_dragons army (data/armies.json); Minion L4 is also present but stats_verified: false (Fandom and secondary sources disagree on parts of its profile), so its numbers must not be quoted as verified. Mechanics (wall fly-over, immunity to Cannon/Mortar/Bomb Tower, targeting by Air Defense/Archer Tower/Wizard Tower/Hidden Tesla) are unit-tested in tests/test_mechanics_m5b.py. Needs human check: whether the flying approach/attack feel and the timing match real CoC.
@@ -269,3 +324,59 @@ None.
     results/m7b_partB.csv exactly (max |delta| = 0.000000 on destruction, stars and 3-star rate).
 - Consequence: no Part B row was replaced, because re-running the baselines and random_masked on the current
   simulator did not change a single number.
+
+================================================================================
+6.1 PROVENANCE & ACTION SAMPLING AUDIT: WHY ARE random_masked NUMBERS IDENTICAL ON 81 VS 209 ACTIONS?
+================================================================================
+- Question: In results/m7b_partA.csv (pre-Stage-2 simulator, 81 actions) and results/m7b_partB.csv (Stage-2
+  simulator, 209 actions), random_masked produces bit-identical destruction (8.69%), stars (0.03), and 3-star
+  rate (0.00%) across all 16 held-out pairs. How does random_masked sample actions, and does the mathematical
+  explanation for this identical behavior hold?
+- Action Sampling Mechanism:
+  * At each step, ActionMaskCoCEnv queries mask = env.action_masks(), extracts valid = np.where(mask)[0], and
+    draws act = int(rng.choice(valid)) using a seeded NumPy generator (rng = np.random.default_rng(seed=ep)).
+  * The Discrete action space is indexed as: action 0 = wait; actions 1 .. (n_troops * num_sectors) represent
+    deploying troop k in perimeter edge sector s (with 16 sectors per troop).
+- Action Space Expansion and Masking Invariance:
+  * In the Stage 2 expansion, 8 new TH8 troop types (wizard, valkyrie, hog rider, golem, golemite, dragon, balloon,
+    minion) were strictly appended to data/troops.json after the 5 original ground troops (giant, barbarian,
+    archer, wall breaker, goblin). The original 5 troops retained troop indices k = 0..4 (actions 1..80).
+  * For the 4 original ground armies evaluated in Part A and Part B (giant_barch, barch, goblin_giant, mixed_wb),
+    the counts of all 8 newly added troops in env.army_left[k] are identically 0 throughout the episode.
+  * In ActionMaskCoCEnv.action_masks(), the masking loop iterates through troop keys: if env.army_left[k] <= 0,
+    the troop is skipped and its action slice remains False. Consequently, actions 81 through 208 are
+    unconditionally masked out (False) at every step in every episode of the 4 original ground armies.
+  * Therefore, the array of valid actions returned by np.where(mask)[0] is strictly identical to the array of valid
+    actions returned under the 81-action space (verified in simulation: max valid action index is 48, well under 81).
+  * Because rng.choice(valid) is seeded deterministically with ep, NumPy's PRNG consumes the exact same random
+    sequence on an identical candidate list, selecting the exact same integer actions.
+  * In step(act), action act < 81 decodes to the exact same (troop_kind, sector), triggering identical spawns.
+- Verdict: The mathematical explanation holds completely. The identity of random_masked results between Part A
+  and Part B is an architectural guarantee of how troops were appended and how action_masks() restricts actions.
+
+================================================================================
+7. LIMITATIONS AND THREATS TO VALIDITY
+================================================================================
+1. Limited Held-Out Base Evaluation Suite (4 bases):
+   * Generalization across unseen defensive layouts is assessed using only 4 held-out layouts (base07.json through
+     base10.json). While these layouts reflect distinct defensive archetypes (compartments, perimeter rings,
+     funnels, and open central courtyards), 4 layouts constitute a small sample. Army-level star splits rest on only
+     4 data points per army, resulting in wide bootstrap confidence intervals (e.g. 95% CI [18.4%, 40.9%] for Part B
+     destruction). Subtler layout-dependent failure modes cannot be characterized with statistical significance.
+2. Narrow Training Distribution (3 bases):
+   * Following the removal of the degenerate, wall-free base01.json, Stage 2 RL policies were trained on only 3 base
+     layouts (base02.json, base03.json, base04.json). Exposing the policy to only 3 training layouts risks over-fitting
+     to specific defensive geometry, wall junctions, and pathing corridors rather than discovering broad tactical
+     principles (e.g. general funneling).
+3. Part A Model Checkpoint Overwrite:
+   * During Part B multi-seed training on 2026-11-13 (18:25–19:05), the three checkpoint files models/ppo_m7b_seed42.zip,
+     seed43.zip, and seed44.zip were overwritten in place by the Part B models (trained on the 209-action space). While
+     the complete Part A per-episode dataset (results/m7b_partA_episodes.csv) and summary statistics are preserved, the
+     exact Part A neural network weights cannot be loaded or re-evaluated directly on the expanded simulator.
+4. Triviality of mass_dragons in Simulator:
+   * The mass_dragons army achieves a trivial 100% destruction and 3-star clear across all held-out bases for every
+     evaluated agent (left_wave, smart_funnel, surround, PPO, and even random_masked at 96.2% destruction and 81% 3-star
+     rate). In the current TH8 simulator, Dragons possess massive hitpoints and fly over all walls immune to ground
+     cannons, mortars, and bomb towers. Defenses lack Air Sweepers, Seeking Air Mines, and high-level Clan Castle
+     defenders to oppose mass air rushes. Including mass_dragons in the 28-pair benchmark artificially inflates aggregate
+     scores and masks true policy deficits on ground armies.
