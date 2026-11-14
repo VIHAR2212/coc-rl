@@ -38,6 +38,7 @@ class ActionMaskCoCEnv(gym.Env):
         armies: list[str] | str | None = None,
         num_sectors: int = NUM_SECTORS,
         shaping_mode: str = "stars_aware",
+        anti_collapse: bool = True,
         render_mode: str | None = None,
     ):
         super().__init__()
@@ -51,6 +52,9 @@ class ActionMaskCoCEnv(gym.Env):
             self.army_pool = list(armies)
         self.num_sectors = num_sectors
         self.shaping_mode = shaping_mode
+        # M7c ablation switch: when False, the sector-spread bonus and the clumping penalty are
+        # both skipped while every other reward term stays exactly as in Part B.
+        self.anti_collapse = anti_collapse
         self.render_mode = render_mode
 
         self.env = CoCEnv(base_file=self.base_pool[0], army=self.army_pool[0], render_mode=render_mode)
@@ -159,12 +163,13 @@ class ActionMaskCoCEnv(gym.Env):
             sec = idx % self.num_sectors
             if sec not in self._unique_sectors:
                 self._unique_sectors.add(sec)
-                # Anti-collapse bonus: reward spreading attack across multiple sectors
-                reward += 0.5
+                if self.anti_collapse:
+                    # Anti-collapse bonus: reward spreading attack across multiple sectors
+                    reward += 0.5
             self._sector_deploy_counts[sec] += 1
             tot = sum(self._sector_deploy_counts)
             # Anti-collapse penalty: discourage single-sector clumping (>50% troops in 1 sector)
-            if tot > 10 and (self._sector_deploy_counts[sec] / tot) > 0.5:
+            if self.anti_collapse and tot > 10 and (self._sector_deploy_counts[sec] / tot) > 0.5:
                 reward -= 0.1
 
         if self.shaping_mode == "stars_aware":

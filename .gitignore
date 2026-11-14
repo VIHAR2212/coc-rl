@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 runs/
 models/*.zip
+models/**/*.zip
 .env
 .env.*
 *.env

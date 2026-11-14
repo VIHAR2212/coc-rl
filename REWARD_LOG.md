@@ -78,3 +78,26 @@ Log of every observation, action-space, and reward-design iteration for Mileston
   2. Multi-seed training (3 seeds x 300k+ steps in Stage 2) with TensorBoard logging.
   3. Held-out benchmark on `base07..10` saved to `results/m7b_partB.csv`.
 
+---
+
+## M7c — Ablation: Remove the Anti-Collapse Terms (does spreading cause the stars gap?)
+- **Question being tested:** Part B PPO beats/matches `left_wave` on destruction but loses on stars (`0.37` vs `0.70`). Candidate cause: the M7b anti-collapse shaping (`+0.5` per new sector, `-0.1` clumping penalty) plus `ent_coef=0.02` taught the policy to sprinkle troops around the perimeter, which farms shallow percentage but never concentrates force on the Town Hall / 50% cliff. This ablation isolates that hypothesis.
+- **Reward change (`sim/rl_wrapper.py: ActionMaskCoCEnv`):**
+  - New constructor flag `anti_collapse: bool = True` (default keeps Part B behaviour byte-identical for `train_ppo.py` / `evaluate_m7b_partB.py`).
+  - With `anti_collapse=False` the `+0.5` unique-sector bonus and the `-0.1` clumping penalty are skipped. Everything else is unchanged: base `CoCEnv` reward, `+25.0` at 50% destruction, `+25.0` TH bonus, `+50.0` at 100%, `-0.05` wait penalty, `ent_coef=0.02`, `gamma=0.99`, same net architecture.
+  - `_unique_sectors` / `_sector_deploy_counts` bookkeeping still runs in both modes so action diagnostics stay comparable between Part B and the ablation.
+- **Training (`train_ppo.py --no-anti-collapse`):** seeds `42, 43, 44`; Stage 1 `base03.json` 25k steps; Stage 2 `base02..base04` 300k steps; `n_envs=2`; checkpoints every 50k steps in `models/checkpoints_m7c/`; final models `models/ppo_m7c_noac_seed{42,43,44}.zip`; TensorBoard `runs/m7c_noac_s{seed}_stage{1,2}`; log `results/train_ppo_m7c_ablation.log`.
+- **Evaluation (`scripts/evaluate_m7c.py`):** all 28 held-out pairs (`base07..10` x 7 armies), 100 seeded episodes per pair, against `left_wave`, `smart_funnel`, `surround`, `random_masked`, all 3 Part B seeds and all 3 ablation seeds; per-pair rows `results/m7c_all_armies.csv`, bootstrap CIs + paired deltas vs `left_wave` in `results/m7c_summary.csv`, sector/entropy diagnostics in `results/m7c_action_diagnostics.csv`.
+- **Prediction if the hypothesis holds:** the ablation should gain stars and lose some destruction versus Part B, and its distinct-sectors-per-episode diagnostic should drop towards a single main push.
+- **What was tried / outcome (M7c, 2026-11-14):**
+  - Trained 3 seeds x (25k Stage 1 + 300k Stage 2), checkpoints every 50k, `models/ppo_m7c_noac_seed{42,43,44}.zip`, log `results/train_ppo_m7c_ablation.log`. Training curves looked healthy (recent-100 dest 29-35%, stars 0.61-0.87, no collapse).
+  - Held-out 28 pairs (`results/m7c_summary.csv`):
+    * `left_wave`: 53.37% dest / 1.42 stars / 35.25% 3-star
+    * Part B 3-seed: 54.92% dest / 1.29 stars / 32.02% 3-star (paired vs left_wave: +1.56 pp [-4.48, +7.58] dest, -0.124 stars [-0.432, +0.197])
+    * Ablation 3-seed: 49.45% dest / 1.10 stars / 29.75% 3-star (paired vs left_wave: -3.92 pp [-9.77, +1.78] dest, -0.318 stars [-0.649, +0.007])
+  - Paired Part B minus ablation: **+5.48 pp destruction [+2.88, +8.49]**, **+0.194 stars [+0.080, +0.328]**, +2.27 pp 3-star [-0.81, +5.99].
+  - Action diagnostics: 3.04 distinct sectors/episode (Part B) vs 3.15 (ablation), entropy 1.04 vs 1.03 nats -> removing the terms did not make the policy concentrate.
+  - **Verdict: hypothesis rejected.** The anti-collapse terms are not what costs stars; they help stars and destruction. The stars deficit is army-specific: the significant gap is on the 4 ground armies (-0.328 [-0.645, -0.044] on 16 pairs), and gowiva is also negative (-0.48 stars); over all 7 armies the aggregate is a tie (-0.124 [-0.432, +0.197]) because PPO dominates `hog_rush` (+0.92) and `mass_dragons` is a free 3-star for everyone. The ground-army gap is a Town-Hall conversion gap: stars = 50% + TH + 100%, and PPO matches/beats `left_wave` on destruction there while killing the deep TH less often (TH killed in 33.5% of `left_wave` attacks vs ~16% averaged over the Part B seeds and ~7% for the ablation; `results/m7c_star_diagnostic.csv`).
+  - **What this changes for future work:** do NOT remove anti-collapse. If the goal is stars on ground armies, the next reward experiment should target TH conversion directly (e.g. larger TH bonus or a per-step "distance to TH" term), not more spread reduction.
+  - **Limit of this ablation:** `ent_coef=0.02` was deliberately kept (as requested), so this run isolates the two anti-collapse reward terms only; it does not test whether entropy regularisation is what drives the spreading. A follow-up with `ent_coef` lowered to 0 on top of `--no-anti-collapse` would be needed for that.
+

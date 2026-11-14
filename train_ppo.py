@@ -21,8 +21,8 @@ def _mask_fn(env):
     return env.action_masks()
 
 
-def make_masked_env(bases, shaping_mode="stars_aware", rank=0, seed=42):
-    env = ActionMaskCoCEnv(bases=bases, shaping_mode=shaping_mode)
+def make_masked_env(bases, shaping_mode="stars_aware", rank=0, seed=42, anti_collapse=True):
+    env = ActionMaskCoCEnv(bases=bases, shaping_mode=shaping_mode, anti_collapse=anti_collapse)
     env = ActionMasker(env, _mask_fn)
     env.reset(seed=seed + rank)
     return Monitor(env)
@@ -75,14 +75,14 @@ def _rolling(vals: list[float], window: int = 40) -> np.ndarray:
     return out
 
 
-def save_multi_seed_curves(seed_logs: dict[int, dict], out_path: Path) -> None:
+def save_multi_seed_curves(seed_logs: dict[int, dict], out_path: Path, stage2_label: str = "500k") -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fig, axes = plt.subplots(2, 2, figsize=(12, 8))
     specs = [
         (axes[0, 0], "s1_rew", "Stage 1 (base03): Episode Reward", "Reward"),
         (axes[0, 1], "s1_dest", "Stage 1 (base03): Destruction %", "Destruction (%)"),
-        (axes[1, 0], "s2_rew", "Stage 2 (base02..04, 500k): Episode Reward", "Reward"),
-        (axes[1, 1], "s2_dest", "Stage 2 (base02..04, 500k): Destruction %", "Destruction (%)"),
+        (axes[1, 0], "s2_rew", f"Stage 2 (base02..04, {stage2_label}): Episode Reward", "Reward"),
+        (axes[1, 1], "s2_dest", f"Stage 2 (base02..04, {stage2_label}): Destruction %", "Destruction (%)"),
     ]
     for ax, key, title, ylabel in specs:
         for seed, log in sorted(seed_logs.items()):
@@ -100,9 +100,30 @@ def save_multi_seed_curves(seed_logs: dict[int, dict], out_path: Path) -> None:
     plt.close(fig)
 
 
-def _make_vec_env(bases, shaping_mode: str, n_envs: int, seed: int):
-    fns = [partial(make_masked_env, bases, shaping_mode, rank, seed) for rank in range(n_envs)]
+def _make_vec_env(bases, shaping_mode: str, n_envs: int, seed: int, anti_collapse: bool = True):
+    fns = [partial(make_masked_env, bases, shaping_mode, rank, seed, anti_collapse) for rank in range(n_envs)]
     return DummyVecEnv(fns) if n_envs == 1 else SubprocVecEnv(fns)
+
+
+class PeriodicCheckpoint(BaseCallback):
+    """Save a checkpoint every `every` training steps (absolute num_timesteps)."""
+
+    def __init__(self, out_dir: Path, tag: str, every: int = 50_000, verbose: int = 0):
+        super().__init__(verbose)
+        self.out_dir = out_dir
+        self.tag = tag
+        self.every = every
+        self._next = 0
+        self.saved: list[Path] = []
+
+    def _on_step(self) -> bool:
+        while self.num_timesteps >= self._next + self.every:
+            self._next += self.every
+            path = self.out_dir / f"{self.tag}_step{self._next // 1000:03d}k.zip"
+            self.model.save(path)
+            self.saved.append(path)
+            print(f"  checkpoint saved {path} (num_timesteps={self.num_timesteps:,})", flush=True)
+        return True
 
 
 def train_single_seed(
@@ -114,6 +135,11 @@ def train_single_seed(
     n_envs: int,
     shaping_mode: str,
     models_dir: Path,
+    anti_collapse: bool = True,
+    model_prefix: str = "ppo_m7b",
+    tb_prefix: str = "m7b",
+    checkpoint_dir: Path | None = None,
+    checkpoint_every: int = 50_000,
 ) -> tuple[Path, dict]:
     policy_kwargs = dict(
         features_extractor_class=CoCFeatureExtractor,
@@ -122,7 +148,7 @@ def train_single_seed(
     )
     t0 = time.perf_counter()
     print(f"\n=== Seed {seed} | Stage 1: {single_base} ({stage1_steps} steps, n_envs={n_envs}) ===", flush=True)
-    env1 = _make_vec_env([single_base], shaping_mode, n_envs, seed)
+    env1 = _make_vec_env([single_base], shaping_mode, n_envs, seed, anti_collapse)
     cb1 = VecEpisodeMetricsCallback(n_envs, log_every=25_000)
     n_steps = max(256, 4096 // n_envs)
     model = MaskablePPO(
@@ -139,7 +165,7 @@ def train_single_seed(
         seed=seed,
         verbose=0,
     )
-    model.learn(total_timesteps=stage1_steps, callback=cb1, tb_log_name=f"m7b_s{seed}_stage1")
+    model.learn(total_timesteps=stage1_steps, callback=cb1, tb_log_name=f"{tb_prefix}_s{seed}_stage1")
     env1.close()
     print(
         f"Seed {seed} Stage 1 done in {time.perf_counter() - t0:.1f}s "
@@ -149,18 +175,22 @@ def train_single_seed(
 
     t1 = time.perf_counter()
     print(f"=== Seed {seed} | Stage 2: {train_bases} ({stage2_steps} steps) ===", flush=True)
-    env2 = _make_vec_env(train_bases, shaping_mode, n_envs, seed + 100)
+    env2 = _make_vec_env(train_bases, shaping_mode, n_envs, seed + 100, anti_collapse)
     cb2 = VecEpisodeMetricsCallback(n_envs, log_every=100_000)
+    ckpt_cb = None
+    if checkpoint_dir is not None:
+        checkpoint_dir.mkdir(parents=True, exist_ok=True)
+        ckpt_cb = PeriodicCheckpoint(checkpoint_dir, f"{model_prefix}_seed{seed}", every=checkpoint_every)
     model.set_env(env2)
     model.learn(
         total_timesteps=stage2_steps,
-        callback=cb2,
-        tb_log_name=f"m7b_s{seed}_stage2",
+        callback=[cb2, ckpt_cb] if ckpt_cb is not None else cb2,
+        tb_log_name=f"{tb_prefix}_s{seed}_stage2",
         reset_num_timesteps=False,
     )
     env2.close()
 
-    out_path = models_dir / f"ppo_m7b_seed{seed}.zip"
+    out_path = models_dir / f"{model_prefix}_seed{seed}.zip"
     model.save(out_path)
     print(
         f"Seed {seed} Stage 2 done in {time.perf_counter() - t1:.1f}s "
@@ -186,6 +216,11 @@ def train_pipeline(
     shaping_mode: str = "stars_aware",
     models_dir: Path = Path("models"),
     curve_out: Path = Path("results/reward_curves.png"),
+    anti_collapse: bool = True,
+    model_prefix: str = "ppo_m7b",
+    tb_prefix: str = "m7b",
+    checkpoint_dir: Path | None = None,
+    checkpoint_every: int = 50_000,
 ):
     train_bases = train_bases or list(TRAIN_BASES)
     seeds = seeds or [42, 43, 44]
@@ -202,16 +237,21 @@ def train_pipeline(
             n_envs=n_envs,
             shaping_mode=shaping_mode,
             models_dir=models_dir,
+            anti_collapse=anti_collapse,
+            model_prefix=model_prefix,
+            tb_prefix=tb_prefix,
+            checkpoint_dir=checkpoint_dir,
+            checkpoint_every=checkpoint_every,
         )
         saved_models.append(path)
         seed_logs[s] = log
-    save_multi_seed_curves(seed_logs, curve_out)
+    save_multi_seed_curves(seed_logs, curve_out, stage2_label=f"{stage2_steps // 1000}k")
     print(f"\nSaved {len(saved_models)} models and multi-seed reward curves -> {curve_out}", flush=True)
     return saved_models, curve_out
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Multi-seed MaskablePPO training for M7b.")
+    parser = argparse.ArgumentParser(description="Multi-seed MaskablePPO training (M7b / M7c ablation).")
     parser.add_argument("--stage1-steps", type=int, default=25_000)
     parser.add_argument("--stage2-steps", type=int, default=500_000)
     parser.add_argument("--seeds", type=int, nargs="+", default=[42, 43, 44])
@@ -219,6 +259,12 @@ if __name__ == "__main__":
     parser.add_argument("--shaping", type=str, default="stars_aware")
     parser.add_argument("--models-dir", type=Path, default=Path("models"))
     parser.add_argument("--curve-out", type=Path, default=Path("results/reward_curves.png"))
+    parser.add_argument("--no-anti-collapse", action="store_true",
+                        help="M7c ablation: drop the sector-spread bonus and the clumping penalty.")
+    parser.add_argument("--model-prefix", type=str, default="ppo_m7b")
+    parser.add_argument("--tb-prefix", type=str, default="m7b")
+    parser.add_argument("--checkpoint-dir", type=Path, default=None)
+    parser.add_argument("--checkpoint-every", type=int, default=50_000)
     args = parser.parse_args()
     train_pipeline(
         stage1_steps=args.stage1_steps,
@@ -228,4 +274,9 @@ if __name__ == "__main__":
         shaping_mode=args.shaping,
         models_dir=args.models_dir,
         curve_out=args.curve_out,
+        anti_collapse=not args.no_anti_collapse,
+        model_prefix=args.model_prefix,
+        tb_prefix=args.tb_prefix,
+        checkpoint_dir=args.checkpoint_dir,
+        checkpoint_every=args.checkpoint_every,
     )

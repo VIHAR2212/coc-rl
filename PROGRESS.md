@@ -108,7 +108,7 @@
     * Dragon: Flying ranged area splash breath attack.
   - (5) **Unit Tests (`tests/test_mechanics_m5b.py`):** 7 dedicated unit tests covering every single mechanic passed (`7 passed in 0.48s`). Entire pytest suite: `27 passed in 15.60s`. `check_env` BOTH OK.
   - (6) **Expanded TH8 Armies (`data/armies.json`):** Added `mass_dragons` (10x Dragon L3), `gowiva` (2x Golem, 8x Valkyrie, 14x Wizard, 6x WB, 8x Archer), and `hog_rush` (28x Hog Rider, 10x Wizard, 10x Archer, 10x Barbarian), each strictly filling the 200-housing space capacity.
-  - (7) **Re-run All Baselines (`results/baselines_m5b.csv`):** Evaluated all 3 strategies (`left_wave`, `surround`, `smart_funnel`) across all 10 bases and all 7 armies (210 combinations x 100 seeded episodes = 21,000 total episodes; saved to `results/baselines_m5b.csv` and `results/baselines.csv`):
+  - (7) **Re-run All Baselines (`results/baselines.csv`):** Evaluated all 3 strategies (`left_wave`, `surround`, `smart_funnel`) across all 10 bases and all 7 armies (210 combinations x 100 seeded episodes = 21,000 total episodes; saved to `results/baselines.csv`; `results/baselines_m5b.csv` holds only a 60-row, 2-episode `barch` spot-check subset):
     * `left_wave`: 60.01% mean destruction, 43.36% 3-star rate, 1.59 mean stars (BEST)
     * `smart_funnel`: 46.99% mean destruction, 32.79% 3-star rate, 1.17 mean stars
     * `surround`: 35.63% mean destruction, 20.40% 3-star rate, 0.77 mean stars
@@ -136,7 +136,9 @@
       - `surround`: **9.77%** dest [95% CI 3.77, 17.82] | **0.11** stars [0.00, 0.32] | **0.00%** 3-star
       - `random_masked`: **8.69%** dest [95% CI 3.78, 14.94] | **0.03** stars [0.00, 0.09] | **0.00%** 3-star
     * **Paired delta (PPO vs left_wave):** +1.57 pp destruction [95% CI -4.49, +7.59]; -0.328 stars [95% CI -0.645, -0.044].
-    * PPO beats best baseline on destruction (+1.57 pp); DOES NOT beat best baseline on stars (-0.328 stars).
+    * **Honest verdict:** PPO's destruction point estimate is higher than the best baseline (+1.57 pp) but the CI includes zero -> statistical tie, not a win. DOES NOT beat best baseline on stars (-0.328 stars).
+    * **Army coverage:** PPO trained on all 7 TH8 armies (army pool from `data/armies.json`); Part A/B held-out evaluation used only the 4 ground armies (`giant_barch`, `barch`, `goblin_giant`, `mixed_wb`). `mass_dragons`, `gowiva`, `hog_rush` had no PPO number until the M7c 28-pair sweep (see the M7c section).
+    * **Provenance:** Part B baseline rows were freshly re-run (see `results/evaluate_m7b_partB.log`); they equal Part A's rows because Stage 2 did not change ground-army behaviour (all 4,800 stored episodes are bit-identical between the two simulator versions).
   - (5) **Action Diagnostics (`results/ppo_action_diagnostics_partB.csv`):**
     * Single sector collapse: 0 of 48 runs (0.0% collapse rate across all seeds and pairs).
     * Distinct sectors per episode: 2.0 to 4.0 sectors.
@@ -144,3 +146,14 @@
     * Wall Breaker deployment fraction: 100% when present in army (`mixed_wb`).
   - (6) **Integrity & Checks:** `pytest -q` -> 27 passed in 19.18s; `check_env` BOTH OK.
 - **Final Result:** All 3 STAGES (Stage 1, Stage 2, Stage 3) completed in order without breaking constraints.
+
+## Milestone M7c (WHY DOES PART B PPO TRAIL left_wave ON STARS?) -> COMPLETED (2026-11-14)
+- **Passed:**
+  - (1) **28-pair held-out sweep (`scripts/evaluate_m7c.py`):** all 28 pairs (`base07..10` x all 7 TH8 armies), 100 seeded episodes per (agent, pair) for `left_wave`, `smart_funnel`, `surround`, `random_masked`, the 3 Part B seeds and the 3 ablation seeds (+ 3-seed aggregates). Per-pair rows `results/m7c_all_armies.csv`, means/CIs/paired deltas `results/m7c_summary.csv`, sector diagnostics `results/m7c_action_diagnostics.csv`.
+    * `left_wave`: 53.37% dest / 1.42 stars / 35.25% 3-star.
+    * Part B 3-seed: 54.92% dest / 1.29 stars / 32.02% 3-star -> paired vs `left_wave` **+1.56 pp [-4.48, +7.58]** destruction (tie) and **-0.124 stars [-0.432, +0.197]** (tie).
+    * Ablation 3-seed: 49.45% / 1.10 / 29.75% -> paired -3.92 pp [-9.77, +1.78] and -0.318 stars [-0.649, +0.007].
+  - (2) **Ablation training:** `anti_collapse` flag in `sim/rl_wrapper.py` + `--no-anti-collapse`/checkpoint CLI in `train_ppo.py`; seeds 42/43/44, 25k Stage 1 + 300k Stage 2, checkpoints every 50k in `models/checkpoints_m7c/`, log `results/train_ppo_m7c_ablation.log`; design + outcome logged in `REWARD_LOG.md`.
+  - (3) **Answer:** the anti-collapse shaping is NOT the cause of the stars gap. Removing it costs 5.48 pp destruction [+2.88, +8.49] and 0.194 stars [+0.080, +0.328] while sector spread is unchanged (3.15 vs 3.04 sectors, 1.03 vs 1.04 nats). The stars gap is army-specific (significant on the 4 ground armies: -0.328 [-0.645, -0.044]; gowiva is also negative) and is a Town-Hall conversion gap (`stars = 50% + TH + 100%`; TH killed in 33.5% of `left_wave` attacks vs ~16% averaged over the Part B seeds, `results/m7c_star_diagnostic.csv`); over all 28 pairs it is a statistical tie because PPO dominates `hog_rush` (+0.92 stars) and `mass_dragons` is a free 3-star for every agent.
+  - (4) **Part A caveat:** Part A cannot be re-evaluated on 28 pairs - its 2026-11-12 checkpoints were overwritten in place by Part B training (2026-11-13 18:25-19:05) and were trained on the 81-action pre-Stage-2 sim. Only its stored 16 ground-army pairs exist (31.78% / 0.57 / 5.38%).
+  - (5) **Checks:** `pytest -q` -> 27 passed in 32.85s; `check_env` OK for `CoCEnv`, `ActionMaskCoCEnv(anti_collapse=True)` and `ActionMaskCoCEnv(anti_collapse=False)`.
