@@ -96,13 +96,10 @@ def collect_demos_and_replay(
                 seed = start_seed + seed_offset
                 ep_count += 1
 
-                # 1. Run raw left_wave on CoCEnv
-                env_raw = CoCEnv(base_file=b, army=a)
-                env_raw.reset(seed=seed)
-
-                # Use a wrapper helper to extract action masks and TH channel
+                # 1. Run raw left_wave on CoCEnv via ActionMaskCoCEnv wrapper so masks stay synchronized
                 wrap_helper = ActionMaskCoCEnv(bases=[b], armies=[a])
-                wrap_helper.reset(seed=seed)
+                wrap_helper.reset(seed=seed, options={"base_file": b, "army": a})
+                env_raw = wrap_helper.env
 
                 ep_actions = []
                 done_raw = False

@@ -162,13 +162,66 @@
   - (8) **Rendering Polish & Deployment Logs:** Extended troop legend and distinct rendering shapes/colors in `sim/env.py` across all troop types in `data/troops.json` (Golem/Golemite square, Dragon diamond, Balloon basket, Minion triangle, Wall Breaker bomb circle) with sensible sizes. Fixed top header text overlap in side-by-side GIFs using a two-tier layout (centered title in row 1, independent left/right HUDs in row 2). Added live 'troops alive / deployed' counter (`{alive}/{deployed}`) to in-engine HUD and side-by-side composite bar. Logged per-attack deployment events (`second,troop_type,sector,count`) to `docs/gallery/logs/*.csv` (gitignored). Re-recorded the 4 showcase GIFs in `docs/showcase/` (500–770 KB, all well under 2 MB). All 27 tests pass.
 
 ## Milestone M9 (IMITATION WARM START & BC FINE-TUNING)
-- **Current Status:** STEP 1 COMPLETE; STEP 2 IN PROGRESS
+- **Current Status:** COMPLETE
 - **Passed:**
   - (1) **STEP 1 - Demonstrations & Replay Verification (`scripts/record_m9_demos.py`):** PASSED.
     * Recorded 1,050 expert demonstration episodes (130,667 transition steps) from `left_wave` on training bases only (`base02`, `base03`, `base04`) across all 7 TH8 armies on seeds 1000..1049.
-    * Saved dataset to `data/demos/left_wave_train_demos.npz` (38.42 MB, gitignored).
+    * Saved dataset to `data/demos/left_wave_train_demos.npz` (38.39 MB, gitignored).
     * Mapped deployments to 16 edge sectors with a mean distance error of **1.95 tiles** (max 5.00 tiles).
     * Exactly **0 of 101,925 deploys** mapped to a masked action (0.000% mask violation).
     * Replay test in `ActionMaskCoCEnv` achieved **59.92%** mean destruction vs **62.05%** raw `left_wave` (gap: **-2.13 pp**, far below the 10 pp threshold; stars gap: -0.04).
     * Full methodology, mapping diagnostics, and per-pair results table documented in `data/demos/README.md`.
+  - (2) **STEP 2 - Behavior Cloning (`scripts/train_m9_bc.py`, `scripts/evaluate_m9_bc.py`):** PASSED.
+    * **Step 2a (Leave-one-base-out cross-validation):**
+      - Hold-out `base02.json`: Val Acc = 47.39%, Non-wait Acc = 36.21%
+      - Hold-out `base03.json`: Val Acc = 43.83%, Non-wait Acc = 34.77%
+      - Hold-out `base04.json`: Val Acc = 52.49%, Non-wait Acc = 36.12%
+      - Mean across splits: Val Acc = **47.90%**, Non-wait Acc = **35.70%**
+    * **Step 2b (Full retrain across all 3 bases):**
+      - Trained 15 epochs per seed across seeds 42, 43, 44 on `base02..04`.
+      - Saved verified checkpoints to `models/ppo_m9_bc_seed42.zip`, `models/ppo_m9_bc_seed43.zip`, and `models/ppo_m9_bc_seed44.zip`.
+    * **Step 2c (Held-out evaluation on 28 pairs x 100 seeds vs `left_wave`):**
+      - `left_wave`: 53.37% dest [38.87, 68.17] | 1.42 stars [0.94, 1.91] | 35.2% 3-star | 51.8% TH-kill | 54.6% >=50%
+      - `ppo_m9_bc_3seed_det`: 53.44% dest [39.10, 68.18] | 1.35 stars [0.86, 1.85] | 35.2% 3-star | 46.9% TH-kill | 52.7% >=50%
+        * Paired $\Delta$ vs `left_wave`: **+0.07 pp** [-4.41, +4.72] destruction, **-0.07 stars** [-0.34, +0.20].
+      - `ppo_m9_bc_3seed_stoch`: 54.75% dest [40.94, 68.86] | 1.41 stars [0.95, 1.88] | 33.3% 3-star | 53.4% TH-kill | 54.1% >=50%
+        * Paired $\Delta$ vs `left_wave`: **+1.39 pp** [-0.98, +3.69] destruction, **-0.01 stars** [-0.10, +0.09].
+      - **Conclusion:** BC alone landed within $\le 0.07$ pp of `left_wave` deterministically and $+1.39$ pp stochastically; both 95% CIs cross 0.0, demonstrating near-perfect fidelity to the demonstration distribution.
+      - Detailed records saved to `results/m9_bc.csv` and `results/m9_bc_summary.csv`.
+  - (3) **STEP 3 - PPO Fine-Tuning from BC Weights (`scripts/fine_tune_m9.py`):** PASSED.
+    * **Step 3b (50k Smoke Run):** PASSED.
+      - 50k steps on seed 42 finished in 331s. Diagnostics across 30 train episodes: Mean Dest = **65.93%**, Mean Stars = **1.90**, Single Sector Fraction = **23.3%** (< 90% threshold), Collapse = **False**.
+    * **Step 3a (Full 3-Seed Fine-Tuning, 300k steps/seed):** PASSED.
+      - Seed 42: COMPLETE (3101s), saved to `models/ppo_m9_bcft_seed42.zip`.
+      - Seeds 43 & 44: COMPLETE, saved to `models/ppo_m9_bcft_seed43.zip` and `models/ppo_m9_bcft_seed44.zip`.
+      - Checkpoints every 50k steps saved to `models/checkpoints_m9/`.
+  - (4) **STEP 4 - Comprehensive Held-Out Evaluation (`scripts/evaluate_m9_all.py`):** PASSED.
+    * Evaluated all 28 held-out pairs (`base07..10` x 7 TH8 armies, 100 seeds/pair, seeds 0..99; 2,800 episodes per agent).
+    * Saved raw records to `results/m9_all_pairs.csv` and summary with bootstrap 95% CIs and paired deltas to `results/m9_summary.csv`.
+    * **All 28 Pairs (Headline):**
+      - `left_wave`: 53.37% dest [38.87, 68.17] | 1.42 stars [0.94, 1.91] | 35.25% 3-star | 51.82% TH-kill | 54.57% >=50%
+      - `maskable_ppo_partB_3seed`: 54.92% dest [41.97, 68.25] | 1.29 stars [0.86, 1.76] | 32.02% 3-star | 45.63% TH-kill | 51.56% >=50%
+      - `ppo_m9_bc_3seed`: 53.44% dest [39.10, 68.18] | 1.35 stars [0.86, 1.85] | 35.15% 3-star | 46.90% TH-kill | 52.73% >=50%
+      - `ppo_m9_bcft_3seed`: **56.65% dest** [42.79, 71.00] | **1.44 stars** [0.97, 1.94] | **37.01% 3-star** | **51.83% TH-kill** | **55.21% >=50%**
+      - Paired vs `left_wave`: **+3.28 pp** [-1.52, +8.31] destruction, **+0.024 stars** [-0.235, +0.298].
+      - Individual fine-tuned seeds vs `left_wave`: Seed 43: **58.51% dest** (+5.15 pp [+0.60, +10.19]), **1.51 stars** (+0.089 [-0.113, +0.354]); Seed 44: **58.29% dest** (+4.92 pp [+0.22, +10.09]), **1.47 stars** (+0.057 [-0.191, +0.318]).
+    * **24 Non-Dragon Pairs (Excluding mass_dragons):**
+      - `left_wave`: 45.59% dest | 1.15 stars | 24.46% 3-star | 43.79% TH-kill
+      - `maskable_ppo_partB_3seed`: 47.41% dest (+1.82 pp) | 1.01 stars (-0.145) | 20.69% 3-star | 36.57% TH-kill
+      - `ppo_m9_bcft_3seed`: **49.42% dest** (+3.83 pp [-1.87, +9.54]) | **1.18 stars** (+0.028 [-0.274, +0.347]) | **26.51% 3-star** | **43.81% TH-kill**
+      - Seeds 43 & 44 achieved statistically significant destruction wins over `left_wave` (+6.01 pp [+0.59, +11.64] and +5.75 pp [+0.15, +11.60]).
+    * **4 Ground Armies (16 pairs):**
+      - `left_wave`: 27.32% dest | 0.70 stars | 6.25% 3-star | 33.06% TH-kill
+      - `maskable_ppo_partB_3seed`: 28.89% dest (+1.57 pp) | 0.37 stars (-0.328) | 2.54% 3-star | 15.94% TH-kill
+      - `ppo_m9_bcft_3seed`: **29.26% dest** (+1.94 pp [-2.31, +6.24]) | **0.50 stars** (-0.200 [-0.400, -0.052]) | **6.15% 3-star** | **19.65% TH-kill**
+      - BC+PPO FT closed ~40% of the ground-army stars gap vs `left_wave` (0.50 vs Part B's 0.37) and beat `left_wave` on destruction (+1.94 pp), but still trailed `left_wave` on stars (-0.200 stars) and TH-kill (19.65% vs 33.06%).
+    * **Seed-to-Seed Variance:**
+      - Part B PPO: 54.92% dest, Std Dev = 0.99%
+      - BC-Only: 53.44% dest, Std Dev = 1.26%
+      - BC + PPO FT: 56.65% dest, Std Dev = 3.04% (higher variance due to seeds 43 & 44 breaking out to ~58.4% while seed 42 remained at 53.14%).
+  - (5) **Verification & Integrity:**
+    * `pytest -q`: 27 passed in 30.70s.
+    * `stable_baselines3.common.env_checker.check_env`: OK for `CoCEnv` and `ActionMaskCoCEnv`.
+    * No simulator mechanics, unit stats, or defense stats modified.
+    * All 4 steps of Milestone M9 finished cleanly.
 

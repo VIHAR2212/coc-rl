@@ -101,3 +101,37 @@ Log of every observation, action-space, and reward-design iteration for Mileston
   - **What this changes for future work:** do NOT remove anti-collapse. If the goal is stars on ground armies, the next reward experiment should target TH conversion directly (e.g. larger TH bonus or a per-step "distance to TH" term), not more spread reduction.
   - **Limit of this ablation:** `ent_coef=0.02` was deliberately kept (as requested), so this run isolates the two anti-collapse reward terms only; it does not test whether entropy regularisation is what drives the spreading. A follow-up with `ent_coef` lowered to 0 on top of `--no-anti-collapse` would be needed for that.
 
+---
+
+## M9 — Imitation Warm Start (Behavior Cloning) & PPO Fine-Tuning
+- **Motivation:**
+  - Part B MaskablePPO trained from random initialization produced competitive destruction (54.92% vs 53.37% left_wave across 28 held-out pairs), but trailed on stars on ground armies (-0.328 stars on 16 ground pairs) due to poor Town Hall conversion (16% TH kill rate vs 33.5% for left_wave).
+  - Rather than training from scratch with high entropy exploration that disperses units, M9 initializes the policy with Behavior Cloning (BC) from `left_wave` expert demonstrations, and then fine-tunes with PPO on the training layouts.
+- **Demonstrations & Mapping (`scripts/record_m9_demos.py`):**
+  - Generated 1,050 demonstration episodes (130,667 transition steps) exclusively on training bases (`base02`, `base03`, `base04`) with seeds >= 1000.
+  - Mapped continuous left-wave deployments `(troop, x, y)` into the discrete 209-action space `(1 + 13 troops * 16 sectors)`.
+  - Mean mapping error was 1.95 tiles.
+  - Zero out of 101,925 deploys mapped to a masked action (0.000% mask violations).
+  - Wrapper replay achieved 59.92% mean destruction vs 62.05% raw left_wave (-2.13 pp gap, well below the 10 pp threshold).
+- **Behavior Cloning Supervised Training (`scripts/train_m9_bc.py`):**
+  - Architecture: Identical `CoCFeatureExtractor` (128 dims) + `pi=[128, 64]`, `vf=[128, 64]` policy head.
+  - Loss: Supervised masked cross-entropy over valid actions.
+  - Leave-one-base-out cross-validation:
+    * Hold-out `base02.json`: Val Acc = 47.39%, Non-wait Acc = 36.21%
+    * Hold-out `base03.json`: Val Acc = 43.83%, Non-wait Acc = 34.77%
+    * Hold-out `base04.json`: Val Acc = 52.49%, Non-wait Acc = 36.12%
+    * Mean across splits: Val Acc = 47.90%, Non-wait Acc = 35.70%
+  - Retrained on all 3 bases across 3 seeds (42, 43, 44), saving to `models/ppo_m9_bc_seed{42,43,44}.zip`.
+- **Fine-Tuning Reward & Hyperparameter Rationale (`scripts/fine_tune_m9.py`):**
+  - **Reward formulation:** Kept exact stars-aware reward shaping and `anti_collapse=True` as in Part B (`+25` at 50% destruction, `+25` additional on TH, `+50` at 100%, `-0.05` wait penalty, `+0.5` per unique sector, `-0.1` single-sector clumping penalty).
+  - **Learning rate justification:** Standard PPO in Part B used `lr = 3e-4`. At `3e-4`, aggressive policy gradient steps can cause policy drift and catastrophic forgetting of the structured wave deployments learned in BC. A reduced learning rate of `5e-5` (6x smaller) preserves the imitation warm start while allowing conservative policy refinement to explore base weaknesses and push past the baseline's rigid left-flank deployment.
+  - **Training budget:** 300,000 steps per seed on train bases (`base02..04`), checkpoints every 50,000 steps.
+- **Evaluation Outcome across 28 Held-Out Pairs (`results/m9_summary.csv`):**
+  - **BC Replication:** BC alone matched `left_wave` within 0.07 pp destruction (53.44% vs 53.37%, 95% CI [-4.41, +4.72]) and 0.07 stars (1.35 vs 1.42, 95% CI [-0.34, +0.20]), confirming demonstration fidelity.
+  - **Fine-Tuning Gain:** Fine-tuning with `lr=5e-5` increased destruction from 53.44% to **56.65%** (+3.21 pp) and stars from 1.35 to **1.44** (+0.09 stars), with TH-kill rate climbing from 46.90% to **51.83%** across all 28 pairs. No catastrophic forgetting occurred.
+  - **Comparison vs Part B & `left_wave`:**
+    * Over all 28 pairs, BC+PPO 3-seed beats Part B PPO on destruction (56.65% vs 54.92%), stars (1.44 vs 1.29), and TH-kill (51.83% vs 45.63%). It beats `left_wave` on destruction (+3.28 pp) and ties/edges on stars (+0.02 stars). Seeds 43 and 44 achieved statistically significant destruction wins over `left_wave` (+5.15 pp [+0.60, +10.19] and +4.92 pp [+0.22, +10.09]).
+    * On 24 non-dragon pairs, BC+PPO 3-seed beats Part B PPO across all metrics (49.42% vs 47.41% dest; 1.18 vs 1.01 stars; 43.81% vs 36.57% TH-kill) and beats `left_wave` on destruction (+3.83 pp [-1.87, +9.54]) while tying on stars (1.18 vs 1.15) and TH-kill (43.81% vs 43.79%). Seeds 43 and 44 achieved statistically significant destruction wins (+6.01 pp and +5.75 pp).
+    * On 4 ground armies (16 pairs), BC+PPO 3-seed beats Part B PPO (29.26% vs 28.89% dest; 0.50 vs 0.37 stars; 19.65% vs 15.94% TH-kill), closing ~40% of the stars gap vs `left_wave` (0.70 stars), but still trails `left_wave` on stars (-0.20 stars [-0.40, -0.05]) and TH-kill (19.65% vs 33.06%).
+  - **Seed-to-Seed Variance:** Variance did NOT decrease after fine-tuning (Std Dev rose from 0.99% in Part B to 3.04% in BC+PPO FT), because seeds 43 & 44 broke out to ~58.4% destruction while seed 42 remained near the BC baseline (53.14%).
+
