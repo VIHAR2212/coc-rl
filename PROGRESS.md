@@ -160,3 +160,15 @@
   - (6) **Documentation & Audit Finalization:** Completed `FINAL_REPORT.txt` with full measured star decomposition from `results/m7c_star_diagnostic.csv`, empirical mechanism audit with labeled unmeasured hypotheses, ground-armies-only paired bootstrap CI tables (16 and 24 pairs), action sampling mechanics of `random_masked` proving invariance between 81 and 209 action spaces, and formal limitations section. Zero occurrences of `<FILL>` or `TODO`.
   - (7) **Visualisation Gallery & Showcase (`scripts/record_gallery.py`):** Recorded all 16 side-by-side battle GIFs comparing `left_wave` vs `MaskablePPO` (seed 42) across held-out bases (`base07..10` x 4 armies) at seed 0 (250 ms/frame) with action HUD and final outcome captions to `docs/gallery/` and `docs/gallery/index.md`. Copied the 4 representative showcase animations (PPO win on `base09_hog_rush`, PPO loss on `base08_gowiva`, 3-star clear on `base10_giant_barch`, and failure on `base07_giant_barch`; all < 700 KB) to `docs/showcase/`.
   - (8) **Rendering Polish & Deployment Logs:** Extended troop legend and distinct rendering shapes/colors in `sim/env.py` across all troop types in `data/troops.json` (Golem/Golemite square, Dragon diamond, Balloon basket, Minion triangle, Wall Breaker bomb circle) with sensible sizes. Fixed top header text overlap in side-by-side GIFs using a two-tier layout (centered title in row 1, independent left/right HUDs in row 2). Added live 'troops alive / deployed' counter (`{alive}/{deployed}`) to in-engine HUD and side-by-side composite bar. Logged per-attack deployment events (`second,troop_type,sector,count`) to `docs/gallery/logs/*.csv` (gitignored). Re-recorded the 4 showcase GIFs in `docs/showcase/` (500–770 KB, all well under 2 MB). All 27 tests pass.
+
+## Milestone M9 (IMITATION WARM START & BC FINE-TUNING)
+- **Current Status:** STEP 1 COMPLETE; STEP 2 IN PROGRESS
+- **Passed:**
+  - (1) **STEP 1 - Demonstrations & Replay Verification (`scripts/record_m9_demos.py`):** PASSED.
+    * Recorded 1,050 expert demonstration episodes (130,667 transition steps) from `left_wave` on training bases only (`base02`, `base03`, `base04`) across all 7 TH8 armies on seeds 1000..1049.
+    * Saved dataset to `data/demos/left_wave_train_demos.npz` (38.42 MB, gitignored).
+    * Mapped deployments to 16 edge sectors with a mean distance error of **1.95 tiles** (max 5.00 tiles).
+    * Exactly **0 of 101,925 deploys** mapped to a masked action (0.000% mask violation).
+    * Replay test in `ActionMaskCoCEnv` achieved **59.92%** mean destruction vs **62.05%** raw `left_wave` (gap: **-2.13 pp**, far below the 10 pp threshold; stars gap: -0.04).
+    * Full methodology, mapping diagnostics, and per-pair results table documented in `data/demos/README.md`.
+

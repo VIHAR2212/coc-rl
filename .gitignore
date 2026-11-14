@@ -14,4 +14,6 @@ models/**/*.zip
 !docs/showcase/*.gif
 docs/gallery/*.gif
 docs/gallery/logs/
+data/demos/*
+!data/demos/README.md
 *.log
