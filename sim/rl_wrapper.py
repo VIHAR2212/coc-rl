@@ -42,7 +42,23 @@ class ActionMaskCoCEnv(gym.Env):
         render_mode: str | None = None,
     ):
         super().__init__()
-        self.base_pool = [bases] if isinstance(bases, str) else list(bases)
+        if isinstance(bases, (str, Path)):
+            p = Path(bases)
+            if p.is_dir():
+                self.base_pool = sorted(str(f) for f in p.glob("*.json"))
+                if not self.base_pool:
+                    raise FileNotFoundError(f"No JSON layout files found in directory {bases}")
+            else:
+                self.base_pool = [str(bases)]
+        else:
+            pool = []
+            for item in bases:
+                p = Path(item)
+                if p.is_dir():
+                    pool.extend(sorted(str(f) for f in p.glob("*.json")))
+                else:
+                    pool.append(str(item))
+            self.base_pool = pool
         if armies is None:
             raw_armies = json.loads((Path(__file__).resolve().parent.parent / "data" / "armies.json").read_text(encoding="utf-8"))
             self.army_pool = [k for k in raw_armies if not k.startswith("_")]

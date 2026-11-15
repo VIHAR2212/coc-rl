@@ -1,0 +1,2723 @@
+{
+  "pool": "train",
+  "count": 300,
+  "styles_distribution": {
+    "compartmented": 43,
+    "clustered_core": 43,
+    "spread_out": 43,
+    "defenses_outside": 43,
+    "asymmetric": 43,
+    "mixed": 43,
+    "open_no_walls": 42
+  },
+  "distance_stats_sample": {
+    "mean": 0.4659113660752438,
+    "std": 0.07589130570544009,
+    "min": 0.21168527350575317,
+    "p10": 0.32970656261084585,
+    "median": 0.48596554945301584,
+    "max": 0.5768169363167797
+  },
+  "layouts": [
+    {
+      "name": "gen_base_000.json",
+      "seed": 0,
+      "style": "compartmented",
+      "buildings_count": 252,
+      "walls_count": 221,
+      "defenses_count": 31,
+      "sha256": "0085c824c310e9bab0b528656fb6cc08776a55f874a18e4302959e4878cb1f4d"
+    },
+    {
+      "name": "gen_base_001.json",
+      "seed": 1,
+      "style": "clustered_core",
+      "buildings_count": 152,
+      "walls_count": 121,
+      "defenses_count": 31,
+      "sha256": "18e29b8aa3d0197b7682f97361f55d3210497ffa12ee4d0862b3adec6247904d"
+    },
+    {
+      "name": "gen_base_002.json",
+      "seed": 2,
+      "style": "spread_out",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "339be07e37e426c910f534a7fe377ece368b21136860c5c127c4146071496340"
+    },
+    {
+      "name": "gen_base_003.json",
+      "seed": 3,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "6575da1a72f49bb78f3356eb6e47103487081eb7943a36cb4a2b1349d04888f2"
+    },
+    {
+      "name": "gen_base_004.json",
+      "seed": 4,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "aa4f483c57773505f4d5771dab8168780fa32e47f9d885248b94188ee81e8dd0"
+    },
+    {
+      "name": "gen_base_005.json",
+      "seed": 5,
+      "style": "mixed",
+      "buildings_count": 109,
+      "walls_count": 78,
+      "defenses_count": 31,
+      "sha256": "d6a620c64868c6d28433ea9baefab6d387c9df39cc952dba47c6574c09d2d8f9"
+    },
+    {
+      "name": "gen_base_006.json",
+      "seed": 6,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "be83c4421f8fe9bb760dbcdb16b057dd7cb78e113c43831c18a64f97c6a21c65"
+    },
+    {
+      "name": "gen_base_007.json",
+      "seed": 7,
+      "style": "compartmented",
+      "buildings_count": 252,
+      "walls_count": 221,
+      "defenses_count": 31,
+      "sha256": "6ff1774799bb02a24fdfbfb4997c0ef0e3f37e798445d716ac21a81c8d58164d"
+    },
+    {
+      "name": "gen_base_008.json",
+      "seed": 8,
+      "style": "clustered_core",
+      "buildings_count": 147,
+      "walls_count": 116,
+      "defenses_count": 31,
+      "sha256": "64e381af63d7399a640bf32c4a794be3378fba9fd362343ec4e4f50227c6d8da"
+    },
+    {
+      "name": "gen_base_009.json",
+      "seed": 9,
+      "style": "spread_out",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "52c228225b3ea823e4b7af36aca776bd8ee814d1ec5dfc07efd4175653817220"
+    },
+    {
+      "name": "gen_base_010.json",
+      "seed": 10,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "5bcea56671fcff894037d0eeea4350840a11f3779791c56b4bd966d20ecaf65e"
+    },
+    {
+      "name": "gen_base_011.json",
+      "seed": 11,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "ba30cb2a63d0d26fe9556055dedac7f15d4fbc3dd78f6dc3dcb917b590424b46"
+    },
+    {
+      "name": "gen_base_012.json",
+      "seed": 12,
+      "style": "mixed",
+      "buildings_count": 111,
+      "walls_count": 80,
+      "defenses_count": 31,
+      "sha256": "01da97846f27a01bf4a6cfedeeb70813de34892c0a8476eeab6b5e83ab73075d"
+    },
+    {
+      "name": "gen_base_013.json",
+      "seed": 13,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "2b7f1d87c578faaedca0ceb21955d0bd5586e292923a510182368f93258fa410"
+    },
+    {
+      "name": "gen_base_014.json",
+      "seed": 14,
+      "style": "compartmented",
+      "buildings_count": 242,
+      "walls_count": 211,
+      "defenses_count": 31,
+      "sha256": "5e7542c636d3c855ac41798c3253b3f2ffa3578d84efb607cb9d0e1c38ef080a"
+    },
+    {
+      "name": "gen_base_015.json",
+      "seed": 15,
+      "style": "clustered_core",
+      "buildings_count": 142,
+      "walls_count": 111,
+      "defenses_count": 31,
+      "sha256": "d7f4471edc3ca3fa78beaa37c8bfb661e5ea3ba090eab0df6428336643dec4ca"
+    },
+    {
+      "name": "gen_base_016.json",
+      "seed": 16,
+      "style": "spread_out",
+      "buildings_count": 134,
+      "walls_count": 103,
+      "defenses_count": 31,
+      "sha256": "2336dfe68b24b041a0ae70e46c92600136223cf08162bb98b733c933a3696b8b"
+    },
+    {
+      "name": "gen_base_017.json",
+      "seed": 17,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "4fc6baa7a7379d6c7e7a26070ed6538a0ef69ed8180203e43c0f13482943c8ea"
+    },
+    {
+      "name": "gen_base_018.json",
+      "seed": 18,
+      "style": "asymmetric",
+      "buildings_count": 127,
+      "walls_count": 98,
+      "defenses_count": 29,
+      "sha256": "6285bfd3c54492654ea474eccdd0027fa2eddf57a9ae1f19062a2193ef921223"
+    },
+    {
+      "name": "gen_base_019.json",
+      "seed": 19,
+      "style": "mixed",
+      "buildings_count": 109,
+      "walls_count": 78,
+      "defenses_count": 31,
+      "sha256": "18be9a23caa50b408d56be54435c4141017fa653a2a452faa61b10e7bedf0d39"
+    },
+    {
+      "name": "gen_base_020.json",
+      "seed": 20,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "5d1866b6bd6e91319d89682f1b46f086c1da2784cb2e4148f84291b9ec62be32"
+    },
+    {
+      "name": "gen_base_021.json",
+      "seed": 21,
+      "style": "compartmented",
+      "buildings_count": 249,
+      "walls_count": 218,
+      "defenses_count": 31,
+      "sha256": "71749f6aed56341144d69f032450233ef00a0e0c8f88c07c33ccb089b899495d"
+    },
+    {
+      "name": "gen_base_022.json",
+      "seed": 22,
+      "style": "clustered_core",
+      "buildings_count": 151,
+      "walls_count": 120,
+      "defenses_count": 31,
+      "sha256": "adb74f2c1acf85ebbd34cb1b344395e99849331293f3043949a5b0f8e4593374"
+    },
+    {
+      "name": "gen_base_023.json",
+      "seed": 23,
+      "style": "spread_out",
+      "buildings_count": 138,
+      "walls_count": 107,
+      "defenses_count": 31,
+      "sha256": "d5c0fcb4417e49c5cc55c3e612adabd17cb2c4d97af837d6ef148937cb279944"
+    },
+    {
+      "name": "gen_base_024.json",
+      "seed": 24,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "ae8f68849dd1265b3f6578b4aeb6951509930564e7470a902d3c1de9ad77b2e5"
+    },
+    {
+      "name": "gen_base_025.json",
+      "seed": 25,
+      "style": "asymmetric",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "09481952fce6afcaa25c56167975affadcc224f12a956e2017c3eb3737ed5bb0"
+    },
+    {
+      "name": "gen_base_026.json",
+      "seed": 26,
+      "style": "mixed",
+      "buildings_count": 108,
+      "walls_count": 77,
+      "defenses_count": 31,
+      "sha256": "cafe06377b93f5cba819448267a8db9d721fb621969c57a5f734005b18c6dab0"
+    },
+    {
+      "name": "gen_base_027.json",
+      "seed": 27,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "61eb17091c24dae025ea470f41eb4eb7a87a5816410cb27b2ba11d052ec72da2"
+    },
+    {
+      "name": "gen_base_028.json",
+      "seed": 28,
+      "style": "compartmented",
+      "buildings_count": 252,
+      "walls_count": 221,
+      "defenses_count": 31,
+      "sha256": "6341dd1540d0f99507e9cb537c75a8f62a1c5720b59a1a99cda1a99879091ec9"
+    },
+    {
+      "name": "gen_base_029.json",
+      "seed": 29,
+      "style": "clustered_core",
+      "buildings_count": 144,
+      "walls_count": 113,
+      "defenses_count": 31,
+      "sha256": "d1375bd9cc4bc44594d025a9ded723b1b6ffdc2b861917af5eca17796d2cd1c2"
+    },
+    {
+      "name": "gen_base_030.json",
+      "seed": 30,
+      "style": "spread_out",
+      "buildings_count": 133,
+      "walls_count": 102,
+      "defenses_count": 31,
+      "sha256": "fd7ed97d76be0f09ff50e0e6008f08bfb22d08962eadbd74c790ed1fe4e1575c"
+    },
+    {
+      "name": "gen_base_031.json",
+      "seed": 31,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "08bdaadfc9dbf4c47752992a439e42afe9cee7001a16cd00dfc46e0b24d773b6"
+    },
+    {
+      "name": "gen_base_032.json",
+      "seed": 32,
+      "style": "asymmetric",
+      "buildings_count": 125,
+      "walls_count": 94,
+      "defenses_count": 31,
+      "sha256": "f5fc2f782c79867686b82ff4a36ee4ee4b0c97a440f5560ee64a6cc222be02a7"
+    },
+    {
+      "name": "gen_base_033.json",
+      "seed": 33,
+      "style": "mixed",
+      "buildings_count": 110,
+      "walls_count": 79,
+      "defenses_count": 31,
+      "sha256": "669281c23bf7e149f0762c615db62c93f0d92c0c7ee115c6387824e05e80b1e2"
+    },
+    {
+      "name": "gen_base_034.json",
+      "seed": 34,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "42d8b20955989624ee3b4ec9aed30a8166fdb6c54fd0f6f3a74065482f327f0d"
+    },
+    {
+      "name": "gen_base_035.json",
+      "seed": 35,
+      "style": "compartmented",
+      "buildings_count": 237,
+      "walls_count": 206,
+      "defenses_count": 31,
+      "sha256": "56a53582ae2e61b5891b5429c175598d1d05ef56a912cbf5b4dc854a40c0a4a4"
+    },
+    {
+      "name": "gen_base_036.json",
+      "seed": 36,
+      "style": "clustered_core",
+      "buildings_count": 148,
+      "walls_count": 117,
+      "defenses_count": 31,
+      "sha256": "d7c21108ef33420b7d2fa81c107806beecb3129f0feb090c5f1d7d2b3d6f9bf3"
+    },
+    {
+      "name": "gen_base_037.json",
+      "seed": 37,
+      "style": "spread_out",
+      "buildings_count": 115,
+      "walls_count": 84,
+      "defenses_count": 31,
+      "sha256": "f83fcba991ca695d03cd5abdd7ff22289b66db52a04777f6d163298446e5f763"
+    },
+    {
+      "name": "gen_base_038.json",
+      "seed": 38,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "f68bd4160df561df46c33c2f7d1d308ed59e2944f0468f4e48e80bcde1262174"
+    },
+    {
+      "name": "gen_base_039.json",
+      "seed": 39,
+      "style": "asymmetric",
+      "buildings_count": 127,
+      "walls_count": 96,
+      "defenses_count": 31,
+      "sha256": "08e13a99e9ada850f43ed40db686d2ab862aeeb12a4da4756253655bb8215727"
+    },
+    {
+      "name": "gen_base_040.json",
+      "seed": 40,
+      "style": "mixed",
+      "buildings_count": 115,
+      "walls_count": 84,
+      "defenses_count": 31,
+      "sha256": "c3c389a092675d8d6983159a30d578a01a27d9289cf7af3292bb5e77a5432a3b"
+    },
+    {
+      "name": "gen_base_041.json",
+      "seed": 41,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "67846b1fa159aa84cbd91211b71acf0d2deb2a0ee462260724831c3e3249c3b4"
+    },
+    {
+      "name": "gen_base_042.json",
+      "seed": 42,
+      "style": "compartmented",
+      "buildings_count": 249,
+      "walls_count": 218,
+      "defenses_count": 31,
+      "sha256": "74790cb3822286df3a86c30105ed5b20da58f987784307dc2696e5cae210d1a6"
+    },
+    {
+      "name": "gen_base_043.json",
+      "seed": 43,
+      "style": "clustered_core",
+      "buildings_count": 148,
+      "walls_count": 117,
+      "defenses_count": 31,
+      "sha256": "fc7dfca03de18fd50c78e5c6e11b295680b8c980d90f8255a5fd5009bd5e06c7"
+    },
+    {
+      "name": "gen_base_044.json",
+      "seed": 44,
+      "style": "spread_out",
+      "buildings_count": 122,
+      "walls_count": 91,
+      "defenses_count": 31,
+      "sha256": "2e1b5ff3abfbe5c69a7383611545589c586f112a8e27b17a7ff3272fc219be66"
+    },
+    {
+      "name": "gen_base_045.json",
+      "seed": 45,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "bd35a6be5bd4028e8ba5a3d1ade052de6fcfe2abfbfd69be2371624eb06f5bad"
+    },
+    {
+      "name": "gen_base_046.json",
+      "seed": 46,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "0a4e01fa3d025d5891ea5d0b5fa320c091b7cb53d43a33748265612732da8bdd"
+    },
+    {
+      "name": "gen_base_047.json",
+      "seed": 47,
+      "style": "mixed",
+      "buildings_count": 113,
+      "walls_count": 82,
+      "defenses_count": 31,
+      "sha256": "d37fc2a4d48cd543fcce951f030c41b2c28ff405eb2a8e29ce3744492f2afd21"
+    },
+    {
+      "name": "gen_base_048.json",
+      "seed": 48,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "c8e7446dcbe97dc1bf503c968180305bb9bb5ff8d35a217479592639c9158dde"
+    },
+    {
+      "name": "gen_base_049.json",
+      "seed": 49,
+      "style": "compartmented",
+      "buildings_count": 245,
+      "walls_count": 214,
+      "defenses_count": 31,
+      "sha256": "ddad2037d5e2540f99c2d3599ff230e2796c53942fbdb3d60ad8a97e2f39960e"
+    },
+    {
+      "name": "gen_base_050.json",
+      "seed": 50,
+      "style": "clustered_core",
+      "buildings_count": 139,
+      "walls_count": 108,
+      "defenses_count": 31,
+      "sha256": "158be2a2bd491769e5fc59cdb81365d604ca2039e7b14f646f282fd1e4051a23"
+    },
+    {
+      "name": "gen_base_051.json",
+      "seed": 51,
+      "style": "spread_out",
+      "buildings_count": 134,
+      "walls_count": 103,
+      "defenses_count": 31,
+      "sha256": "d386589a2b6f651a5bb61b91e9256543c618504d0903e7a1449b5e531aa6c651"
+    },
+    {
+      "name": "gen_base_052.json",
+      "seed": 52,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "21aa551a562816ecc7e80ffa41afcb602e90a062528bfd8d9ab31d3c310a3687"
+    },
+    {
+      "name": "gen_base_053.json",
+      "seed": 53,
+      "style": "asymmetric",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "3a6539566de1444c19fed838dfcdbf32becfdada2effc0f8186334ea0c1de9b5"
+    },
+    {
+      "name": "gen_base_054.json",
+      "seed": 54,
+      "style": "mixed",
+      "buildings_count": 110,
+      "walls_count": 79,
+      "defenses_count": 31,
+      "sha256": "124a38cae13d9d650794b2b655a4bd9e9956dc461148a8e9ed9e56aab0c8671a"
+    },
+    {
+      "name": "gen_base_055.json",
+      "seed": 55,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "a82060059b261f257a3a1dec68bbb90d745fc8ee15543e6753ef5a1946a9e94a"
+    },
+    {
+      "name": "gen_base_056.json",
+      "seed": 56,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "8f795758ed5cd21fe835e7ded92400af754b2b6239a59f4744f0b2c601d86dc8"
+    },
+    {
+      "name": "gen_base_057.json",
+      "seed": 57,
+      "style": "clustered_core",
+      "buildings_count": 141,
+      "walls_count": 110,
+      "defenses_count": 31,
+      "sha256": "e771235d0c14ed6b5a244c66a9adde5fa63465660595dc7ceea08a7543777291"
+    },
+    {
+      "name": "gen_base_058.json",
+      "seed": 58,
+      "style": "spread_out",
+      "buildings_count": 120,
+      "walls_count": 89,
+      "defenses_count": 31,
+      "sha256": "c4accb9e769af29d66ab979ddd6d8314786fb11afd3ae59a22914c56c24155b3"
+    },
+    {
+      "name": "gen_base_059.json",
+      "seed": 59,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "5928b6291fd487928dcceb5127855c239e06f5aac29e2a97bfdeb3e14f892d95"
+    },
+    {
+      "name": "gen_base_060.json",
+      "seed": 60,
+      "style": "asymmetric",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "3abf797c7b698d56bfbba6e7b1eed691c9f73def277fb61c2406554426bb014b"
+    },
+    {
+      "name": "gen_base_061.json",
+      "seed": 61,
+      "style": "mixed",
+      "buildings_count": 117,
+      "walls_count": 86,
+      "defenses_count": 31,
+      "sha256": "3901a273d754050dfb0b71fc3b3fcd7ded1473eff9ab898b8c8721e693aae477"
+    },
+    {
+      "name": "gen_base_062.json",
+      "seed": 62,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "036e2260a8f6a52244bb7bfa0e9ec728f59df3e5fdb09284f6ddfa88c422e4a9"
+    },
+    {
+      "name": "gen_base_063.json",
+      "seed": 63,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "db8c2faf1d4b742d8019e55eaf5a73b84590db2c6955b2566c6c774d18f341ad"
+    },
+    {
+      "name": "gen_base_064.json",
+      "seed": 64,
+      "style": "clustered_core",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "ac7a302349ca37b94198483ed04301e5ba19dbf38a5c501732c6a6360cdd988a"
+    },
+    {
+      "name": "gen_base_065.json",
+      "seed": 65,
+      "style": "spread_out",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "a3a5d58c895231363be5199e348751f9a64afaf2dfc860b4d64064ee1460488f"
+    },
+    {
+      "name": "gen_base_066.json",
+      "seed": 66,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "e3f2e1a0c8ff5b0c519197fcb40b98c5464b37a44ab40a474ca61e642ad84d83"
+    },
+    {
+      "name": "gen_base_067.json",
+      "seed": 67,
+      "style": "asymmetric",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "c663f926d7f80f8933ddaf88e1662ce660167443f594c8dc6f822b7466acb318"
+    },
+    {
+      "name": "gen_base_068.json",
+      "seed": 68,
+      "style": "mixed",
+      "buildings_count": 124,
+      "walls_count": 93,
+      "defenses_count": 31,
+      "sha256": "a203b648db3354447109097fc606c1aa799b776252fd930097389ebfa16f48ac"
+    },
+    {
+      "name": "gen_base_069.json",
+      "seed": 69,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "1881cc657eb3f6c789538caaadb5f2caf1a9e36ee9870371d54821d8b100e628"
+    },
+    {
+      "name": "gen_base_070.json",
+      "seed": 70,
+      "style": "compartmented",
+      "buildings_count": 243,
+      "walls_count": 212,
+      "defenses_count": 31,
+      "sha256": "fce5a7ec0f63e77e02bb3f1fe763329498dfe39779a32cee55aece1fc288ec8b"
+    },
+    {
+      "name": "gen_base_071.json",
+      "seed": 71,
+      "style": "clustered_core",
+      "buildings_count": 149,
+      "walls_count": 118,
+      "defenses_count": 31,
+      "sha256": "973bd736e6596155486e6576c8bc72a94099651aedc105df1149db857779033b"
+    },
+    {
+      "name": "gen_base_072.json",
+      "seed": 72,
+      "style": "spread_out",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "fad364a36ec36e2f95e481c89ce36d11d28421ae7849399eb60a24b0415348e1"
+    },
+    {
+      "name": "gen_base_073.json",
+      "seed": 73,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "408dcd7e39b18d5c06dc189ec7f0dd4c8db01eab5d53de2c09b2fbe91fa3348c"
+    },
+    {
+      "name": "gen_base_074.json",
+      "seed": 74,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "4d57613669175f03867d8c78b523f2d6c0e074e35ef5de2792365b955bb40aa4"
+    },
+    {
+      "name": "gen_base_075.json",
+      "seed": 75,
+      "style": "mixed",
+      "buildings_count": 111,
+      "walls_count": 80,
+      "defenses_count": 31,
+      "sha256": "905d98869eb0adbc4f1fccab293d87bd92fb24555ffaf4566f0a85c5c60ddef5"
+    },
+    {
+      "name": "gen_base_076.json",
+      "seed": 76,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "dc1a8c49637ee50eccf8339c2599ad5aa08ce20bb45335b718e11338cdcc01bf"
+    },
+    {
+      "name": "gen_base_077.json",
+      "seed": 77,
+      "style": "compartmented",
+      "buildings_count": 229,
+      "walls_count": 198,
+      "defenses_count": 31,
+      "sha256": "12a9d8a132bec725ca848d89ced203cd460c2884594c6a89041158abdc4dd8ed"
+    },
+    {
+      "name": "gen_base_078.json",
+      "seed": 78,
+      "style": "clustered_core",
+      "buildings_count": 149,
+      "walls_count": 118,
+      "defenses_count": 31,
+      "sha256": "7af90eddf0c2eb6fa13d8aeb759e5ccad9f12346d8976482c5c46fb21b746e3b"
+    },
+    {
+      "name": "gen_base_079.json",
+      "seed": 79,
+      "style": "spread_out",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "7e4bf1cf3d488ada878737fe149f474eb6808af8dad96ab4c5d5141ea51154ea"
+    },
+    {
+      "name": "gen_base_080.json",
+      "seed": 80,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "7222a97a2bbf6c2b3989710b38bf7fa039e6b4ea7cdf0e12ba10de591f481cda"
+    },
+    {
+      "name": "gen_base_081.json",
+      "seed": 81,
+      "style": "asymmetric",
+      "buildings_count": 127,
+      "walls_count": 96,
+      "defenses_count": 31,
+      "sha256": "520bf8b4b52b9868654148cb2ca3f82fc9d8f29ea0c03e27604cd8a27a597185"
+    },
+    {
+      "name": "gen_base_082.json",
+      "seed": 82,
+      "style": "mixed",
+      "buildings_count": 116,
+      "walls_count": 85,
+      "defenses_count": 31,
+      "sha256": "f49b41397b0cde6e88012bd2ee0013a532df1dad0ee50fda7d60b32cb2a40221"
+    },
+    {
+      "name": "gen_base_083.json",
+      "seed": 83,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "4fdfa3ee4dab5d374b73513cca5da3b79c1013990eb97037044d5e850cca0cd4"
+    },
+    {
+      "name": "gen_base_084.json",
+      "seed": 84,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "3d33440d25b98375783dcc8af0337c2423f39831fce0ad352c276bfdbe4fb92e"
+    },
+    {
+      "name": "gen_base_085.json",
+      "seed": 85,
+      "style": "clustered_core",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "9a8277b92b8e33543517bf2bf27ef231a0cbea65b9fd404c76a42688b103fd82"
+    },
+    {
+      "name": "gen_base_086.json",
+      "seed": 86,
+      "style": "spread_out",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "ab86309503c4838f0cebc9aca3fd9d12193d45a4cde8c5c30e89cf824cecdaca"
+    },
+    {
+      "name": "gen_base_087.json",
+      "seed": 87,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "e01f98cce334618cc2f18aaba497e5a22e165f78f5c0b0bc268ba862ec723ffa"
+    },
+    {
+      "name": "gen_base_088.json",
+      "seed": 88,
+      "style": "asymmetric",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "defenses_count": 31,
+      "sha256": "9d83a8903bd37b56c27a98d474be78b747c03b61f9f3670bd799ae6dad3bb32a"
+    },
+    {
+      "name": "gen_base_089.json",
+      "seed": 89,
+      "style": "mixed",
+      "buildings_count": 105,
+      "walls_count": 74,
+      "defenses_count": 31,
+      "sha256": "625b2c69099cae96d356e0075fa94cdf0adb490bc166ea1fc4e4e7ad91c5e640"
+    },
+    {
+      "name": "gen_base_090.json",
+      "seed": 90,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "ec3eb43770cab4c9ef0cb7a8cd02cb4f6699e8f8de2263776425ca24d8892a6b"
+    },
+    {
+      "name": "gen_base_091.json",
+      "seed": 91,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "f5f878df5ca9c42ab850b0dfc395026c0ed8018ffb8dcde56078a52f8a38c711"
+    },
+    {
+      "name": "gen_base_092.json",
+      "seed": 92,
+      "style": "clustered_core",
+      "buildings_count": 148,
+      "walls_count": 117,
+      "defenses_count": 31,
+      "sha256": "0a2923a6d43c93977032b2a282ee56800215f64f93e7b5a755b420e9ce0f4103"
+    },
+    {
+      "name": "gen_base_093.json",
+      "seed": 93,
+      "style": "spread_out",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "00ec3b16edc2de33780ff0fa6bd5919fcb2faf87680859e19f6f89ae8250366b"
+    },
+    {
+      "name": "gen_base_094.json",
+      "seed": 94,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "614d52b0dd7640b9f766d919b888e8b97ee8a6d61751336123add2a3df0ff200"
+    },
+    {
+      "name": "gen_base_095.json",
+      "seed": 95,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "d311e26964b0a93834904098de52fa8e753b0097cf073b25c6cda1f94c9719c3"
+    },
+    {
+      "name": "gen_base_096.json",
+      "seed": 96,
+      "style": "mixed",
+      "buildings_count": 115,
+      "walls_count": 84,
+      "defenses_count": 31,
+      "sha256": "d6cefe345f8a36e4d8c813c2cb223ea29ce3b14c5d828953bb9e78f43bb48816"
+    },
+    {
+      "name": "gen_base_097.json",
+      "seed": 97,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "d44d3b7313cca407a1b03a12f8af631a6d58413b246c12194fd497da0785774e"
+    },
+    {
+      "name": "gen_base_098.json",
+      "seed": 98,
+      "style": "compartmented",
+      "buildings_count": 236,
+      "walls_count": 205,
+      "defenses_count": 31,
+      "sha256": "945735df1c71ab70f45b863024f3734265f474204ef3c8071d408dfab6aed14a"
+    },
+    {
+      "name": "gen_base_099.json",
+      "seed": 99,
+      "style": "clustered_core",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "4f276b0c3bd5087b4e8104df4607c3fe78f6be85b7b182a1b0c2f83110e5563a"
+    },
+    {
+      "name": "gen_base_100.json",
+      "seed": 100,
+      "style": "spread_out",
+      "buildings_count": 125,
+      "walls_count": 94,
+      "defenses_count": 31,
+      "sha256": "b327bbef477f472d1ad216ec863af1a0f03a57b268ad30e7b0858ac1bc9eea61"
+    },
+    {
+      "name": "gen_base_101.json",
+      "seed": 101,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "722ce4983f95100423876106ae680c5e65f0cbc6fe515cb2a42a653ae090d8a9"
+    },
+    {
+      "name": "gen_base_102.json",
+      "seed": 102,
+      "style": "asymmetric",
+      "buildings_count": 135,
+      "walls_count": 104,
+      "defenses_count": 31,
+      "sha256": "b98f2557bb7c225d73d699f59fe817cfe53a839bfab4158f268dfd93e804eddb"
+    },
+    {
+      "name": "gen_base_103.json",
+      "seed": 103,
+      "style": "mixed",
+      "buildings_count": 110,
+      "walls_count": 79,
+      "defenses_count": 31,
+      "sha256": "4f24b09a678b915501fa6fa77c308c8d6a81c88eaafc0f61bf58e322329f5124"
+    },
+    {
+      "name": "gen_base_104.json",
+      "seed": 104,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "c70121316a75ea11f4d5905483301ecc9803a42a298de21f909d8c4b94ddd69a"
+    },
+    {
+      "name": "gen_base_105.json",
+      "seed": 105,
+      "style": "compartmented",
+      "buildings_count": 249,
+      "walls_count": 218,
+      "defenses_count": 31,
+      "sha256": "8a2eea3a9de007fd8329933c455437880fd9cd5c996c9fd0256a32c37cfd3cb5"
+    },
+    {
+      "name": "gen_base_106.json",
+      "seed": 106,
+      "style": "clustered_core",
+      "buildings_count": 147,
+      "walls_count": 116,
+      "defenses_count": 31,
+      "sha256": "80d66a1843400ce782ce181bebcfdcaa5ed04d1ecd5274da80c5aa230bcb545e"
+    },
+    {
+      "name": "gen_base_107.json",
+      "seed": 107,
+      "style": "spread_out",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "95c162a1ce826a1e5681c5d3906fdd2310d5a518a49b4496159177872d4c4a85"
+    },
+    {
+      "name": "gen_base_108.json",
+      "seed": 108,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "014e59b8a0077133a8fb5ce8d45d99f72456dd6f4aada59c5e5f0fb8c6ecb496"
+    },
+    {
+      "name": "gen_base_109.json",
+      "seed": 109,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "43f8f62fe589c40ab2df7d87dd3bcd0b0e84ea12fe3e4a9878db2316f8ef66a9"
+    },
+    {
+      "name": "gen_base_110.json",
+      "seed": 110,
+      "style": "mixed",
+      "buildings_count": 105,
+      "walls_count": 74,
+      "defenses_count": 31,
+      "sha256": "5cd7cb127324268b23403cfdcde2f010fcad68e17abb5a6da71ac443a8fcb313"
+    },
+    {
+      "name": "gen_base_111.json",
+      "seed": 111,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "6f97b987997b2b57e5131560ff014f9c89de7d099be172fa24b2f8391fac94f4"
+    },
+    {
+      "name": "gen_base_112.json",
+      "seed": 112,
+      "style": "compartmented",
+      "buildings_count": 247,
+      "walls_count": 216,
+      "defenses_count": 31,
+      "sha256": "b1fba4caa7e6c95024097e58e27234bab6c1d4c349efdc2b35dea7946f0cc917"
+    },
+    {
+      "name": "gen_base_113.json",
+      "seed": 113,
+      "style": "clustered_core",
+      "buildings_count": 148,
+      "walls_count": 117,
+      "defenses_count": 31,
+      "sha256": "df90582bcea307284a834f165386a177c909e8cc39a9a7b3775e74d3fc9c7568"
+    },
+    {
+      "name": "gen_base_114.json",
+      "seed": 114,
+      "style": "spread_out",
+      "buildings_count": 123,
+      "walls_count": 92,
+      "defenses_count": 31,
+      "sha256": "e0d12bf81ab9c1de6bd04ce70613b93db362805827758d491701742dbc24485a"
+    },
+    {
+      "name": "gen_base_115.json",
+      "seed": 115,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "df39c4e4d09a12c55e35a01275e896c73624a90255f0cec8e43dba7ed05ad7eb"
+    },
+    {
+      "name": "gen_base_116.json",
+      "seed": 116,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "14e27c6e15672106423395617ba4e25b687476a6faaa0389767eb96a69405592"
+    },
+    {
+      "name": "gen_base_117.json",
+      "seed": 117,
+      "style": "mixed",
+      "buildings_count": 110,
+      "walls_count": 79,
+      "defenses_count": 31,
+      "sha256": "519ba817b4f1bcf30a0e0b1e66902fa013c6d3724effd73347ad10a0595bc6df"
+    },
+    {
+      "name": "gen_base_118.json",
+      "seed": 118,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "de0a27a4e520b3508bf5ad1fe76eb30d380b84275d8a133c6128794e194af3af"
+    },
+    {
+      "name": "gen_base_119.json",
+      "seed": 119,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "1a605686932900c150ad2200338633b828c9f701e7cdc3e2f889f073bb516496"
+    },
+    {
+      "name": "gen_base_120.json",
+      "seed": 120,
+      "style": "clustered_core",
+      "buildings_count": 147,
+      "walls_count": 116,
+      "defenses_count": 31,
+      "sha256": "37474183e06e4f7f9f93a3da9b9eff8400ca02984733ee1a1fbd8c8cd7bfe616"
+    },
+    {
+      "name": "gen_base_121.json",
+      "seed": 121,
+      "style": "spread_out",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "ca59dc580dbdb2b6c6cc89481086d3fa22da05f25f64d06c23d3d868eefc4bcc"
+    },
+    {
+      "name": "gen_base_122.json",
+      "seed": 122,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "4f20a9505ebd6572ce06d8edffcf832e781468caa2407912a0b727c792aca6fd"
+    },
+    {
+      "name": "gen_base_123.json",
+      "seed": 123,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "9a3efe03d10f2d310a876ce7f8df31ba4cdb8fe376bb7d8d2642dfd5048cb799"
+    },
+    {
+      "name": "gen_base_124.json",
+      "seed": 124,
+      "style": "mixed",
+      "buildings_count": 108,
+      "walls_count": 77,
+      "defenses_count": 31,
+      "sha256": "543250034a513c49b8a962afe4c04619e03599e03bfe6ae9d534efbdc92fa64e"
+    },
+    {
+      "name": "gen_base_125.json",
+      "seed": 125,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "a706f7822f5170b09c71937bb516e4be2b60ab7762d07c8e6d0ccdaf5ad34817"
+    },
+    {
+      "name": "gen_base_126.json",
+      "seed": 126,
+      "style": "compartmented",
+      "buildings_count": 249,
+      "walls_count": 218,
+      "defenses_count": 31,
+      "sha256": "874de3bfcc391256ac214abcf27c09ce820f471a3dc06219b4a952c648f58286"
+    },
+    {
+      "name": "gen_base_127.json",
+      "seed": 127,
+      "style": "clustered_core",
+      "buildings_count": 138,
+      "walls_count": 107,
+      "defenses_count": 31,
+      "sha256": "de7bbaa63d9ca48de17c11d4c38ed02460bf26b246361198bb6d356dc05b301e"
+    },
+    {
+      "name": "gen_base_128.json",
+      "seed": 128,
+      "style": "spread_out",
+      "buildings_count": 138,
+      "walls_count": 107,
+      "defenses_count": 31,
+      "sha256": "f4927c52706edf22ceaa62a84304c6a1eaacac08bca048af61a7c225ae8970d7"
+    },
+    {
+      "name": "gen_base_129.json",
+      "seed": 129,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "d38485389e02c8f6bb235b39502d81759d50934a9b309885831b585d0da28051"
+    },
+    {
+      "name": "gen_base_130.json",
+      "seed": 130,
+      "style": "asymmetric",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "defenses_count": 31,
+      "sha256": "5d9599f85af0f4da9d568370495af7b6e5cd13907b0aabf9ac20304d34fb8565"
+    },
+    {
+      "name": "gen_base_131.json",
+      "seed": 131,
+      "style": "mixed",
+      "buildings_count": 110,
+      "walls_count": 79,
+      "defenses_count": 31,
+      "sha256": "ddb478298308eb5bcdd58eeecd8c73c181c1bf5d14634070fbbe4b05933efefd"
+    },
+    {
+      "name": "gen_base_132.json",
+      "seed": 132,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "dc9317dee484e0d27d7746f007f41938abe76a616c5abbc072ceeb998d6db0aa"
+    },
+    {
+      "name": "gen_base_133.json",
+      "seed": 133,
+      "style": "compartmented",
+      "buildings_count": 240,
+      "walls_count": 209,
+      "defenses_count": 31,
+      "sha256": "afc8f2d2f76289848ad10c7d3d341a94113dcb163c69d138eeb93f0bfb9d5c58"
+    },
+    {
+      "name": "gen_base_134.json",
+      "seed": 134,
+      "style": "clustered_core",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "c5d00499123f2cb132d5b3dcecce4471b431c52a7758e667b2d6f8030a6397c2"
+    },
+    {
+      "name": "gen_base_135.json",
+      "seed": 135,
+      "style": "spread_out",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "defenses_count": 31,
+      "sha256": "4577ec7f04943a868d1b726214e60d1ee393520eb72d905a3a4f92245e451930"
+    },
+    {
+      "name": "gen_base_136.json",
+      "seed": 136,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "2828aa9f4345bc416f0c2614e63817ea90f6d826790fe95d95ed518a58e3dbce"
+    },
+    {
+      "name": "gen_base_137.json",
+      "seed": 137,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "1707cfe17bafad205aa097b7ec3e0a4b30bc87b37c65695b89b3b89750271d89"
+    },
+    {
+      "name": "gen_base_138.json",
+      "seed": 138,
+      "style": "mixed",
+      "buildings_count": 116,
+      "walls_count": 85,
+      "defenses_count": 31,
+      "sha256": "1811036679ac469d3884b4685b23da644cd22db59c4ee88ed688a501eaa6bd07"
+    },
+    {
+      "name": "gen_base_139.json",
+      "seed": 139,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "7104358547297d70dd2a4d4d0bcd9c46d8b15962684b247c92e36e00929e8227"
+    },
+    {
+      "name": "gen_base_140.json",
+      "seed": 140,
+      "style": "compartmented",
+      "buildings_count": 243,
+      "walls_count": 212,
+      "defenses_count": 31,
+      "sha256": "a537bf427c897b6eedda2b51d39ee165dfe902d5d8ba0cf968a578b34f744391"
+    },
+    {
+      "name": "gen_base_141.json",
+      "seed": 141,
+      "style": "clustered_core",
+      "buildings_count": 145,
+      "walls_count": 114,
+      "defenses_count": 31,
+      "sha256": "92c99b872a79ae851d86b0151d10f261e4ec4be667de78527a8647c0635ea709"
+    },
+    {
+      "name": "gen_base_142.json",
+      "seed": 142,
+      "style": "spread_out",
+      "buildings_count": 122,
+      "walls_count": 91,
+      "defenses_count": 31,
+      "sha256": "0ff1502e81953ae026eba9f6ada2da4ff2b2438bf3528034d7ed1b8c7ea026a4"
+    },
+    {
+      "name": "gen_base_143.json",
+      "seed": 143,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "35fa5f133926ae2e6a753410abbf42d7098066efd0d4e62885bdd479bcac0d15"
+    },
+    {
+      "name": "gen_base_144.json",
+      "seed": 144,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "eebd20f3b1a805d6478b9e60957e93d8427d59cb4a984562d5fb177a684d672b"
+    },
+    {
+      "name": "gen_base_145.json",
+      "seed": 145,
+      "style": "mixed",
+      "buildings_count": 111,
+      "walls_count": 80,
+      "defenses_count": 31,
+      "sha256": "0d2806e27f772bc9ee4297bc90e7dab7d5fd400f42b99bb7eb8e32d73ee133ba"
+    },
+    {
+      "name": "gen_base_146.json",
+      "seed": 146,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "ee68debd23f3fd303d37d2fff81326290ee60ac544f1edb6d431f0d6cad8fd75"
+    },
+    {
+      "name": "gen_base_147.json",
+      "seed": 147,
+      "style": "compartmented",
+      "buildings_count": 255,
+      "walls_count": 224,
+      "defenses_count": 31,
+      "sha256": "4dc40a3c00fb7cf480d79b76b0e8298f2cadbaf9076428f8af6dbc05361205c9"
+    },
+    {
+      "name": "gen_base_148.json",
+      "seed": 148,
+      "style": "clustered_core",
+      "buildings_count": 150,
+      "walls_count": 119,
+      "defenses_count": 31,
+      "sha256": "a6445b570164c0138f71cf2fcd6e5fa8ce94013e1d4d450dd91ae7ee32cdfed2"
+    },
+    {
+      "name": "gen_base_149.json",
+      "seed": 149,
+      "style": "spread_out",
+      "buildings_count": 124,
+      "walls_count": 93,
+      "defenses_count": 31,
+      "sha256": "f70f702a2764c51d64faa8655e0860273916c71c6cbd8535c7fc227301f26c0e"
+    },
+    {
+      "name": "gen_base_150.json",
+      "seed": 150,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "6303636701c20de9a754d4b1c595b7dd781078df6bef5a8f803f426c4718eeeb"
+    },
+    {
+      "name": "gen_base_151.json",
+      "seed": 151,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "8e8fb96bad74f0997e186e3b8c6f9ed865fe8c6aa85e4f7696912a60197c778e"
+    },
+    {
+      "name": "gen_base_152.json",
+      "seed": 152,
+      "style": "mixed",
+      "buildings_count": 117,
+      "walls_count": 86,
+      "defenses_count": 31,
+      "sha256": "f06859a3ee1103c3b6fcd343a01cd6d8d4a1d69d8d1453e798af8e5968573611"
+    },
+    {
+      "name": "gen_base_153.json",
+      "seed": 153,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "16fcd1b063f614fd056b1464be5dc18186f225e393975f9e69081e597c558cd7"
+    },
+    {
+      "name": "gen_base_154.json",
+      "seed": 154,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "7b3e255e5c87337c7df0543334ec3b73c75ea9ab08b79acda146ad174bef2a77"
+    },
+    {
+      "name": "gen_base_155.json",
+      "seed": 155,
+      "style": "clustered_core",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "e7ae1fefe7ea8856d5ccbab0c024c336131f9965a9bed8cc3840a3a14b50d3c7"
+    },
+    {
+      "name": "gen_base_156.json",
+      "seed": 156,
+      "style": "spread_out",
+      "buildings_count": 122,
+      "walls_count": 91,
+      "defenses_count": 31,
+      "sha256": "a2eb90f2708a6752a5dbddca3232d430d27ed5687b55a23809e312be16948192"
+    },
+    {
+      "name": "gen_base_157.json",
+      "seed": 157,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "bdabd1751ebd347bc27c81724620ecb083adc5e71580c955bb1b3485cfe0460c"
+    },
+    {
+      "name": "gen_base_158.json",
+      "seed": 158,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "f64b2756b7c9a820d6e72ca82757623e045d07c71d93976a32c9918526548c4b"
+    },
+    {
+      "name": "gen_base_159.json",
+      "seed": 159,
+      "style": "mixed",
+      "buildings_count": 108,
+      "walls_count": 77,
+      "defenses_count": 31,
+      "sha256": "861fe0be19f5ad5858a648bc444f44d5db9c6432b2e05a16f4d258c1eb09b783"
+    },
+    {
+      "name": "gen_base_160.json",
+      "seed": 160,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "108a64681cae2b8355ff4c98cf7f6000f242cf316428c4aefd80aa51c0f41cf1"
+    },
+    {
+      "name": "gen_base_161.json",
+      "seed": 161,
+      "style": "compartmented",
+      "buildings_count": 237,
+      "walls_count": 206,
+      "defenses_count": 31,
+      "sha256": "42b3e5fbbf769fc79e8c74663652163dc5fad13e8eb9dad573cf3003d3bf3603"
+    },
+    {
+      "name": "gen_base_162.json",
+      "seed": 162,
+      "style": "clustered_core",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "7f76bdf68f63a436ca08faf250cbef23c11eba83c29f91fa98cdf651ce3cb95b"
+    },
+    {
+      "name": "gen_base_163.json",
+      "seed": 163,
+      "style": "spread_out",
+      "buildings_count": 138,
+      "walls_count": 107,
+      "defenses_count": 31,
+      "sha256": "6034914a50b5b38488a1ca40c46b3acc657bb12504a80afabeb4037bb325c83d"
+    },
+    {
+      "name": "gen_base_164.json",
+      "seed": 164,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "d796c1d1e7ea6ff3afca569c8a1a34ee8590ad25f44420aca2dc1bc215170675"
+    },
+    {
+      "name": "gen_base_165.json",
+      "seed": 165,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "ce6ef7fa661ed9ac37160a8e4af778938a1bc552ad249fb7ebfbbab048147fe7"
+    },
+    {
+      "name": "gen_base_166.json",
+      "seed": 166,
+      "style": "mixed",
+      "buildings_count": 109,
+      "walls_count": 78,
+      "defenses_count": 31,
+      "sha256": "11eec64484ed9fecc5b0309e223d8f7f9d9a7841ef4bfad9647252b5456a47a2"
+    },
+    {
+      "name": "gen_base_167.json",
+      "seed": 167,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "1f0e2c0911b577a44c7988e0dc3bef69d7c9ccff04a0d302b31be3d390c4e082"
+    },
+    {
+      "name": "gen_base_168.json",
+      "seed": 168,
+      "style": "compartmented",
+      "buildings_count": 247,
+      "walls_count": 216,
+      "defenses_count": 31,
+      "sha256": "968b37f308d2a9f3b8c8e8397316885fecc54291f0173db206948d27aa3fbfd2"
+    },
+    {
+      "name": "gen_base_169.json",
+      "seed": 169,
+      "style": "clustered_core",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "0d37c35324b764f3568911d5f16abc7b0e0be9fddd9edd0858789eaa31236615"
+    },
+    {
+      "name": "gen_base_170.json",
+      "seed": 170,
+      "style": "spread_out",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "513efe63d75b410f11a1126502bb380d5ea36bd3d045c7a311cad772abde5e30"
+    },
+    {
+      "name": "gen_base_171.json",
+      "seed": 171,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "54cdb7f5275369e796b24c3eab1df6f06e22f1d0e7ef2c24583ca5b4e78fc61d"
+    },
+    {
+      "name": "gen_base_172.json",
+      "seed": 172,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "3f06ee6e3625347ced63e1b94cf1dcb0eda0031ec8ba40952044143145655387"
+    },
+    {
+      "name": "gen_base_173.json",
+      "seed": 173,
+      "style": "mixed",
+      "buildings_count": 117,
+      "walls_count": 86,
+      "defenses_count": 31,
+      "sha256": "5e85bb1823333e3639defd3f7c4e306aa04a9f7d855f5a3fe7c891febf10fc0d"
+    },
+    {
+      "name": "gen_base_174.json",
+      "seed": 174,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "dbb3e785d929105dd2decb056e73491d68366c04bbe7f0c0578d780400555f55"
+    },
+    {
+      "name": "gen_base_175.json",
+      "seed": 175,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "91e2bf5dc645fb0639a885f96b25eaeb7b21c17360ed97b07f5be065f4640539"
+    },
+    {
+      "name": "gen_base_176.json",
+      "seed": 176,
+      "style": "clustered_core",
+      "buildings_count": 144,
+      "walls_count": 113,
+      "defenses_count": 31,
+      "sha256": "1dea9a5b27fbc8821512e360739080dd358e7c9f1bc5df60e3453949bde36837"
+    },
+    {
+      "name": "gen_base_177.json",
+      "seed": 177,
+      "style": "spread_out",
+      "buildings_count": 127,
+      "walls_count": 96,
+      "defenses_count": 31,
+      "sha256": "6ca8138777ad624e724c48c3a8e3eeaf4d8b3a6d8da326330eaaeae5d3fc555d"
+    },
+    {
+      "name": "gen_base_178.json",
+      "seed": 178,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "db01ec177ab9214c5bdc41fbda472c8b75449952f0a5ce39d326b6526e93cf4f"
+    },
+    {
+      "name": "gen_base_179.json",
+      "seed": 179,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "53d58ff1805a55c5e3fe77d4e6f259e5a06648150b60854e48d4c0c89db0bd82"
+    },
+    {
+      "name": "gen_base_180.json",
+      "seed": 180,
+      "style": "mixed",
+      "buildings_count": 116,
+      "walls_count": 85,
+      "defenses_count": 31,
+      "sha256": "ab855ce1d0f08f6e5a1c7b1e5e948540b5e8c28494cd53b5eb126086335039e5"
+    },
+    {
+      "name": "gen_base_181.json",
+      "seed": 181,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "b8fe3509f8d556cdea8423419184fcc3015ac0d6cda566c916d12b7368f50210"
+    },
+    {
+      "name": "gen_base_182.json",
+      "seed": 182,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "0087bbc989abb3d3d43a2f24cd8da1418d6eb59847c3711004f5f7f9281f6455"
+    },
+    {
+      "name": "gen_base_183.json",
+      "seed": 183,
+      "style": "clustered_core",
+      "buildings_count": 140,
+      "walls_count": 109,
+      "defenses_count": 31,
+      "sha256": "6c102dc198fac24d5492a692aa1ff98ecf7efa4996a78ea6de5fcf9fec3bc49b"
+    },
+    {
+      "name": "gen_base_184.json",
+      "seed": 184,
+      "style": "spread_out",
+      "buildings_count": 134,
+      "walls_count": 103,
+      "defenses_count": 31,
+      "sha256": "c0623ecb5f5c283a54903c3de7fe864c443415dca6d2ec72b2351e76f41c504d"
+    },
+    {
+      "name": "gen_base_185.json",
+      "seed": 185,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "3cd459947fc034aea9671c117a4553a0eb24c9599104bf497dbf9e1dc658e582"
+    },
+    {
+      "name": "gen_base_186.json",
+      "seed": 186,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "7587af8655d892755d94368e4669b88d3021c87f82df206b3315201a610cbcad"
+    },
+    {
+      "name": "gen_base_187.json",
+      "seed": 187,
+      "style": "mixed",
+      "buildings_count": 113,
+      "walls_count": 82,
+      "defenses_count": 31,
+      "sha256": "d939a7e1c667f67cf497507aee585554e1cd0ed1867fea875acdd70b64210d92"
+    },
+    {
+      "name": "gen_base_188.json",
+      "seed": 188,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "3923c16ff316a29e0800ebfed9f8ec714d1a1df5c9326a262d21f2c96f921c29"
+    },
+    {
+      "name": "gen_base_189.json",
+      "seed": 189,
+      "style": "compartmented",
+      "buildings_count": 240,
+      "walls_count": 209,
+      "defenses_count": 31,
+      "sha256": "c351b77b4d205b06581a1203b77df81394f21e7fb3cefd2011d26d76a49ea66f"
+    },
+    {
+      "name": "gen_base_190.json",
+      "seed": 190,
+      "style": "clustered_core",
+      "buildings_count": 147,
+      "walls_count": 116,
+      "defenses_count": 31,
+      "sha256": "6539c65a481cf3e97f03665286af7eaa798122e445ee695dfa8f8687e01ed8a5"
+    },
+    {
+      "name": "gen_base_191.json",
+      "seed": 191,
+      "style": "spread_out",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "9b7be945ab7ce3c44717dd2563d3efe3794eecd6f7652f5507913f9a83fd3d2d"
+    },
+    {
+      "name": "gen_base_192.json",
+      "seed": 192,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "74b3bd9b16cfa42bdf21c121eb6d77398386f238041b72f9d9ebce72ab81a36f"
+    },
+    {
+      "name": "gen_base_193.json",
+      "seed": 193,
+      "style": "asymmetric",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "2eb2f830d7e1ade592065930c628e40a43e35acfa54d092b3e0d54a9d2dfb406"
+    },
+    {
+      "name": "gen_base_194.json",
+      "seed": 194,
+      "style": "mixed",
+      "buildings_count": 104,
+      "walls_count": 73,
+      "defenses_count": 31,
+      "sha256": "aaae77203ae585859312ce65625371bb66c97a46c228fed903b24624b91a182e"
+    },
+    {
+      "name": "gen_base_195.json",
+      "seed": 195,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "ca04890ea6f2bc2ccd90512662bc33edae9bf561c0f25f1f1f9e680c4f8faa08"
+    },
+    {
+      "name": "gen_base_196.json",
+      "seed": 196,
+      "style": "compartmented",
+      "buildings_count": 256,
+      "walls_count": 225,
+      "defenses_count": 31,
+      "sha256": "b29ab743019e7ab57191e0814a3234062cf5f607139b0451de5835e7a88fe0bb"
+    },
+    {
+      "name": "gen_base_197.json",
+      "seed": 197,
+      "style": "clustered_core",
+      "buildings_count": 142,
+      "walls_count": 111,
+      "defenses_count": 31,
+      "sha256": "7003d71b355b9b89b0c685c0b3a086ab42a29ddb85047c037bc75c22099a7b2f"
+    },
+    {
+      "name": "gen_base_198.json",
+      "seed": 198,
+      "style": "spread_out",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "768d2fbe0b91641de3924b2e6e0df42a67dbf50a9216f6ac02b587eaf5e395fb"
+    },
+    {
+      "name": "gen_base_199.json",
+      "seed": 199,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "ec5063a5d4494296b9e6bad0dad8bee7cd7d8012bd64c24a8b7b328e9ba3aaa2"
+    },
+    {
+      "name": "gen_base_200.json",
+      "seed": 200,
+      "style": "asymmetric",
+      "buildings_count": 125,
+      "walls_count": 94,
+      "defenses_count": 31,
+      "sha256": "448e1c6882903132554b0ea242a0ab098a82d0ae4ee63337260430c08d56a29e"
+    },
+    {
+      "name": "gen_base_201.json",
+      "seed": 201,
+      "style": "mixed",
+      "buildings_count": 114,
+      "walls_count": 83,
+      "defenses_count": 31,
+      "sha256": "5d2980c426320ccd502bb934fb98921f8208a0905ada7b245cfaad2e3e6ee646"
+    },
+    {
+      "name": "gen_base_202.json",
+      "seed": 202,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "159e7882c07f54e6dcb4c7cf73b7017ae8bf5b790f76d6aefaa4543deed71042"
+    },
+    {
+      "name": "gen_base_203.json",
+      "seed": 203,
+      "style": "compartmented",
+      "buildings_count": 255,
+      "walls_count": 224,
+      "defenses_count": 31,
+      "sha256": "2aa3cd363907f0f76a2115b32f27fa39aeecbe8114051d4fa11b79b85766e554"
+    },
+    {
+      "name": "gen_base_204.json",
+      "seed": 204,
+      "style": "clustered_core",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "1c783b4f729abbf1c3d9b2a246f7069f45d092187116cc8b487bf1c7f0e85c4d"
+    },
+    {
+      "name": "gen_base_205.json",
+      "seed": 205,
+      "style": "spread_out",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "f0d5b85a90d661381b63d135f1a90602d493191a81027aed622dba337cc02f4d"
+    },
+    {
+      "name": "gen_base_206.json",
+      "seed": 206,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "f3d0a3460f001cc75903e5bd82c41864ea838cb4820634a2d884c14ffaeef8da"
+    },
+    {
+      "name": "gen_base_207.json",
+      "seed": 207,
+      "style": "asymmetric",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "47be48f80cb4b60a5404c90ec3a7241fbf7cc7ea0a350742c49e0db331d21641"
+    },
+    {
+      "name": "gen_base_208.json",
+      "seed": 208,
+      "style": "mixed",
+      "buildings_count": 110,
+      "walls_count": 79,
+      "defenses_count": 31,
+      "sha256": "55100bd87d266956f9743e25bd4ba48f2c5d0e26c6f7008e10f4a1dec6437283"
+    },
+    {
+      "name": "gen_base_209.json",
+      "seed": 209,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "7bd9eee63888ec19300aafc901dda14a3515201b9ce78bb686ca6839d8d28d49"
+    },
+    {
+      "name": "gen_base_210.json",
+      "seed": 210,
+      "style": "compartmented",
+      "buildings_count": 252,
+      "walls_count": 221,
+      "defenses_count": 31,
+      "sha256": "a557e06dfd0f64d2c2a0110d7fd3cc11c9a2b22dffcea3deddbdb8e384c2df1b"
+    },
+    {
+      "name": "gen_base_211.json",
+      "seed": 211,
+      "style": "clustered_core",
+      "buildings_count": 151,
+      "walls_count": 120,
+      "defenses_count": 31,
+      "sha256": "4dbf2376b8380dcba677bb6d7c1e8521c6a9dc5ecce724a299495e9ff38cf951"
+    },
+    {
+      "name": "gen_base_212.json",
+      "seed": 212,
+      "style": "spread_out",
+      "buildings_count": 109,
+      "walls_count": 78,
+      "defenses_count": 31,
+      "sha256": "d3eaf1a50d465175fe2e06a474ddcd4b7b01ace141fc27ec913c0810ec5ec35e"
+    },
+    {
+      "name": "gen_base_213.json",
+      "seed": 213,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "db75a7a087b6e3ddf11b408efd80f715f9e8f542d616e4928101a5dbf393f91b"
+    },
+    {
+      "name": "gen_base_214.json",
+      "seed": 214,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 102,
+      "defenses_count": 27,
+      "sha256": "e43e57a902b7405076163f6f39c4cfc38134eb0503e3b3c42b415c8f347fa5b8"
+    },
+    {
+      "name": "gen_base_215.json",
+      "seed": 215,
+      "style": "mixed",
+      "buildings_count": 112,
+      "walls_count": 81,
+      "defenses_count": 31,
+      "sha256": "465d1060c405ff7b6acbf0203fdc65e3dd97e2049ca01ea05f703789c2ff72cd"
+    },
+    {
+      "name": "gen_base_216.json",
+      "seed": 216,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "d740ed62ebc7fbbb8f8aef7874c370bb296377156bf958cc0df88728b65766a0"
+    },
+    {
+      "name": "gen_base_217.json",
+      "seed": 217,
+      "style": "compartmented",
+      "buildings_count": 242,
+      "walls_count": 211,
+      "defenses_count": 31,
+      "sha256": "5f343f31516097ae02ea231345b9b4cdb1f66445c5a8579a975d9cd9ef0f5cf9"
+    },
+    {
+      "name": "gen_base_218.json",
+      "seed": 218,
+      "style": "clustered_core",
+      "buildings_count": 148,
+      "walls_count": 117,
+      "defenses_count": 31,
+      "sha256": "9bde0291f79c75f8bcd43162c9070e05494a2332144072250e629d9bb3c29540"
+    },
+    {
+      "name": "gen_base_219.json",
+      "seed": 219,
+      "style": "spread_out",
+      "buildings_count": 117,
+      "walls_count": 86,
+      "defenses_count": 31,
+      "sha256": "157f19265c18ac1c35ef7c0c14b90abeae7a149191178db3c844c8369abf42f3"
+    },
+    {
+      "name": "gen_base_220.json",
+      "seed": 220,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "1563801e657d8b99a08e7f72a7ac225e4a83202a510547fa2b951d53423b18be"
+    },
+    {
+      "name": "gen_base_221.json",
+      "seed": 221,
+      "style": "asymmetric",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "aad577a8f77b838ed835f35064ca49e64c40e203be9b537628aa8099ec1d8bed"
+    },
+    {
+      "name": "gen_base_222.json",
+      "seed": 222,
+      "style": "mixed",
+      "buildings_count": 106,
+      "walls_count": 75,
+      "defenses_count": 31,
+      "sha256": "b34d443024bf961892cecdda2ab651974772037056e207caa0724612ed35f470"
+    },
+    {
+      "name": "gen_base_223.json",
+      "seed": 223,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "03d8221240ff40d7f690f190458bec21e07878a6c370db028bfafe9e76baff1a"
+    },
+    {
+      "name": "gen_base_224.json",
+      "seed": 224,
+      "style": "compartmented",
+      "buildings_count": 249,
+      "walls_count": 218,
+      "defenses_count": 31,
+      "sha256": "f63a89f2345a482358382ff5cc75bc451d08d59425e562dc8e539dc193000fc8"
+    },
+    {
+      "name": "gen_base_225.json",
+      "seed": 225,
+      "style": "clustered_core",
+      "buildings_count": 147,
+      "walls_count": 116,
+      "defenses_count": 31,
+      "sha256": "11201f29f772fc1a528da45c9ed2816a15543e74af70704fd2cea41c2fa69a17"
+    },
+    {
+      "name": "gen_base_226.json",
+      "seed": 226,
+      "style": "spread_out",
+      "buildings_count": 138,
+      "walls_count": 107,
+      "defenses_count": 31,
+      "sha256": "8f3816579591fd29265efb665846da03ef4e79f0cc16f55e0b7bd2379e504c36"
+    },
+    {
+      "name": "gen_base_227.json",
+      "seed": 227,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "d77f8e52411af21cf4c87073a1297e3e6a1ac8082e794ca3cfe276f66db758bc"
+    },
+    {
+      "name": "gen_base_228.json",
+      "seed": 228,
+      "style": "asymmetric",
+      "buildings_count": 126,
+      "walls_count": 95,
+      "defenses_count": 31,
+      "sha256": "47c5190d5d42d33dc47240b3a842f2671ceba6d698c31d318b1b68782eeb6d88"
+    },
+    {
+      "name": "gen_base_229.json",
+      "seed": 229,
+      "style": "mixed",
+      "buildings_count": 105,
+      "walls_count": 74,
+      "defenses_count": 31,
+      "sha256": "50208d579609311ed72959e9f891afeef4ca86def6d1a3ea579f228d2657bba8"
+    },
+    {
+      "name": "gen_base_230.json",
+      "seed": 230,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "643d63ae23168e3c1b4f1cb2cd2cb3af3ff90768e75faafe703e238559162545"
+    },
+    {
+      "name": "gen_base_231.json",
+      "seed": 231,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "dca61ffe4b43fdba8b5ee33483f56aeddd0825e829c94a181d1e7f80be23adc4"
+    },
+    {
+      "name": "gen_base_232.json",
+      "seed": 232,
+      "style": "clustered_core",
+      "buildings_count": 144,
+      "walls_count": 113,
+      "defenses_count": 31,
+      "sha256": "d333b4d116ba2f6909399d9d7d42dde855d323d688d82df2b55f17bc244de31c"
+    },
+    {
+      "name": "gen_base_233.json",
+      "seed": 233,
+      "style": "spread_out",
+      "buildings_count": 127,
+      "walls_count": 96,
+      "defenses_count": 31,
+      "sha256": "731ed25dca83792bef903f9e3d68c6ea49796b01482e130df72e2dc34025da6d"
+    },
+    {
+      "name": "gen_base_234.json",
+      "seed": 234,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "dd4c36cfef3f491ccd2761ca6609944fa7c68e4550af27ca197112cd1683e001"
+    },
+    {
+      "name": "gen_base_235.json",
+      "seed": 235,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "77f7f90fa3b5a6d247f3b884124d3d76c119f5f48a2a12f67b470f4584c00920"
+    },
+    {
+      "name": "gen_base_236.json",
+      "seed": 236,
+      "style": "mixed",
+      "buildings_count": 105,
+      "walls_count": 74,
+      "defenses_count": 31,
+      "sha256": "faee88cc343d3f4cf806bdd2cd3678d286548cd8dc504de2558dd0bd336dbdac"
+    },
+    {
+      "name": "gen_base_237.json",
+      "seed": 237,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "1f54585e3de58cb4e3964a45adae64880b6c32368df4c7677480e017cf332b99"
+    },
+    {
+      "name": "gen_base_238.json",
+      "seed": 238,
+      "style": "compartmented",
+      "buildings_count": 243,
+      "walls_count": 212,
+      "defenses_count": 31,
+      "sha256": "0c0bfe6e8ce6ea8fe736f37c70c6e29d041fecddf3422808a8aaacc5c5af03c4"
+    },
+    {
+      "name": "gen_base_239.json",
+      "seed": 239,
+      "style": "clustered_core",
+      "buildings_count": 145,
+      "walls_count": 114,
+      "defenses_count": 31,
+      "sha256": "024aa7e309d7fa9fc0dbc3f3731aebcf4e4bd65c0ab2cd39026a0516ffc7c804"
+    },
+    {
+      "name": "gen_base_240.json",
+      "seed": 240,
+      "style": "spread_out",
+      "buildings_count": 137,
+      "walls_count": 106,
+      "defenses_count": 31,
+      "sha256": "3d6c52f24c877c0c6ea0c659ce65da899296775ed3e1d6d80cb13bc9b6f3e48e"
+    },
+    {
+      "name": "gen_base_241.json",
+      "seed": 241,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "63ad3301410b313611b1d6c009af9b218eb374ba2da67e874aa037f25d9633b2"
+    },
+    {
+      "name": "gen_base_242.json",
+      "seed": 242,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "c5ac60047b3eae7b34f675ee3c614096d7756b97c90d0ea47c4740f82aaf86a0"
+    },
+    {
+      "name": "gen_base_243.json",
+      "seed": 243,
+      "style": "mixed",
+      "buildings_count": 106,
+      "walls_count": 75,
+      "defenses_count": 31,
+      "sha256": "23de5c00831a887f479f7e2c685d9a2caa0300244a8308ad56f8bbcb870c2892"
+    },
+    {
+      "name": "gen_base_244.json",
+      "seed": 244,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "be0f2f9c957bef555ff5fc971ca52e132793f6cfb52ae83de51a55be6865ebdf"
+    },
+    {
+      "name": "gen_base_245.json",
+      "seed": 245,
+      "style": "compartmented",
+      "buildings_count": 244,
+      "walls_count": 213,
+      "defenses_count": 31,
+      "sha256": "581b76585882ce970f6fd2b928eb7ce87e66b91fe334e64a1a1130e46297690e"
+    },
+    {
+      "name": "gen_base_246.json",
+      "seed": 246,
+      "style": "clustered_core",
+      "buildings_count": 155,
+      "walls_count": 124,
+      "defenses_count": 31,
+      "sha256": "acb63e67879cc07f32d314dd4036b810447fb060b1a31937834b5b553ef77da3"
+    },
+    {
+      "name": "gen_base_247.json",
+      "seed": 247,
+      "style": "spread_out",
+      "buildings_count": 134,
+      "walls_count": 103,
+      "defenses_count": 31,
+      "sha256": "d1036b69ee713ad009795150a691b47499b3afdda9852f006607b1992de402f5"
+    },
+    {
+      "name": "gen_base_248.json",
+      "seed": 248,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "80feba3386027fea4cca9c93e48655203c15afb1097e1ebb033599f2a3c94fcf"
+    },
+    {
+      "name": "gen_base_249.json",
+      "seed": 249,
+      "style": "asymmetric",
+      "buildings_count": 133,
+      "walls_count": 102,
+      "defenses_count": 31,
+      "sha256": "4eba2f3727c84583fd4426ef0e5fefea198a98ba79636de30d7e1fb7a2e8f3dc"
+    },
+    {
+      "name": "gen_base_250.json",
+      "seed": 250,
+      "style": "mixed",
+      "buildings_count": 109,
+      "walls_count": 78,
+      "defenses_count": 31,
+      "sha256": "a1f0bd9f052cd3b19a4eada1595eb47a79232b3ea6a9eb577aca8687d2384b02"
+    },
+    {
+      "name": "gen_base_251.json",
+      "seed": 251,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "2de424940b63610844d39d2bd1aa6397ba40369e7f97364a0fae8f6fc985547d"
+    },
+    {
+      "name": "gen_base_252.json",
+      "seed": 252,
+      "style": "compartmented",
+      "buildings_count": 243,
+      "walls_count": 212,
+      "defenses_count": 31,
+      "sha256": "f8c72204037913f558d08462fa55eabd859be10bfd5c9129a1244aa9059f0441"
+    },
+    {
+      "name": "gen_base_253.json",
+      "seed": 253,
+      "style": "clustered_core",
+      "buildings_count": 145,
+      "walls_count": 114,
+      "defenses_count": 31,
+      "sha256": "54fb4bdb559f2a5fde185b609a336c0332a0e25f9cbb09dc40b2ea284cabbc43"
+    },
+    {
+      "name": "gen_base_254.json",
+      "seed": 254,
+      "style": "spread_out",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "c996ede8226f200f96a1e98319ab04a899eb34db60fa8adc844f58ac195ec91b"
+    },
+    {
+      "name": "gen_base_255.json",
+      "seed": 255,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "ca6b526efd85b8d417a990b816541ddd75b5523e0b0c3c5cc6739ed14b451c26"
+    },
+    {
+      "name": "gen_base_256.json",
+      "seed": 256,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "defenses_count": 31,
+      "sha256": "cb00abf7085fbee02e5f07bda3e1c9d68bda74df05db1199c01b1bd22f3d4f02"
+    },
+    {
+      "name": "gen_base_257.json",
+      "seed": 257,
+      "style": "mixed",
+      "buildings_count": 114,
+      "walls_count": 83,
+      "defenses_count": 31,
+      "sha256": "1b5cf9caaa0206ea0b89c86f53eab86045f057b420defb309cc6cf70ffc61936"
+    },
+    {
+      "name": "gen_base_258.json",
+      "seed": 258,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "f454dbc5a8fd632485b27015d4c8ccfcbfcdac942f6208743374d240bef931a8"
+    },
+    {
+      "name": "gen_base_259.json",
+      "seed": 259,
+      "style": "compartmented",
+      "buildings_count": 243,
+      "walls_count": 212,
+      "defenses_count": 31,
+      "sha256": "94c6c10bcd5e89a472acb42153b04e43d36826968e90ac04cf25c4db643e56bd"
+    },
+    {
+      "name": "gen_base_260.json",
+      "seed": 260,
+      "style": "clustered_core",
+      "buildings_count": 145,
+      "walls_count": 114,
+      "defenses_count": 31,
+      "sha256": "75d8a232f505a87dcba1cc16fc4ff66e04f354b3337a3b93a5ddcbbc6bf15aa5"
+    },
+    {
+      "name": "gen_base_261.json",
+      "seed": 261,
+      "style": "spread_out",
+      "buildings_count": 124,
+      "walls_count": 93,
+      "defenses_count": 31,
+      "sha256": "76723a087b7e6539861e2e7ac71b64e392d89810e5b649974ca2a4652ec7710a"
+    },
+    {
+      "name": "gen_base_262.json",
+      "seed": 262,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "2daed31642397da5fdaec12187b10fb222302e7d1973f070b028a4804cb628e6"
+    },
+    {
+      "name": "gen_base_263.json",
+      "seed": 263,
+      "style": "asymmetric",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "defenses_count": 31,
+      "sha256": "886f63333cf6ba29af304291a30badcde1e2d3df5586a87385a73016cbc846fd"
+    },
+    {
+      "name": "gen_base_264.json",
+      "seed": 264,
+      "style": "mixed",
+      "buildings_count": 117,
+      "walls_count": 86,
+      "defenses_count": 31,
+      "sha256": "edcd6ea3b2dd19098e2e1838b1e9baefc753074b519f2b52a07c3784fd5e69de"
+    },
+    {
+      "name": "gen_base_265.json",
+      "seed": 265,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "1a8014d94ca9260a63ca6ba1a7aad66519bda80cbee6d629986f249a967ac946"
+    },
+    {
+      "name": "gen_base_266.json",
+      "seed": 266,
+      "style": "compartmented",
+      "buildings_count": 239,
+      "walls_count": 208,
+      "defenses_count": 31,
+      "sha256": "0623c03d1a55e367e09d4b07af667c3e466badf8d50b2a1afc5bf9fc6ed5a949"
+    },
+    {
+      "name": "gen_base_267.json",
+      "seed": 267,
+      "style": "clustered_core",
+      "buildings_count": 143,
+      "walls_count": 112,
+      "defenses_count": 31,
+      "sha256": "62820e0f0903050dd2b29610e0aa61f51e7e76828d12139b83429217531a4fcb"
+    },
+    {
+      "name": "gen_base_268.json",
+      "seed": 268,
+      "style": "spread_out",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "defenses_count": 31,
+      "sha256": "dca6756191ba050874c7571dc4f7a200ed511962ff649adc167b35794dc988ed"
+    },
+    {
+      "name": "gen_base_269.json",
+      "seed": 269,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "17328f142c96a6c313c79ec169a4f1c1a2ebae8ab4b2928fe40096e48fea4453"
+    },
+    {
+      "name": "gen_base_270.json",
+      "seed": 270,
+      "style": "asymmetric",
+      "buildings_count": 133,
+      "walls_count": 102,
+      "defenses_count": 31,
+      "sha256": "1828184df8100601b25d3504d5a2a8ad386ccb57a93cf33e1981ddfe975bd441"
+    },
+    {
+      "name": "gen_base_271.json",
+      "seed": 271,
+      "style": "mixed",
+      "buildings_count": 108,
+      "walls_count": 77,
+      "defenses_count": 31,
+      "sha256": "8796b832cf425ca65d97bf250f470227072c01cdd047cac9260aaec23a15e16c"
+    },
+    {
+      "name": "gen_base_272.json",
+      "seed": 272,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "0a15c071739ab9b0fb719dbdb373022643fee7b4aee0b6a5169fb4c20edc92cb"
+    },
+    {
+      "name": "gen_base_273.json",
+      "seed": 273,
+      "style": "compartmented",
+      "buildings_count": 238,
+      "walls_count": 207,
+      "defenses_count": 31,
+      "sha256": "63e38a3043b66b51d46dc47bcdb545b4810e75d7f1829fee6c496baa77d9a71c"
+    },
+    {
+      "name": "gen_base_274.json",
+      "seed": 274,
+      "style": "clustered_core",
+      "buildings_count": 144,
+      "walls_count": 113,
+      "defenses_count": 31,
+      "sha256": "0f2da6663dd390b359af1f8a45e769aee3aeb4f99b57cbf09b4b0eafd8aa28ae"
+    },
+    {
+      "name": "gen_base_275.json",
+      "seed": 275,
+      "style": "spread_out",
+      "buildings_count": 132,
+      "walls_count": 101,
+      "defenses_count": 31,
+      "sha256": "d4be267bdc217b59160a17e137300c7aed71e51293f27d1b10e2b7cea88d2eca"
+    },
+    {
+      "name": "gen_base_276.json",
+      "seed": 276,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "646b274efa76323b6798eddad10a65e85adbf35a6b5a1341146b75d4915d09e1"
+    },
+    {
+      "name": "gen_base_277.json",
+      "seed": 277,
+      "style": "asymmetric",
+      "buildings_count": 124,
+      "walls_count": 93,
+      "defenses_count": 31,
+      "sha256": "46867b48bf5298effc9e1da467446a184f9f32c4c8b5385021ca199616a1bee3"
+    },
+    {
+      "name": "gen_base_278.json",
+      "seed": 278,
+      "style": "mixed",
+      "buildings_count": 112,
+      "walls_count": 81,
+      "defenses_count": 31,
+      "sha256": "6cc1fceab6eb49bf441ce2e1ab7ca4ff34c9d99d67f47fe2a9cd5ec43caf2209"
+    },
+    {
+      "name": "gen_base_279.json",
+      "seed": 279,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "277c4a2fc89d07c4b26f298c96ec01da71feaac9704b50affaffca575482e028"
+    },
+    {
+      "name": "gen_base_280.json",
+      "seed": 280,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "87f7f54e1f3a7ffb7f9bd9b2f7cbe735be0b40de22c4bfc37a9696cac99ea19a"
+    },
+    {
+      "name": "gen_base_281.json",
+      "seed": 281,
+      "style": "clustered_core",
+      "buildings_count": 145,
+      "walls_count": 114,
+      "defenses_count": 31,
+      "sha256": "ceef354549dc084e6576af2d213f7a646b8172fc890fbfb2b551030cb2214932"
+    },
+    {
+      "name": "gen_base_282.json",
+      "seed": 282,
+      "style": "spread_out",
+      "buildings_count": 146,
+      "walls_count": 115,
+      "defenses_count": 31,
+      "sha256": "76d9d39eae7475d579227ea9a6ee76bc670f4ae02f6faf25b97348d325f0fcc0"
+    },
+    {
+      "name": "gen_base_283.json",
+      "seed": 283,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "0fe3179ceefefcf3c9fa2cb9dab6e83ff908e64a87d5b6a57e6a941169bcdd0e"
+    },
+    {
+      "name": "gen_base_284.json",
+      "seed": 284,
+      "style": "asymmetric",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "defenses_count": 31,
+      "sha256": "76457a34e0ea9ceac13538b9c57d2558441a0f521e1f008c564566f4af3b1183"
+    },
+    {
+      "name": "gen_base_285.json",
+      "seed": 285,
+      "style": "mixed",
+      "buildings_count": 109,
+      "walls_count": 78,
+      "defenses_count": 31,
+      "sha256": "dc3099ef53b0d596777af64ab6254decff35cc32f7804bb8dca7b593e8f24caa"
+    },
+    {
+      "name": "gen_base_286.json",
+      "seed": 286,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "8d94f7c920e342144d50b6fe8b1851b2c10e67c3477f453101946a3372bd571f"
+    },
+    {
+      "name": "gen_base_287.json",
+      "seed": 287,
+      "style": "compartmented",
+      "buildings_count": 246,
+      "walls_count": 215,
+      "defenses_count": 31,
+      "sha256": "500028db7a59b437c034a950d066a945477c8e6974f62cbd830371db2b9f2e23"
+    },
+    {
+      "name": "gen_base_288.json",
+      "seed": 288,
+      "style": "clustered_core",
+      "buildings_count": 145,
+      "walls_count": 114,
+      "defenses_count": 31,
+      "sha256": "ab95814691b1b2ec2eb462be0595fc13d378b0eb34fad51d2673aacca36bb1f0"
+    },
+    {
+      "name": "gen_base_289.json",
+      "seed": 289,
+      "style": "spread_out",
+      "buildings_count": 127,
+      "walls_count": 96,
+      "defenses_count": 31,
+      "sha256": "24b4b126a7bba0a2b659fe6bb54820f0ea2cba0da52d5719ffcdc381651a5abd"
+    },
+    {
+      "name": "gen_base_290.json",
+      "seed": 290,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "79e69f779ae14e7952c1a0b5084f68824cfaaa7058cb7e35734cd18f0442c3d3"
+    },
+    {
+      "name": "gen_base_291.json",
+      "seed": 291,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "defenses_count": 31,
+      "sha256": "014cad36df42c2517d42b4668c55d653b9633119bb8958815821bb465bc7487a"
+    },
+    {
+      "name": "gen_base_292.json",
+      "seed": 292,
+      "style": "mixed",
+      "buildings_count": 115,
+      "walls_count": 84,
+      "defenses_count": 31,
+      "sha256": "667dcb5026bc0189f56a556dcdac29eed277a7a853179512ddb523f129323328"
+    },
+    {
+      "name": "gen_base_293.json",
+      "seed": 293,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "defenses_count": 31,
+      "sha256": "83e20ebe18065e9c1a4a08e1987de1604eabcbb3c9ce8887faee8fae09187aa8"
+    },
+    {
+      "name": "gen_base_294.json",
+      "seed": 294,
+      "style": "compartmented",
+      "buildings_count": 252,
+      "walls_count": 221,
+      "defenses_count": 31,
+      "sha256": "76bb3c39b495ca553e6f64f50425bc04798a9174a687fd1e60513a928b5566b0"
+    },
+    {
+      "name": "gen_base_295.json",
+      "seed": 295,
+      "style": "clustered_core",
+      "buildings_count": 138,
+      "walls_count": 107,
+      "defenses_count": 31,
+      "sha256": "0b55508d1b57ffcd7911204dd684c3a9fc59514bcb60b7c66fd5fbedc7d66f4c"
+    },
+    {
+      "name": "gen_base_296.json",
+      "seed": 296,
+      "style": "spread_out",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "defenses_count": 31,
+      "sha256": "3d38d603db1625caa7545d1451712480aca936879b23e6563f098139d52fa5ed"
+    },
+    {
+      "name": "gen_base_297.json",
+      "seed": 297,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "defenses_count": 31,
+      "sha256": "5fa205c96ca0140072ca45f2900eddbb90331df9ac0d4de0384d4c07e4412eab"
+    },
+    {
+      "name": "gen_base_298.json",
+      "seed": 298,
+      "style": "asymmetric",
+      "buildings_count": 126,
+      "walls_count": 95,
+      "defenses_count": 31,
+      "sha256": "6b04a159847074de57f1cb119b9de794287b576b2d69fbdbbe21e50f1a3b512a"
+    },
+    {
+      "name": "gen_base_299.json",
+      "seed": 299,
+      "style": "mixed",
+      "buildings_count": 120,
+      "walls_count": 89,
+      "defenses_count": 31,
+      "sha256": "ee8d9c323693c40b0bb175a95b3dce263fc35a542b74832f0afe60b9af17744e"
+    }
+  ]
+}

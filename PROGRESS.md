@@ -225,3 +225,48 @@
     * No simulator mechanics, unit stats, or defense stats modified.
     * All 4 steps of Milestone M9 finished cleanly.
 
+## Milestone M9 STEP 0 Verification Audit (VERIFICATION_M9.md)
+- **Status:** PASSED (All Gate Conditions Met)
+- **Passed:**
+  - 0a: Verified training run continuity. Seeds 42, 43, 44 all completed full, uninterrupted 300,000-step training runs initialized from step 0 of their respective BC checkpoints (no mid-checkpoint resumption).
+  - 0b: Verified zero held-out leakage. Demonstrations, BC, and fine-tuning scripts exclusively trained on `base02..04` with seeds $\ge 1000$. Held-out bases (`base07..10`) and evaluation seeds (0..99) strictly untouched until evaluation.
+  - 0c: Verified git hygiene. Zero models (`*.zip`), demos (`*.npz`), or generated layouts tracked in git index.
+  - 0d: Independent per-pair recomputation from `results/m9_all_pairs.csv` matched reported summary statistics within $< 0.005$ across all metrics (zero discrepancy $> 0.05$).
+  - 0e: Backed up all 55 model files and checkpoints to external directory `..\coc-rl-models-backup\`.
+  - 0f: Integrated critical caveats into `FINAL_REPORT.txt` (post-hoc seed selection, $n=3$ variance limitation, and BC/lr/ent_coef confounding).
+- **Gate:** CLEARED. Proceeding to Milestone M10.
+
+## Milestone M10 (PROCEDURAL TH8 LAYOUTS, FRESH HELDOUT SET, & RETRAINING)
+- **Status:** COMPLETE
+- **Passed:**
+  - 1a (Base Generator): Implemented `sim/base_generator.py` with 7 layout styles (`compartmented`, `clustered_core`, `spread_out`, `defenses_outside`, `asymmetric`, `mixed`, `open_no_walls`). Tested 350 bases across styles; all 350 passed `scripts/validate_base.py` with 0 errors. Wrote `data/bases_gen/README.md`.
+  - 1b (Layout Distance Metric & Pool Generation): Implemented occupancy Jaccard + building Chamfer layout distance metric in `scripts/generate_m10_pools.py`. Generated 300 train layouts (`data/bases_gen/train/gen_base_*.json`, pairwise dist mean 0.466, min 0.212). Generated 30 fresh held-out layouts (`data/bases_gen/heldout_v2/heldout_base_*.json`, min dist to train pool mean 0.253, min 0.168 >= 0.160 threshold; min dist to legacy bases mean 0.527, min 0.503). Created manifests `manifest_train.json` and `manifest_heldout_v2.json` with SHA256 hashes.
+  - 1c (Baseline Difficulty Check): Evaluated 40 train layouts x 7 armies x 3 strategies (840 combinations, 8,400 episodes) in `scripts/check_m10_difficulty.py`. Degenerate layouts (all-0% or all-100% across all strategies & armies): **0 (0.0%)**, well below the 80% ceiling. Aggregate destruction: `left_wave` 54.41% (1.34 stars, 57.6% TH-kill), `smart_funnel` 39.53% (0.98 stars, 43.7% TH-kill), `surround` 29.76% (0.69 stars, 27.5% TH-kill). Saved to `results/m10_difficulty_check.csv`.
+  - 1d (Environment Plumbing & Unit Tests): Updated `sim/env.py` and `sim/rl_wrapper.py` to seamlessly accept directory paths and file lists for `bases` (resolves to sorted `.json` files, uniform sampling per episode). Added unit tests in `tests/test_base_generator.py` (determinism, styles validity, TH8 limits, bounds/no overlap). `pytest -q` passed (31 passed in 50.86s) and `check_env` verified on train directory.
+  - 1e (Demonstrations & Behavior Cloning):
+    * Recorded expert `left_wave` demonstrations across 100 training layouts x 7 armies (seeds >= 1000, 700 episodes, 83,266 transitions) in `scripts/record_m10_demos.py`. Mean mapping error: 2.27 tiles (0 mask violations). Replay destruction: 51.27% vs raw 52.96% (gap: -1.69 pp, well within 10 pp threshold). Saved to `data/demos/m10_train_demos.npz` (gitignored).
+    * Layout-split validation (80 train / 20 val layouts): Final Validation Acc = 47.11%, Non-Wait Acc = 33.60%.
+    * Full retraining across all 100 demonstration layouts for seeds 42, 43, 44 saved to `models/ppo_m10_bc_seed{42,43,44}.zip` and verified reload.
+  - 1f (Fine-Tuning on 300 Layouts):
+    * Pre-launch benchmark on 1 layout: 62.7 steps/s (projected ~80 min/seed).
+    * Full 3-seed fine-tuning across all 300 layouts using exact M9 hyperparameters (`lr=5e-5`, `ent_coef=0.005`, `stars_aware=True`, `anti_collapse=True`, 300k steps/seed, `SubprocVecEnv(2)`):
+      - Seed 42: COMPLETE in 1853.3s (30.9 min), saved to `models/ppo_m10_bcft_seed42.zip`.
+      - Seed 43: COMPLETE in 4284.2s (71.4 min), saved to `models/ppo_m10_bcft_seed43.zip`.
+      - Seed 44: COMPLETE in 2455.2s (40.9 min), saved to `models/ppo_m10_bcft_seed44.zip`.
+    * Checkpoints every 50k steps saved to `models/checkpoints_m10/`. All final models verified on reload.
+  - 1g (Comprehensive Evaluation & Bootstrap Analysis):
+    * Single-use guard logged access to `heldout_v2` in `results/heldout_v2_usage.log`.
+    * Evaluated `left_wave`, `random_masked`, `ppo_m9_bcft`, `ppo_m10_bc`, `ppo_m10_bcft` across 30 fresh held-out layouts x 7 armies x 20 episodes (4,200 episodes/agent) with layout-resampling bootstrap (1,500 iterations):
+      - `ppo_m10_bcft_3seed`: **54.19% dest** [52.05, 56.35] | **1.29 stars** [1.18, 1.39] | **26.40% 3-star** | **52.44% TH-kill**
+      - `left_wave`: 52.44% dest [49.80, 55.09] | 1.21 stars [1.10, 1.32] | 26.17% 3-star | 50.88% TH-kill
+      - Paired vs `left_wave`: **+1.76 pp dest [95% CI +0.31, +3.25]** (Statistically significant win on destruction) and **+0.08 stars [95% CI +0.02, +0.15]** (Statistically significant win on stars).
+      - On non-dragon armies: **+2.06 pp dest [+0.36, +3.79]** and **+0.10 stars [+0.02, +0.18]**.
+    * Secondary check on legacy bases (`base07..10` x 7 armies x 100 episodes): `ppo_m10_bcft_3seed` achieved 54.83% dest and 1.41 stars, confirming robust transfer without catastrophic forgetting.
+    * Saved raw records to `results/m10_heldout_v2_all_pairs.csv`, summary to `results/m10_heldout_v2_summary.csv`, and secondary check to `results/m10_secondary_old_heldout.csv`.
+  - 1h (Documentation): Updated `FINAL_REPORT.txt` Section 8 with complete M10 results, core questions answered, and zero placeholders.
+
+
+
+
+
+

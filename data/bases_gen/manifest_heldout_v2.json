@@ -1,0 +1,317 @@
+{
+  "pool": "heldout_v2",
+  "count": 30,
+  "min_distance_threshold": 0.16,
+  "rejected_candidates": 0,
+  "styles_distribution": {
+    "compartmented": 4,
+    "clustered_core": 4,
+    "spread_out": 4,
+    "defenses_outside": 4,
+    "asymmetric": 5,
+    "mixed": 5,
+    "open_no_walls": 4
+  },
+  "layouts": [
+    {
+      "name": "heldout_base_00.json",
+      "seed": 10000,
+      "style": "asymmetric",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "min_dist_to_train": 0.1859,
+      "min_dist_to_legacy": 0.5172,
+      "sha256": "13abf19af5fb98ae8cdc2e0a7b563d2905a3d76f11b64c4087e2f4cbfaa0a355"
+    },
+    {
+      "name": "heldout_base_01.json",
+      "seed": 10001,
+      "style": "mixed",
+      "buildings_count": 112,
+      "walls_count": 81,
+      "min_dist_to_train": 0.1899,
+      "min_dist_to_legacy": 0.5424,
+      "sha256": "2fd9dce9f43bfb9c7a3c4ae99f875579f15d88d0c52dd517591df77a769e7783"
+    },
+    {
+      "name": "heldout_base_02.json",
+      "seed": 10002,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "min_dist_to_train": 0.4185,
+      "min_dist_to_legacy": 0.5359,
+      "sha256": "a02d6e09aca8b951914a3fa5b4367edc9ca55762243ed83b6f26fe32b6165c22"
+    },
+    {
+      "name": "heldout_base_03.json",
+      "seed": 10003,
+      "style": "compartmented",
+      "buildings_count": 247,
+      "walls_count": 216,
+      "min_dist_to_train": 0.1759,
+      "min_dist_to_legacy": 0.5329,
+      "sha256": "3bccaf1b96e76b5d866b66cd1bcb59d3377d479c6069dcdbbc705f5f8f12e0c5"
+    },
+    {
+      "name": "heldout_base_04.json",
+      "seed": 10004,
+      "style": "clustered_core",
+      "buildings_count": 151,
+      "walls_count": 120,
+      "min_dist_to_train": 0.2498,
+      "min_dist_to_legacy": 0.5149,
+      "sha256": "992ef290297c24f8f2fe4d8a8e8699a614ba18ce8e154f824904503e4a36deba"
+    },
+    {
+      "name": "heldout_base_05.json",
+      "seed": 10005,
+      "style": "spread_out",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "min_dist_to_train": 0.2588,
+      "min_dist_to_legacy": 0.5209,
+      "sha256": "84f95af98c2f9f49ccd2b5aa5c8e39b869f3a2749d233a90164f6b97f197159e"
+    },
+    {
+      "name": "heldout_base_06.json",
+      "seed": 10006,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "min_dist_to_train": 0.2755,
+      "min_dist_to_legacy": 0.5222,
+      "sha256": "bb2f88adb5cc0df4d1a0ac0ef90dd14dc97d6c0cafa9bbdfd3b85b17930a02a4"
+    },
+    {
+      "name": "heldout_base_07.json",
+      "seed": 10007,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "min_dist_to_train": 0.1891,
+      "min_dist_to_legacy": 0.5178,
+      "sha256": "7192c735228219155592dc527446dfaf57b9001da8e22140f1f21a3a49587b23"
+    },
+    {
+      "name": "heldout_base_08.json",
+      "seed": 10008,
+      "style": "mixed",
+      "buildings_count": 117,
+      "walls_count": 86,
+      "min_dist_to_train": 0.176,
+      "min_dist_to_legacy": 0.5298,
+      "sha256": "a875d75c9f134f8139d389670b56ee852b6efb8b12415e9b61ceaa93386c591e"
+    },
+    {
+      "name": "heldout_base_09.json",
+      "seed": 10009,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "min_dist_to_train": 0.4017,
+      "min_dist_to_legacy": 0.5413,
+      "sha256": "9f0d868ecab0f51a7e2766a6d0852af38e78d373407da6880f241cc80f97b995"
+    },
+    {
+      "name": "heldout_base_10.json",
+      "seed": 10010,
+      "style": "compartmented",
+      "buildings_count": 247,
+      "walls_count": 216,
+      "min_dist_to_train": 0.1966,
+      "min_dist_to_legacy": 0.5547,
+      "sha256": "75b9e221fde36270ad670b2cfdfdbbf1e92a359cb65175626fa7b458762b0b73"
+    },
+    {
+      "name": "heldout_base_11.json",
+      "seed": 10011,
+      "style": "clustered_core",
+      "buildings_count": 147,
+      "walls_count": 116,
+      "min_dist_to_train": 0.2521,
+      "min_dist_to_legacy": 0.5146,
+      "sha256": "f402ab4784056b4437536843d350fc4af0d5f411c3ca00e33d65df7d459f9ac5"
+    },
+    {
+      "name": "heldout_base_12.json",
+      "seed": 10012,
+      "style": "spread_out",
+      "buildings_count": 130,
+      "walls_count": 99,
+      "min_dist_to_train": 0.2706,
+      "min_dist_to_legacy": 0.5204,
+      "sha256": "2b9a3421e2da667384becf17c14b149bc58c45ad42c22ee0c376b2cd92059d1a"
+    },
+    {
+      "name": "heldout_base_13.json",
+      "seed": 10013,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "min_dist_to_train": 0.2749,
+      "min_dist_to_legacy": 0.5478,
+      "sha256": "09985863c1a7352c98b104a80c9a65b85343c407e4152e949092a3dc71b84e2c"
+    },
+    {
+      "name": "heldout_base_14.json",
+      "seed": 10014,
+      "style": "asymmetric",
+      "buildings_count": 128,
+      "walls_count": 97,
+      "min_dist_to_train": 0.1772,
+      "min_dist_to_legacy": 0.5262,
+      "sha256": "6af64dbcd21e89ff1c7a6eebc5baf7565883c1b90daa26caba998a0a6eb92e7d"
+    },
+    {
+      "name": "heldout_base_15.json",
+      "seed": 10015,
+      "style": "mixed",
+      "buildings_count": 116,
+      "walls_count": 85,
+      "min_dist_to_train": 0.2054,
+      "min_dist_to_legacy": 0.5099,
+      "sha256": "096c4fcadd14bc47bf75c8ba9c87243d7629c91c528d556a87c736bf493dd2c0"
+    },
+    {
+      "name": "heldout_base_16.json",
+      "seed": 10016,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "min_dist_to_train": 0.4109,
+      "min_dist_to_legacy": 0.5304,
+      "sha256": "e24210eb464a4c40947e27b99fc49a1be6af1b74c70fe5389df405d39772d6d9"
+    },
+    {
+      "name": "heldout_base_17.json",
+      "seed": 10017,
+      "style": "compartmented",
+      "buildings_count": 240,
+      "walls_count": 209,
+      "min_dist_to_train": 0.2356,
+      "min_dist_to_legacy": 0.5413,
+      "sha256": "b1fc67014d7e84c7a444025a8939eb627753d5b19064757529126dcbf38d0439"
+    },
+    {
+      "name": "heldout_base_18.json",
+      "seed": 10018,
+      "style": "clustered_core",
+      "buildings_count": 149,
+      "walls_count": 118,
+      "min_dist_to_train": 0.2164,
+      "min_dist_to_legacy": 0.5123,
+      "sha256": "4f8479e147923bc513330d20b80cb62e5c21635db84f05246565b982c8bca927"
+    },
+    {
+      "name": "heldout_base_19.json",
+      "seed": 10019,
+      "style": "spread_out",
+      "buildings_count": 137,
+      "walls_count": 106,
+      "min_dist_to_train": 0.2787,
+      "min_dist_to_legacy": 0.5172,
+      "sha256": "4d8db6a1d5b3acce3485b550ae6ed09d3f8921e9498ef34a1a2c250c20ddf598"
+    },
+    {
+      "name": "heldout_base_20.json",
+      "seed": 10020,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "min_dist_to_train": 0.2951,
+      "min_dist_to_legacy": 0.5447,
+      "sha256": "e474172d66059700764468d58167c877a4a67c1aeca519962efbb04079335392"
+    },
+    {
+      "name": "heldout_base_21.json",
+      "seed": 10021,
+      "style": "asymmetric",
+      "buildings_count": 131,
+      "walls_count": 100,
+      "min_dist_to_train": 0.1676,
+      "min_dist_to_legacy": 0.5159,
+      "sha256": "ae3c594abc6c20acf7376712bd08f3721e24221dc594433739c75268afafed65"
+    },
+    {
+      "name": "heldout_base_22.json",
+      "seed": 10022,
+      "style": "mixed",
+      "buildings_count": 105,
+      "walls_count": 74,
+      "min_dist_to_train": 0.214,
+      "min_dist_to_legacy": 0.5274,
+      "sha256": "47c6f622347c34f8c2a65c5ff7fb6a5f0605286796b60cfb278c884acfb8037d"
+    },
+    {
+      "name": "heldout_base_23.json",
+      "seed": 10023,
+      "style": "open_no_walls",
+      "buildings_count": 31,
+      "walls_count": 0,
+      "min_dist_to_train": 0.404,
+      "min_dist_to_legacy": 0.5265,
+      "sha256": "5b21f1a3cd5d5fd793dd47c3e92d0bfdbe0a6b872972a6f09b7af16d98d10ad5"
+    },
+    {
+      "name": "heldout_base_24.json",
+      "seed": 10024,
+      "style": "compartmented",
+      "buildings_count": 249,
+      "walls_count": 218,
+      "min_dist_to_train": 0.2223,
+      "min_dist_to_legacy": 0.5438,
+      "sha256": "fbe03b3c8fa9ecaa63cc0d4be83194cf9efcca61f3569fcccbd2e36dff16bd9a"
+    },
+    {
+      "name": "heldout_base_25.json",
+      "seed": 10025,
+      "style": "clustered_core",
+      "buildings_count": 148,
+      "walls_count": 117,
+      "min_dist_to_train": 0.2485,
+      "min_dist_to_legacy": 0.5029,
+      "sha256": "0ace5ebaeb30574881ac81126086bb10ac71b62bc7f8e2ce5b2b94bdc2c0bbdd"
+    },
+    {
+      "name": "heldout_base_26.json",
+      "seed": 10026,
+      "style": "spread_out",
+      "buildings_count": 122,
+      "walls_count": 91,
+      "min_dist_to_train": 0.2846,
+      "min_dist_to_legacy": 0.5278,
+      "sha256": "f24a5d3f1856f9e4e96c36792afe4e0e0bb7cc02711bc928ab784e1e49cff451"
+    },
+    {
+      "name": "heldout_base_27.json",
+      "seed": 10027,
+      "style": "defenses_outside",
+      "buildings_count": 99,
+      "walls_count": 68,
+      "min_dist_to_train": 0.3052,
+      "min_dist_to_legacy": 0.5188,
+      "sha256": "e2e9a3c19e067571b673ef149e9b4bd77fb14b6e06b1aa62c3487d0e4f9d9b1d"
+    },
+    {
+      "name": "heldout_base_28.json",
+      "seed": 10028,
+      "style": "asymmetric",
+      "buildings_count": 129,
+      "walls_count": 98,
+      "min_dist_to_train": 0.2005,
+      "min_dist_to_legacy": 0.5146,
+      "sha256": "71ce4d62500d0382e77e8063fdd3f539c3f2b3d3c1274fdcf0744501d3de3eec"
+    },
+    {
+      "name": "heldout_base_29.json",
+      "seed": 10029,
+      "style": "mixed",
+      "buildings_count": 111,
+      "walls_count": 80,
+      "min_dist_to_train": 0.2208,
+      "min_dist_to_legacy": 0.542,
+      "sha256": "a1a13e08a26f2590d28f904900acff6924829775ce2bdb03914f5db0d2f1d030"
+    }
+  ]
+}

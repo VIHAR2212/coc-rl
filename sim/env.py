@@ -40,7 +40,17 @@ class CoCEnv(gym.Env):
         self.defense_defs = _load(DATA / "defenses.json")
         self.army_defs = _load(DATA / "armies.json")
         self.army_limit = ARMY_LIMIT
-        self.base_cfg = json.load(open(DATA / "bases" / base_file))
+        base_p = Path(base_file)
+        if base_p.is_absolute() or base_p.exists():
+            self.base_cfg = json.loads(base_p.read_text(encoding="utf-8"))
+        elif (DATA / "bases" / base_file).exists():
+            self.base_cfg = json.loads((DATA / "bases" / base_file).read_text(encoding="utf-8"))
+        elif (DATA / "bases_gen" / "train" / base_file).exists():
+            self.base_cfg = json.loads((DATA / "bases_gen" / "train" / base_file).read_text(encoding="utf-8"))
+        elif (DATA / "bases_gen" / "heldout_v2" / base_file).exists():
+            self.base_cfg = json.loads((DATA / "bases_gen" / "heldout_v2" / base_file).read_text(encoding="utf-8"))
+        else:
+            self.base_cfg = json.loads((DATA / "bases" / base_file).read_text(encoding="utf-8"))
         self.grid = self.base_cfg["grid"]
         self.troop_keys = list(self.troop_defs.keys())
         self.army_template = self._resolve_army(army)

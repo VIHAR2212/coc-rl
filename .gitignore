@@ -15,4 +15,8 @@ models/**/*.zip
 docs/gallery/*.gif
 docs/gallery/logs/
 data/demos/
+data/bases_gen/**/*.json
+!data/bases_gen/manifest_*.json
+data/bases_gen/train/
+data/bases_gen/heldout_v2/
 *.log
