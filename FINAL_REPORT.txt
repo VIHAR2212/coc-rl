@@ -591,46 +591,95 @@ ppo_m9_bcft_3seed        28.50 [26.21, 30.85]     0.36 [0.23, 0.49]     0.00%   
 ppo_m10_bc_3seed         28.06 [25.22, 30.81]     0.40 [0.26, 0.55]     0.00%    25.11%    -0.93 [-3.28, +1.34] -0.00 [-0.12, +0.12]
 ppo_m10_bcft_3seed       28.38 [25.73, 30.99]     0.37 [0.25, 0.51]     0.00%    22.14%    -0.58 [-2.23, +1.11] -0.03 [-0.12, +0.07]
 
-8.3 Core Evaluation Questions Answered:
+--- Per-Army Breakdown on heldout_v2 (30 Layouts; results/m10b_per_army.csv) ---
+Army            Agent                Dest %       Stars      3-Star %        TH-Kill %
+------------------------------------------------------------------------------------------
+giant_barch     left_wave            44.84%       0.80        0.00% [FLOOR]  46.17%
+giant_barch     ppo_m9_bcft_3seed    44.35%       0.80        0.00% [FLOOR]  43.22%
+giant_barch     ppo_m10_bcft_3seed   44.64%       0.82        0.00% [FLOOR]  47.33%
+------------------------------------------------------------------------------------------
+barch           left_wave             2.79%       0.00        0.00% [FLOOR]   0.00% [FLOOR]
+barch           ppo_m9_bcft_3seed     1.16%       0.00        0.00% [FLOOR]   0.00% [FLOOR]
+barch           ppo_m10_bcft_3seed    1.28%       0.00        0.00% [FLOOR]   0.00% [FLOOR]
+------------------------------------------------------------------------------------------
+goblin_giant    left_wave            37.45%       0.46        0.00% [FLOOR]  30.50%
+goblin_giant    ppo_m9_bcft_3seed    37.26%       0.36        0.00% [FLOOR]  20.22%
+goblin_giant    ppo_m10_bcft_3seed   37.65%       0.41        0.00% [FLOOR]  22.00%
+------------------------------------------------------------------------------------------
+mixed_wb        left_wave            30.68%       0.33        0.00% [FLOOR]  27.00%
+mixed_wb        ppo_m9_bcft_3seed    31.21%       0.28        0.00% [FLOOR]  20.78%
+mixed_wb        ppo_m10_bcft_3seed   29.95%       0.26        0.00% [FLOOR]  19.22%
+------------------------------------------------------------------------------------------
+mass_dragons    left_wave            100.00% [CEILING] 3.00       100.00% [CEILING] 100.00% [CEILING]
+mass_dragons    ppo_m9_bcft_3seed    100.00% [CEILING] 3.00       100.00% [CEILING] 100.00% [CEILING]
+mass_dragons    ppo_m10_bcft_3seed   100.00% [CEILING] 3.00       100.00% [CEILING] 100.00% [CEILING]
+------------------------------------------------------------------------------------------
+gowiva          left_wave            93.55%       2.68       70.17%          97.50%
+gowiva          ppo_m9_bcft_3seed    87.62%       2.38       51.61%          93.00%
+gowiva          ppo_m10_bcft_3seed   93.21%       2.57       66.00%          91.94%
+------------------------------------------------------------------------------------------
+hog_rush        left_wave            57.77%       1.18       13.00%          55.00%
+hog_rush        ppo_m9_bcft_3seed    73.44%       1.99       19.83%          88.06%
+hog_rush        ppo_m10_bcft_3seed   72.63%       1.95       18.78%          86.61%
+------------------------------------------------------------------------------------------
+
+8.3 Core Evaluation Questions Answered & Corrections (M10b):
 1. Does M10 beat the best baseline (left_wave) on destruction AND on stars?
    * YES. On the fresh 30 held-out layouts (heldout_v2), ppo_m10_bcft_3seed achieves:
      - Destruction: 54.19% vs 52.44% (+1.76 pp paired delta [95% CI +0.31, +3.25]). The 95% bootstrap CI excludes zero.
      - Stars: 1.29 vs 1.21 (+0.08 stars paired delta [95% CI +0.02, +0.15]). The 95% bootstrap CI excludes zero.
      - 3-Star Rate: 26.40% vs 26.17% (+0.23 pp).
      - Town Hall Kill Rate: 52.44% vs 50.88% (+1.56 pp).
-     On non-dragon armies, the victory is even more decisive: +2.06 pp destruction [95% CI +0.36, +3.79] and +0.10 stars
-     [95% CI +0.02, +0.18], with individual fine-tuned seed 44 outperforming left_wave by +2.64 pp destruction and +0.14 stars.
+     On non-dragon armies: +2.06 pp destruction [95% CI +0.36, +3.79] and +0.10 stars [95% CI +0.02, +0.18], with
+     individual fine-tuned seed 44 outperforming left_wave by +2.64 pp destruction and +0.14 stars.
 
 2. Does M10 beat M9?
-   * YES. Evaluated on the exact same unseen heldout_v2 benchmark, ppo_m10_bcft_3seed outperforms ppo_m9_bcft_3seed across
-     every aggregate metric:
-     - Destruction: 54.19% vs 53.58% (+0.61 pp advantage)
-     - Stars: 1.29 vs 1.26 (+0.03 stars advantage)
-     - 3-Star Rate: 26.40% vs 24.49% (+1.91 pp advantage)
-     - Town Hall Kill Rate: 52.44% vs 52.18% (+0.26 pp advantage)
-     On non-dragon armies, M10 beats M9 by +0.72 pp destruction (46.56% vs 45.84%), +0.03 stars (1.00 vs 0.97), and
-     +2.22 pp on 3-star rate (14.13% vs 11.91%). Training on 300 diverse procedural layouts produced stronger, more resilient
-     generalization than training on 3 handcrafted bases.
+   * INCONCLUSIVE / NOT STATISTICALLY SIGNIFICANT.
+     Evaluated on the exact same unseen heldout_v2 benchmark (30 layouts), ppo_m10_bcft_3seed exhibits slightly higher point
+     estimates than ppo_m9_bcft_3seed (+0.64 pp destruction, +0.030 stars, +1.97 pp 3-star rate, +0.27 pp TH-kill rate),
+     but paired layout-bootstrap (1,500 resamples) 95% confidence intervals cross zero for every metric:
+     - All 7 Armies:
+       * Delta Destruction: +0.64 pp [95% CI -0.18, +1.48]
+       * Delta Stars: +0.030 [95% CI -0.020, +0.087]
+       * Delta 3-Star: +1.97 pp [95% CI -0.40, +4.13]
+       * Delta TH-Kill: +0.27 pp [95% CI -2.60, +3.62]
+     - 24 Non-Dragon Armies:
+       * Delta Destruction: +0.73 pp [95% CI -0.30, +1.71]
+       * Delta Stars: +0.035 [95% CI -0.023, +0.099]
+       * Delta 3-Star: +2.24 pp [95% CI -0.44, +5.05]
+       * Delta TH-Kill: +0.33 pp [95% CI -3.19, +4.17]
+     - 4 Ground Armies:
+       * Delta Destruction: -0.12 pp [95% CI -1.33, +1.16]
+       * Delta Stars: +0.015 [95% CI -0.062, +0.099]
+       * Delta 3-Star: +0.00 pp [95% CI +0.00, +0.00] (floor effect)
+       * Delta TH-Kill: +1.08 pp [95% CI -4.45, +6.75]
+     Because the 95% bootstrap intervals cover zero, we cannot claim a statistically significant superiority of M10 over M9
+     on heldout_v2.
 
 3. Did training on 300 layouts close the ground-army TH-kill gap?
-   * PARTIALLY. On the 4 ground armies across the 30 fresh held-out layouts:
+   * COMPARED ON THE SAME LAYOUTS (heldout_v2, 30 layouts, 4 ground armies):
      - left_wave: 28.94% dest, 0.40 stars, 25.92% TH-kill rate
      - ppo_m10_bcft_3seed: 28.38% dest, 0.37 stars, 22.14% TH-kill rate
-     - The ground-army TH-kill gap narrowed to 3.78 pp (22.14% vs 25.92%), compared to the 13.41 pp gap observed under M9 on
-     the 4 legacy bases (19.65% vs 33.06%). Furthermore, individual seed 44 matched left_wave on TH-kill (25.79% vs 25.92%)
-     and exceeded left_wave on stars (0.42 vs 0.40). However, the 3-seed aggregate still trails left_wave by 0.56 pp destruction
-     and 0.03 stars on pure ground armies without spell or aerial support, showing that left_wave's dense boundary wall-focus
-     remains a formidable baseline for unguided ground troops.
+     - ppo_m9_bcft_3seed: 28.50% dest, 0.36 stars, 21.06% TH-kill rate
+     Comparing on the exact same layouts reveals that M10 improves TH-kill rate over M9 by +1.08 pp (22.14% vs 21.06%),
+     narrowing the gap to left_wave from 4.86 pp (M9 vs left_wave) down to 3.78 pp (M10 vs left_wave). (Note: the previously
+     reported 13.41 pp gap for M9 was measured on the 4 legacy bases, not the same test layouts). However, both neural policies
+     remain slightly behind left_wave on ground armies (25.92% TH-kill, 28.94% dest).
 
-4. Seed Spread & Variance Across Seeds 42, 43, 44:
-   * On heldout_v2 (all 7 armies):
-     - Seed 42: 53.31% dest, 1.25 stars, 25.17% 3-star, 50.55% TH-kill
-     - Seed 43: 54.57% dest, 1.28 stars, 26.88% 3-star, 51.88% TH-kill
-     - Seed 44: 54.70% dest, 1.33 stars, 27.14% 3-star, 54.90% TH-kill
-     - Spread (Max - Min): 1.39 pp destruction, 0.08 stars.
-     Under M9, the seed spread across 3 training bases was 5.37 pp destruction (Seed 42 at 53.14% vs Seed 43 at 58.51%).
-     Training on 300 layouts dramatically stabilized policy optimization: all 3 seeds learned robust policies that converge
-     within a narrow 1.39 pp window and all exceed 53.3% destruction on unseen test layouts.
+4. Seed Spread & Variance Across Seeds 42, 43, 44 (Compared on the Same Set: heldout_v2):
+   * All 7 Armies on heldout_v2 (30 layouts):
+     - M9 seeds:  s42 = 53.24%, s43 = 53.76%, s44 = 53.74% -> Spread (Max - Min) = 0.53 pp (Stars: 1.25..1.27 -> 0.017)
+     - M10 seeds: s42 = 53.31%, s43 = 54.57%, s44 = 54.70% -> Spread (Max - Min) = 1.39 pp (Stars: 1.25..1.33 -> 0.075)
+   * Non-Dragon Armies on heldout_v2:
+     - M9 spread: 0.61 pp destruction, 0.020 stars
+     - M10 spread: 1.62 pp destruction, 0.088 stars
+   * Ground Armies on heldout_v2:
+     - M9 spread: 0.33 pp destruction, 0.029 stars
+     - M10 spread: 1.07 pp destruction, 0.093 stars
+   * Correction on Seed Stability:
+     The earlier claim that M10 stabilized seed spread from 5.37 pp down to 1.39 pp was confounded by comparing M9 on 4 legacy
+     bases against M10 on 30 held-out bases. When evaluated on the EXACT SAME 30 test layouts, M9 actually displays a tighter
+     spread (0.53 pp) than M10 (1.39 pp). Both models show commendable stability across seeds on a 30-layout suite.
 
 8.4 Secondary Evaluation on Legacy Bases (base07..10 x 7 Armies x 100 Episodes, 28 Pairs):
 - Evaluated the 3 fine-tuned M10 models on the original 28 held-out pairs (saved to results/m10_secondary_old_heldout.csv):
@@ -638,10 +687,29 @@ ppo_m10_bcft_3seed       28.38 [25.73, 30.99]     0.37 [0.25, 0.51]     0.00%   
   * ppo_m10_bcft_seed43: 54.22% dest | 1.39 stars | 35.46% 3-star | 47.00% TH-kill
   * ppo_m10_bcft_seed44: 57.37% dest | 1.41 stars | 36.46% 3-star | 47.46% TH-kill
   * ppo_m10_bcft_3seed:  54.83% dest | 1.41 stars | 35.98% 3-star | 49.29% TH-kill
-- Ground Armies on Legacy Bases (16 pairs):
-  * ppo_m10_bcft_3seed:  27.65% dest | 0.52 stars | 6.06% 3-star | 21.60% TH-kill
-- Out-of-Distribution Transfer:
-  * The M10 policies—trained exclusively on procedurally generated bases—transferred cleanly to the handcrafted legacy bases
-    (base07..10), achieving 54.83% destruction and 1.41 stars (beating left_wave's 53.37% destruction and closely matching
-    its 1.42 stars). This confirms that procedural training learned transferable Clash of Clans tactical heuristics rather
-    than memorizing procedural artifacts.
+  * Comparison against M9 on Old Bases: M9 scored 56.65% destruction, 1.44 stars, 37.01% 3-star, and 51.83% TH-kill on these
+    same 28 pairs. M10 trails M9 by 1.82 pp destruction and 0.03 stars on the legacy bases, although it still exceeds
+    left_wave (53.37% destruction, 1.42 stars).
+- Out-of-Distribution Transfer Hypothesis:
+  * [HYPOTHESIS]: It is hypothesized that the M10 policies—trained exclusively on procedurally generated bases—transferred
+    generalizable Clash of Clans tactical heuristics to the handcrafted legacy bases (base07..10), achieving 54.83% destruction
+    and 1.41 stars (beating left_wave's 53.37% destruction and closely matching its 1.42 stars). However, because M10 scored
+    1.82 pp lower than M9's 56.65% on the old bases, the claim that procedural training produces superior transferable tactical
+    heuristics remains an unproven hypothesis requiring further investigation.
+
+8.5 Floor and Ceiling Effects on heldout_v2:
+- Ground Army Floor Effect (0.00% 3-Star Rate):
+  Across all 30 held-out layouts and 20 episodes per layout (600 episodes per army per agent), EVERY evaluated agent
+  (left_wave, random_masked, ppo_m9_bcft, ppo_m10_bc, ppo_m10_bcft) scored exactly 0.00% 3-star rate on all 4 ground armies
+  (giant_barch, barch, goblin_giant, mixed_wb). Without aerial immunity, healing/rage spells, or hero abilities, TH8 ground
+  armies encounter a hard mathematical ceiling that prevents full clears on balanced TH8 defensive layouts. Furthermore,
+  barch achieves 0.00% Town Hall kill rate across all 30 layouts for all agents (troops die at the perimeter before penetrating
+  core walls).
+- Aerial Ceiling Effect (100.00% 3-Star Rate for mass_dragons):
+  Conversely, mass_dragons hits a hard 100.00% ceiling on destruction (100.00%), stars (3.00), 3-star rate (100.00%), and
+  Town Hall kill rate (100.00%) for left_wave, ppo_m9_bcft, and ppo_m10_bcft across all 30 layouts.
+- Housing Capacity Context:
+  All 7 armies fill the exact 200 housing capacity of TH8 (4x Army Camp L6 @ 50 capacity each; verified from Fandom wiki
+  data/raw/Army_Camp.json and data/raw/Town_Hall.json). Therefore, differences in army performance reflect true tactical and
+  compositional dynamics, not disparities in army size.
+

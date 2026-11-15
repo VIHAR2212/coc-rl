@@ -1,0 +1,4 @@
+subset,delta_dest_mean,delta_dest_ci_lo,delta_dest_ci_hi,delta_stars_mean,delta_stars_ci_lo,delta_stars_ci_hi,delta_3star_mean,delta_3star_ci_lo,delta_3star_ci_hi,delta_th_mean,delta_th_ci_lo,delta_th_ci_hi
+All 7 Armies (30 Layouts),0.64,-0.18,1.48,0.03,-0.02,0.087,1.97,-0.4,4.13,0.27,-2.6,3.62
+24 Non-Dragon Armies (30 Layouts),0.73,-0.3,1.71,0.035,-0.023,0.099,2.24,-0.44,5.05,0.33,-3.19,4.17
+4 Ground Armies (30 Layouts),-0.12,-1.33,1.16,0.015,-0.062,0.099,0.0,0.0,0.0,1.08,-4.45,6.75

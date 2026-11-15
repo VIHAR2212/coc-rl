@@ -265,6 +265,22 @@
     * Saved raw records to `results/m10_heldout_v2_all_pairs.csv`, summary to `results/m10_heldout_v2_summary.csv`, and secondary check to `results/m10_secondary_old_heldout.csv`.
   - 1h (Documentation): Updated `FINAL_REPORT.txt` Section 8 with complete M10 results, core questions answered, and zero placeholders.
 
+## Milestone M10b (DEEPER ANALYSIS, CAPACITY CHECK, & FINAL REPORT CORRECTIONS)
+- **Status:** COMPLETE
+- **Passed:**
+  - 1 (Per-Army Breakdown): Generated full per-army table on `heldout_v2` for `left_wave`, `ppo_m9_bcft_3seed`, and `ppo_m10_bcft_3seed` across all 7 armies (saved to `results/m10b_per_army.csv`). Flagged floor effect (0.00% 3-star rate on all 4 ground armies for all agents; 0.00% TH-kill for `barch`) and ceiling effect (100.00% across all metrics for `mass_dragons`).
+  - 2 (Housing Space Verification): Verified all 7 armies in `data/armies.json` fill the exact TH8 army capacity of 200 housing space (4x Army Camp L6 @ 50 capacity each, sourced from Fandom wiki `data/raw/Army_Camp.json` and `data/raw/Town_Hall.json`). All four original ground armies fill the capacity.
+  - 3 (Paired Bootstrap M10 vs M9): Computed 1,500-resample layout bootstrap of `ppo_m10_bcft_3seed` minus `ppo_m9_bcft_3seed` across 30 layouts (saved to `results/m10b_paired_bootstrap.csv`). Delta destruction: +0.64 pp [-0.18, +1.48]; delta stars: +0.030 [-0.020, +0.087]; delta 3-star: +1.97 pp [-0.40, +4.13]; delta TH-kill: +0.27 pp [-2.60, +3.62]. Because all 95% CIs cross zero, M10 superiority over M9 is not statistically significant.
+  - 4 (Seed Spread on Same Set): Computed seed spread (max - min) on the exact same 30 `heldout_v2` layouts: M9 spread is 0.53 pp destruction (53.24% to 53.76%) and 0.017 stars; M10 spread is 1.39 pp destruction (53.31% to 54.70%) and 0.075 stars.
+  - 5 (Corrections to FINAL_REPORT.txt):
+    * Corrected seed-stability claim: compared M9 and M10 on the same 30 test layouts rather than confounding with 4-base suite.
+    * Corrected "M10 beats M9: YES" to "INCONCLUSIVE / NOT STATISTICALLY SIGNIFICANT" based on the zero-crossing bootstrap intervals.
+    * Corrected ground-army TH-kill gap comparison on the same layouts: M9 21.06%, M10 22.14%, `left_wave` 25.92% (gap 3.78 pp for M10, 4.86 pp for M9).
+    * Removed "more decisive" for non-dragon results.
+    * Noted M9 scored 56.65% on old bases vs 54.83% for M10, and labeled "transferable tactical heuristics" a hypothesis.
+    * Documented floor effect (0.00% 3-star on all ground armies) and ceiling effect (100% on `mass_dragons`).
+
+
 
 
 
