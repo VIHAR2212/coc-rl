@@ -342,8 +342,10 @@ M9 (IMITATION WARM START & BC FINE-TUNING) — COMPLETED (2026-11-14)
   3. Does BC+PPO beat left_wave and Part B PPO on destruction, stars, and TH-kill rate across:
      (i) All 28 pairs:
          * Destruction: BC+PPO 3-seed (56.65%) beats Part B PPO (54.92%, +1.73 pp) and beats left_wave (53.37%, paired
-           delta +3.28 pp [-1.52, +8.31]). Individually, seeds 43 and 44 achieve statistically significant wins over left_wave
-           (+5.15 pp [+0.60, +10.19] and +4.92 pp [+0.22, +10.09]).
+           delta +3.28 pp [-1.52, +8.31]). The paired confidence interval spans zero, making the 3-seed aggregate a statistical
+           tie with left_wave. Note that highlighting seeds 43 and 44 (+5.15 pp and +4.92 pp) is post-hoc selection: their
+           bootstrap 95% CI lower bounds (+0.60 pp and +0.22 pp) are barely above zero, so the 3-seed aggregate remains the
+           primary headline result.
          * Stars: BC+PPO 3-seed (1.44 stars) beats Part B PPO (1.29 stars, +0.15 stars) and ties/slightly edges left_wave
            (1.42 stars, paired delta +0.024 stars [-0.235, +0.298]). Seed 43 reaches 1.51 stars (+0.089 stars over left_wave).
          * TH-Kill Rate: BC+PPO 3-seed (51.83%) beats Part B PPO (45.63%, +6.20 pp) and matches left_wave (51.82%). Seed 43
@@ -359,7 +361,7 @@ M9 (IMITATION WARM START & BC FINE-TUNING) — COMPLETED (2026-11-14)
      (iii) All 24 non-dragon pairs:
          * Destruction: BC+PPO 3-seed (49.42%) beats Part B PPO (47.41%, +2.01 pp) and beats left_wave (45.59%, paired
            delta +3.83 pp [-1.87, +9.54]). Seeds 43 and 44 achieve statistically significant wins over left_wave (+6.01 pp
-           [+0.59, +11.64] and +5.75 pp [+0.15, +11.60]).
+           [+0.59, +11.64] and +5.75 pp [+0.15, +11.60]), though again this is individual post-hoc seed selection.
          * Stars: BC+PPO 3-seed (1.18 stars) beats Part B PPO (1.01 stars, +0.17 stars) and beats left_wave (1.15 stars,
            paired delta +0.028 stars [-0.274, +0.347]). Seeds 43 and 44 reach 1.26 and 1.22 stars.
          * TH-Kill Rate: BC+PPO 3-seed (43.81%) beats Part B PPO (36.57%, +7.24 pp) and matches left_wave (43.79%). Seeds 43
@@ -375,10 +377,23 @@ M9 (IMITATION WARM START & BC FINE-TUNING) — COMPLETED (2026-11-14)
      - BC + PPO Fine-Tuned (after 300k steps RL):
        Seed 42: 53.14% dest / 1.34 stars; Seed 43: 58.51% / 1.51; Seed 44: 58.29% / 1.47.
        Mean = 56.65%, Std Dev = 3.04% destruction, 0.091 stars.
-     Explanation: All three BC models began in close proximity (~53.4% destruction, 1.26% Std Dev). During RL fine-tuning,
-     seeds 43 and 44 broke out to find superior multi-sector penetration strategies (~58.4% destruction), whereas seed 42
-     remained near the initial demonstration performance (53.14%). This divergence produced higher cross-seed variance (3.04%)
-     than training from scratch (0.99%), where all three seeds converged to similar local optima of perimeter chipping.
+     Explanation & Caveat: All three BC models began in close proximity (~53.4% destruction, 1.26% Std Dev). During RL
+     fine-tuning, seeds 43 and 44 broke out to find superior multi-sector penetration strategies (~58.4% destruction), whereas
+     seed 42 remained near the initial demonstration performance (53.14%). However, this variance claim rests strictly on
+     n=3 seeds, which is an extremely small sample size from which to draw definitive stability conclusions.
+  5. Methodological & Confounding Caveats (Audited in VERIFICATION_M9.md):
+     - Confounded Hyperparameters: In M9, three major variables were modified simultaneously relative to Part B:
+       (a) Behavior Cloning weight initialization from left_wave expert demonstrations,
+       (b) 6x lower learning rate (5e-5 vs 3e-4),
+       (c) 4x lower entropy regularizer (ent_coef=0.005 vs 0.02).
+       Because these changes were applied simultaneously, performance gains over Part B cannot be credited exclusively
+       to imitation warm start; learning rate and entropy moderation are significant confounders.
+     - Run Continuity Audit: Verified that all three seeds (42, 43, 44) completed clean, uninterrupted 300,000-step runs
+       initialized from their respective BC checkpoints. Seed 43's aborted initial run (cut short at 25k steps by host server
+       restart) was restarted cleanly from step 0 from ppo_m9_bc_seed43.zip.
+     - Leakage & Independence: Demonstrations, BC, smoke-runs, and fine-tuning scripts strictly excluded held-out bases
+       (base07..10) and evaluation seeds (0..99). Independent recomputation from raw per-pair CSV records confirmed exact
+       numerical consistency with reported summary metrics (max delta < 0.005).
 
 ========================================================================
 3. FAILED COMPLETELY
